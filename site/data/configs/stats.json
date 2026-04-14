@@ -1,0 +1,126 @@
+{
+  "company_count": 22,
+  "topic_count": 7,
+  "alias_count": 74,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "hiwin",
+      "short_name": "上銀科技",
+      "tier": ""
+    },
+    {
+      "id": "thk",
+      "short_name": "THK",
+      "tier": ""
+    },
+    {
+      "id": "airtac",
+      "short_name": "亞德客國際",
+      "tier": ""
+    },
+    {
+      "id": "keyence",
+      "short_name": "基恩斯",
+      "tier": ""
+    },
+    {
+      "id": "delta",
+      "short_name": "台達電子",
+      "tier": ""
+    },
+    {
+      "id": "fanuc",
+      "short_name": "發那科",
+      "tier": ""
+    },
+    {
+      "id": "siemens",
+      "short_name": "西門子",
+      "tier": ""
+    },
+    {
+      "id": "abb",
+      "short_name": "ABB",
+      "tier": ""
+    },
+    {
+      "id": "rockwell",
+      "short_name": "Rockwell Automation",
+      "tier": ""
+    },
+    {
+      "id": "schneider",
+      "short_name": "施耐德電機",
+      "tier": ""
+    },
+    {
+      "id": "mitsubishi_electric",
+      "short_name": "三菱電機",
+      "tier": ""
+    },
+    {
+      "id": "dmg_mori",
+      "short_name": "德馬吉森精機",
+      "tier": ""
+    },
+    {
+      "id": "okuma",
+      "short_name": "大隈",
+      "tier": ""
+    },
+    {
+      "id": "amada",
+      "short_name": "天田",
+      "tier": ""
+    },
+    {
+      "id": "makino",
+      "short_name": "牧野",
+      "tier": ""
+    },
+    {
+      "id": "jtekt",
+      "short_name": "捷太格特",
+      "tier": ""
+    },
+    {
+      "id": "tongtai",
+      "short_name": "東台精機",
+      "tier": ""
+    },
+    {
+      "id": "goodway",
+      "short_name": "程泰機械",
+      "tier": ""
+    },
+    {
+      "id": "itw",
+      "short_name": "Illinois Tool Works",
+      "tier": ""
+    },
+    {
+      "id": "lincoln_electric",
+      "short_name": "Lincoln Electric",
+      "tier": ""
+    },
+    {
+      "id": "parker_hannifin",
+      "short_name": "Parker Hannifin",
+      "tier": ""
+    },
+    {
+      "id": "caterpillar",
+      "short_name": "Caterpillar",
+      "tier": ""
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "unknown-2026-04-14-001",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
+    "summary": "<p>Deep learning enables systems to detect and flag issues that could otherwise be misread or missed entirely. </p>\n<p>The post <a href=\"https://semiengineering.com/the-smart-advantage-how-artificial-",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-002",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Chip Industry Technical Paper Roundup: Apr. 14",
+    "summary": "<p>Silicon spin qubits based on GAA; causal AI for AMS design; wide-bandgap automotive reliability; agentic HLS; co-packaged optics; constraint programming for semiconductor manufacturing; automated s",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-10-003",
+    "date": "2026-04-10",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "negative",
+    "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
+    "summary": "\n                             DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains. \n                                           ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-03-004",
+    "date": "2026-04-03",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "positive",
+    "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
+    "summary": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                           ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-31-007",
+    "date": "2026-03-31",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": " This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe — both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s ",
+    "summary": "\n                             Take your files on-the-go with this classic-looking SSD enclosure from Hagibis in celeberation of World Backup Day. Just $27.99 nets you this USB-C 3.2 Gen 2 M.2 NVMe SSD",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-28-008",
+    "date": "2026-03-28",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": " Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' ",
+    "summary": "\n                             The BM9K1 reportedly delivers sequential read speeds of up to 11.4 GB/s, which Samsung said is 1.6 times faster than its predecessor, the PCIe 4.0 BM9C1. \n               ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-27-009",
+    "date": "2026-03-27",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
+    "summary": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                           ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-22-005",
+    "date": "2026-03-22",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
+    "summary": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                            ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-05-006",
+    "date": "2026-02-05",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "positive",
+    "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
+    "summary": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoi",
+    "sources": []
+  }
+]
