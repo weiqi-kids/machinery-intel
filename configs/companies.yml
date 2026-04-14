@@ -1,0 +1,474 @@
+companies:
+- id: hiwin
+  name: 上銀科技
+  aliases:
+  - Hiwin Technologies
+  - 上銀
+  ticker: 2049.TW
+  market: TWSE
+  currency: TWD
+  position: upstream
+  role: 傳動元件
+  description: 全球第二大線性滑軌與滾珠螺桿製造商
+  ir_url: null
+  downstream:
+  - dmg_mori
+  - okuma
+  - amada
+  - makino
+  - tongtai
+  - goodway
+- id: thk
+  name: THK
+  aliases:
+  - THK Co
+  ticker: 6481.T
+  market: TSE
+  currency: JPY
+  position: upstream
+  role: 傳動元件
+  description: 線性運動導軌全球龍頭
+  ir_url: https://www.thk.com/eng/ir/
+  downstream:
+  - dmg_mori
+  - okuma
+  - amada
+  - makino
+  - jtekt
+- id: airtac
+  name: 亞德客國際
+  aliases:
+  - AirTAC International
+  - 亞德客
+  ticker: 1590.TW
+  market: TWSE
+  currency: TWD
+  position: upstream
+  role: 氣動元件
+  description: 亞洲最大氣動元件製造商
+  ir_url: null
+  downstream:
+  - dmg_mori
+  - okuma
+  - tongtai
+  - goodway
+  - itw
+  - caterpillar
+- id: keyence
+  name: 基恩斯
+  aliases:
+  - Keyence
+  - キーエンス
+  ticker: 6861.T
+  market: TSE
+  currency: JPY
+  position: upstream
+  role: 感測器
+  description: 全球工廠自動化感測器龍頭
+  ir_url: https://www.keyence.co.jp/ir/
+  downstream:
+  - dmg_mori
+  - okuma
+  - amada
+  - makino
+  - jtekt
+  - itw
+  - caterpillar
+- id: delta
+  name: 台達電子
+  aliases:
+  - Delta Electronics
+  - 台達電
+  ticker: 2308.TW
+  market: TWSE
+  currency: TWD
+  position: upstream
+  role: 驅動器
+  description: 工業自動化驅動與電源供應龍頭
+  ir_url: https://www.deltaww.com/en-US/ir
+  downstream:
+  - dmg_mori
+  - okuma
+  - tongtai
+  - goodway
+  - itw
+- id: fanuc
+  name: 發那科
+  aliases:
+  - Fanuc
+  - ファナック
+  ticker: 6954.T
+  market: TSE
+  currency: JPY
+  position: upstream
+  role: CNC/機器人
+  description: 全球最大 CNC 控制器與工業機器人製造商
+  ir_url: https://www.fanuc.co.jp/en/ir/
+  downstream:
+  - dmg_mori
+  - okuma
+  - amada
+  - makino
+  - jtekt
+  - tongtai
+  - goodway
+- id: siemens
+  name: 西門子
+  aliases:
+  - Siemens
+  ticker: SIE.DE
+  market: XETRA
+  currency: EUR
+  position: upstream
+  role: 工業自動化
+  description: 全球工業自動化與數位化龍頭
+  ir_url: https://www.siemens.com/investor/
+  downstream:
+  - dmg_mori
+  - okuma
+  - amada
+  - itw
+  - caterpillar
+  - parker_hannifin
+- id: abb
+  name: ABB
+  aliases: []
+  ticker: ABBN.SW
+  market: SIX
+  currency: CHF
+  position: upstream
+  role: 工業自動化
+  description: 瑞士-瑞典工業自動化與機器人集團
+  ir_url: https://global.abb/group/en/investors
+  downstream:
+  - dmg_mori
+  - okuma
+  - itw
+  - caterpillar
+  - parker_hannifin
+- id: rockwell
+  name: Rockwell Automation
+  aliases:
+  - 洛克威爾自動化
+  ticker: ROK
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 工業自動化
+  description: 全球最大工業自動化專業公司
+  ir_url: https://ir.rockwellautomation.com/
+  downstream:
+  - itw
+  - lincoln_electric
+  - parker_hannifin
+  - caterpillar
+- id: schneider
+  name: 施耐德電機
+  aliases:
+  - Schneider Electric
+  - 施耐德
+  ticker: SU.PA
+  market: Euronext
+  currency: EUR
+  position: upstream
+  role: 工業自動化
+  description: 全球能源管理與工業自動化龍頭
+  ir_url: https://www.se.com/ww/en/about-us/investor-relations/
+  downstream:
+  - dmg_mori
+  - itw
+  - caterpillar
+  - parker_hannifin
+- id: mitsubishi_electric
+  name: 三菱電機
+  aliases:
+  - Mitsubishi Electric
+  - 三菱電機
+  ticker: 6503.T
+  market: TSE
+  currency: JPY
+  position: upstream
+  role: CNC/自動化
+  description: CNC 控制器、伺服馬達與 FA 系統
+  ir_url: https://www.mitsubishielectric.com/en/investors/
+  downstream:
+  - dmg_mori
+  - okuma
+  - amada
+  - makino
+  - jtekt
+  - tongtai
+  - goodway
+- id: dmg_mori
+  name: 德馬吉森精機
+  aliases:
+  - DMG Mori
+  - DMG MORI
+  ticker: 6141.T
+  market: TSE
+  currency: JPY
+  position: midstream
+  role: 工具機
+  description: 全球最大工具機製造商（德日合資）
+  ir_url: https://www.dmgmori.co.jp/en/ir/
+  upstream:
+  - hiwin
+  - thk
+  - airtac
+  - keyence
+  - delta
+  - fanuc
+  - siemens
+  - abb
+  - schneider
+  - mitsubishi_electric
+  downstream:
+  - itw
+  - lincoln_electric
+  - parker_hannifin
+  - caterpillar
+- id: okuma
+  name: 大隈
+  aliases:
+  - Okuma
+  - オークマ
+  ticker: 6103.T
+  market: TSE
+  currency: JPY
+  position: midstream
+  role: 工具機
+  description: 日本大型工具機製造商，自製 CNC 控制器
+  ir_url: https://www.okuma.co.jp/english/ir/
+  upstream:
+  - hiwin
+  - thk
+  - airtac
+  - keyence
+  - delta
+  - fanuc
+  - siemens
+  - abb
+  - mitsubishi_electric
+  downstream:
+  - itw
+  - lincoln_electric
+  - parker_hannifin
+  - caterpillar
+- id: amada
+  name: 天田
+  aliases:
+  - Amada
+  - アマダ
+  ticker: 6113.T
+  market: TSE
+  currency: JPY
+  position: midstream
+  role: 工具機
+  description: 全球鈑金加工設備龍頭
+  ir_url: https://www.amada.co.jp/en/ir/
+  upstream:
+  - hiwin
+  - thk
+  - keyence
+  - fanuc
+  - siemens
+  - mitsubishi_electric
+  downstream:
+  - itw
+  - parker_hannifin
+  - caterpillar
+- id: makino
+  name: 牧野
+  aliases:
+  - Makino Milling Machine
+  - マキノ
+  ticker: 6135.T
+  market: TSE
+  currency: JPY
+  position: midstream
+  role: 工具機
+  description: 高精度加工中心製造商
+  ir_url: null
+  upstream:
+  - hiwin
+  - thk
+  - keyence
+  - fanuc
+  - mitsubishi_electric
+  downstream:
+  - itw
+  - parker_hannifin
+  - caterpillar
+- id: jtekt
+  name: 捷太格特
+  aliases:
+  - JTEKT
+  - ジェイテクト
+  ticker: 6473.T
+  market: TSE
+  currency: JPY
+  position: midstream
+  role: 工具機
+  description: 磨床與軸承製造商（豐田集團）
+  ir_url: https://www.jtekt.co.jp/en/ir/
+  upstream:
+  - thk
+  - keyence
+  - fanuc
+  - mitsubishi_electric
+  downstream:
+  - itw
+  - caterpillar
+- id: tongtai
+  name: 東台精機
+  aliases:
+  - Tongtai Machine & Tool
+  - 東台
+  ticker: 4526.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 工具機
+  description: 台灣工具機大廠
+  ir_url: null
+  upstream:
+  - hiwin
+  - airtac
+  - delta
+  - fanuc
+  - mitsubishi_electric
+  downstream:
+  - itw
+  - caterpillar
+- id: goodway
+  name: 程泰機械
+  aliases:
+  - Goodway Machine
+  - 程泰
+  ticker: 1583.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 工具機
+  description: 台灣 CNC 車床製造商
+  ir_url: null
+  upstream:
+  - hiwin
+  - airtac
+  - delta
+  - fanuc
+  - mitsubishi_electric
+  downstream:
+  - itw
+  - caterpillar
+- id: itw
+  name: Illinois Tool Works
+  aliases:
+  - ITW
+  ticker: ITW
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 工業製造
+  description: 美國多元化工業製造集團
+  ir_url: https://investor.itw.com/
+  upstream:
+  - dmg_mori
+  - okuma
+  - amada
+  - makino
+  - jtekt
+  - tongtai
+  - goodway
+  - airtac
+  - keyence
+  - delta
+  - siemens
+  - abb
+  - rockwell
+  - schneider
+- id: lincoln_electric
+  name: Lincoln Electric
+  aliases:
+  - 林肯電氣
+  ticker: LECO
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 焊接設備
+  description: 全球焊接設備與自動化解決方案龍頭
+  ir_url: https://ir.lincolnelectric.com/
+  upstream:
+  - dmg_mori
+  - okuma
+  - rockwell
+- id: parker_hannifin
+  name: Parker Hannifin
+  aliases:
+  - Parker
+  - 派克漢尼汾
+  ticker: PH
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 運動控制
+  description: 全球最大運動與控制技術製造商
+  ir_url: https://investors.parker.com/
+  upstream:
+  - dmg_mori
+  - okuma
+  - amada
+  - makino
+  - siemens
+  - abb
+  - rockwell
+  - schneider
+- id: caterpillar
+  name: Caterpillar
+  aliases:
+  - CAT
+  - 卡特彼勒
+  ticker: CAT
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 重型機械
+  description: 全球最大營建與礦業機械設備製造商
+  ir_url: https://www.caterpillar.com/en/investors.html
+  upstream:
+  - dmg_mori
+  - okuma
+  - amada
+  - makino
+  - jtekt
+  - tongtai
+  - goodway
+  - airtac
+  - keyence
+  - siemens
+  - abb
+  - rockwell
+  - schneider
+etfs:
+- id: robo_etf
+  name: Robo Global Robotics and Automation Index ETF
+  ticker: ROBO
+  market: NYSE
+  currency: USD
+  description: 全球機器人與自動化 ETF
+supply_chain_positions:
+  upstream:
+  - 傳動元件
+  - 氣動元件
+  - 感測器
+  - 驅動器
+  - CNC/機器人
+  - 工業自動化
+  - CNC/自動化
+  midstream:
+  - 工具機
+  downstream:
+  - 工業製造
+  - 焊接設備
+  - 運動控制
+  - 重型機械

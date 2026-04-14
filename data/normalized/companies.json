@@ -1,0 +1,624 @@
+{
+  "companies": [
+    {
+      "id": "hiwin",
+      "name": "上銀科技",
+      "short_name": "上銀",
+      "position": "upstream",
+      "role": "傳動元件",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "thk",
+      "name": "THK",
+      "short_name": "THK Co",
+      "position": "upstream",
+      "role": "傳動元件",
+      "x": 0.093,
+      "y": 0.34
+    },
+    {
+      "id": "airtac",
+      "name": "亞德客國際",
+      "short_name": "亞德客",
+      "position": "upstream",
+      "role": "氣動元件",
+      "x": 0.136,
+      "y": 0.34
+    },
+    {
+      "id": "keyence",
+      "name": "基恩斯",
+      "short_name": "基恩斯",
+      "position": "upstream",
+      "role": "感測器",
+      "x": 0.179,
+      "y": 0.34
+    },
+    {
+      "id": "delta",
+      "name": "台達電子",
+      "short_name": "台達電",
+      "position": "upstream",
+      "role": "驅動器",
+      "x": 0.221,
+      "y": 0.34
+    },
+    {
+      "id": "fanuc",
+      "name": "發那科",
+      "short_name": "發那科",
+      "position": "upstream",
+      "role": "CNC/機器人",
+      "x": 0.264,
+      "y": 0.34
+    },
+    {
+      "id": "siemens",
+      "name": "西門子",
+      "short_name": "西門子",
+      "position": "upstream",
+      "role": "工業自動化",
+      "x": 0.307,
+      "y": 0.34
+    },
+    {
+      "id": "abb",
+      "name": "ABB",
+      "short_name": "ABB",
+      "position": "upstream",
+      "role": "工業自動化",
+      "x": 0.35,
+      "y": 0.34
+    },
+    {
+      "id": "rockwell",
+      "name": "Rockwell Automation",
+      "short_name": "洛克威爾自動化",
+      "position": "upstream",
+      "role": "工業自動化",
+      "x": 0.393,
+      "y": 0.34
+    },
+    {
+      "id": "schneider",
+      "name": "施耐德電機",
+      "short_name": "施耐德",
+      "position": "upstream",
+      "role": "工業自動化",
+      "x": 0.436,
+      "y": 0.34
+    },
+    {
+      "id": "mitsubishi_electric",
+      "name": "三菱電機",
+      "short_name": "三菱電機",
+      "position": "upstream",
+      "role": "CNC/自動化",
+      "x": 0.479,
+      "y": 0.34
+    },
+    {
+      "id": "dmg_mori",
+      "name": "德馬吉森精機",
+      "short_name": "德馬吉森精機",
+      "position": "midstream",
+      "role": "工具機",
+      "x": 0.521,
+      "y": 0.34
+    },
+    {
+      "id": "okuma",
+      "name": "大隈",
+      "short_name": "大隈",
+      "position": "midstream",
+      "role": "工具機",
+      "x": 0.564,
+      "y": 0.34
+    },
+    {
+      "id": "amada",
+      "name": "天田",
+      "short_name": "天田",
+      "position": "midstream",
+      "role": "工具機",
+      "x": 0.607,
+      "y": 0.34
+    },
+    {
+      "id": "makino",
+      "name": "牧野",
+      "short_name": "牧野",
+      "position": "midstream",
+      "role": "工具機",
+      "x": 0.65,
+      "y": 0.34
+    },
+    {
+      "id": "jtekt",
+      "name": "捷太格特",
+      "short_name": "捷太格特",
+      "position": "midstream",
+      "role": "工具機",
+      "x": 0.693,
+      "y": 0.34
+    },
+    {
+      "id": "tongtai",
+      "name": "東台精機",
+      "short_name": "東台",
+      "position": "midstream",
+      "role": "工具機",
+      "x": 0.736,
+      "y": 0.34
+    },
+    {
+      "id": "goodway",
+      "name": "程泰機械",
+      "short_name": "程泰",
+      "position": "midstream",
+      "role": "工具機",
+      "x": 0.779,
+      "y": 0.34
+    },
+    {
+      "id": "itw",
+      "name": "Illinois Tool Works",
+      "short_name": "ITW",
+      "position": "downstream",
+      "role": "工業製造",
+      "x": 0.821,
+      "y": 0.34
+    },
+    {
+      "id": "lincoln_electric",
+      "name": "Lincoln Electric",
+      "short_name": "林肯電氣",
+      "position": "downstream",
+      "role": "焊接設備",
+      "x": 0.864,
+      "y": 0.34
+    },
+    {
+      "id": "parker_hannifin",
+      "name": "Parker Hannifin",
+      "short_name": "派克漢尼汾",
+      "position": "downstream",
+      "role": "運動控制",
+      "x": 0.907,
+      "y": 0.34
+    },
+    {
+      "id": "caterpillar",
+      "name": "Caterpillar",
+      "short_name": "卡特彼勒",
+      "position": "downstream",
+      "role": "重型機械",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "hiwin",
+      "target": "dmg_mori",
+      "strength": 2
+    },
+    {
+      "source": "hiwin",
+      "target": "okuma",
+      "strength": 2
+    },
+    {
+      "source": "hiwin",
+      "target": "amada",
+      "strength": 2
+    },
+    {
+      "source": "hiwin",
+      "target": "makino",
+      "strength": 2
+    },
+    {
+      "source": "hiwin",
+      "target": "tongtai",
+      "strength": 2
+    },
+    {
+      "source": "hiwin",
+      "target": "goodway",
+      "strength": 2
+    },
+    {
+      "source": "thk",
+      "target": "dmg_mori",
+      "strength": 2
+    },
+    {
+      "source": "thk",
+      "target": "okuma",
+      "strength": 2
+    },
+    {
+      "source": "thk",
+      "target": "amada",
+      "strength": 2
+    },
+    {
+      "source": "thk",
+      "target": "makino",
+      "strength": 2
+    },
+    {
+      "source": "thk",
+      "target": "jtekt",
+      "strength": 2
+    },
+    {
+      "source": "airtac",
+      "target": "dmg_mori",
+      "strength": 2
+    },
+    {
+      "source": "airtac",
+      "target": "okuma",
+      "strength": 2
+    },
+    {
+      "source": "airtac",
+      "target": "tongtai",
+      "strength": 2
+    },
+    {
+      "source": "airtac",
+      "target": "goodway",
+      "strength": 2
+    },
+    {
+      "source": "airtac",
+      "target": "itw",
+      "strength": 2
+    },
+    {
+      "source": "airtac",
+      "target": "caterpillar",
+      "strength": 2
+    },
+    {
+      "source": "keyence",
+      "target": "dmg_mori",
+      "strength": 2
+    },
+    {
+      "source": "keyence",
+      "target": "okuma",
+      "strength": 2
+    },
+    {
+      "source": "keyence",
+      "target": "amada",
+      "strength": 2
+    },
+    {
+      "source": "keyence",
+      "target": "makino",
+      "strength": 2
+    },
+    {
+      "source": "keyence",
+      "target": "jtekt",
+      "strength": 2
+    },
+    {
+      "source": "keyence",
+      "target": "itw",
+      "strength": 2
+    },
+    {
+      "source": "keyence",
+      "target": "caterpillar",
+      "strength": 2
+    },
+    {
+      "source": "delta",
+      "target": "dmg_mori",
+      "strength": 2
+    },
+    {
+      "source": "delta",
+      "target": "okuma",
+      "strength": 2
+    },
+    {
+      "source": "delta",
+      "target": "tongtai",
+      "strength": 2
+    },
+    {
+      "source": "delta",
+      "target": "goodway",
+      "strength": 2
+    },
+    {
+      "source": "delta",
+      "target": "itw",
+      "strength": 2
+    },
+    {
+      "source": "fanuc",
+      "target": "dmg_mori",
+      "strength": 2
+    },
+    {
+      "source": "fanuc",
+      "target": "okuma",
+      "strength": 2
+    },
+    {
+      "source": "fanuc",
+      "target": "amada",
+      "strength": 2
+    },
+    {
+      "source": "fanuc",
+      "target": "makino",
+      "strength": 2
+    },
+    {
+      "source": "fanuc",
+      "target": "jtekt",
+      "strength": 2
+    },
+    {
+      "source": "fanuc",
+      "target": "tongtai",
+      "strength": 2
+    },
+    {
+      "source": "fanuc",
+      "target": "goodway",
+      "strength": 2
+    },
+    {
+      "source": "siemens",
+      "target": "dmg_mori",
+      "strength": 2
+    },
+    {
+      "source": "siemens",
+      "target": "okuma",
+      "strength": 2
+    },
+    {
+      "source": "siemens",
+      "target": "amada",
+      "strength": 2
+    },
+    {
+      "source": "siemens",
+      "target": "itw",
+      "strength": 2
+    },
+    {
+      "source": "siemens",
+      "target": "caterpillar",
+      "strength": 2
+    },
+    {
+      "source": "siemens",
+      "target": "parker_hannifin",
+      "strength": 2
+    },
+    {
+      "source": "abb",
+      "target": "dmg_mori",
+      "strength": 2
+    },
+    {
+      "source": "abb",
+      "target": "okuma",
+      "strength": 2
+    },
+    {
+      "source": "abb",
+      "target": "itw",
+      "strength": 2
+    },
+    {
+      "source": "abb",
+      "target": "caterpillar",
+      "strength": 2
+    },
+    {
+      "source": "abb",
+      "target": "parker_hannifin",
+      "strength": 2
+    },
+    {
+      "source": "rockwell",
+      "target": "itw",
+      "strength": 2
+    },
+    {
+      "source": "rockwell",
+      "target": "lincoln_electric",
+      "strength": 2
+    },
+    {
+      "source": "rockwell",
+      "target": "parker_hannifin",
+      "strength": 2
+    },
+    {
+      "source": "rockwell",
+      "target": "caterpillar",
+      "strength": 2
+    },
+    {
+      "source": "schneider",
+      "target": "dmg_mori",
+      "strength": 2
+    },
+    {
+      "source": "schneider",
+      "target": "itw",
+      "strength": 2
+    },
+    {
+      "source": "schneider",
+      "target": "caterpillar",
+      "strength": 2
+    },
+    {
+      "source": "schneider",
+      "target": "parker_hannifin",
+      "strength": 2
+    },
+    {
+      "source": "mitsubishi_electric",
+      "target": "dmg_mori",
+      "strength": 2
+    },
+    {
+      "source": "mitsubishi_electric",
+      "target": "okuma",
+      "strength": 2
+    },
+    {
+      "source": "mitsubishi_electric",
+      "target": "amada",
+      "strength": 2
+    },
+    {
+      "source": "mitsubishi_electric",
+      "target": "makino",
+      "strength": 2
+    },
+    {
+      "source": "mitsubishi_electric",
+      "target": "jtekt",
+      "strength": 2
+    },
+    {
+      "source": "mitsubishi_electric",
+      "target": "tongtai",
+      "strength": 2
+    },
+    {
+      "source": "mitsubishi_electric",
+      "target": "goodway",
+      "strength": 2
+    },
+    {
+      "source": "dmg_mori",
+      "target": "itw",
+      "strength": 2
+    },
+    {
+      "source": "dmg_mori",
+      "target": "lincoln_electric",
+      "strength": 2
+    },
+    {
+      "source": "dmg_mori",
+      "target": "parker_hannifin",
+      "strength": 2
+    },
+    {
+      "source": "dmg_mori",
+      "target": "caterpillar",
+      "strength": 2
+    },
+    {
+      "source": "okuma",
+      "target": "itw",
+      "strength": 2
+    },
+    {
+      "source": "okuma",
+      "target": "lincoln_electric",
+      "strength": 2
+    },
+    {
+      "source": "okuma",
+      "target": "parker_hannifin",
+      "strength": 2
+    },
+    {
+      "source": "okuma",
+      "target": "caterpillar",
+      "strength": 2
+    },
+    {
+      "source": "amada",
+      "target": "itw",
+      "strength": 2
+    },
+    {
+      "source": "amada",
+      "target": "parker_hannifin",
+      "strength": 2
+    },
+    {
+      "source": "amada",
+      "target": "caterpillar",
+      "strength": 2
+    },
+    {
+      "source": "makino",
+      "target": "itw",
+      "strength": 2
+    },
+    {
+      "source": "makino",
+      "target": "parker_hannifin",
+      "strength": 2
+    },
+    {
+      "source": "makino",
+      "target": "caterpillar",
+      "strength": 2
+    },
+    {
+      "source": "jtekt",
+      "target": "itw",
+      "strength": 2
+    },
+    {
+      "source": "jtekt",
+      "target": "caterpillar",
+      "strength": 2
+    },
+    {
+      "source": "tongtai",
+      "target": "itw",
+      "strength": 2
+    },
+    {
+      "source": "tongtai",
+      "target": "caterpillar",
+      "strength": 2
+    },
+    {
+      "source": "goodway",
+      "target": "itw",
+      "strength": 2
+    },
+    {
+      "source": "goodway",
+      "target": "caterpillar",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_robo_etf",
+      "name": "Robo Global Robotics and Automation Index ETF",
+      "ticker": "ROBO",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "全球機器人與自動化 ETF"
+    }
+  ]
+}

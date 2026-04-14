@@ -1,0 +1,134 @@
+topics:
+  machine_tool_orders:
+    display: 工具機訂單
+    keywords:
+    - machine tool orders
+    - 工具機訂單
+    - 工作母機
+    - machine tool order
+    - 受注
+    - 受注額
+    - booking
+    - order intake
+    - 新增訂單
+    - backlog
+    - 在手訂單
+    sentiment_keywords:
+      positive:
+      - 訂單成長
+      - order increase
+      - 受注增
+      - 接單暢旺
+      negative:
+      - 訂單衰退
+      - order decline
+      - 受注減
+      - 接單不振
+  automation_capex:
+    display: 自動化資本支出
+    keywords:
+    - automation capex
+    - 自動化投資
+    - factory automation
+    - 工廠自動化
+    - FA
+    - robot investment
+    - 機器人投資
+    - capex
+    - capital expenditure
+    - 設備投資
+    - 設備更新
+    sentiment_keywords:
+      positive:
+      - 投資增加
+      - capex increase
+      - 擴大投資
+      negative:
+      - 投資縮減
+      - capex cut
+      - 投資延後
+  factory_utilization:
+    display: 工廠稼動率
+    keywords:
+    - factory utilization
+    - 稼動率
+    - utilization rate
+    - 產能利用率
+    - operating rate
+    - capacity utilization
+    - 產線利用率
+    - 開工率
+    sentiment_keywords:
+      positive:
+      - 稼動率提升
+      - utilization increase
+      - 產能滿載
+      negative:
+      - 稼動率下降
+      - utilization decrease
+      - 產能閒置
+  cnc_technology:
+    display: CNC 技術
+    keywords:
+    - CNC
+    - computer numerical control
+    - 數控
+    - 5-axis
+    - 五軸
+    - multi-axis
+    - additive manufacturing
+    - 積層製造
+    - 3D printing
+    - smart manufacturing
+    - 智慧製造
+    - digital twin
+    - 數位雙生
+  reshoring_supply_chain:
+    display: 回流與供應鏈
+    keywords:
+    - reshoring
+    - 回流
+    - nearshoring
+    - friend-shoring
+    - supply chain
+    - 供應鏈重組
+    - onshoring
+    - local production
+    - 在地生產
+    - de-risking
+    - 去風險化
+    sentiment_keywords:
+      positive:
+      - 回流增加
+      - reshoring increase
+      - 在地化擴大
+      negative:
+      - 回流放緩
+      - reshoring slowdown
+      - 外移
+  earnings:
+    display: 財報
+    keywords:
+    - 財報
+    - earnings
+    - quarterly results
+    - Q1
+    - Q2
+    - Q3
+    - Q4
+    - 營收
+    - revenue
+    - profit
+    - 獲利
+    - 毛利率
+    - gross margin
+  guidance:
+    display: 展望
+    keywords:
+    - 展望
+    - guidance
+    - outlook
+    - forecast
+    - 預測
+    - 下季預估
+    - production forecast
