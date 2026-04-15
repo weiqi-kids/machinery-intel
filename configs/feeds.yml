@@ -1,0 +1,49 @@
+# Industrial machinery news feeds
+
+feeds:
+# --- Industry Media ---
+- id: google_news_machine_tools
+  name: Google News - Machine Tools
+  url: https://news.google.com/rss/search?q=machine+tools+CNC+industrial+machinery&hl=en
+  description: Google News aggregation for machine tools and industrial machinery
+
+- id: assembly_mag
+  name: Assembly Magazine
+  url: https://www.assemblymag.com/rss
+  description: Manufacturing headlines, collaborative robots, AI and Industry 4.0
+
+- id: manufacturing_net
+  name: Manufacturing.net
+  url: https://www.manufacturing.net/rss/all
+  description: Manufacturing industry headline news and top stories
+
+- id: google_news_industrial_automation
+  name: Google News - Industrial Automation
+  url: https://news.google.com/rss/search?q=industrial+automation+robotics+factory&hl=en
+  description: Google News aggregation for industrial automation and robotics
+
+# --- Company Feeds ---
+- id: siemens_press
+  name: Siemens Press Releases
+  url: https://press.siemens.com/global/en/feed
+  description: Siemens global press releases
+
+- id: schneider_blog
+  name: Schneider Electric Blog
+  url: https://blog.se.com/feed
+  description: Schneider Electric blog on energy management and industrial automation
+
+- id: applied_materials_news
+  name: Applied Materials News
+  url: https://ir.appliedmaterials.com/rss-feeds/news-releases
+  description: Applied Materials investor relations news releases
+
+- id: rockwell_press
+  name: Rockwell Automation Press Releases
+  url: https://ir.rockwellautomation.com/rss/PressRelease
+  description: Rockwell Automation investor relations press releases
+
+- id: lincoln_electric_news
+  name: Lincoln Electric Newsroom
+  url: https://ir.lincolnelectric.com/rss/news
+  description: Lincoln Electric investor relations news

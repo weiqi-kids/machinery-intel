@@ -123,6 +123,7 @@ companies:
   role: 工業自動化
   description: 全球工業自動化與數位化龍頭
   ir_url: https://www.siemens.com/investor/
+  rss_url: https://press.siemens.com/global/en/feed
   downstream:
   - dmg_mori
   - okuma
@@ -157,6 +158,7 @@ companies:
   role: 工業自動化
   description: 全球最大工業自動化專業公司
   ir_url: https://ir.rockwellautomation.com/
+  rss_url: https://ir.rockwellautomation.com/rss/PressRelease
   downstream:
   - itw
   - lincoln_electric
@@ -174,6 +176,7 @@ companies:
   role: 工業自動化
   description: 全球能源管理與工業自動化龍頭
   ir_url: https://www.se.com/ww/en/about-us/investor-relations/
+  rss_url: https://blog.se.com/feed
   downstream:
   - dmg_mori
   - itw
@@ -398,6 +401,7 @@ companies:
   role: 焊接設備
   description: 全球焊接設備與自動化解決方案龍頭
   ir_url: https://ir.lincolnelectric.com/
+  rss_url: https://ir.lincolnelectric.com/rss/news
   upstream:
   - dmg_mori
   - okuma
