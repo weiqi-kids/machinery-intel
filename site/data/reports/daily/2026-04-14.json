@@ -71,5 +71,19 @@
         "count": 2
       }
     ]
-  }
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為自動化資本支出相關動態：「The Smart Advantage: How Artificial Intelligence Is Trans...」。主要關注主題為自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection A...（自動化資本支出）",
+        "level": "green"
+      },
+      {
+        "text": "Chip Industry Technical Paper Roundup: Apr. 14（自動化資本支出）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

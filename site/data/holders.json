@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T09:11:38.154258+00:00",
+  "updated_at": "2026-04-15T12:01:32.150527+00:00",
   "companies": {
     "hiwin": {
       "name": "上銀科技",
@@ -206,31 +206,31 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 43993,
           "pct_held": 0.01,
-          "value": 10536323
+          "value": 10509927
         },
         {
           "holder": "Asset Planning,inc                          ",
           "shares": 737,
           "pct_held": 0.0,
-          "value": 176511
+          "value": 176069
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 11151,
           "pct_held": 0.0,
-          "value": 2670664
+          "value": 2663973
         },
         {
           "holder": "Strategic Investment Solutions, Inc. /il                          ",
           "shares": 11,
           "pct_held": 0.0,
-          "value": 2634
+          "value": 2627
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 559,
           "pct_held": 0.0,
-          "value": 133880
+          "value": 133545
         }
       ]
     },
@@ -335,31 +335,31 @@
           "holder": "Albert D Mason Inc",
           "shares": 9473,
           "pct_held": 0.0,
-          "value": 2537816
+          "value": 2529291
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 27891,
           "pct_held": 0.0,
-          "value": 7471998
+          "value": 7446897
         },
         {
           "holder": "Steigerwald, Gordon & Koch, Inc.",
           "shares": 100,
           "pct_held": 0.0,
-          "value": 26789
+          "value": 26700
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 8234,
           "pct_held": 0.0,
-          "value": 2205888
+          "value": 2198478
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 202,
           "pct_held": 0.0,
-          "value": 54115
+          "value": 53934
         }
       ]
     },

@@ -70,5 +70,15 @@
       "event_count": 2,
       "sentiment_avg": 0
     }
-  ]
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-08 ~ 2026-04-14）共 2 則事件，重點為「After jumping 2,200% over the last twelve month...」。自動化資本支出為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "工具機產業",
+        "reason": "本週無特定企業異常，建議持續追蹤整體產業走勢。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }
