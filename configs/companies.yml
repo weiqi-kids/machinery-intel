@@ -11,6 +11,7 @@ companies:
   role: 傳動元件
   description: 全球第二大線性滑軌與滾珠螺桿製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Hiwin+Technologies"&hl=en&gl=US&ceid=US:en
   downstream:
   - dmg_mori
   - okuma
@@ -29,6 +30,7 @@ companies:
   role: 傳動元件
   description: 線性運動導軌全球龍頭
   ir_url: https://www.thk.com/eng/ir/
+  rss_url: https://news.google.com/rss/search?q="THK"+linear+motion&hl=en&gl=US&ceid=US:en
   downstream:
   - dmg_mori
   - okuma
@@ -47,6 +49,7 @@ companies:
   role: 氣動元件
   description: 亞洲最大氣動元件製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="AirTAC+International"&hl=en&gl=US&ceid=US:en
   downstream:
   - dmg_mori
   - okuma
@@ -66,6 +69,7 @@ companies:
   role: 感測器
   description: 全球工廠自動化感測器龍頭
   ir_url: https://www.keyence.co.jp/ir/
+  rss_url: https://news.google.com/rss/search?q="Keyence"+sensors+automation&hl=en&gl=US&ceid=US:en
   downstream:
   - dmg_mori
   - okuma
@@ -86,6 +90,7 @@ companies:
   role: 驅動器
   description: 工業自動化驅動與電源供應龍頭
   ir_url: https://www.deltaww.com/en-US/ir
+  rss_url: https://news.google.com/rss/search?q="Delta+Electronics"&hl=en&gl=US&ceid=US:en
   downstream:
   - dmg_mori
   - okuma
@@ -104,6 +109,7 @@ companies:
   role: CNC/機器人
   description: 全球最大 CNC 控制器與工業機器人製造商
   ir_url: https://www.fanuc.co.jp/en/ir/
+  rss_url: https://news.google.com/rss/search?q="Fanuc"+CNC+robotics&hl=en&gl=US&ceid=US:en
   downstream:
   - dmg_mori
   - okuma
@@ -141,6 +147,7 @@ companies:
   role: 工業自動化
   description: 瑞士-瑞典工業自動化與機器人集團
   ir_url: https://global.abb/group/en/investors
+  rss_url: https://news.google.com/rss/search?q="ABB"+industrial+automation&hl=en&gl=US&ceid=US:en
   downstream:
   - dmg_mori
   - okuma
@@ -194,6 +201,7 @@ companies:
   role: CNC/自動化
   description: CNC 控制器、伺服馬達與 FA 系統
   ir_url: https://www.mitsubishielectric.com/en/investors/
+  rss_url: https://news.google.com/rss/search?q="Mitsubishi+Electric"&hl=en&gl=US&ceid=US:en
   downstream:
   - dmg_mori
   - okuma
@@ -214,6 +222,7 @@ companies:
   role: 工具機
   description: 全球最大工具機製造商（德日合資）
   ir_url: https://www.dmgmori.co.jp/en/ir/
+  rss_url: https://news.google.com/rss/search?q="DMG+Mori"&hl=en&gl=US&ceid=US:en
   upstream:
   - hiwin
   - thk
@@ -242,6 +251,7 @@ companies:
   role: 工具機
   description: 日本大型工具機製造商，自製 CNC 控制器
   ir_url: https://www.okuma.co.jp/english/ir/
+  rss_url: https://news.google.com/rss/search?q="Okuma"+machine+tool&hl=en&gl=US&ceid=US:en
   upstream:
   - hiwin
   - thk
@@ -269,6 +279,7 @@ companies:
   role: 工具機
   description: 全球鈑金加工設備龍頭
   ir_url: https://www.amada.co.jp/en/ir/
+  rss_url: https://news.google.com/rss/search?q="Amada"+machine+tool&hl=en&gl=US&ceid=US:en
   upstream:
   - hiwin
   - thk
@@ -292,6 +303,7 @@ companies:
   role: 工具機
   description: 高精度加工中心製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Makino"+machine+tool&hl=en&gl=US&ceid=US:en
   upstream:
   - hiwin
   - thk
@@ -314,6 +326,7 @@ companies:
   role: 工具機
   description: 磨床與軸承製造商（豐田集團）
   ir_url: https://www.jtekt.co.jp/en/ir/
+  rss_url: https://news.google.com/rss/search?q="JTEKT"+machine+tool&hl=en&gl=US&ceid=US:en
   upstream:
   - thk
   - keyence
@@ -334,6 +347,7 @@ companies:
   role: 工具機
   description: 台灣工具機大廠
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Tongtai+Machine"&hl=en&gl=US&ceid=US:en
   upstream:
   - hiwin
   - airtac
@@ -355,6 +369,7 @@ companies:
   role: 工具機
   description: 台灣 CNC 車床製造商
   ir_url: null
+  rss_url: https://news.google.com/rss/search?q="Goodway+Machine"&hl=en&gl=US&ceid=US:en
   upstream:
   - hiwin
   - airtac
@@ -375,6 +390,7 @@ companies:
   role: 工業製造
   description: 美國多元化工業製造集團
   ir_url: https://investor.itw.com/
+  rss_url: https://news.google.com/rss/search?q="Illinois+Tool+Works"&hl=en&gl=US&ceid=US:en
   upstream:
   - dmg_mori
   - okuma
@@ -418,6 +434,7 @@ companies:
   role: 運動控制
   description: 全球最大運動與控制技術製造商
   ir_url: https://investors.parker.com/
+  rss_url: https://news.google.com/rss/search?q="Parker+Hannifin"&hl=en&gl=US&ceid=US:en
   upstream:
   - dmg_mori
   - okuma
@@ -439,6 +456,7 @@ companies:
   role: 重型機械
   description: 全球最大營建與礦業機械設備製造商
   ir_url: https://www.caterpillar.com/en/investors.html
+  rss_url: https://news.google.com/rss/search?q="Caterpillar"&hl=en&gl=US&ceid=US:en
   upstream:
   - dmg_mori
   - okuma
