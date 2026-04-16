@@ -1,0 +1,149 @@
+{
+  "date": "2026-04-16",
+  "generated_at": "2026-04-16T09:11:11.779754Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "dmg_mori-2026-04-16-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DMG MORI Stock Soars 7.23%, Hits Intraday High of JPY 2,537.00 - Markets Mojo",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "itw-2026-04-16-026",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works delivers 63rd straight dividend hike, nearly tripling payouts since 2016 - MSN",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-04-16-030",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Assetmark Inc. Has $24.78 Million Holdings in Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "dmg_mori",
+        "count": 1
+      },
+      {
+        "id": "itw",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為DMG Mori、ITW、Parker相關動態：「DMG MORI Stock Soars 7.23%, Hits Intraday High of JPY 2,5...」。主要關注主題為財報、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "DMG MORI Stock Soars 7.23%, Hits Intraday High of JPY 2,537.00 - Markets Mojo（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Illinois Tool Works delivers 63rd straight dividend hike, nearly tripling pay...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
