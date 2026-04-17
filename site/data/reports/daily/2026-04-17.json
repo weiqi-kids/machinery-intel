@@ -1,0 +1,119 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T09:09:57.352417Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itw-2026-04-17-020",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "9,650 Shares in Illinois Tool Works Inc. $ITW Acquired by Argo Wealth Advisory LLC - MarketBeat",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "mitsubishi_electric-2026-04-17-010",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mitsubishi Electric Automotive America - Department of Energy (.gov)",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      },
+      {
+        "id": "itw",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Mitsubishi Electric、ITW相關動態：「9,650 Shares in Illinois Tool Works Inc. $ITW Acquired by...」。主要關注主題為自動化資本支出、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "9,650 Shares in Illinois Tool Works Inc. $ITW Acquired by Argo Wealth Advisor...（自動化資本支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Mitsubishi Electric Automotive America - Department of Energy (.gov)（自動化資本支出）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

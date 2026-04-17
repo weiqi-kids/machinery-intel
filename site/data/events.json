@@ -1,5 +1,34 @@
 [
   {
+    "id": "mitsubishi_electric-2026-04-17-010",
+    "date": "2026-04-17",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Automotive America - Department of Energy (.gov)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5sbk1OSU00ekY5U2lrenRPWkljZnp0eGxNLW5fVXo5NUt6U1h1VFhoMWhCc3JnSzJhM1V3RVd3WUhEWVNNbkFaYVNiR1BhZjIxTGZyYWI0eEFlV1Q5TU9UcUFKLVFJZF8yWUVJb0JzWm",
+    "sources": []
+  },
+  {
+    "id": "itw-2026-04-17-020",
+    "date": "2026-04-17",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "9,650 Shares in Illinois Tool Works Inc. $ITW Acquired by Argo Wealth Advisory LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPREw5alZLVXFIOE5RWENHOF9FXzA1Sm8xUzRReHVGanA2bl9CaHZLQVBpdkxqNUpTY3RkaTAtYTc2SUh5TzQ2VVN0WDJIRzFOVDA4cmtZT1dmcHRySm8zdWRNSDBRblYtWDJaaDJkWF",
+    "sources": []
+  },
+  {
     "id": "dmg_mori-2026-04-16-016",
     "date": "2026-04-16",
     "companies": [
@@ -40,6 +69,62 @@
     "impact": "neutral",
     "title": "Assetmark Inc. Has $24.78 Million Holdings in Parker-Hannifin Corporation $PH - MarketBeat",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPYktEb2tuRmI0YjRrVHFJM3FiRWpVWVllNFI1bER0SmFOV0hhWUhDLXN0eTZYVU5CTGVYM0hrYi1qaWZuUUdXRHBtdWZVNVZWMlpSZmF1czlOaW1oSjJnbVZETVNaaHJBNXQzSnlXQ3",
+    "sources": []
+  },
+  {
+    "id": "itw-2026-04-16-021",
+    "date": "2026-04-16",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works in 5 Years: Boom, Bust, or Quietly Crushing It? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOM1M3Nk9iUWlwOUZERVFuSUx1bEtuV0sxd0ItVlRYbnFsR3RIMVpNeEJ3dDRlaFRLSzFBQzBGNy1pbFg0RnZwU1JyOWpvTV8yTUtRTW5aYjdLc1o5NlJYSEg0eU5zM1hONVFxbDFaUz",
+    "sources": []
+  },
+  {
+    "id": "caterpillar-2026-04-16-024",
+    "date": "2026-04-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar Inc. to Announce First-Quarter 2026 Financial Results on April 30 - Caterpillar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQaER6bE42RlMyR19Gcms4eHBxT3NDdDh0UUNEUzNkZnpsaHJpVjAwNHZlUVFGaF8xOEgtZHVjUXl3UmJjbzJhQWpudGlZT2NlYzNYbGZ1TXFKSVBkNF9CR1k1OVBRSEZDcWdkSzM0RG",
+    "sources": []
+  },
+  {
+    "id": "caterpillar-2026-04-16-027",
+    "date": "2026-04-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar to post Q1 results before market open on April 30 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOaUZheGNJdDUyb1hPaTU2NWo1QUdBUk1MTldheUk2d3NCd1RzbENETXFiM2Fzcm5mN05OeHdtUFk0OU9WeWEycjJjYXFtWGlyV3J0RUtiQWZHSnJmbndRNU9wZDV5ZHRVdmtEZGNuWW",
+    "sources": []
+  },
+  {
+    "id": "caterpillar-2026-04-16-028",
+    "date": "2026-04-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar acquires self-driving 'Tesla of agriculture,' stock up 30% this year - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQZWNpSnA0M3BsajNQOXhFTkV3TXRyQmlfbXRHblcxWk1KazhpYXcyTTlyTllIQVNCalNQdjAwcW5fa1JkOUlRZkFkT3dxZFhpR1F2X1BQcnotUkEwODNVaTI2WURjVkhfTkQ5RWtDRF",
     "sources": []
   },
   {
@@ -272,6 +357,20 @@
     "impact": "negative",
     "title": "Caterpillar slides 3.4% as valuation concerns resurface ahead of upcoming earnings - Quiver Quantitative",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUzRLaGhCNWxHTGdFSFdOVlNoSXphOFQ3UERkNElnZU9vT3BFaWdkbkpTQ3VINkZYcjVsMjZETHduQ3lMZFRCV09jV2xlbWZsRk9pVmRWY3BYV2xUQUUxQlhrQlJJZE1TQlNXTURGc0",
+    "sources": []
+  },
+  {
+    "id": "caterpillar-2026-04-15-026",
+    "date": "2026-04-15",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Acquires Monarch Tractor - Precision Farming Dealer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPMC1ySGJzT3BuejVaOWhuZVh0LVJXSEZWbnpJVGx5c0h2bVdiWThfWW85Q0lXMUpJQTlORGlmMUZHOWlEYzl1UGFTYkREVXp2RXNCUXpjcDJyWGVlYUdxU0JnLUhDN18zTXAzczFIbn",
     "sources": []
   },
   {
@@ -567,6 +666,34 @@
     "impact": "neutral",
     "title": "Here's Why Mitsubishi Electric Corporation (MIELY) is a Great Momentum Stock to Buy - qz.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2pCNnZtNXRIZ1lHckI1MlZaQWpSS1F3N3BXU0tQdnJ6Rm1ZalhpVG1QYU5fNmRNOFlYSzF5Ul9GTEhsbVV1WGJBV2hRbS00cWF6MmE0ZkM0MmktMU1UQ29wZnQ3X2NKZ2pCaUR0MD",
+    "sources": []
+  },
+  {
+    "id": "parker_hannifin-2026-04-14-023",
+    "date": "2026-04-14",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "1,555 Shares in Parker-Hannifin Corporation $PH Purchased by Third View Private Wealth LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcHFieUNuMTVZcXRFc1haekxxLVlJWmdzRjVyeXc2SEtqQ3JBTmZkazFnMng1RGZzMVl4cUpsOEVPYkhtWFkybktXTzdBRXZ2ZjVZUVZUQ3ZaTE5wN0xWVU5tSzBTc2dGRlBpdzlian",
+    "sources": []
+  },
+  {
+    "id": "caterpillar-2026-04-14-025",
+    "date": "2026-04-14",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Stock Is Up 32% in 2026. Here’s What a $935 Valuation Says Now - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkRFUFQtRV9zTTVtTUdQTFl2ZmNwNldyTlRXaTVLblF1RFhIN3JoaENGMGZVVDNfWi1OWUhUTHpGUWJ5MHhvX1UyWDFCNEhGOW9nM0M1Y0Z3OG9jZUQ2LS0xTVVOdFRPX2hCeUFMYn",
     "sources": []
   },
   {
@@ -975,6 +1102,32 @@
     "sources": []
   },
   {
+    "id": "mitsubishi_electric-2026-04-09-013",
+    "date": "2026-04-09",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Mitsubishi Electric Trane HVAC US Expands SMART MULTI® Lineup with New Single‑Phase, 5‑ton H2i® Outdoor Unit - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYWdBWFc3STFjaVNkNFJGN1pwY2lEWXBhWkN3M2x4X05KNVIzTThoLXdyNE5CTlIwbkF4WVJzUFZuSURyZk1UQTJuNjJRRWRZWlA2LW85MkF5dXBQaEJaUlp2QjRyRGNSd1l6RDBJQ2",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-09-029",
+    "date": "2026-04-09",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Australia Machine Tools Market: Industrial Automation, Manufacturing Demand & Technology Advancement - vocal.media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNG4zUHl6dDBrWEh1a0gxQmlNTDNjaEYtVDJ6Qm1EV0xaTkRpM3RsYV9aUjhqZWNiREdVMEdvWUVaR0hiVHF3N0lBVm5nOVEyLTRaeHppakhROTF5ZmVUclUwSTVBU29tSXFRT2pmWF",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-08-004",
     "date": "2026-04-08",
     "companies": [],
@@ -1260,6 +1413,34 @@
     "sources": []
   },
   {
+    "id": "mitsubishi_electric-2026-03-31-011",
+    "date": "2026-03-31",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Group Launches New Corporate Philosophy - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNNlV0Nlc5NzBfNlkxbjA1eE1ESndRQ1NOVTk1bVhBZGFwWmFZRkUwM0ZqamJHSkIxTlBJMmNPMG5wNlpfcndvZmViVHd0aVVyOVZVNUt2d1dFQzhBVG1nQlNPeWlrTDdCbHAwdUJXNz",
+    "sources": []
+  },
+  {
+    "id": "mitsubishi_electric-2026-03-30-015",
+    "date": "2026-03-30",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Announces Director Candidates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOMVRvTDk5OXNjVi0zb2h6Zjg2dUJLQ0lmOFJrRVhFdWg4R0w5RnE0VlVISE4zWWlOekJndy1uSzBBN245cEstaDZxRFYyRi01d0k1LWZMeUtKeFpJbzM1MWFaMHFIbUpWNzZ2S0UwSn",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-03-28-008",
     "date": "2026-03-28",
     "companies": [],
@@ -1337,6 +1518,35 @@
     "impact": "neutral",
     "title": "Mitsubishi Electric Develops Edge Digital Twin Technology for Real-time Compensation of Errors in CNC Machine Tools - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOWjBIT0RGYzhfMG8wTERDeDFQdHFfeUlrZDBiMVdyTnoxRVptS0xyRWdRZ2Zydzl6dHJ5NEVsUENlYzBDUmNSYXdPaHhRZ2wzeFNMRk1GTnE2RkVpV0k1MUsxeWFqRkUxYXAzMTIxQX",
+    "sources": []
+  },
+  {
+    "id": "fanuc-2026-03-24-008",
+    "date": "2026-03-24",
+    "companies": [
+      "fanuc"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FANUC America Announces $90 Million Investment to Create Production-Ready Capacity for Robot Manufacturing in the U.S. - The Malaysian Reserve",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQXdiQ3J6R3NtNWkyd1IyYk9ZNUJQdlNpTXN1ckhDbnRndGZZWWJIbjdPQVVqcVVuWUdNb0RfMlhlV1pTczU3UXRwbGJMam5kRUtTSWZGWUVFV1FSVFZBZHhrVm9Bc2k1UDA1NjJYRn",
+    "sources": []
+  },
+  {
+    "id": "mitsubishi_electric-2026-03-24-012",
+    "date": "2026-03-24",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Corporation - revenue by business segment 2025 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNTmJmclh0ZTB4OTc5VG40U1VOVDl2STl2Q1YtVXRhSlhGUmVuMHBPc210X3VxUkQ4UVRfUkNTb2xTNm9QV1VFUEp4NGlvZ0lpMFRySVdVMU5XTEpqZVd1c05FQXpLVGVsZm1GNW5fZG",
     "sources": []
   },
   {
@@ -1585,6 +1795,21 @@
     "impact": "negative",
     "title": "Keyence Corp Stock (ISIN: JP3236200006) Faces Margin Pressure Amid Industrial Slowdown - AD HOC NEWS",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOaDA0cnJIc215ZG1RWXV4d01mMFZrZFZuSERSNmN4TFNCeWhCRWFCOVEtd2F2TlJaVVVOZEVGWFd2Y3djblp5UDVBanlVSEZ6WjRLdlJHQVg3SUlsQVRCcnhpZ1JFd2pXcm03R0JSM0",
+    "sources": []
+  },
+  {
+    "id": "thk-2026-03-15-002",
+    "date": "2026-03-15",
+    "companies": [
+      "thk"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "THK Co Ltd Stock (ISIN: JP3801600002) Faces Headwinds in Industrial Motion Control Sector - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMmtHNVdzZEVCejBKWmVjczgxRTRJSGItdUVOOGVlTEVMY1BkZGo2X1llT2VFdU9RRWtpOVF0aWlpSWdoZDRKVFczNEhFQ2dhU1NYOTJLYUNfNmp1b1B2UVpfWmtKN3hycDVMZkxxOU",
     "sources": []
   },
   {
@@ -1948,6 +2173,19 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-02-13-005",
+    "date": "2026-02-13",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Laser Sensor Market Analysis: Application Segments & Revenue Forecast - vocal.media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNRjRYRERoMDlxZmsweWhtd1dNdG5Kd2tzczVtOVY0WW1nM3dfT0MzYTdURDI5WFM3N2x0eFR5SWU1Wm1DamVNbEQ1eUpXSHFzNjB4Y1NjN2p6QWlSRFdPRWZGbThyMC0wYzBTUDlBeU",
+    "sources": []
+  },
+  {
     "id": "delta-2026-02-11-045",
     "date": "2026-02-11",
     "companies": [
@@ -2043,6 +2281,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-02-04-030",
+    "date": "2026-02-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Invio Automation acquires Calvary Robotics - dcvelocity.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOT2o5T0JPZGRzWktMdHBmaUJrNEZ3NHJEOGpCcVVvdGwyckdCa1EyOTJNcGxXNVpjRlI3ZjVlN2pFUzk0Q2t2a1RqWjVJT1ZoZVY3a3lqamJfdjhXVVFNakQzdmtGRVJCUjE2NS1xak",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-02-02-008",
     "date": "2026-02-02",
     "companies": [],
@@ -2094,6 +2344,21 @@
     "sources": []
   },
   {
+    "id": "abb-2026-02-02-009",
+    "date": "2026-02-02",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ABB’s Automation Extended: Flexible, Open, Sustainable - ARCweb.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQaVA4MGNLMWM3NnctdEZ3bjhFaDlpUURRSjVLNjRlS0JjOUJ0Zi1Xc2FOVkgyVGN3T2FTRDdZWmlVa1hIQWd4M2NrTDdaLVQ4eUlVTHY2NlBhQW1fQjQtX0x3RWtab0Nxb2Vra2dMVH",
+    "sources": []
+  },
+  {
     "id": "airtac-2026-01-29-025",
     "date": "2026-01-29",
     "companies": [
@@ -2105,6 +2370,49 @@
     "impact": "positive",
     "title": "AirTAC International Group: Strong Q4 and 2025 results; 2026 guided for >10% revenue growth and 31% OP margin - TradingView — Track All Markets",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxOVVBQTmFrQjZ1ck93OUxlX3JGSmJDTXloQzBOcFg4OFJoX0VyRXJRZ0QxMldnZjIxckJNdS1pYlYwS01DRXJCYXBXeldNQnY0eEpiay1QeUREVFZNV0JmZS1YelNCSWJISXJQUUpmbT",
+    "sources": []
+  },
+  {
+    "id": "keyence-2026-01-29-006",
+    "date": "2026-01-29",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Keyence stock tests investor conviction as shares pull back from record highs - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVjgzYlBMYUhOYy1TdkVabUxvQ2x0SEFNWDVaam8xOEY4a25RR1JTc3JvVmxkY1A1cUU0dmxYU3ZoZFFfc2REX2tXR0lhYkg4VnBubmZid2lhQXRFODhfYXk5SDVpdU96bndEYjdVdz",
+    "sources": []
+  },
+  {
+    "id": "mitsubishi_electric-2026-01-29-014",
+    "date": "2026-01-29",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric finalizes Nozomi Networks deal, backing expansion of OT and CPS security - Industrial Cyber",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUUwwUXNUbW1uQlYyV1B0dHRSdTdfQm4wb0FOQ2hxc0RlV3NBcUhSeTZabDM1MjBwZHpianNmbVFpWnA4WlhYOUNva2I0bTd3MDRYczZiMEI3T1Z3MWxEbU5CcWoybll1T0N5NlF2b1",
+    "sources": []
+  },
+  {
+    "id": "itw-2026-01-27-022",
+    "date": "2026-01-27",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (ITW) Earnings Expected to Grow: What to Know Ahead of Next Week's Release - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPWmhEbVBpWEhFQ2hkTmc5Zk5rUjNLLVJSODI3RGJEdEY0RHRNSTNtZnlfMUpRamQ0RC01XzZfZEhvZFVnaTBtaU5BekdKUFlBYWp2UHk5UkloemhpeFJhU25UWEhOTzZNci1XWWhiaW",
     "sources": []
   },
   {
@@ -2158,6 +2466,20 @@
     "impact": "neutral",
     "title": "Europe Industrial Control & Factory Automation Market Report 2025 - 2032 [302 Pages & 180 Tables] - MarketsandMarkets",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPY0hsS2hTNXVmbnFLMTdjYTVua0VxYzJsTjR5Y1l0Mk1oanpBZlNrU3JJa0NDZ1hKaGtfRTF3eVR5SllqRDNCNVlMakVKYU8yT1F2OFRZd2R5cXp1UHdzZ2xpSDEwcXdRVFZORkNHRz",
+    "sources": []
+  },
+  {
+    "id": "mitsubishi_electric-2026-01-15-016",
+    "date": "2026-01-15",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Seeks Bids to Sell Automotive Equipment Business - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWNVYllBRjI3RkxFNC03V3YwMmwwSjAxLWVENVVRT0V0czU5TXozNkw1SDh1eGw4d1RIQ19paTBxcmd6V191clloZmlLYVVnZWt4c0ljc3l0UXRHMVRUcnktbVdadl94dnhQQWo0Tk",
     "sources": []
   },
   {
@@ -2258,6 +2580,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2025-12-17-018",
+    "date": "2025-12-17",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "High-speed spindle options - Aerospace Manufacturing and Design",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLVR1MklyRmlWRkgxc0V0ZDExNzVwc3Joc2MxWWF1ZzZscUFsdkVFeUZnTC11RVlDb05yMEhpSm51dWRVWHVETnplLWNTNHoyN3d5bXdsMDEzNnVwVmtwOFlnOXFqeXptWUozamN2YV",
+    "sources": []
+  },
+  {
     "id": "unknown-2025-12-15-003",
     "date": "2025-12-15",
     "companies": [],
@@ -2339,6 +2673,22 @@
     "impact": "neutral",
     "title": "Jordan’s water industry taps into ABB’s digital and AI technology to address resource scarcity | News center - ABB",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNdjFXcTN2SGw5cXpxQ2pJdVUzQ1NTR1ZQYW4wUUJjSVRCVm9SQUpGNmJyanZYalFSUUNzM0JURWVoQlFUNlV2R1FnNUZ3empVZVRPM3lKbVNBNC00X1FhZlhjOWw4VDAzTzFuZEN6aU",
+    "sources": []
+  },
+  {
+    "id": "dmg_mori-2025-12-01-017",
+    "date": "2025-12-01",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "automation_capex",
+      "cnc_technology",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Smarter, Faster, Hybrid: How DMG MORI is Redefining Industrial Additive Manufacturing - 3D Printing Industry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNWTRXcVR2d3E2TzFsam9ONXB1TldlQWg3ZWRKS0J0Q2NxeHlRSUZ2UXg1RlRjVjA5NkhzMC10Y1IxVTVMT2g5ODVmZjlUanpReDBKZ2hoTEd2eTg1QnVJdHQySDRTbFRaaHAyQzNiME",
     "sources": []
   },
   {
@@ -2521,6 +2871,21 @@
     "impact": "neutral",
     "title": "DMG MORI boosts manufacturing quality by 66.6% with Azure and Tulip - Microsoft",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5acDJwSUpUd2UzYlZUOHJaZUd6SWIxSFd1Zi1jcHNXbXdEbmx5dHFfYS1oVlZDTHlrSEk1cG1ZWVh5bWF3LU1tUnhzaTVsaEVhNEc1eGRWMktZcUdKdnNxTmVrYWNzS1FpcjcyTFhtR1",
+    "sources": []
+  },
+  {
+    "id": "rockwell-2025-10-09-007",
+    "date": "2025-10-09",
+    "companies": [
+      "rockwell",
+      "delta"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CISA warns of critical ICS flaws in Delta Electronics DIAScreen, Rockwell Automation modules - Industrial Cyber",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYS1CSUNhVEhDTE5HSE5FNk44LXlCVERwUV9zdkU3Z3Q1U0FMTGtuMjAycmJ2RGtiQl9TdVh6R0tTRmdpZjVIV0ZZZFVlenRGNTczZDRXNUpSOHJIVlJjSEpITlpUTy1hU2lQWWdzSl",
     "sources": []
   },
   {
@@ -3084,6 +3449,20 @@
     "sources": []
   },
   {
+    "id": "hiwin-2025-02-20-001",
+    "date": "2025-02-20",
+    "companies": [
+      "hiwin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hiwin to build new Italy headquarters; completion set by 2025 - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNbmdsUGtUdlVNV0pHcm16b1NQcy13YmtWVjVKV1R6b1NCNzEtTVJ2NlVMNERaNndmSDFYaTFFU0pwYkVWQ1FWS2JLSnNDRnlrbkxwS1dqU3ZleDJUZ1BQZE5mZ1NYd2tadTh5eW9iaE",
+    "sources": []
+  },
+  {
     "id": "unknown-2025-01-31-144",
     "date": "2025-01-31",
     "companies": [],
@@ -3187,6 +3566,22 @@
     "impact": "neutral",
     "title": "Aiming for the Top: HIWIN Technologies - 台灣光華雜誌 Taiwan Panorama",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaXdmem1WWXk2N1NrMWROc2ZzZWRxeFlzQ1Fqd0RrSS1DY2V6aXl1R3ppRUo4eG50QlNFSnVnY1VEVHNQaUtxcmNIRHBnUl9xZFJmUHBVdjh4VEJPNGtPQ1NWWUcyU3lHNTBBekNYTF",
+    "sources": []
+  },
+  {
+    "id": "makino-2024-07-18-019",
+    "date": "2024-07-18",
+    "companies": [
+      "makino"
+    ],
+    "topics": [
+      "automation_capex",
+      "cnc_technology",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "A New Dimension: Makino and Fraunhofer ILT Expand Additive Manufacturing Possibilities - Metrology and Quality News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1ltOVdiemMtc3NEY2ktWkZza1hKeUo4aFo3aE8xRHNGYjBaN2lvRDFmdVZwbVZ5eFF4Ukw3V01DdlBvYmhFV2tVZGxkc1lzcWhUWC1JRUJHZlVOR0h3YjFBYnRjbHlFc21hcE1YX1",
     "sources": []
   },
   {
@@ -3381,6 +3776,18 @@
     "impact": "neutral",
     "title": "JTEKT Technology Days Showcases Synergies - Modern Machine Shop",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOR3ZNTjJQWmktNlItcHhkcWJSQkV0M3IzZ1VveXIxWHJ0Wm1nMktpWXNjMEF4NWRyUXd3b1hfSHZhN0pJeFA1QkNjSDlvSlFoQjNWbXFiaXk2ZWJaS3hvRjMxTWxDUE9DdXhVUmV4RE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2023-10-11-003",
+    "date": "2023-10-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ROBO Vs. BOTZ: A Comparison Of The 2 AI ETFs (NASDAQ:BOTZ) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS2hVcTlsMU9mWjdaQ21XcWEtRVZNWG9vVnFxdWZjbnZDNFJLbkJCSXltaDhUU05BdzlRR0U1TW5DTlFvMlFRVVFtUDhEUW03eTBuU0w0YU0xOHpKeFhQcHBtWlNOLXF3dkFsNXktNV",
     "sources": []
   },
   {
@@ -3877,6 +4284,18 @@
     "impact": "neutral",
     "title": "VIDEO: Taiwan’s Machine Tool Industry: An Inside Look - Engineering.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPNDJmeVBYNFl6VnN3VkZfVFUyblpWcmFDbEJhUzhPS1ZNb210NC1hY2U1MDI0bUFhenhpRkFVaHdTVXpiaWJ0QldOTzhuQThnZFA4clF5aXdUcjhxckxDY2QtS29OT0hQdUdkWTJCRE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2017-10-10-004",
+    "date": "2017-10-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ROBO Stock Price | ETFS ROBO Global Robotics and Automation ETF - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9OeFEtZEdYQnpDUlJrOGxWMWZ2WTdmVWl0bnZTRXVCZk1aVUZIdzExanUtX09KYlhnaF9OWmdFNl91aWRVOUoxSmlaR09ubEdXcDItcEJIZE5mYUJ3Q2J2VVI4alRtdjVjb19jd3N3?o",
     "sources": []
   },
   {
