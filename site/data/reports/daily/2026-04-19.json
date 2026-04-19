@@ -1,0 +1,93 @@
+{
+  "date": "2026-04-19",
+  "generated_at": "2026-04-19T08:44:04.881220Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thk-2026-04-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "THK Co Ltd stock (JP3801600002): Is its linear motion leadership strong enough to unlock new upside? - AD HOC NEWS",
+      "companies": [
+        "thk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "thk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為THK Co相關動態：「THK Co Ltd stock (JP3801600002): Is its linear motion lea...」。主要關注主題為自動化資本支出、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "THK Co Ltd stock (JP3801600002): Is its linear motion leadership strong enoug...（自動化資本支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "THK Co為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
