@@ -1,0 +1,49 @@
+{
+  "date": "2026-04-20",
+  "total_events": 7,
+  "by_company": {
+    "hiwin": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "delta": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mitsubishi_electric": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "okuma": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "itw": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "parker_hannifin": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "automation_capex": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "cnc_technology": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
