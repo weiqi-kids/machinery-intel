@@ -1,0 +1,150 @@
+{
+  "date": "2026-04-21",
+  "date_range": {
+    "start": "2026-04-15",
+    "end": "2026-04-21"
+  },
+  "generated_at": "2026-04-21T09:19:15.495922Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "caterpillar-2026-04-18-014",
+      "date": "2026-04-18",
+      "title": "How Investors May Respond To Caterpillar (CAT) CFO Transition And Steady Dividend Amid Record Backlog - simplywall.st",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 14,
+      "last_week": 2,
+      "week_over_week_change": "+600%",
+      "sentiment_this_week": 0.0
+    },
+    "cnc_technology": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 26,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "delta": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "itw": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "caterpillar": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "dmg_mori": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "parker_hannifin": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "mitsubishi_electric": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "thk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "hiwin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "okuma": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 31,
+        "last": 2,
+        "change_pct": 1450.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-15",
+      "event_count": 6,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-16",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-17",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-18",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-19",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-20",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-21",
+      "event_count": 9,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-15 ~ 2026-04-21）共 31 則事件，重點為「How Investors May Respond To Caterpillar (CAT) ...」。事件量較上週增加 1450%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "Delta Electronics",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "ITW",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "CAT",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

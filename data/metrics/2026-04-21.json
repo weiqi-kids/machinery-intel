@@ -1,0 +1,41 @@
+{
+  "date": "2026-04-21",
+  "total_events": 9,
+  "by_company": {
+    "delta": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mitsubishi_electric": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "dmg_mori": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "parker_hannifin": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "automation_capex": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
