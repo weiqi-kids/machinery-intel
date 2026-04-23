@@ -1,5 +1,145 @@
 [
   {
+    "id": "abb-2026-04-23-005",
+    "date": "2026-04-23",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "ABB Robotics launches high-speed PoWa collaborative robot range - Robotics & Automation News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDJfajBmMXZRWUgxRk9YQjVOY0FuQzdadHJRTHd1a2UtcUdsbmJMbktkbmVhbzBUaXpaQXRSN1VKX0xUV3RHQnpzTkllMWdmc3ZXNi1wSDhBMXV6aW04el9SbFdzY0UxTzVBN3Z0Ny",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-012",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Japan calls on Asian equity firm to halt acquisition of machine tool maker - 毎日新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE05MXBjTDg2VHJUZ1ZjcmhvSTI1OWJhY1ZJeW9TdF9rMjVpUTM3ZUhfX3FNTTlhT3BNNXdSSHdmZFpYMTRMd2hEWnBkNDMycW9SNDMwWGlHb2pRRHVOME0wQ3VtWXF5bVRYOXhUYzFEYm",
+    "sources": []
+  },
+  {
+    "id": "makino-2026-04-23-013",
+    "date": "2026-04-23",
+    "companies": [
+      "makino"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Japan Urges MBK to Halt Makino Acquisition Over Defense Concerns - Seoul Economic Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWVOdTBtS01LQi1MVHVpZk9UdXBoT0VvR0JCbl9qNnhwdjdaOFdTSjBWNVQ2SWUxRXZRWFA0OGtrc2JUci1GLWo1QWc1UnFlZDNWNkVVWGlWbWQ4aHNuWkRFQVY3d1JCcnNxY3A1ZE",
+    "sources": []
+  },
+  {
+    "id": "itw-2026-04-23-016",
+    "date": "2026-04-23",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (ITW) Projected to Post Quarterly Earnings on Thursday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPLXZ0a1NkLS1QTVU5TlZTeFphdm15YTdhZG1BRlpUeVBsbllaZWhQQzlvcUhiVmU2QjFaOXNGUUhGcjdodXpWZkVOa0todmdOdWlUQWlFV0RJV1BmUXV2eVdNemtYejBGYjlISVZKUT",
+    "sources": []
+  },
+  {
+    "id": "parker_hannifin-2026-04-23-019",
+    "date": "2026-04-23",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (PH) Projected to Post Earnings on Thursday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzRBZTVOSUsxYkNHSWtmQ2hsNUNheTN2ZmRSUElzU0NHbm9MN282aE9GallKZElrQ1lpMVpqcE12b040cDZEcjVBUTZQbzRCanlmcmxtOUEzMTc3RU9mYTgxbzhLNFpwVGZSVVQ2Ml",
+    "sources": []
+  },
+  {
+    "id": "parker_hannifin-2026-04-23-024",
+    "date": "2026-04-23",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Shares Bought by B. Metzler seel. Sohn & Co. AG - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3g1SFU3dVMtQ1g5bVNDekVWREt1dGV6bGY3b3NVUnZDclM5STBBN1J0aVRLR3ZranBSOUhsZFlfbnBNUktMRl9tYjExT193WnViNlBjdGp5eUlYQVdzZUhPMWRla3NZUmhIa3FIbD",
+    "sources": []
+  },
+  {
+    "id": "caterpillar-2026-04-23-026",
+    "date": "2026-04-23",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Projected to Post Quarterly Earnings on Thursday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2kxMW5Wb0FOZFhKRFM0c0FtaUdjQ2czZ0E1enNBNEtuSm1iOHdKMF9sV2Q1ZnVWNlFmd0szUmozVHc5Y1JnOU4xOTdoLTZwNE5ELU9CTEtJYUJwZXJsQ2x2TXU3WWRDcHJtbDN1dn",
+    "sources": []
+  },
+  {
+    "id": "caterpillar-2026-04-23-027",
+    "date": "2026-04-23",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is It Too Late To Consider Caterpillar (CAT) After Its Strong Share Price Rally? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOa0pZQ3hmTDFPVDZlZ3NhbW9tdnlGZ2ltY2pPWlpOOVI1dUM1TGVYT3pOd0h4cXdqbjktM2dTd1JEN3Iwa1V2VnFqdy0zT2RveDBmWkhLQURPZFVzbDQ2R0NyUDhUS0VCY2g0Rzc1c1",
+    "sources": []
+  },
+  {
+    "id": "caterpillar-2026-04-23-031",
+    "date": "2026-04-23",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "B. Metzler seel. Sohn & Co. AG Raises Position in Caterpillar Inc. $CAT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX3NmQUxXWXlFalJraUlxbkVWV0JrMUJLOTZtRkh6cFE0MkRIVHFPR0ZTM1Uybnd0TUZRVDNjUERqUWhXd29DODhxSVJhWklBcWwxZkVoYVlDRkNUSFlxcTFHNTR0LUJqb1QtTXczVH",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-033",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "cnc_technology",
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "World CNC Plasma Cutting Machines - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQWlZVWxuRlBhTFJzcVNQLUVQSjk5UnJZOXh6TUVkd1dtNERONjAwdV92YktxcnJFZWR1cWQyd2hpSG81U3VoT19VQU5HOFhEdDNIZExGYjFZVWlscUlYd0Q4czRVeXdwMlQ0eno2bT",
+    "sources": []
+  },
+  {
     "id": "mitsubishi_electric-2026-04-22-014",
     "date": "2026-04-22",
     "companies": [
@@ -55,6 +195,147 @@
     "impact": "neutral",
     "title": "Evergreen Capital Management LLC Raises Stock Position in Caterpillar Inc. $CAT - MarketBeat",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOTdQZndiZnR6aXFuWFZ3d3laamZOYV84bmhEXzRvRk1jd05SRnhUSEJDZFdRTDNIQ3hVak5WNUJWUy03eHE0Qzh2Ym1CVjN6MFlRd2FlTkh3SVcwSWdLdnlZNmNOR3ZMemtxa2F2Rm",
+    "sources": []
+  },
+  {
+    "id": "mitsubishi_electric-2026-04-22-007",
+    "date": "2026-04-22",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Classic, Folds of Honor to fund scholarships, honor service members at TPC Sugarloaf - Gwinnett Daily Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxOY3lKZGwzbHFDclJLdDF4NEFRTENaLXBucXEwaUN2Qnk0Y3hOaXdiT0tQQklna0tFYVc4ZUFEMDNMLTRHdzRZNGJGejFEOU5DNTNHaW5oSjQ3eUpzN2FEeEVZRGp2OFE4SnZsWTdQN3",
+    "sources": []
+  },
+  {
+    "id": "makino-2026-04-22-011",
+    "date": "2026-04-22",
+    "companies": [
+      "makino"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Japan moves to block MBK's Makino machine tool takeover on security grounds - Nikkei Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPSWFLb0dYcXhCQkh3cXZ4cFRRRVQ2bkJZbUwyUnlXbkhyaU5ObFlNYnlibmFNRUNzS1pUSWJJcFZFcTZ3Qmg3T25NN2tGYU02czR3c2JUUmdRRk42S3NqbEVCZzFBbTlLOVZOMHBmM0",
+    "sources": []
+  },
+  {
+    "id": "makino-2026-04-22-014",
+    "date": "2026-04-22",
+    "companies": [
+      "makino"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Japan moves to block Makino machine tool takeover on security concerns - Nikkei Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNWWhCelU3TkJMbVBYS1NtR2g5NmhiTGlHSmlGRXNBQVM2dGR4QnZXTEUzZU9STU1TV3Q1QjRuVlg4bkthc1FhX2t1VDFSSVcxRGdXVzIxWVR1ZGxTRERGaTk0c2JnMUxQbnpsc1U0N3",
+    "sources": []
+  },
+  {
+    "id": "itw-2026-04-22-017",
+    "date": "2026-04-22",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Does Illinois Tool Works (ITW) Still Offer Value After A 17.6% One-Year Share Price Gain? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcGFjb1lTQzVQNFRhTVZQOWN1U3dVbVpjN2otd0IyeHQ2akV5YWJoRXk0NzEwbS1aaXVtSDlzR0NiU0xEV0ZzLTljYmRIOERJbDlzOXJ3MVkweFc1YUd6ckV5cjlqM1BxWGlXWVRZMX",
+    "sources": []
+  },
+  {
+    "id": "parker_hannifin-2026-04-22-020",
+    "date": "2026-04-22",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (PH) Q1 2025 Earnings Transcript - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQmxVY3puUXU1ckRYZUN5UkZIUDNKY3B3SzBFb3A3Z3NCNnZkdUJ3NHNFdkprQjdDQWh1TEs5MWJGWmpBV2I5dzlCZW9hVnZ6QW84aXY2c1RCNl8yT05JX3FBc1NwdW1hMkpTRnJoTU",
+    "sources": []
+  },
+  {
+    "id": "parker_hannifin-2026-04-22-021",
+    "date": "2026-04-22",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Q3 dividend preview: 9-year streak set for another raise - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNaG5heWtENmtpbG83ZkNtWXIyZWlVenRWMHljeE9mMTVoZTFHYjlZU3JCa3JMTnFReE9zUE9aTFhJcXRZdGdCbFZKb29BejZRR3l2NVlHMDlRako3LU1LejF1UmIwVEZNdVJqeFBaV0",
+    "sources": []
+  },
+  {
+    "id": "parker_hannifin-2026-04-22-022",
+    "date": "2026-04-22",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Does Parker-Hannifin (NYSE:PH) Deserve A Spot On Your Watchlist? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQVnM1V0dKVnZpdFNpRXNjX1RUdS11UW5JYWNaRDRlWXJDZk42aFhzeHFNdUwxWk44STN3S0xZQ1hacWZhSk1SdXM1SWcyNmhISmtsaHhoMDNWci1KdlJ2ejFQM3k5UUNNZHVEZFpHd1",
+    "sources": []
+  },
+  {
+    "id": "parker_hannifin-2026-04-22-023",
+    "date": "2026-04-22",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker Launches its Second-Generation Global Vehicle Motor Series - impeller.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQODVEMEk4RnFLY0JZMElyQW1qWnVnSTFOVVBaMHBjejZlS2MtRlN0Tm1vSDd4T3duYVRaNkVKSHl5N1Rjb0hnQ0gyVmxsREdLMmtvd0pmQUM3aXZaaGVZMzBUUkVGTExSUVpYQ21UVl",
+    "sources": []
+  },
+  {
+    "id": "parker_hannifin-2026-04-22-025",
+    "date": "2026-04-22",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "KLP Kapitalforvaltning AS Has $42.80 Million Stock Holdings in Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYWtBeWI3Y0VZUV8wY0lPTzhXOXZNSGdpa0FvUlg3MXBlcjhMMlBWR0M5cnNXR0lrN2wxQmpOQmNCYUxiM2VDUEtlVTZudkVjdG50QXpJVV9jUGNoQ2NNMXhkbjV1M2M5YWFiZWxDb1",
+    "sources": []
+  },
+  {
+    "id": "caterpillar-2026-04-22-028",
+    "date": "2026-04-22",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar elects new CFO; Volvo CE names dealer of year - Equipment World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPWk00d3JTQkQ4Mmcza3hVd1Byd05YWHlQVjNaaHY0WHhKTElIMVdWU1RMb3RZNHg0czlvZUdCSFJieDA0Sm90VTk2MnRZUmk5WGQ2dGR1LU1Sb1JNQThybFBzN09SM092VjdFUTdYWj",
     "sources": []
   },
   {
@@ -1882,6 +2163,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-04-13-034",
+    "date": "2026-04-13",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "The Rationale for Persistent Infrastructure Identity in Manufacturing and Robotics - Robotics Tomorrow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSlc0MVJjQXlGM3BNYi1FLU1GZlU3ZDV3ZnJUU1FoRmVSMHY1YzcyTW02ZXItV0s3Yk90eEJqVVZ3dURvQzM2WG9GYVB3bm51TUVWazM0ejRCX1Rfa3o2ZE9QY1VjaUtyanpWN2dYNU",
+    "sources": []
+  },
+  {
     "id": "keyence-2026-04-12-030",
     "date": "2026-04-12",
     "companies": [
@@ -2272,6 +2565,20 @@
     "sources": []
   },
   {
+    "id": "itw-2026-04-08-018",
+    "date": "2026-04-08",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What to Expect From Illinois Tool Works’ Q1 2026 Earnings Report - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVNSRFdJZG9ITG5FX1I2LV94d0o0cXlFUXRoVWVjMDY5ejBjTW03a1RPU09HX1hSemVaUHhQSVkwcFlWZ2pZSXVRWFRYSkNUdU1OWDh6bjJfSDBweEROc1laMlVabWpfeTFwV29aeG",
+    "sources": []
+  },
+  {
     "id": "mitsubishi_electric-2026-04-07-090",
     "date": "2026-04-07",
     "companies": [
@@ -2570,6 +2877,20 @@
     "sources": []
   },
   {
+    "id": "mitsubishi_electric-2026-03-31-008",
+    "date": "2026-03-31",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Group Launches New Corporate Philosophy - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOeU5GMm1taFhuR0RKSk1wN2NJX0hsU3FQcC1aeXBNZTNRaUt3Z29NV2cwa19JRXprVjdGeHd3UzVsQ3MxdmhuSmVhTmo2N3U3VjQySl9taWRzYWhiTTJabmtsc05sUFd5SHBrYzVCSm",
+    "sources": []
+  },
+  {
     "id": "mitsubishi_electric-2026-03-30-015",
     "date": "2026-03-30",
     "companies": [
@@ -2645,6 +2966,20 @@
     "impact": "neutral",
     "title": "Rohm, Toshiba, Mitsubishi Electric to begin power chip integration talks, Nikkei says - Reuters",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOdGs3bGMzODV2VmZQRW91YUpkRlQ4cVRMN3k0SmtLYUsxY0gtNG9nb3UzWDVWV081ckh6LTA3bHJfRUJsQzZZNEtkUGREV1NBVlZpc3JwQnMtV2hOWllhd0RhSjRXSGpaSlFuZVhqNl",
+    "sources": []
+  },
+  {
+    "id": "mitsubishi_electric-2026-03-26-009",
+    "date": "2026-03-26",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rohm, Toshiba, Mitsubishi Electric to begin power chip integration talks, Nikkei says - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNc2thQnN2RjVVMGlYRk1vd3JVQV8wakVNT0JDUDg0Y1FMRVpLX2lmdnhkZkhHNmREQzVfQ2pWSzBNYTlPOTA2azBLT3RBOGY2dGU3UlJhcF9PNHFhenVwNGxKOHBkX01OMEw3S19vak",
     "sources": []
   },
   {
@@ -3606,6 +3941,21 @@
     "sources": []
   },
   {
+    "id": "abb-2026-02-02-006",
+    "date": "2026-02-02",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ABB’s Automation Extended: Flexible, Open, Sustainable - ARC Advisory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQaVA4MGNLMWM3NnctdEZ3bjhFaDlpUURRSjVLNjRlS0JjOUJ0Zi1Xc2FOVkgyVGN3T2FTRDdZWmlVa1hIQWd4M2NrTDdaLVQ4eUlVTHY2NlBhQW1fQjQtX0x3RWtab0Nxb2Vra2dMVH",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-01-30-020",
     "date": "2026-01-30",
     "companies": [],
@@ -3810,6 +4160,19 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-01-08-035",
+    "date": "2026-01-08",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Robot-Driven Manufacturing Enables \"Lights-Out\" Production - Robotics Tomorrow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQS2kyUExYUXdvNWc4WXk0dld3MWtvWV9qUFZocmRLUnQtNzFNSnNJbW5rTWFlbE5VMldkam9Yd3BvNEp2bnNReS1uVEs5Y1FuOWZhZkpDNXdfSDZmOUJHb3ktZDFBWnZMdGw2dnlNWk",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-01-07-023",
     "date": "2026-01-07",
     "companies": [],
@@ -3847,6 +4210,19 @@
     ],
     "impact": "neutral",
     "title": "2025 Top Article - Redefining industries with robotics and AI - RoboticsTomorrow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVElvMTE1cGhicjZHcUhNeHB4cFdmX01PdXgzYnVOdlZ0aTd1WUJNNkExX2hFa2x4UlF0OXFyZllhd3NzYjlNMXRyTFluWWdvR0VHMjF5MjNvaXBOdWRKY2lieFVrSGs4XzE1VXIxNn",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-12-30-036",
+    "date": "2025-12-30",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "2025 Top Article - Redefining industries with robotics and AI - Robotics Tomorrow",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVElvMTE1cGhicjZHcUhNeHB4cFdmX01PdXgzYnVOdlZ0aTd1WUJNNkExX2hFa2x4UlF0OXFyZllhd3NzYjlNMXRyTFluWWdvR0VHMjF5MjNvaXBOdWRKY2lieFVrSGs4XzE1VXIxNn",
     "sources": []
   },
@@ -4549,6 +4925,20 @@
     "sources": []
   },
   {
+    "id": "keyence-2025-07-06-002",
+    "date": "2025-07-06",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Keyence: Japanese Automation Star, But Wait For A Better Entry Point - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3VfRVhxTGhPOUhqcnVYMGxVVjQ4NGpuQVVNZDRkOWhwVldfSVk0RXhkRFBwUlNjd2J3VHNzWElLZERiZS01NTdkOFdJdEVUN0hsOTVBUEdMeHlwSkFyb2lfUy0zMmE2NjB5MzkxS0",
+    "sources": []
+  },
+  {
     "id": "keyence-2025-06-27-032",
     "date": "2025-06-27",
     "companies": [
@@ -4615,6 +5005,20 @@
     "impact": "neutral",
     "title": "Okuma America Corporation Names Morris Group, Inc. the Okuma Distributor of the Year for Fiscal 2024 - PR Newswire",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQd1doRlVNSjNJb0RMdURINWlWOGI2QUF6OThBN2w1ejdWYnBDRkNwUW52c19RRU5XemhhbnRsQ1hCR2lZTHJBamNQQXJXSWF2VmtXb1p5a2FqNFZHamtYaU14NjdvQ3NhNjBvQjBaVE",
+    "sources": []
+  },
+  {
+    "id": "keyence-2025-05-30-001",
+    "date": "2025-05-30",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "KEYENCE Acquires CADENAS to Strengthen Digital Engineering and Automation Ecosystem - Metrology and Quality News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOck1FalBCNHJXUUVkOHZlN2phUEkyZ3BzSzhDVjdCZEp0MzFoN0VpUzZpNlR3cEh0X1dFMEFpN3lKSGdVNkdmTm9oS0NwOGMyVlZhcTZkcTg0TXdNcmFhRkU0eURLemRCbFVhUnRXNU",
     "sources": []
   },
   {
@@ -4851,6 +5255,20 @@
     "impact": "neutral",
     "title": "Japan's Nidec takes aim at Makino Milling with $1.6 bln unsolicited bid - Reuters",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYS1RVVhIVWg5Wk9wVmEzU0VLeXVBVEg2RW5TU3J6RGh2cVhCTmpITnV1OWk1amtXNWxYWXprVDlGUkxYT1hsX1g4TFA4cWF2dmRwS1NyN09WNW1LMm9YMTBxUVY5Vk5VS21YSll6em",
+    "sources": []
+  },
+  {
+    "id": "fanuc-2024-11-20-003",
+    "date": "2024-11-20",
+    "companies": [
+      "fanuc"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "New FANUC heavyweight industrial robot can lift up to 500 kg - The Robot Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2F5N2VRdEhscHp5dHhYSENOQVFrY3o5WDBoa0lKdTlXQy10UGpVTU50aEdyZEpQalAtRHd0czkxVGpSd1BBOXBSY3FRWFo4SGlnTUhCQnJfeVVQUjNPMGFaY2RPcXVSY3hxR2JJeV",
     "sources": []
   },
   {
@@ -5144,6 +5562,18 @@
     "impact": "neutral",
     "title": "Sato Back with RLL for Drive toward Third Indy 500 Win - INDYCAR.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pWlYybWZtT2ZyV1BXQ21FbVVNSGlJSWt1N2Z2ZDNINzZHMXQ2QU9pSW9Wd25JLXVLaUNObEFzSUJuSWtqZWJfdXZaWXVTN0gyY0R0Yks5ZTFWcURqd1cyWWNucw?oc=5\" target=\"_",
+    "sources": []
+  },
+  {
+    "id": "unknown-2024-02-05-015",
+    "date": "2024-02-05",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan-made machinery is still sold in Russia, what can the manufacturers do about it?｜Industry｜2024-02-05 - 天下雜誌",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NNDNkTWRIdnBJUVhYUTk3Y3lQeXBlU3U3Rmx4ZTlsOTk4azhCZlJMbm9kZHVIdDBwNHFzbXZjQlRBWkNlaklQVzY1SXA5emJWNHZEVTFFV1RwMXhta2xMNWN6Tjd5ZnM?oc=5\" targ",
     "sources": []
   },
   {
@@ -5758,6 +6188,20 @@
     "sources": []
   },
   {
+    "id": "fanuc-2020-12-02-004",
+    "date": "2020-12-02",
+    "companies": [
+      "fanuc"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "FANUC America and Plus One Robotics Deliver State-of-the-Art Automation Solutions to E-Commerce Fulfillment Customers - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQUTFMdW1fNjU5V0d6NFFwWXAxcF9nS083THN3TlRvZ1BuemlQSmk1VXRibHhwMXAyY01TWVhJZXBJbmJtRG9zeFVpSXZkM3p3ei1FaGZWMXNKdHNUdzRmb0dYQmtyb2VROFZWNmlCVE",
+    "sources": []
+  },
+  {
     "id": "makino-2020-11-16-006",
     "date": "2020-11-16",
     "companies": [
@@ -5916,6 +6360,18 @@
     "impact": "neutral",
     "title": "ACI Machine Tool Sales added to Toyoda Americas distributor network - Aerospace Manufacturing and Design",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQcWNsUGFlYWwwZEhxT1JDMHFMSnFiSERFRjVIVmlZNEhXb1hnNldkNGhkQXBJU3lSNWItcWhidXlMV0dIVWxOaWNQWndxSEU3Q2lLbm9fbnBWYUw2TTNuaFpPQ1VpdzhkZ3E0S1d3Rl",
+    "sources": []
+  },
+  {
+    "id": "unknown-2018-02-01-010",
+    "date": "2018-02-01",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Looking for parts-sorting automation for fiber lasers - The Fabricator",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGdqb185Z3FnMlR3TkFDVC16LXBJRHZjUlJqOEs1X1gtMV9iRjlHZ3VPRjhsdmtJYjI5dE5YZnpqVEx0WjNJb2lqSWZhYmhBZ3V5QUZEcHpCaS0wVVRGU3cyR1JucEVvZU0zdmZDaj",
     "sources": []
   },
   {

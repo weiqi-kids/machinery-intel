@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-04-22T09:13:19.367023Z",
-  "quarter": "2025-09-30, 2025-12-31",
+  "updated_at": "2026-04-23T09:20:01.395433Z",
+  "quarter": "2025-09-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "abb",
       "name": "ABB",
       "ticker": "ABBN.SW",
       "currency": "CHF",
-      "ar": 7162000000,
-      "ar_prev": 7949000000,
-      "ar_qoq": "-10%",
-      "inventory": 5669000000,
-      "inv_prev": 6396000000,
-      "inv_qoq": "-11%",
+      "ar": 7606000000,
+      "ar_prev": 7162000000,
+      "ar_qoq": "+6%",
+      "inventory": 6056000000,
+      "inv_prev": 5669000000,
+      "inv_qoq": "+7%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "airtac",

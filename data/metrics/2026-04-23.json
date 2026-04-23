@@ -1,0 +1,49 @@
+{
+  "date": "2026-04-23",
+  "total_events": 10,
+  "by_company": {
+    "abb": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "makino": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "itw": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "parker_hannifin": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "automation_capex": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.06
+    },
+    "cnc_technology": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
