@@ -1,16 +1,16 @@
 {
-  "total_raw": 361,
-  "dup_title": 248,
+  "total_raw": 370,
+  "dup_title": 246,
   "no_date": 0,
-  "too_old": 90,
-  "gate1_fail": 3,
-  "gate2_fail": 19,
-  "passed": 1,
+  "too_old": 95,
+  "gate1_fail": 4,
+  "gate2_fail": 20,
+  "passed": 5,
   "gate2_samples": [
+    "Zach Johnson remains atop after Round 2 of Mitsubishi Electric Classic presented by Vensure - PGA To",
     "Thongchai Jaidee makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
-    "Søren Kjeldsen makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
-    "Retief Goosen makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
     "Alex Cejka makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
-    "Zach Johnson makes birdie on No. 15 at Mitsubishi Electric Classic - PGA Tour"
+    "Stewart Cink makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
+    "Retief Goosen makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour"
   ]
 }
