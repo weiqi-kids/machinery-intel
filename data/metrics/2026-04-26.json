@@ -1,23 +1,39 @@
 {
   "date": "2026-04-26",
-  "total_events": 5,
+  "total_events": 15,
   "by_company": {
     "caterpillar": {
-      "count": 3,
+      "count": 7,
       "sentiment_avg": 0.0
     },
     "parker_hannifin": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "mitsubishi_electric": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "itw": {
       "count": 2,
       "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "automation_capex": {
-      "count": 2,
+      "count": 4,
       "sentiment_avg": 0.0
     },
     "earnings": {
-      "count": 4,
+      "count": 10,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "cnc_technology": {
+      "count": 1,
       "sentiment_avg": 0.0
     }
   },

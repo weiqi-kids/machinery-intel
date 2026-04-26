@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T08:53:05.226678Z",
+  "generated_at": "2026-04-26T14:10:37.118366Z",
   "top_events": [
     {
       "rank": 1,
@@ -102,29 +102,34 @@
     },
     {
       "rank": 5,
-      "event_id": "parker_hannifin-2026-04-26-002",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "StockStory Analysis: AIG, Parker Hannifin, Waters Corp – Large-Cap Stock Insights - News and Statistics - IndexBox",
+      "event_id": "mitsubishi_electric-2026-04-26-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "2026 Mitsubishi Electric Classic format, Modified Stableford points, cut rules and playoff format - Golf News Net",
       "companies": [
-        "parker_hannifin"
+        "mitsubishi_electric"
       ],
       "related": {
         "customers": [],
         "suppliers": []
       },
-      "topics": [],
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcWM5ZjJVYWlrYjdhNjE1bS12S2RVbm5aMGhoM1pVdTFtbEFjNlJjOFpWZkJlZWVZbEJRYkFMajVFbG1WdjBPNFhGVjdXQzM3NjJmLWNoem1qRXdVSWxqaXcxYTdmUy10TkJHeTliOUVwbHNwYWRuSjE5ZmVIMWZkdXZLVHlxb1l1X0ZPaQ?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZkRsMFJOV1l6blNHQWJZQnU5c21zTWxKNzE3ZGVkV3lWRnA0TjE5TC1lSHpNdzFjTmx5WFRQejNRTHVaN1NHOG9RYmlBWUlQc0dWR0xWdF95SWg1aFJFRVB3LWUzVkJSWS1nRmg5ZnhDQnZmdmhmTDQzcmxjU3J5UzFabFV3VXhiTWVqbWJOTzN3QlV2NnJTR2p1TU82Z1NXR3Z0YjVqX0JWaDV1QkNNWkQ4Nk9USWpqamN3b0I0Uzh0ZkttSW55M0JkVmczdVkzbUZVMk8zSkZuVTlmajg3YWF1WjdBcFctbkdhMHRR?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "automation_capex": {
-      "today": 2,
+      "today": 4,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -134,7 +139,27 @@
       "sentiment_7d_avg": null
     },
     "earnings": {
-      "today": 4,
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cnc_technology": {
+      "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -146,42 +171,58 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 5,
+    "total_events": 15,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 5,
+      "neutral": 15,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "caterpillar",
-        "count": 3
+        "count": 7
       },
       {
         "id": "parker_hannifin",
+        "count": 4
+      },
+      {
+        "id": "itw",
         "count": 2
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "earnings",
-        "count": 4
+        "count": 10
+      },
+      {
+        "id": "industry_general",
+        "count": 6
       },
       {
         "id": "automation_capex",
-        "count": 2
+        "count": 4
+      },
+      {
+        "id": "cnc_technology",
+        "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 370,
-    "dup_title": 246,
-    "too_old": 95,
-    "gate1_blocked": 4,
-    "gate2_blocked": 20,
-    "passed": 5,
-    "pass_rate": "4.0%",
-    "gate2_block_rate": "16.1%",
+    "total_raw": 763,
+    "dup_title": 481,
+    "too_old": 210,
+    "gate1_blocked": 8,
+    "gate2_blocked": 27,
+    "passed": 37,
+    "pass_rate": "13.1%",
+    "gate2_block_rate": "9.6%",
     "gate2_samples": [
       "Zach Johnson remains atop after Round 2 of Mitsubishi Electric Classic presented by Vensure - PGA To",
       "Thongchai Jaidee makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
@@ -192,7 +233,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 5 則事件，焦點為CAT、Parker相關動態：「Stock Analysis: Target Hospitality, Caterpillar, and Cohe...」。主要關注主題為財報、自動化資本支出，市場情緒中性。",
+    "summary": "今日共 15 則事件，焦點為CAT、Parker、ITW相關動態：「Stock Analysis: Target Hospitality, Caterpillar, and Cohe...」。主要關注主題為財報、產業通用、自動化資本支出，市場情緒中性。",
     "signals": [
       {
         "text": "Stock Analysis: Target Hospitality, Caterpillar, and Coherent – Risks and Pot...（自動化資本支出、財報）",

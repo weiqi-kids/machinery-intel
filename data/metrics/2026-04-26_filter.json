@@ -1,11 +1,11 @@
 {
-  "total_raw": 370,
-  "dup_title": 246,
+  "total_raw": 763,
+  "dup_title": 481,
   "no_date": 0,
-  "too_old": 95,
-  "gate1_fail": 4,
-  "gate2_fail": 20,
-  "passed": 5,
+  "too_old": 210,
+  "gate1_fail": 8,
+  "gate2_fail": 27,
+  "passed": 37,
   "gate2_samples": [
     "Zach Johnson remains atop after Round 2 of Mitsubishi Electric Classic presented by Vensure - PGA To",
     "Thongchai Jaidee makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
