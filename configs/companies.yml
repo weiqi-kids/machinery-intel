@@ -198,7 +198,8 @@ companies:
   - itw
   - caterpillar
   - parker_hannifin
-  fetch_mode: http
+  fetch_mode: rss
+  ir_rss_url: https://blog.se.com/feed
 - id: mitsubishi_electric
   name: 三菱電機
   aliases:
