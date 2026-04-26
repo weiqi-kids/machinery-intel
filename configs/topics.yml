@@ -132,3 +132,51 @@ topics:
     - 預測
     - 下季預估
     - production forecast
+  industry_general:
+    display: 產業通用
+    keywords:
+    - machine
+    - machinery
+    - robot
+    - robotics
+    - automation
+    - CNC
+    - lathe
+    - industrial
+    - manufacturing
+    - assembly
+    - 機械
+    - 自動化
+    - 工具機
+    - machining
+    - milling
+    - grinding
+    - turning
+    - spindle
+    - servo
+    - actuator
+    - conveyor
+    - hydraulic
+    - pneumatic
+    - motion
+    - motor
+    - precision
+    - coolant
+    - tooling
+    - cutting
+    - sensor
+    - controller
+    - linear
+    - drive
+    - supplier
+    - prototype
+    - stock
+    - shares
+    - bid
+    - EV
+    - semiconductor
+    - renewable
+    - 馬達
+    - 感測器
+    - 控制器
+    - 驅動
