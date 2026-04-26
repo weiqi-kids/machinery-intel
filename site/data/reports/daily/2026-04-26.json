@@ -1,0 +1,93 @@
+{
+  "date": "2026-04-26",
+  "generated_at": "2026-04-26T03:20:03.923804Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "caterpillar-2026-04-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Stock Analysis: Target Hospitality, Caterpillar, and Coherent – Risks and Potential - News and Statistics - IndexBox",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRVV2dkRfa3JPNkx5WThNS1RRVEVYWjQ1ZE5tZ1hsZURLb1pZV2JRNmREdW53WDZOc09iVFVKV1FaeTRYY0VyQVFXQV9WN0NzM213ZmVVS1pGemc1dFdZU21neXJzdkRZNlJFd0V2U25DV2YwRVBhNExKa3V5WU93bEQyX0JsNnBmd1JHbnlZUmx6eDF6?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為CAT相關動態：「Stock Analysis: Target Hospitality, Caterpillar, and Cohe...」。主要關注主題為自動化資本支出、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Stock Analysis: Target Hospitality, Caterpillar, and Coherent – Risks and Pot...（自動化資本支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "CAT為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
