@@ -1,10 +1,16 @@
 {
-  "total_raw": 0,
-  "dup_title": 0,
+  "total_raw": 361,
+  "dup_title": 248,
   "no_date": 0,
-  "too_old": 0,
-  "gate1_fail": 0,
-  "gate2_fail": 0,
-  "passed": 0,
-  "gate2_samples": []
+  "too_old": 90,
+  "gate1_fail": 3,
+  "gate2_fail": 19,
+  "passed": 1,
+  "gate2_samples": [
+    "Thongchai Jaidee makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
+    "Søren Kjeldsen makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
+    "Retief Goosen makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
+    "Alex Cejka makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
+    "Zach Johnson makes birdie on No. 15 at Mitsubishi Electric Classic - PGA Tour"
+  ]
 }
