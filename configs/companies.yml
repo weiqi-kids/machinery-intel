@@ -19,6 +19,7 @@ companies:
   - makino
   - tongtai
   - goodway
+  fetch_mode: http
 - id: thk
   name: THK
   aliases:
@@ -37,6 +38,7 @@ companies:
   - amada
   - makino
   - jtekt
+  fetch_mode: http
 - id: airtac
   name: 亞德客國際
   aliases:
@@ -57,6 +59,7 @@ companies:
   - goodway
   - itw
   - caterpillar
+  fetch_mode: http
 - id: keyence
   name: 基恩斯
   aliases:
@@ -78,6 +81,7 @@ companies:
   - jtekt
   - itw
   - caterpillar
+  fetch_mode: http
 - id: delta
   name: 台達電子
   aliases:
@@ -97,6 +101,7 @@ companies:
   - tongtai
   - goodway
   - itw
+  fetch_mode: http
 - id: fanuc
   name: 發那科
   aliases:
@@ -118,6 +123,7 @@ companies:
   - jtekt
   - tongtai
   - goodway
+  fetch_mode: http
 - id: siemens
   name: 西門子
   aliases:
@@ -137,6 +143,7 @@ companies:
   - itw
   - caterpillar
   - parker_hannifin
+  fetch_mode: http
 - id: abb
   name: ABB
   aliases: []
@@ -154,6 +161,7 @@ companies:
   - itw
   - caterpillar
   - parker_hannifin
+  fetch_mode: http
 - id: rockwell
   name: Rockwell Automation
   aliases:
@@ -171,6 +179,7 @@ companies:
   - lincoln_electric
   - parker_hannifin
   - caterpillar
+  fetch_mode: http
 - id: schneider
   name: 施耐德電機
   aliases:
@@ -189,6 +198,7 @@ companies:
   - itw
   - caterpillar
   - parker_hannifin
+  fetch_mode: http
 - id: mitsubishi_electric
   name: 三菱電機
   aliases:
@@ -210,6 +220,7 @@ companies:
   - jtekt
   - tongtai
   - goodway
+  fetch_mode: http
 - id: dmg_mori
   name: 德馬吉森精機
   aliases:
@@ -239,6 +250,7 @@ companies:
   - lincoln_electric
   - parker_hannifin
   - caterpillar
+  fetch_mode: http
 - id: okuma
   name: 大隈
   aliases:
@@ -267,6 +279,8 @@ companies:
   - lincoln_electric
   - parker_hannifin
   - caterpillar
+  ir_rss_url: https://www.okuma.co.jp/feed/
+  fetch_mode: rss
 - id: amada
   name: 天田
   aliases:
@@ -291,6 +305,7 @@ companies:
   - itw
   - parker_hannifin
   - caterpillar
+  fetch_mode: http
 - id: makino
   name: 牧野
   aliases:
@@ -314,6 +329,7 @@ companies:
   - itw
   - parker_hannifin
   - caterpillar
+  fetch_mode: http
 - id: jtekt
   name: 捷太格特
   aliases:
@@ -335,6 +351,7 @@ companies:
   downstream:
   - itw
   - caterpillar
+  fetch_mode: http
 - id: tongtai
   name: 東台精機
   aliases:
@@ -357,6 +374,7 @@ companies:
   downstream:
   - itw
   - caterpillar
+  fetch_mode: http
 - id: goodway
   name: 程泰機械
   aliases:
@@ -379,6 +397,7 @@ companies:
   downstream:
   - itw
   - caterpillar
+  fetch_mode: http
 - id: itw
   name: Illinois Tool Works
   aliases:
@@ -406,6 +425,7 @@ companies:
   - abb
   - rockwell
   - schneider
+  fetch_mode: http
 - id: lincoln_electric
   name: Lincoln Electric
   aliases:
@@ -422,6 +442,7 @@ companies:
   - dmg_mori
   - okuma
   - rockwell
+  fetch_mode: http
 - id: parker_hannifin
   name: Parker Hannifin
   aliases:
@@ -444,6 +465,8 @@ companies:
   - abb
   - rockwell
   - schneider
+  ir_rss_url: https://investors.parker.com/rss/news-releases.xml
+  fetch_mode: rss
 - id: caterpillar
   name: Caterpillar
   aliases:
@@ -471,6 +494,7 @@ companies:
   - abb
   - rockwell
   - schneider
+  fetch_mode: http
 etfs:
 - id: robo_etf
   name: Robo Global Robotics and Automation Index ETF
