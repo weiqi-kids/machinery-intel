@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T01:41:39.844022Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 395,
+    "dup_title": 251,
+    "too_old": 116,
+    "gate1_blocked": 4,
+    "gate2_blocked": 10,
+    "passed": 14,
+    "pass_rate": "9.7%",
+    "gate2_block_rate": "6.9%",
+    "gate2_samples": [
+      "Why smart homes still feel complicated (and how that’s changing)",
+      "David Duval makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
+      "Stephen Ames makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
+      "Alex Cejka makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
+      "2026 Mitsubishi Electric Classic money: Purse, winner's share, updated PGA Tour Champions prize mone"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-04-27 無工具機產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

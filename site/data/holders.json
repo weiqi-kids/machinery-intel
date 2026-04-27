@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T14:10:36.613994+00:00",
+  "updated_at": "2026-04-27T01:41:39.400356+00:00",
   "companies": {
     "hiwin": {
       "name": "上銀科技",
@@ -77,61 +77,61 @@
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 1532008,
           "pct_held": 1.29,
-          "value": 8347911592
+          "value": 8706401464
         },
         {
           "holder": "HARTFORD MUTUAL FUNDS INC/CT-The Hartford International Value Fund",
           "shares": 1140930,
           "pct_held": 0.96,
-          "value": 6216927570
+          "value": 6483905190
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 1003386,
           "pct_held": 0.84,
-          "value": 5467450314
+          "value": 5702242638
         },
         {
           "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
           "shares": 762400,
           "pct_held": 0.64,
-          "value": 4154317600
+          "value": 4332719200
         },
         {
           "holder": "Exch TRADED CONCEPTS TRT-ROBO Global Robotics and Automation Index ETF",
           "shares": 633300,
           "pct_held": 0.53,
-          "value": 3450851700
+          "value": 3599043900
         },
         {
           "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
           "shares": 417400,
           "pct_held": 0.35,
-          "value": 2274412600
+          "value": 2372084200
         },
         {
           "holder": "WisdomTree Trust-WisdomTree Japan Hedged Equity Fund",
           "shares": 360600,
           "pct_held": 0.3,
-          "value": 1964909400
+          "value": 2049289800
         },
         {
           "holder": "Japan Smaller Capitalization Fund, Inc.",
           "shares": 242100,
           "pct_held": 0.2,
-          "value": 1319202900
+          "value": 1375854300
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Index Fd.",
           "shares": 232521,
           "pct_held": 0.2,
-          "value": 1267006929
+          "value": 1321416843
         },
         {
           "holder": "SCHWAB STRATEGIC TRUST-Schwab International Equity ETF",
           "shares": 227542,
           "pct_held": 0.19,
-          "value": 1239876358
+          "value": 1293121186
         }
       ]
     },
@@ -144,25 +144,25 @@
           "holder": "Boston Common Asset Management, LLC",
           "shares": 1371,
           "pct_held": 0.0,
-          "value": 86619780
+          "value": 100329780
         },
         {
           "holder": "Richardson Financial Services Inc.                          ",
           "shares": 1,
           "pct_held": 0.0,
-          "value": 63180
+          "value": 73180
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 1698,
           "pct_held": 0.0,
-          "value": 107279640
+          "value": 124259640
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 33,
           "pct_held": 0.0,
-          "value": 2084940
+          "value": 2414940
         }
       ]
     },
@@ -175,25 +175,25 @@
           "holder": "Aristotle Capital Management, LLC",
           "shares": 1657025,
           "pct_held": 0.17,
-          "value": 10366348400
+          "value": 11875898175
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 39000,
           "pct_held": 0.0,
-          "value": 243984000
+          "value": 279513000
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 11500,
           "pct_held": 0.0,
-          "value": 71944000
+          "value": 82420500
         },
         {
           "holder": "Huntington National Bank",
           "shares": 1,
           "pct_held": 0.0,
-          "value": 6256
+          "value": 7167
         }
       ]
     },
@@ -366,19 +366,19 @@
           "holder": "Boston Common Asset Management, LLC",
           "shares": 10982,
           "pct_held": 0.0,
-          "value": 65881018
+          "value": 66605830
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 52000,
           "pct_held": 0.0,
-          "value": 311948000
+          "value": 315380000
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 21886,
           "pct_held": 0.0,
-          "value": 131294114
+          "value": 132738590
         }
       ]
     },
@@ -391,61 +391,61 @@
           "holder": "HARTFORD MUTUAL FUNDS INC/CT-The Hartford International Value Fund",
           "shares": 931770,
           "pct_held": 1.38,
-          "value": 3885480900
+          "value": 4039222950
         },
         {
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 667452,
           "pct_held": 0.99,
-          "value": 2783274840
+          "value": 2893404420
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 435402,
           "pct_held": 0.64,
-          "value": 1815626340
+          "value": 1887467670
         },
         {
           "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
           "shares": 281600,
           "pct_held": 0.42,
-          "value": 1174272000
+          "value": 1220736000
         },
         {
           "holder": "DFA INVESTMENT TRUST CO-The Japanese Small Company Series",
           "shares": 234600,
           "pct_held": 0.35,
-          "value": 978282000
+          "value": 1016991000
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Core Eqy. 2 PORT.",
           "shares": 221500,
           "pct_held": 0.33,
-          "value": 923655000
+          "value": 960202500
         },
         {
           "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
           "shares": 169000,
           "pct_held": 0.25,
-          "value": 704730000
+          "value": 732615000
         },
         {
           "holder": "Dimensional ETF Trust-Dimensional International Small Cap ETF",
           "shares": 163900,
           "pct_held": 0.24,
-          "value": 683463000
+          "value": 710506500
         },
         {
           "holder": "SCHWAB STRATEGIC TRUST-Schwab International Equity ETF",
           "shares": 112380,
           "pct_held": 0.17,
-          "value": 468624600
+          "value": 487167300
         },
         {
           "holder": "WisdomTree Trust-WisdomTree Japan Hedged Equity Fund",
           "shares": 99600,
           "pct_held": 0.15,
-          "value": 415332000
+          "value": 431766000
         }
       ]
     },
@@ -458,7 +458,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 411,
           "pct_held": 0.0,
-          "value": 1039419
+          "value": 1066339
         }
       ]
     },
@@ -471,61 +471,61 @@
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-DFA Intl Small Cap Value PORT.",
           "shares": 341012,
           "pct_held": 1.37,
-          "value": 4020531480
+          "value": 4006891000
         },
         {
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 295529,
           "pct_held": 1.19,
-          "value": 3484286910
+          "value": 3472465750
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 191033,
           "pct_held": 0.77,
-          "value": 2252279070
+          "value": 2244637750
         },
         {
           "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
           "shares": 164900,
           "pct_held": 0.66,
-          "value": 1944171000
+          "value": 1937575000
         },
         {
           "holder": "DFA INVESTMENT TRUST CO-The Japanese Small Company Series",
           "shares": 128800,
           "pct_held": 0.52,
-          "value": 1518552000
+          "value": 1513400000
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-Intl Core Eqy. 2 PORT.",
           "shares": 113188,
           "pct_held": 0.45,
-          "value": 1334486520
+          "value": 1329959000
         },
         {
           "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
           "shares": 92200,
           "pct_held": 0.37,
-          "value": 1087038000
+          "value": 1083350000
         },
         {
           "holder": "VANGUARD Intl Eqy. INDEX Fd.S-Vanguard FTSE All-World ex-US Small-Cap ",
           "shares": 74580,
           "pct_held": 0.3,
-          "value": 879298200
+          "value": 876315000
         },
         {
           "holder": "Dimensional ETF Trust-Dimensional International Small Cap Value ETF",
           "shares": 67900,
           "pct_held": 0.27,
-          "value": 800541000
+          "value": 797825000
         },
         {
           "holder": "American Century ETF Trust-Avantis International Equity ETF",
           "shares": 66200,
           "pct_held": 0.27,
-          "value": 780498000
+          "value": 777850000
         }
       ]
     },
@@ -538,61 +538,61 @@
           "holder": "American Century ETF Trust-Avantis International Small Cap Value ETF",
           "shares": 5395700,
           "pct_held": 1.69,
-          "value": 9075567400
+          "value": 9161898600
         },
         {
           "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
           "shares": 3315966,
           "pct_held": 1.04,
-          "value": 5577454812
+          "value": 5630510268
         },
         {
           "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
           "shares": 2108831,
           "pct_held": 0.66,
-          "value": 3547053742
+          "value": 3580795038
         },
         {
           "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
           "shares": 1432200,
           "pct_held": 0.45,
-          "value": 2408960400
+          "value": 2431875600
         },
         {
           "holder": "SCHWAB STRATEGIC TRUST-Schwab Fundamental International Equity ETF",
           "shares": 891590,
           "pct_held": 0.28,
-          "value": 1499654380
+          "value": 1513919820
         },
         {
           "holder": "DFA INVESTMENT TRUST CO-The Japanese Small Company Series",
           "shares": 893358,
           "pct_held": 0.28,
-          "value": 1502628156
+          "value": 1516921884
         },
         {
           "holder": "iShares Trust-iShares MSCI EAFE Small-Cap ETF",
           "shares": 855300,
           "pct_held": 0.27,
-          "value": 1438614600
+          "value": 1452299400
         },
         {
           "holder": "Dimensional ETF Trust-Dimensional International Small Cap Value ETF",
           "shares": 739960,
           "pct_held": 0.23,
-          "value": 1244612720
+          "value": 1256452080
         },
         {
           "holder": "DFA INVESTMENT DIMENSIONS GROUP INC-DFA Intl Small Cap Value PORT.",
           "shares": 614079,
           "pct_held": 0.19,
-          "value": 1032880878
+          "value": 1042706142
         },
         {
           "holder": "WisdomTree Trust-WisdomTree Japan Hedged Equity Fund",
           "shares": 554678,
           "pct_held": 0.17,
-          "value": 932968396
+          "value": 941843244
         }
       ]
     },
