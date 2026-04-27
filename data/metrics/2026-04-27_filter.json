@@ -1,11 +1,11 @@
 {
-  "total_raw": 791,
-  "dup_title": 507,
+  "total_raw": 1186,
+  "dup_title": 765,
   "no_date": 0,
-  "too_old": 234,
-  "gate1_fail": 8,
-  "gate2_fail": 20,
-  "passed": 22,
+  "too_old": 343,
+  "gate1_fail": 13,
+  "gate2_fail": 27,
+  "passed": 38,
   "gate2_samples": [
     "Why smart homes still feel complicated (and how that’s changing)",
     "David Duval makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",

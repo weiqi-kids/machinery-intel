@@ -4,7 +4,7 @@
     "start": "2026-04-21",
     "end": "2026-04-27"
   },
-  "generated_at": "2026-04-27T03:37:35.184536Z",
+  "generated_at": "2026-04-27T10:08:53.419843Z",
   "highlights": [
     {
       "rank": 1,
@@ -18,15 +18,15 @@
   "anomalies_7d": [],
   "topic_7d_summary": {
     "earnings": {
-      "this_week": 40,
+      "this_week": 44,
       "last_week": 17,
-      "week_over_week_change": "+135%",
-      "sentiment_this_week": 0.0
+      "week_over_week_change": "+159%",
+      "sentiment_this_week": 0.01
     },
     "automation_capex": {
-      "this_week": 17,
+      "this_week": 20,
       "last_week": 13,
-      "week_over_week_change": "+31%",
+      "week_over_week_change": "+54%",
       "sentiment_this_week": -0.0
     },
     "cnc_technology": {
@@ -36,42 +36,42 @@
       "sentiment_this_week": 0.0
     },
     "guidance": {
-      "this_week": 1,
+      "this_week": 2,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.0
+      "sentiment_this_week": 0.25
     },
     "industry_general": {
-      "this_week": 7,
+      "this_week": 11,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.0
+      "sentiment_this_week": 0.05
     }
   },
   "company_7d_summary": {
     "delta": {
-      "event_count": 2,
+      "event_count": 3,
       "sentiment_avg": 0.0,
-      "rank": 6
+      "rank": 4
     },
     "mitsubishi_electric": {
-      "event_count": 7,
+      "event_count": 9,
       "sentiment_avg": 0.0,
       "rank": 3
     },
     "dmg_mori": {
       "event_count": 3,
       "sentiment_avg": 0.0,
-      "rank": 4
+      "rank": 5
     },
     "parker_hannifin": {
-      "event_count": 11,
-      "sentiment_avg": -0.05,
+      "event_count": 12,
+      "sentiment_avg": -0.04,
       "rank": 2
     },
     "caterpillar": {
-      "event_count": 17,
-      "sentiment_avg": 0.0,
+      "event_count": 21,
+      "sentiment_avg": 0.02,
       "rank": 1
     },
     "abb": {
@@ -87,7 +87,7 @@
     "itw": {
       "event_count": 3,
       "sentiment_avg": 0.0,
-      "rank": 5
+      "rank": 6
     },
     "keyence": {
       "event_count": 1,
@@ -98,9 +98,9 @@
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 180,
+        "this": 196,
         "last": 107,
-        "change_pct": 68.2
+        "change_pct": 83.2
       }
     }
   },
@@ -117,12 +117,12 @@
     },
     {
       "date": "2026-04-23",
-      "event_count": 39,
+      "event_count": 42,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-24",
-      "event_count": 27,
+      "event_count": 30,
       "sentiment_avg": 0
     },
     {
@@ -132,29 +132,29 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 32,
+      "event_count": 34,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-27",
-      "event_count": 2,
+      "event_count": 10,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-21 ~ 2026-04-27）共 180 則事件，重點為「Illinois Tool Works Inc. stock outperforms comp...」。事件量較上週增加 68%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 196 則事件，重點為「Illinois Tool Works Inc. stock outperforms comp...」。事件量較上週增加 83%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
+        "company": "Delta Electronics",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
         "company": "Mitsubishi Electric",
-        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
       },
       {
         "company": "DMG Mori",
         "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
-      },
-      {
-        "company": "Parker",
-        "reason": "本週出現 11 則相關事件且情緒偏負面，需特別關注。"
       }
     ]
   },

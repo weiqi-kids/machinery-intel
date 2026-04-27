@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:37:35.128788Z",
+  "generated_at": "2026-04-27T10:08:53.350125Z",
   "top_events": [
     {
       "rank": 1,
@@ -28,10 +28,12 @@
     },
     {
       "rank": 2,
-      "event_id": "mitsubishi_electric-2026-04-27-002",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Retief Goosen changes putting grip, wins Mitsubishi Electric Classic - AJC.com",
+      "event_id": "mitsubishi_electric-2026-04-27-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PHOTOS: Mitsubishi Electric Classic, Final Round - Gwinnett Daily Post",
       "companies": [
         "mitsubishi_electric"
       ],
@@ -40,19 +42,114 @@
         "suppliers": []
       },
       "topics": [
-        "industry_general"
+        "earnings"
       ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVlodGJJUzdxQmxROUxPSlR3aFpuQUlObUoySV9MOXowZFVIUHZYRS1Yd3Y0cTljY2RLT2EtTVdqN2JvVl9QbEtneEJBcHhpUHMyeGctYTA1aDVTaTVVeGowcXpuQkVRVzIxWmh6QWVWOFEyeEVXZm50Z0NyckR2SW1IQUNFVk9RVEhPSGh0OXp0dFBDX3BxUjBKSFJGWFp0YVk1ZEt3?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaFVhbjBpZTM1UlNaSzBJV2dYRU1pUUdXS3VmTUN5eWt6XzRiZHpyUktUUlROU3h5di0wb2llbWctM1BBeWRjRW92Nm83WWZhbGw2THRYZ0VsX1JqeUNhZHZPNWZWUmptLXdsVFc3WXdHdTM5bktmeUhuWGlKQ3hqUEhYOUxGRXpXdzlsN2l0VG84OERvUjNhRXkzVlNtcjkxMTR6N05OS1JfMzU5eUVVb3hwdGpialhQZ3gyTWoyTnpSQUN2ZFkyQ2xDa1ZXekJRMW1MNjhnZGcxTzAzMXMzdEh3X2QxLTZyTmZR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-04-27-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Comerica Bank Has $38.73 Million Position in Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYjYwN1VBWkVmS3hvOS1DOGdhaGRaT2YzOUVJU2hCaV9SeXJmWHJCUFE2T29uNy1nZGdkSFZGMUtvZE11Q2xNOTh3UzNQaHdSTTkxRUVRbFJyTmlWT05pOVlvOEFfeWZDem9MYWxzTlpOWVhzOGpSNV9xb0N1TGlMRzBKTW1OVE5IZ19aekZCWkRKTFg3YndENEZ0YWJmTjBrQ0xmdjByZEZ4dm4yY1d0Z2x0Z0p0WFQwbUtaUFN2LXNmYy1sREZJT3pCYkFvbnc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-04-27-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Wells Fargo Lifts PT on Caterpillar Inc. (CAT) And Raises 2026-2028 EPS - Yahoo Finance",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPenc2QjZCSHRMY2ZnZi16c2JvWkhMeWROcXRNNkt5SXR4b2NmNTNjYWYtem13c1l3OTFfNExFSXByRFctVDhvMWo0QzlBQ1BzUThZbXdrX0xxZTZVNGpWR1JkNEdZMnJlbloyZkFWQ2dOT19SOHJDeUNpNXJsWTl6MnVVQzJWWVV5MzQ3elZaa2s4T3ZfRFBVRmtWdjExZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-04-27-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zacks Research Forecasts Increased Earnings for Caterpillar - MarketBeat",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb1lIR2pVMWcwbVdfZURmNVI3V3NUVHhhd1hvZHlfZEpoZUxzd0ZzbGFQeV9CclVrREdSYmZRbWVGZHFzZWRxcFNOX0JYdmFscXJTeENhNUtNcHpjWHNBY0hJcnExWWhaeGR5STQwZWdELUp4RXFYWGNWZ2phMUVUNjI2bmNpZFFRLVB0MFNlUTVUMUo3VlVsZXp4ZWJxZHNIUkhJTDBzaUFvdzhya2F6dEdkVQ?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "earnings": {
-      "today": 1,
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 3,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -61,55 +158,75 @@
       "sentiment_today": 0.0,
       "sentiment_7d_avg": null
     },
-    "industry_general": {
+    "guidance": {
       "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
+      "sentiment_today": 0.5,
       "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 2,
+    "total_events": 10,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 2,
+      "positive": 1,
+      "neutral": 9,
       "negative": 0
     },
     "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 4
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 3
+      },
       {
         "id": "keyence",
         "count": 1
       },
       {
-        "id": "mitsubishi_electric",
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
         "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "earnings",
-        "count": 1
+        "count": 5
       },
       {
         "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "automation_capex",
+        "count": 3
+      },
+      {
+        "id": "guidance",
         "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 791,
-    "dup_title": 507,
-    "too_old": 234,
-    "gate1_blocked": 8,
-    "gate2_blocked": 20,
-    "passed": 22,
-    "pass_rate": "7.7%",
-    "gate2_block_rate": "7.0%",
+    "total_raw": 1186,
+    "dup_title": 765,
+    "too_old": 343,
+    "gate1_blocked": 13,
+    "gate2_blocked": 27,
+    "passed": 38,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "6.4%",
     "gate2_samples": [
       "Why smart homes still feel complicated (and how that’s changing)",
       "David Duval makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
@@ -120,15 +237,15 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 2 則事件，焦點為Keyence、Mitsubishi Electric相關動態：「Keyence Surges 16% to Daily Limit After Profit Beats Esti...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "summary": "今日共 10 則事件，焦點為CAT、Mitsubishi Electric、Keyence相關動態：「Keyence Surges 16% to Daily Limit After Profit Beats Esti...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "Keyence Surges 16% to Daily Limit After Profit Beats Estimates - Bloomberg.com（財報）",
         "level": "yellow"
       },
       {
-        "text": "Retief Goosen changes putting grip, wins Mitsubishi Electric Classic - AJC.com（產業通用）",
-        "level": "green"
+        "text": "PHOTOS: Mitsubishi Electric Classic, Final Round - Gwinnett Daily Post（財報）",
+        "level": "yellow"
       }
     ]
   },
