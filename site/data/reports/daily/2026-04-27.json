@@ -1,29 +1,115 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T01:41:39.844022Z",
-  "top_events": [],
+  "generated_at": "2026-04-27T03:37:35.128788Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "keyence-2026-04-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Keyence Surges 16% to Daily Limit After Profit Beats Estimates - Bloomberg.com",
+      "companies": [
+        "keyence"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWlFhRFUySHBkRHZPN2MtdUh6Q2doMWtCTEQyb3luZ1BGNWZOQTN6bFFiUzZ6aHNCR3dXYWJwaWNZQ3RzVHp0M0pPOUhOc09WQTE3b3lqUy1oZFFRVF9pa0lsTzdSenJVVG42alNaLWt0V0E0YTVRc3VNR01zb2FBb2QzeWdVWXJ6U0dlWkhyT1BzM0pVb2ExZENzMFJGT2RXMmZ4WnV5eEoxUDhLWm9kZmFn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mitsubishi_electric-2026-04-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Retief Goosen changes putting grip, wins Mitsubishi Electric Classic - AJC.com",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZVlodGJJUzdxQmxROUxPSlR3aFpuQUlObUoySV9MOXowZFVIUHZYRS1Yd3Y0cTljY2RLT2EtTVdqN2JvVl9QbEtneEJBcHhpUHMyeGctYTA1aDVTaTVVeGowcXpuQkVRVzIxWmh6QWVWOFEyeEVXZm50Z0NyckR2SW1IQUNFVk9RVEhPSGh0OXp0dFBDX3BxUjBKSFJGWFp0YVk1ZEt3?oc=5"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 2,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 2,
       "negative": 0
     },
-    "top_companies": [],
-    "top_topics": []
+    "top_companies": [
+      {
+        "id": "keyence",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 395,
-    "dup_title": 251,
-    "too_old": 116,
-    "gate1_blocked": 4,
-    "gate2_blocked": 10,
-    "passed": 14,
-    "pass_rate": "9.7%",
-    "gate2_block_rate": "6.9%",
+    "total_raw": 791,
+    "dup_title": 507,
+    "too_old": 234,
+    "gate1_blocked": 8,
+    "gate2_blocked": 20,
+    "passed": 22,
+    "pass_rate": "7.7%",
+    "gate2_block_rate": "7.0%",
     "gate2_samples": [
       "Why smart homes still feel complicated (and how that’s changing)",
       "David Duval makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
@@ -34,14 +120,14 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-27 無工具機產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 2 則事件，焦點為Keyence、Mitsubishi Electric相關動態：「Keyence Surges 16% to Daily Limit After Profit Beats Esti...」。主要關注主題為財報、產業通用，市場情緒中性。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
-        "level": "green"
+        "text": "Keyence Surges 16% to Daily Limit After Profit Beats Estimates - Bloomberg.com（財報）",
+        "level": "yellow"
       },
       {
-        "text": "建議持續監控後續發展動態。",
+        "text": "Retief Goosen changes putting grip, wins Mitsubishi Electric Classic - AJC.com（產業通用）",
         "level": "green"
       }
     ]
