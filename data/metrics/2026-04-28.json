@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-28",
+  "total_events": 8,
+  "by_company": {
+    "mitsubishi_electric": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "automation_capex": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

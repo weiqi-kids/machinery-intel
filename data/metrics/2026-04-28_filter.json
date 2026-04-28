@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 234,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 3,
+  "gate2_fail": 12,
+  "passed": 34,
+  "gate2_samples": [
+    "Why smart homes still feel complicated (and how that’s changing)",
+    "David Duval makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
+    "Alex Cejka makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
+    "Zach Johnson remains atop after Round 2 of Mitsubishi Electric Classic - PGA Tour",
+    "2026 Mitsubishi Electric Classic money: Purse, winner's share, updated PGA Tour Champions prize mone"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T10:08:49.734779Z",
+  "updated_at": "2026-04-28T10:08:36.961938Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -49,8 +49,8 @@
       "name": "卡特彼勒",
       "ticker": "CAT",
       "currency": "USD",
-      "ar": 21569000000,
-      "ar_prev": 20461000000,
+      "ar": 16414000000,
+      "ar_prev": 15603000000,
       "ar_qoq": "+5%",
       "inventory": 18135000000,
       "inv_prev": 18958000000,
@@ -246,8 +246,8 @@
       "ticker": "SU.PA",
       "currency": "EUR",
       "ar": 7221000000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
+      "ar_prev": 8985000000,
+      "ar_qoq": "-20%",
       "inventory": 5368000000,
       "inv_prev": 5866000000,
       "inv_qoq": "-8%",

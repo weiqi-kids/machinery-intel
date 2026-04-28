@@ -1,117 +1,117 @@
 {
   "hiwin": {
-    "earliest": "2020-11-23",
-    "latest": "2026-04-27",
-    "count": 1313
+    "earliest": "2020-08-25",
+    "latest": "2026-04-28",
+    "count": 1375
   },
   "thk": {
-    "earliest": "2020-11-24",
-    "latest": "2026-04-27",
-    "count": 1327
+    "earliest": "2020-08-26",
+    "latest": "2026-04-28",
+    "count": 1387
   },
   "airtac": {
-    "earliest": "2020-11-23",
-    "latest": "2026-04-27",
-    "count": 1313
+    "earliest": "2020-08-25",
+    "latest": "2026-04-28",
+    "count": 1375
   },
   "keyence": {
-    "earliest": "2020-11-24",
-    "latest": "2026-04-27",
-    "count": 1327
+    "earliest": "2020-08-26",
+    "latest": "2026-04-28",
+    "count": 1387
   },
   "delta": {
-    "earliest": "2020-11-23",
-    "latest": "2026-04-27",
-    "count": 1313
+    "earliest": "2020-08-25",
+    "latest": "2026-04-28",
+    "count": 1375
   },
   "fanuc": {
-    "earliest": "2020-11-24",
-    "latest": "2026-04-27",
-    "count": 1327
+    "earliest": "2020-08-26",
+    "latest": "2026-04-28",
+    "count": 1387
   },
   "siemens": {
-    "earliest": "2020-11-20",
-    "latest": "2026-04-27",
-    "count": 1381
+    "earliest": "2020-08-24",
+    "latest": "2026-04-28",
+    "count": 1446
   },
   "abb": {
-    "earliest": "2020-11-20",
-    "latest": "2026-04-27",
-    "count": 1364
+    "earliest": "2020-08-24",
+    "latest": "2026-04-28",
+    "count": 1429
   },
   "rockwell": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   },
   "schneider": {
-    "earliest": "2020-11-20",
-    "latest": "2026-04-27",
-    "count": 1390
+    "earliest": "2020-08-24",
+    "latest": "2026-04-28",
+    "count": 1455
   },
   "mitsubishi_electric": {
-    "earliest": "2020-11-24",
-    "latest": "2026-04-27",
-    "count": 1327
+    "earliest": "2020-08-26",
+    "latest": "2026-04-28",
+    "count": 1387
   },
   "dmg_mori": {
-    "earliest": "2020-11-24",
-    "latest": "2026-04-27",
-    "count": 1327
+    "earliest": "2020-08-26",
+    "latest": "2026-04-28",
+    "count": 1387
   },
   "okuma": {
-    "earliest": "2020-11-24",
-    "latest": "2026-04-27",
-    "count": 1327
+    "earliest": "2020-08-26",
+    "latest": "2026-04-28",
+    "count": 1387
   },
   "amada": {
-    "earliest": "2020-11-24",
-    "latest": "2026-04-27",
-    "count": 1327
+    "earliest": "2020-08-26",
+    "latest": "2026-04-28",
+    "count": 1387
   },
   "makino": {
-    "earliest": "2020-11-24",
-    "latest": "2026-04-27",
-    "count": 1327
+    "earliest": "2020-08-26",
+    "latest": "2026-04-28",
+    "count": 1387
   },
   "jtekt": {
-    "earliest": "2020-11-24",
-    "latest": "2026-04-27",
-    "count": 1327
+    "earliest": "2020-08-26",
+    "latest": "2026-04-28",
+    "count": 1387
   },
   "tongtai": {
-    "earliest": "2020-11-23",
-    "latest": "2026-04-27",
-    "count": 1313
+    "earliest": "2020-08-25",
+    "latest": "2026-04-28",
+    "count": 1375
   },
   "goodway": {
-    "earliest": "2020-11-23",
-    "latest": "2026-04-27",
-    "count": 1313
+    "earliest": "2020-08-25",
+    "latest": "2026-04-28",
+    "count": 1375
   },
   "itw": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   },
   "lincoln_electric": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   },
   "parker_hannifin": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   },
   "caterpillar": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   },
   "etf_robo_etf": {
-    "earliest": "2020-11-19",
-    "latest": "2026-04-24",
-    "count": 1362
+    "earliest": "2020-08-21",
+    "latest": "2026-04-27",
+    "count": 1426
   }
 }
