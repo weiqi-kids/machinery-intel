@@ -1,5 +1,256 @@
 [
   {
+    "id": "keyence-2026-04-29-001",
+    "date": "2026-04-29",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Keyence Corp stock (JP3236200006): Why does its factory automation edge matter more for U.S. investo - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPYXN4R0ZpUkpBdDBEcVRYZ1hPT1R2cGVtaTkzTFE2eTZBTS1adlBCbTl5QzN1V3AzZHMyVV9fOFBRejhNMjFwYUk1YkxBRkdYNzVIWVI2clY3SGE1bXVaRUljRkRiS3dlRDJvY050Tn",
+    "sources": [
+      {
+        "name": "keyence",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYXN4R0ZpUkpBdDBEcVRYZ1hPT1R2cGVtaTkzTFE2eTZBTS1adlBCbTl5QzN1V3AzZHMyVV9fOFBRejhNMjFwYUk1YkxBRkdYNzVIWVI2clY3SGE1bXVaRUljRkRiS3dlRDJvY050Tno3Z0twcEdLcW5CWFAyU2RETmFfMmxiSGljT0QzcjZtWF9nbmVlVHpZY1dVd1NPV0VNLThJTy1pN0hQMUJoWWtBRjRncy1DTU0tdkM5QllVNGVzdUM2c2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-04-29-002",
+    "date": "2026-04-29",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Delta Electronics Thailand Q1 2026 slides: AI demand drives record results - Investing.com Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbFZRNDJEdUU0TnZTVmpWeV9mQjhLc3piWUtwUGs5T2JTUk9YT3ZJQ3VfamdKT3NUR1JTT1NLMklqN0FHcjViZEV6R2xUTWF0M0xkZ3JuVjdUUUFJczJBVElQbXhVRW1PTzFoX1M0Vl",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbFZRNDJEdUU0TnZTVmpWeV9mQjhLc3piWUtwUGs5T2JTUk9YT3ZJQ3VfamdKT3NUR1JTT1NLMklqN0FHcjViZEV6R2xUTWF0M0xkZ3JuVjdUUUFJczJBVElQbXhVRW1PTzFoX1M0Vl95ZnR2N1QxM2U3b3c1SnpDNnQ5dk1mLWd1ZDVoV1NsX1dtWTRCMUk5d3g1Z1RnM2dYekVvQnJrZ21SYlIydnU1dW9aMGdWbGVsYjlfUnhlUjV3NkVvNGV1Rw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-04-29-003",
+    "date": "2026-04-29",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics Inc stock (TW0002308004): Is its AI power leadership strong enough to unlock new u - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVBaakczcVE5UDJyanZUQ0t2NW41SEpzX0kzQ3ZxaTJhaXdLOHZfY2ljb2hoSEcweHRpUGs3T09CSGEyUWliSk1KSXBLZ1l2bWNIV1RxOUs2UC1DUVJ1YXFheHNNN3lnWm5lWDIzLW",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVBaakczcVE5UDJyanZUQ0t2NW41SEpzX0kzQ3ZxaTJhaXdLOHZfY2ljb2hoSEcweHRpUGs3T09CSGEyUWliSk1KSXBLZ1l2bWNIV1RxOUs2UC1DUVJ1YXFheHNNN3lnWm5lWDIzLWtjVTR4aFE5dlg3bmJad08yV05XZXB6OG1jTy05SlQtSENPTVM3LVJwQkgxT1ZBbmE4cVJyUVhmam95Tmh0WDFrdDJoMGZSRnA4NnVab3Y3MmdIcmRN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-04-29-004",
+    "date": "2026-04-29",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How The Illinois Tool Works (ITW) Story Is Shifting As Analysts Rework Price Targets - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQZFJqNkFzSXBjVmwzdlk4OEFPbU9wTUl2WV93NmJIeTM4S0dDQk1odW81V0xta2VyU0llOFV1QkZIeVRlNGQ1d3J0NG1DZUFxeVo3VE8wV3BCOWl4WHdtLTYyYkNEeUpucnJNdHNQOW",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZFJqNkFzSXBjVmwzdlk4OEFPbU9wTUl2WV93NmJIeTM4S0dDQk1odW81V0xta2VyU0llOFV1QkZIeVRlNGQ1d3J0NG1DZUFxeVo3VE8wV3BCOWl4WHdtLTYyYkNEeUpucnJNdHNQOWtRM1BNOEFtNm81RUJsRHdQZ1owZjU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-04-29-005",
+    "date": "2026-04-29",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Earnings To Watch: Illinois Tool Works (ITW) Reports Q1 Results Tomorrow - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2RqRkNJVGhnUnkyNzZKZmZxdENEYnZGQW9lQVA1Rjd3Y3JfNTFFeVBvNG1TSUhzZ2trS1Z6WEJxSUJ1ZGxBWGhkQXQyM05TWkNqWXpualI3b2pmLTJ1TFlodmpSenBJRGdwQnpjVT",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2RqRkNJVGhnUnkyNzZKZmZxdENEYnZGQW9lQVA1Rjd3Y3JfNTFFeVBvNG1TSUhzZ2trS1Z6WEJxSUJ1ZGxBWGhkQXQyM05TWkNqWXpualI3b2pmLTJ1TFlodmpSenBJRGdwQnpjVTFBNUlfVGRNbHZwLWxIYm5ISGdJLTFUOGpPcGVYeXZGSGZRaXpwcnRNMkJucTNqSklWbWNjN2F4ZnpqcC12NEluYWU0OUZBdms2MmtYSENraFBIa0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-04-29-006",
+    "date": "2026-04-29",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (PH) Raises Quarterly Dividend 11% to $2.00 per Share - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPMjFXbHMyaTUzSXRHNXhsdGpvelZhUTBENHNTSlZocEk4czFzV0RrRC1weFNFVEpraU1RbXJIMEZLVUhCWFdzV3JIMjJsXy1Hb3h6OW1tMkRuV2psZnBZX3RxXzM1ZXZIQXVmMEs3Tm",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMjFXbHMyaTUzSXRHNXhsdGpvelZhUTBENHNTSlZocEk4czFzV0RrRC1weFNFVEpraU1RbXJIMEZLVUhCWFdzV3JIMjJsXy1Hb3h6OW1tMkRuV2psZnBZX3RxXzM1ZXZIQXVmMEs3Tm41bDdKeFg5OFpLQnQyN0VpVnM3REEzaDBGUDZaUEI2VlBSU0Q4dGMxV0FBcXBSSmxDVEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-04-29-007",
+    "date": "2026-04-29",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Earnings: What To Look For From PH - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNzJyY3ZKQjJ4S0lFWmtGbTN5YVNoZEFZTGx6eDNwcHRmNDZnYUxQSEJ6dUhDNmhDX3Y1N3JRcDBrYU5TOUpuRnpqZml0UV9LeTE5LUZVbzkySmx1ekJZWV8ydEJURWlERWtYaUdYWm",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNzJyY3ZKQjJ4S0lFWmtGbTN5YVNoZEFZTGx6eDNwcHRmNDZnYUxQSEJ6dUhDNmhDX3Y1N3JRcDBrYU5TOUpuRnpqZml0UV9LeTE5LUZVbzkySmx1ekJZWV8ydEJURWlERWtYaUdYWmZYZDlBZGgwWVp1Tk1nLTZhb0JBQVBFOGZibVoxNnhtUkYzSVNjclo0N25mUnp6M25vX3ZJLXRfU0J4Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-29-008",
+    "date": "2026-04-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bank of America Sees Caterpillar (CAT) Benefiting From Broadening Equipment Demand Recovery - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNMUdMUW1uZTh6TTRRRmdaYllqaWc3aWkwMHBYdHRIZ2FObUlLTzZ1dWY3M0JZU0szV3g0dGxoSDd1WEFkcUpxMXpaRC1sc3JXU2hNelVGMDVxcThkMmhoRHBxTkFwT1FnLWkxVW8yRz",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMUdMUW1uZTh6TTRRRmdaYllqaWc3aWkwMHBYdHRIZ2FObUlLTzZ1dWY3M0JZU0szV3g0dGxoSDd1WEFkcUpxMXpaRC1sc3JXU2hNelVGMDVxcThkMmhoRHBxTkFwT1FnLWkxVW8yRzNNRnduSGxPTHA4WEpvaE9fSFQ5WHZ5dXBJVmltNldnQ20xcXpEd0JMYnBZYmx4MG8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-29-009",
+    "date": "2026-04-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Reports Earnings Tomorrow: What To Expect - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVVpb0dwN0VSYnQzU05aREV3OU1DX1lJTGE5X1ZobXBmbllmM1Z0dkg2dmI2U0dnc3N5ZjV1eTRmOHFRT0piM0FVa1lUenoxQXp5TEh5WkhKc3ViOV85aTRlVzJad0h2UG1CcnBZak",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVVpb0dwN0VSYnQzU05aREV3OU1DX1lJTGE5X1ZobXBmbllmM1Z0dkg2dmI2U0dnc3N5ZjV1eTRmOHFRT0piM0FVa1lUenoxQXp5TEh5WkhKc3ViOV85aTRlVzJad0h2UG1CcnBZakxTTGxUTWZvZ3QyUGQ3c3RNWFc5aEtxeENBeGJGZ005aXBxVEhVbHlTbkpiazZENnFZTk5nYmlJc09MSGd0ZXlzckV1M2g?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-29-010",
+    "date": "2026-04-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Assessing Caterpillar (CAT) Valuation After A Strong Multi‑Period Share Price Run - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXFLWlA2UDdqZUFsMWZDZXJ6WndXR1VhNkV2b2kzY1BkbW5jd3hqSFFURWppZ0dXVGZVTUx5SW1uWThRMWFMMEdDUEtya0IyM0pNWHZwQzNfa3o4SGdkTUpPcWhDWXZEdlJVQ043Y0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLXFLWlA2UDdqZUFsMWZDZXJ6WndXR1VhNkV2b2kzY1BkbW5jd3hqSFFURWppZ0dXVGZVTUx5SW1uWThRMWFMMEdDUEtya0IyM0pNWHZwQzNfa3o4SGdkTUpPcWhDWXZEdlJVQ043Y0pSRVhjZjdzMUdhUkVYNFJqc0cxRFgwb1JLUGlRS3V5X1JSYnkzUkpoQ2RCZFpvWkJpX3lIZHpDM0JQVGdKVWUzd1lwOUFvOENFZWFwUTh0Ykw5S3J2YkowOWFXU03SAdIBQVVfeXFMTjBHX2c1VU1lSlVtZ0Zpa3F2QVAwb0t1YTdhZi03OVhtTWpMcTdlWG1xTHEzdmtUTngwTXF0azhIT0Z5OXhxTkRfQlF3WjNPTUMxS1Z0TWpPMjAzSEkyUUVSTnZfMjlsSktnMHlRWWhMam9maFY5SVdJOW1pOC1fUWdReUlHR0EwenB6MmpuY1RGampsVURYU0xJeEw0R1JpdHA1QVBaWWVIcEdXVV82YVJlSkt1Y3ltZms5aEthYTZEczM2UzRMR09DckRDd1ZXQUdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-29-011",
+    "date": "2026-04-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Inc. $CAT Shares Acquired by Ellenbecker Investment Group - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXM0Rm1JTXlLY0FHYm9ZcXNCX0xBSHh3UlpRSTZHY2xmYi1sNTBQZVNzLW5vWnV2WXptQkRnaWgxU0U4VEE3WmZrY2tfZGFUdW4ydlM3MFhwYlJrdFU1dm83YTJqLTZtLVM2UU82ck",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXM0Rm1JTXlLY0FHYm9ZcXNCX0xBSHh3UlpRSTZHY2xmYi1sNTBQZVNzLW5vWnV2WXptQkRnaWgxU0U4VEE3WmZrY2tfZGFUdW4ydlM3MFhwYlJrdFU1dm83YTJqLTZtLVM2UU82cktHWjU4M3dCM3AyOHpPSmFwWmpqWWtDZ1FqRFlBNFhNWUJRVGlpQzBJUXNLeGxPM0JPUzZEcjN5bXRmWmR1TE5NYXNyanNQSUV5Q1R1SDRrM0xjM005Zmtj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-29-012",
+    "date": "2026-04-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Chapin Davis Inc. Raises Stake in Caterpillar Inc. $CAT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzF1MXRUa1YyRmhWaE5YaktJcTFaaEJmWGJXc2xRWWpucUgxbHZDMnR1YWxFNk9PYVY0bFVEa3FNWE9OQ2NZRlJyd21VRmItSjF1WlZkOEtwcVhGQm9qU1ZGN2VfSTFKM3NXbTE5UW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzF1MXRUa1YyRmhWaE5YaktJcTFaaEJmWGJXc2xRWWpucUgxbHZDMnR1YWxFNk9PYVY0bFVEa3FNWE9OQ2NZRlJyd21VRmItSjF1WlZkOEtwcVhGQm9qU1ZGN2VfSTFKM3NXbTE5UWw5NnJnaWhFYkpPek1KdzR1Z3gtdjV2Y0NpMWpnOTZ6N3h6WTd3YTVHUFkxM096MXI1Y1NOOGVUYlBwOGgwQzV5V09sdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mitsubishi_electric-2026-04-28-001",
     "date": "2026-04-28",
     "companies": [
@@ -155,6 +406,248 @@
       {
         "name": "plant_engineering",
         "url": "https://www.plantengineering.com/how-to-sustain-valve-operation-through-proper-lubrication/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-04-28-009",
+    "date": "2026-04-28",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Automann Expands with Mitsubishi Electric Starters - Trucks, Parts, Service",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWVlcDhLWjNFRUx0MGYzaFJXQjNMVk5QMWQ3ZnpNRW1CbUluZk9uYzBwQVloSFJLajN5THpMSktEUldzMWFCRm5BcTBvYU42SWl3ZG5KaU5ydHVNNWc4ek81V0w3a3A4MU1uWFlUdS",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOWVlcDhLWjNFRUx0MGYzaFJXQjNMVk5QMWQ3ZnpNRW1CbUluZk9uYzBwQVloSFJLajN5THpMSktEUldzMWFCRm5BcTBvYU42SWl3ZG5KaU5ydHVNNWc4ek81V0w3a3A4MU1uWFlUdS1HaXM4emVjTHpYR0taZTdidkNHc2hTTWk1azF5Y01HcUZaZmdWeWxPR1F2ZmFUdHBzRFpRYW9leEZiVlBnaUxxdDFfdTl2UEY2MTk3YktqTVBPd3B3VXJsVXdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-04-28-010",
+    "date": "2026-04-28",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric (OTCMKTS:MIELF) Sets New 1-Year High - Here's Why - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDlUZWRxMy1UVW91Xy1UaTB3RG9zT3FvMm5BTmZSVTJjTjFaVGpmMmFRY25BalVTYjA0MzB2amh2blZ4VnRVbms4QjdKTV9SbGV6bENZQTV3VUpzcE4taVNldF91VUp5OUpzdklGaj",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDlUZWRxMy1UVW91Xy1UaTB3RG9zT3FvMm5BTmZSVTJjTjFaVGpmMmFRY25BalVTYjA0MzB2amh2blZ4VnRVbms4QjdKTV9SbGV6bENZQTV3VUpzcE4taVNldF91VUp5OUpzdklGajRQUVRacEl2M1hpc2hicXM5QTZSVHB1TzgwN0kxZHZiak55UzVzOGNRSlhNRHZPUVVZdk82YjRxYmRBbDB1WXR3dU5LNC1DRXRJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-04-28-011",
+    "date": "2026-04-28",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A Look At Illinois Tool Works (ITW) Valuation As Multi Period Returns And Signals Diverge - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVzVYN0dSdWh4LWJ2cjg3MlVtRWhoTjRKdlp4MUFONnlzSGV2a3J5cXVYeW0tWHlnRnJORjdLQzZIMjYxMG9xODhydjR1bTNUaUFPSi1FRnB6VkNNN25kVDdvNXloQ2NiZC1tWDR3eF",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVzVYN0dSdWh4LWJ2cjg3MlVtRWhoTjRKdlp4MUFONnlzSGV2a3J5cXVYeW0tWHlnRnJORjdLQzZIMjYxMG9xODhydjR1bTNUaUFPSi1FRnB6VkNNN25kVDdvNXloQ2NiZC1tWDR3eFBYWnFPZzViVlRsOTBRejZsV0p3M1pYSTJ2VFM5VnJsaEJERXh0WXJMTzhCaHZuYlFOQ2hDTjJpbk85R2x0aFdOZWx3Z1ZnblRRd3pBTlVRRkZtTV9ZY2JGTVJqR0MxZ1dIajhIQkNlQ0p0WnPSAdsBQVVfeXFMTlc1WDdHUnVoeC1idnI4NzJVbUVoaE40SnZaeDFBTjZ5c0hldmtyeXF1WHltLVh5Z0ZyTkY3S0M2SDI2MTBvcTg4cnY0dW0zVGlBT0otRUZwelZDTTduZFQ3bzV5aENjYmQtbVg0d3hQWFpxT2c1YlZUbDkwUXo2bFdKdzNaWEkydlRTOVZybGhCREV4dFlyTE84Qmh2bmJRTkNoQ04yaW5POUdsdGhXTmVsd2dWZ25UUXd6QU5VUUZGbU1fWWNiRk1SakdDMWdXSGo4SEJDZUNKdFpz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-04-28-012",
+    "date": "2026-04-28",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Inc. $ITW Shares Sold by Vest Financial LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNZndXMXNpaDZBUzlZZU5mMTE1NXRJeElDdFozVFBmNC1vR0YtLVdDV2MwRzhsWGhQbTctenVKSGgtRUtlVXpncXRoeW56MTgyR1FJYXNKZmZiay04b3ZFZkpxSE5ZNlNXcHV6dHdlLW",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZndXMXNpaDZBUzlZZU5mMTE1NXRJeElDdFozVFBmNC1vR0YtLVdDV2MwRzhsWGhQbTctenVKSGgtRUtlVXpncXRoeW56MTgyR1FJYXNKZmZiay04b3ZFZkpxSE5ZNlNXcHV6dHdlLWNDeXpCZUlDNHBtaVhpal8wUXZSWVNWemRxaEtYb0dlQl9GYThHc0VPVGQyTjZZUkh5TVdYZlprbmNoVUN2Sl9idjl3cG0tcGlvaVpFVWxTOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-04-28-013",
+    "date": "2026-04-28",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ahead of Illinois Tool Works (ITW) Q1 earnings: Get ready with Wall Street estimates for key metrics - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZzNRczZSWUFtNGs4TE9hakowVU5IV1dxVks0Q3VFbmNxaEVmN2s4cGJXUzlmT3JheVdfcERxRWxfRlRiYnpuenFxeTc1aC1RRG5VQlhVMjlMQkd0LXZyVUpIM3dpYWVEYU1XUnVoZE",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZzNRczZSWUFtNGs4TE9hakowVU5IV1dxVks0Q3VFbmNxaEVmN2s4cGJXUzlmT3JheVdfcERxRWxfRlRiYnpuenFxeTc1aC1RRG5VQlhVMjlMQkd0LXZyVUpIM3dpYWVEYU1XUnVoZEtIdVVLd1RHSGtuX285U3ZqaVZ5MGNXVDhLa2ZDeHVYdDJ3REZuZzFmNVUzWHRSX0J5NFJoc2d6akw4TnhTWE44X2ZUVzRzTXVXTHRrc05ZUkg3Y1JqUGlWQW5HdUdvdHdBRy03RG9Ua2Jjd0l6cksxNVVTZE5NUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-04-28-014",
+    "date": "2026-04-28",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Q1 2026 Earnings Preview — April 30, Street Expects $2.56 EPS - AlphaStreet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxONDBYTlpfd2pQb29seVV6R2ZLOEllLUVCNTh4LXZHT2lNcXZHN0dfZDNVTXlrNlJzT1ZCNmdwSU9meUJGTFdCX3Z5bGk5TWxtVE1tV1lVMXY1ZWp4OVFienMtMVg0MU1oTUxab3piZ0",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONDBYTlpfd2pQb29seVV6R2ZLOEllLUVCNTh4LXZHT2lNcXZHN0dfZDNVTXlrNlJzT1ZCNmdwSU9meUJGTFdCX3Z5bGk5TWxtVE1tV1lVMXY1ZWp4OVFienMtMVg0MU1oTUxab3piZ0QzWHhESVYxVWNoRXl2anRzZ0N5cnhjNHpZYTl6V0xqTDc2cWh6WnFtNzlKRW9zREpOd1Z0RGdwWm1uZGvSAasBQVVfeXFMTjQwWE5aX3dqUG9vbHlVekdmSzhJZS1FQjU4eC12R09pTXF2RzdHX2QzVU15azZSc09WQjZncElPZnlCRkxXQl92eWxpOU1sbVRNbVdZVTF2NWVqeDlRYnpzLTFYNDFNaE1MWm96YmdEM1h4RElWMVVjaEV5dmp0c2dDeXJ4YzR6WWE5eldMakw3NnFoelpxbTc5SkVvc0RKTndWdERncFptbmRr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-28-015",
+    "date": "2026-04-28",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Gears Up to Report Q1 Earnings: What's in the Cards? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQNWRXMDZxSUhhQW0zRXJjY3l4cVZydTNLaTk1a1hOLWFZNUw5ZHQ4NERGbUQtLW0xWjdiZGRGVUQ5MFk1Z21pN3lBZ2xGX1B0cWlEaGtYLUo4cFYxSE9iRWlGcVVPZEVqeHUwLUwwSH",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNWRXMDZxSUhhQW0zRXJjY3l4cVZydTNLaTk1a1hOLWFZNUw5ZHQ4NERGbUQtLW0xWjdiZGRGVUQ5MFk1Z21pN3lBZ2xGX1B0cWlEaGtYLUo4cFYxSE9iRWlGcVVPZEVqeHUwLUwwSHJRaWxWa1BnODN5NE44aWRkX3pxUHUwNnJZUzl5dVhXbDVzYmpXdHhzRHhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-04-28-016",
+    "date": "2026-04-28",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Stock Slumps on Mounting Doubts - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlZkaWlycXpMaDJncEJJVFc0aXJ0ODRQRl94SlNYVGtiLVl4OUR5ODU5ODhuQXdTNmN5OV84bElpekZFcVNFUkFsWkRLd3U3NXhMMjdSVlRPeXpvSnMxcFRhYkE5V1dZLWlqZk45Q3",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlZkaWlycXpMaDJncEJJVFc0aXJ0ODRQRl94SlNYVGtiLVl4OUR5ODU5ODhuQXdTNmN5OV84bElpekZFcVNFUkFsWkRLd3U3NXhMMjdSVlRPeXpvSnMxcFRhYkE5V1dZLWlqZk45Q3Y3YUdldTZ1UGJZekNkZ2E4T0RJNXF4cmFMX3dwOE1BSXl3M1dI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-28-017",
+    "date": "2026-04-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Dallas Weather: Tornado damage, large hail reported as storms move through North Texas - FOX 4 News Dallas-Fort Worth",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbmxYcnVHZGV3MmliQjc0clhteE4xTGZCR2FnbWUzazg5cU85RXR0UTJtcUloVlhiWHpKVmF0UjVWN2dXT19nVTBELUNISy1zWXZFQTh5dXpfQjY1YjFvNEFGRjNxQWVCc2lLc0RBdz",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbmxYcnVHZGV3MmliQjc0clhteE4xTGZCR2FnbWUzazg5cU85RXR0UTJtcUloVlhiWHpKVmF0UjVWN2dXT19nVTBELUNISy1zWXZFQTh5dXpfQjY1YjFvNEFGRjNxQWVCc2lLc0RBdzdrQVpXM1YtZ0ZjMUI5LWZtVGp6ZXB5MEQ0Nk1OeTlGa2lJbzRH0gGaAUFVX3lxTE1uQ2dIc09uVWJVQXpBb1VXa1l1cTdQRnJqWEg4YzBSRHY2MXBDVjFVbFp0VzhiVHlrOHJEN2JyblgyeHNxQkR5WUV5cFZUdTEyaWZZckU4cFJKUVdwSmlFZm9DNXlvc1FiSTNDSm9JMzhmd2RVdDh2Zl91OERxR21zTENNaXl0SkZ5ZUgyUUZ1SDU0LTQtRkhEWlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-28-018",
+    "date": "2026-04-28",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Dow Jones AI Leader Caterpillar, Nvidia Chipmaker TSMC In Buy Zones - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQdHB2WlJtU1gtajVTaF9sYXNjcTN0WFFaeWZ4WHdQa3YzcEU1cHZzNWFnSi1mQnlSMkU4QnU1SGZFUmpwTXFmVy1LVmZadmhaU1lQamFCQS0tcEs0dlduVm1DTVhGSGtyUi1EZnBfMD",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdHB2WlJtU1gtajVTaF9sYXNjcTN0WFFaeWZ4WHdQa3YzcEU1cHZzNWFnSi1mQnlSMkU4QnU1SGZFUmpwTXFmVy1LVmZadmhaU1lQamFCQS0tcEs0dlduVm1DTVhGSGtyUi1EZnBfMDhnOVJvN29hMUstWTk3cVBQY3ZSMHRENUxlU2xCaDVORE5uYUZNSFRV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-28-019",
+    "date": "2026-04-28",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar is Set to Report Q1 Earnings: Buy, Sell or Hold the Stock? - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEFBbGRBVWZ0MEpkR3dLRjlOcjB3OUZ4V2tuaU9wbUlPeTkxN095Tko3ekFQRFdIZm9QSW9zaVRMMmtpSUxFUWlPdE01amFrOG5MdXBMUWhQNXpzNkx1VF9aSjh6aTJUakFvaFRyMm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEFBbGRBVWZ0MEpkR3dLRjlOcjB3OUZ4V2tuaU9wbUlPeTkxN095Tko3ekFQRFdIZm9QSW9zaVRMMmtpSUxFUWlPdE01amFrOG5MdXBMUWhQNXpzNkx1VF9aSjh6aTJUakFvaFRyMmRIMmdtejRjUE5PZXA0OUdjUHlrLUt0Q0pBV2RZMlNhNFdaT00yOFJiejBjUGNoYnZsbi1xclhEbmRPdW5w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-28-020",
+    "date": "2026-04-28",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The caterpillar walk is considered the 'gold standard' for lower body mobility and flexibility — here's how to do it - Tom's Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ1Vfc1Vac0VIVkk2RFU4UmZsaWhOUWQ5UTdsWVpMY2QzT3J3WmRJbzVWTFo2S1czZDM2MFVFMXpIbWo1VzZ5Z0p3RUF1eXJQakxfT2VZLU0zRVFVU2h6Z281a2NYYy1iWE9uU0pRSH",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ1Vfc1Vac0VIVkk2RFU4UmZsaWhOUWQ5UTdsWVpMY2QzT3J3WmRJbzVWTFo2S1czZDM2MFVFMXpIbWo1VzZ5Z0p3RUF1eXJQakxfT2VZLU0zRVFVU2h6Z281a2NYYy1iWE9uU0pRSHA2Y0hGVVRpUzd5c204amk5emExMURnZjh3bHpmNXZ6cjVCaTlkNFd2LTJzX04wbmtwd1V6dXlTc1dPZVBoSjRfVDVLLWpGdW4xSTVXSjREQV9abGhiX3JXVVczeVlhY0NfbUlFN0M5Ul9aVEY0aU1KcWtuZUZOU2w1dTZJ?oc=5",
         "type": "rss"
       }
     ]
@@ -758,6 +1251,69 @@
       {
         "name": "schneider_blog",
         "url": "https://blog.se.com/industry/2026/04/27/trends-from-hannover-messe-2026-how-to-keep-european-industry-thriving-in-the-face-of-volatility/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-04-27-031",
+    "date": "2026-04-27",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics Thailand Posts QTRLY Sales Of 60.46 Billion Baht - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZG0xOTA3b1Y1WmhKcEJjMzRJaWJBR2tXSnc4aGlUVXlERU1WMEV4UXZhZVo3bDZtZDYxdnkwcDFScnZHbHRBTTc2WC1FZ3ZNY2JDWVo1bHpicnNBOFBaYzlrY2I4dko1cW1Rbm1ZMU",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZG0xOTA3b1Y1WmhKcEJjMzRJaWJBR2tXSnc4aGlUVXlERU1WMEV4UXZhZVo3bDZtZDYxdnkwcDFScnZHbHRBTTc2WC1FZ3ZNY2JDWVo1bHpicnNBOFBaYzlrY2I4dko1cW1Rbm1ZMUh6ZlVjeVliVU9uWk5NRHBCY2lBeXRYNWRXQlk3RHI2c0tvWEttWndxZk85NVlvWVJERUs5SGNzdC1xY2l4eUZpNTVnTElCN3NlWUtSS3dxODQ3ZWZQYVpZblFfS3dSNUlHa3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-04-27-032",
+    "date": "2026-04-27",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics Public Company Limited Reports Earnings Results for the First Quarter Ended March 31, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZmltZlVJSHVSRjV0Rldmek80ckVkZk9IQkQ4MVZyQVB2MV9JSHNUWHFLSUQ0Y1J5dG9lQXliWXI1NlJlMFBkal9oMWxnUTBycFlaLThNdFB6a2xPTVdmTG5vQmRJR1NVbzM3cHRwb3",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZmltZlVJSHVSRjV0Rldmek80ckVkZk9IQkQ4MVZyQVB2MV9JSHNUWHFLSUQ0Y1J5dG9lQXliWXI1NlJlMFBkal9oMWxnUTBycFlaLThNdFB6a2xPTVdmTG5vQmRJR1NVbzM3cHRwb3VoLXRZbE1MeFJ2VXdwVjlOYW52U1Q0MVRXbVZObHV3VWlCVUFHNl9TLWpLYTd2aEU1SFBqOTk3aUNKaV9HQnQ1Y3hQT2gwSGVQYW82MllsaFBiUWxibkdwZXFsTm0yNWRUcktsWFBudUgtZlhEVG9Wemo3ZHRnd2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-27-033",
+    "date": "2026-04-27",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Caterpillar (CAT) Positioned for Long-Term Growth as Power Demand from Data Centers Surges - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOODdLRDR0TlNvX0o5bDJHSVgyUFFDUGVXVDJoSVFMd0RoQ1JleHhzNk40OVFaTUpDNmJldWNtc2J1eDNNbG0yYjJnMUNNWTdIT0R4QW5nYm95VFo4RE8xWUUtZTZndXR2ZjBLc2lYcn",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODdLRDR0TlNvX0o5bDJHSVgyUFFDUGVXVDJoSVFMd0RoQ1JleHhzNk40OVFaTUpDNmJldWNtc2J1eDNNbG0yYjJnMUNNWTdIT0R4QW5nYm95VFo4RE8xWUUtZTZndXR2ZjBLc2lYcnN5RW42ZWpiVFFqWFFnd0dSTXV2Qmo0NWxLekpiQWl3bXhVN0hzYmdjYkJBd1hHSnJXN1I0?oc=5",
         "type": "rss"
       }
     ]
@@ -1547,6 +2103,28 @@
       {
         "name": "parker_hannifin",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeVVQRFFGUFdhZGdaSGNfNUVvTXJ4YlFkTTN0VmxFaGVYWVhwSW9XX1owa0RCeDhkcmo4N2RwelFPVXJkVFNsTU0wRXVhampXUUtsQTBsMmRIeGdubzVGYzhjZjlCOGg5bU9YY0pac1N2WDFYSFBNYk9FQU92T1FYTGZ1UDlBeE1WQnByYjNZUGxXMHBENHNZTVZ5SEdYSExSeGhRbDVvNUtfQVNFanh1WUFvUjh3OFdYUDRHRjN0bklKM2JVMmluMFM0TEVCUWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-04-26-040",
+    "date": "2026-04-26",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works tops Q1 forecast, reaffirms outlook despite revenue dip - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wJBVV95cUxNNHRGT2NBYUN5MEdYbU5oRndPd1JPZ0RNYW5wVGVYc1lMSUprX3VNMTFxTVo3NzlYa2RtUzNtUnJURGZoQlpCcHo3S1liVjZYMncyRVJmVW5tVE9rMEVaazVQaDUyQ25sUFJaMGpsWU",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNNHRGT2NBYUN5MEdYbU5oRndPd1JPZ0RNYW5wVGVYc1lMSUprX3VNMTFxTVo3NzlYa2RtUzNtUnJURGZoQlpCcHo3S1liVjZYMncyRVJmVW5tVE9rMEVaazVQaDUyQ25sUFJaMGpsWUp5eHVId1JiS21CeXBuUlIyekZfcDhiWGZodnBxZ0hoV05EZzNUbUREbEpkNmlyLUwtTnE3ZXVGcEJCTG5rWTFucGRmRkxyTjhOMFJFT3Y2YVZVYVlLYWdwTDNNZFFwR0xUa1lRS3Uwc3dyYjJDSEpfUE1MNzcwZVB0cWROS3U4NjRubkdBMm9NR3VQdDBWU2VQdW5rNXQ3UHBXZnBBb01UUDJ3SDY4SFEtX2F0YU1EQ3Fqd3FlSjFwanJPTFdMcU9jYUNIb2drSjdQbXpCeEdqU1E2QV9aYl9jMkMzUFotYUZORnBPcG01S195TWR4Rm1UaE5HR2NtSjZ2bE1vWGVFWW1vdEptTEVkY0lZ?oc=5",
         "type": "rss"
       }
     ]

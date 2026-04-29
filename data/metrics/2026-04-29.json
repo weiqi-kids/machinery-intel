@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-29",
+  "total_events": 12,
+  "by_company": {
+    "keyence": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "delta": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "itw": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "parker_hannifin": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "automation_capex": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "industry_general": {
+      "count": 8,
+      "sentiment_avg": 0.12
+    },
+    "earnings": {
+      "count": 11,
+      "sentiment_avg": 0.09
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

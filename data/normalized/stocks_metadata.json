@@ -1,117 +1,117 @@
 {
   "hiwin": {
-    "earliest": "2020-08-25",
-    "latest": "2026-04-28",
-    "count": 1375
+    "earliest": "2020-05-27",
+    "latest": "2026-04-29",
+    "count": 1438
   },
   "thk": {
-    "earliest": "2020-08-26",
+    "earliest": "2020-05-28",
     "latest": "2026-04-28",
-    "count": 1387
+    "count": 1448
   },
   "airtac": {
-    "earliest": "2020-08-25",
-    "latest": "2026-04-28",
-    "count": 1375
+    "earliest": "2020-05-27",
+    "latest": "2026-04-29",
+    "count": 1438
   },
   "keyence": {
-    "earliest": "2020-08-26",
+    "earliest": "2020-05-28",
     "latest": "2026-04-28",
-    "count": 1387
+    "count": 1448
   },
   "delta": {
-    "earliest": "2020-08-25",
-    "latest": "2026-04-28",
-    "count": 1375
+    "earliest": "2020-05-27",
+    "latest": "2026-04-29",
+    "count": 1438
   },
   "fanuc": {
-    "earliest": "2020-08-26",
+    "earliest": "2020-05-28",
     "latest": "2026-04-28",
-    "count": 1387
+    "count": 1448
   },
   "siemens": {
-    "earliest": "2020-08-24",
-    "latest": "2026-04-28",
-    "count": 1446
+    "earliest": "2020-05-26",
+    "latest": "2026-04-29",
+    "count": 1510
   },
   "abb": {
-    "earliest": "2020-08-24",
-    "latest": "2026-04-28",
-    "count": 1429
+    "earliest": "2020-05-26",
+    "latest": "2026-04-29",
+    "count": 1493
   },
   "rockwell": {
-    "earliest": "2020-08-21",
-    "latest": "2026-04-27",
-    "count": 1426
+    "earliest": "2020-05-26",
+    "latest": "2026-04-28",
+    "count": 1489
   },
   "schneider": {
-    "earliest": "2020-08-24",
-    "latest": "2026-04-28",
-    "count": 1455
+    "earliest": "2020-05-26",
+    "latest": "2026-04-29",
+    "count": 1520
   },
   "mitsubishi_electric": {
-    "earliest": "2020-08-26",
+    "earliest": "2020-05-28",
     "latest": "2026-04-28",
-    "count": 1387
+    "count": 1448
   },
   "dmg_mori": {
-    "earliest": "2020-08-26",
+    "earliest": "2020-05-28",
     "latest": "2026-04-28",
-    "count": 1387
+    "count": 1448
   },
   "okuma": {
-    "earliest": "2020-08-26",
+    "earliest": "2020-05-28",
     "latest": "2026-04-28",
-    "count": 1387
+    "count": 1448
   },
   "amada": {
-    "earliest": "2020-08-26",
+    "earliest": "2020-05-28",
     "latest": "2026-04-28",
-    "count": 1387
+    "count": 1448
   },
   "makino": {
-    "earliest": "2020-08-26",
+    "earliest": "2020-05-28",
     "latest": "2026-04-28",
-    "count": 1387
+    "count": 1448
   },
   "jtekt": {
-    "earliest": "2020-08-26",
+    "earliest": "2020-05-28",
     "latest": "2026-04-28",
-    "count": 1387
+    "count": 1448
   },
   "tongtai": {
-    "earliest": "2020-08-25",
-    "latest": "2026-04-28",
-    "count": 1375
+    "earliest": "2020-05-27",
+    "latest": "2026-04-29",
+    "count": 1438
   },
   "goodway": {
-    "earliest": "2020-08-25",
-    "latest": "2026-04-28",
-    "count": 1375
+    "earliest": "2020-05-27",
+    "latest": "2026-04-29",
+    "count": 1438
   },
   "itw": {
-    "earliest": "2020-08-21",
-    "latest": "2026-04-27",
-    "count": 1426
+    "earliest": "2020-05-26",
+    "latest": "2026-04-28",
+    "count": 1489
   },
   "lincoln_electric": {
-    "earliest": "2020-08-21",
-    "latest": "2026-04-27",
-    "count": 1426
+    "earliest": "2020-05-26",
+    "latest": "2026-04-28",
+    "count": 1489
   },
   "parker_hannifin": {
-    "earliest": "2020-08-21",
-    "latest": "2026-04-27",
-    "count": 1426
+    "earliest": "2020-05-26",
+    "latest": "2026-04-28",
+    "count": 1489
   },
   "caterpillar": {
-    "earliest": "2020-08-21",
-    "latest": "2026-04-27",
-    "count": 1426
+    "earliest": "2020-05-26",
+    "latest": "2026-04-28",
+    "count": 1489
   },
   "etf_robo_etf": {
-    "earliest": "2020-08-21",
-    "latest": "2026-04-27",
-    "count": 1426
+    "earliest": "2020-05-26",
+    "latest": "2026-04-28",
+    "count": 1489
   }
 }

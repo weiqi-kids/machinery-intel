@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 231,
+  "no_date": 0,
+  "too_old": 124,
+  "gate1_fail": 3,
+  "gate2_fail": 8,
+  "passed": 28,
+  "gate2_samples": [
+    "Building connections through intersectional allyship",
+    "Retief Goosen captures Mitsubishi Electric Classic for fifth Champions Tour title - PGA Tour",
+    "Mitsubishi Electric (OTCMKTS:MIELY) Reaches New 52-Week High - Here's Why - MarketBeat",
+    "David Duval makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
+    "Asian equity firm asked to halt acquiring tool maker Makino - 朝日新聞"
+  ]
+}

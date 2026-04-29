@@ -1,0 +1,242 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T09:59:22.059260Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-04-29-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Delta Electronics Thailand Q1 2026 slides: AI demand drives record results - Investing.com Australia",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbFZRNDJEdUU0TnZTVmpWeV9mQjhLc3piWUtwUGs5T2JTUk9YT3ZJQ3VfamdKT3NUR1JTT1NLMklqN0FHcjViZEV6R2xUTWF0M0xkZ3JuVjdUUUFJczJBVElQbXhVRW1PTzFoX1M0Vl95ZnR2N1QxM2U3b3c1SnpDNnQ5dk1mLWd1ZDVoV1NsX1dtWTRCMUk5d3g1Z1RnM2dYekVvQnJrZ21SYlIydnU1dW9aMGdWbGVsYjlfUnhlUjV3NkVvNGV1Rw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-04-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics Inc stock (TW0002308004): Is its AI power leadership strong enough to unlock new u - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVBaakczcVE5UDJyanZUQ0t2NW41SEpzX0kzQ3ZxaTJhaXdLOHZfY2ljb2hoSEcweHRpUGs3T09CSGEyUWliSk1KSXBLZ1l2bWNIV1RxOUs2UC1DUVJ1YXFheHNNN3lnWm5lWDIzLWtjVTR4aFE5dlg3bmJad08yV05XZXB6OG1jTy05SlQtSENPTVM3LVJwQkgxT1ZBbmE4cVJyUVhmam95Tmh0WDFrdDJoMGZSRnA4NnVab3Y3MmdIcmRN?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itw-2026-04-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How The Illinois Tool Works (ITW) Story Is Shifting As Analysts Rework Price Targets - Yahoo Finance UK",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZFJqNkFzSXBjVmwzdlk4OEFPbU9wTUl2WV93NmJIeTM4S0dDQk1odW81V0xta2VyU0llOFV1QkZIeVRlNGQ1d3J0NG1DZUFxeVo3VE8wV3BCOWl4WHdtLTYyYkNEeUpucnJNdHNQOWtRM1BNOEFtNm81RUJsRHdQZ1owZjU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itw-2026-04-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings To Watch: Illinois Tool Works (ITW) Reports Q1 Results Tomorrow - StockStory",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2RqRkNJVGhnUnkyNzZKZmZxdENEYnZGQW9lQVA1Rjd3Y3JfNTFFeVBvNG1TSUhzZ2trS1Z6WEJxSUJ1ZGxBWGhkQXQyM05TWkNqWXpualI3b2pmLTJ1TFlodmpSenBJRGdwQnpjVTFBNUlfVGRNbHZwLWxIYm5ISGdJLTFUOGpPcGVYeXZGSGZRaXpwcnRNMkJucTNqSklWbWNjN2F4ZnpqcC12NEluYWU0OUZBdms2MmtYSENraFBIa0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-04-29-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin (PH) Raises Quarterly Dividend 11% to $2.00 per Share - Yahoo Finance",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMjFXbHMyaTUzSXRHNXhsdGpvelZhUTBENHNTSlZocEk4czFzV0RrRC1weFNFVEpraU1RbXJIMEZLVUhCWFdzV3JIMjJsXy1Hb3h6OW1tMkRuV2psZnBZX3RxXzM1ZXZIQXVmMEs3Tm41bDdKeFg5OFpLQnQyN0VpVnM3REEzaDBGUDZaUEI2VlBSU0Q4dGMxV0FBcXBSSmxDVEE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 5
+      },
+      {
+        "id": "delta",
+        "count": 2
+      },
+      {
+        "id": "itw",
+        "count": 2
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "keyence",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "automation_capex",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 394,
+    "dup_title": 231,
+    "too_old": 124,
+    "gate1_blocked": 3,
+    "gate2_blocked": 8,
+    "passed": 28,
+    "pass_rate": "17.2%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Building connections through intersectional allyship",
+      "Retief Goosen captures Mitsubishi Electric Classic for fifth Champions Tour title - PGA Tour",
+      "Mitsubishi Electric (OTCMKTS:MIELY) Reaches New 52-Week High - Here's Why - MarketBeat",
+      "David Duval makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
+      "Asian equity firm asked to halt acquiring tool maker Makino - 朝日新聞"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為CAT、Delta Electronics、ITW相關動態：「Delta Electronics Thailand Q1 2026 slides: AI demand driv...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Delta Electronics Thailand Q1 2026 slides: AI demand drives record results - ...（自動化資本支出、財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Delta Electronics Inc stock (TW0002308004): Is its AI power leadership strong...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
