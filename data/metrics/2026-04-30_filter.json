@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 3,
+  "gate2_fail": 9,
+  "passed": 43,
+  "gate2_samples": [
+    "Building connections through intersectional allyship",
+    "Retief Goosen captures Mitsubishi Electric Classic for fifth Champions Tour title - PGA Tour",
+    "David Duval makes birdie on No. 18 at Mitsubishi Electric Classic - PGA Tour",
+    "Stewart Cink makes birdie on No. 14 at Mitsubishi Electric Classic - PGA Tour",
+    "Asian equity firm asked to halt acquiring tool maker Makino - 朝日新聞"
+  ]
+}
