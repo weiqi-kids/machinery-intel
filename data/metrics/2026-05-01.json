@@ -1,0 +1,69 @@
+{
+  "date": "2026-05-01",
+  "total_events": 16,
+  "by_company": {
+    "airtac": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "delta": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mitsubishi_electric": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "dmg_mori": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "okuma": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "makino": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "itw": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "parker_hannifin": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    }
+  },
+  "by_topic": {
+    "automation_capex": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 12,
+      "sentiment_avg": -0.04
+    },
+    "industry_general": {
+      "count": 12,
+      "sentiment_avg": -0.04
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "cnc_technology": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

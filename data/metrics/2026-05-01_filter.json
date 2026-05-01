@@ -1,0 +1,16 @@
+{
+  "total_raw": 376,
+  "dup_title": 181,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 1,
+  "gate2_fail": 8,
+  "passed": 74,
+  "gate2_samples": [
+    "Parker Reports Fiscal 2026 Third Quarter Results",
+    "THK (OTCMKTS:THKLY) Sees Unusually-High Trading Volume - Still a Buy? - MarketBeat",
+    "Building connections through intersectional allyship",
+    "Retief Goosen captures Mitsubishi Electric Classic for fifth Champions Tour title - PGA Tour",
+    "2026 Mitsubishi Electric Classic money: Purse, winner's share, updated PGA Tour Champions prize mone"
+  ]
+}

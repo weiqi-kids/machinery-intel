@@ -1,0 +1,272 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T09:28:04.145153Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-05-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics: Delivering sustainable, AI-driven power and cooling solutions - - tele.net",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNE5rNUlWNXV5MU5RWmpObzVDSGFNZjlXdlJlUmwydlFDSzVfamg5SmNsWHZfRzF5cFQ2aXlFLU5aLTJJblVfQ2stN09qako1akRlY21iUWJoRl8xRlBlMUlURkJuQmZBamFWT1UyVVl5MjcySlB1OGltck1ZNHBOVjdPLVJrQVluUGNraXJXbXBvSHNKWl9nYnNETzJfLU1R?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mitsubishi_electric-2026-05-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric proposes three-way power chip JV with Rohm, Toshiba - digitimes",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM1VMUGozZ3I1Q21WNktTZDRaN204YTdSalVwWVYyVGc3VGFoVWpHeEhmRUtHblgzNnVaUjhzdUROV0oxX1d1cUpXMXlJRFl3T2VFZXl6ZnA0ZW9HYmZvLVdORmozYVlaNTNZSW0wRWlMVEVGOVd0dUdaTklmZWhlalRnVlZJSG1MX3cxV3dBNV9FMWd2TDROOWF5RnJXazQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "dmg_mori-2026-05-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DMG MORI Lifts FY2026 Earnings Outlook on Strong Orders and Weak Yen - TipRanks",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzNWSUZoV2hHT0pqc000ZC1Cc0tlR0k5LVFIdmVTTXoxaDBpb0JqNzBYdXlzWkFjb2xDbDNsbElkRnhLbTJtYTM1MTJhQ3k1QWZmYkRiQmZDVmZveTNmaXVTUTc0T1JfeXRhLXpYN29ZZTE0dkU3NUpRX3ZWTmZ3eVZyLVNMWEVYWC1vUlpVNGJIVUhKSmRPNWltZTYwU25zWTNmRl9EdGt5R2VBdWV0end6M2NhdnFzbEY5Tg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "dmg_mori-2026-05-01-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DMG MORI Swings Back to Profit and Raises Full-Year Outlook - TipRanks",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3lLeG42VmdEaEVtU0tRekhjSnhHbExCTWc2YmxpUmlYbUVQT0l0bmdvNHBENlBINEdpZ2VHRjJzR1FCaGlweVZHYXJ5U1Y2OXA5UEVZUEdtbHdrQTFyVmo2bkhmNlU5RC16ZDFsREdtR2E2VHVCbnZoSkRuRm1EcUhhaGlCbmZLY0l5N0lCWWY3aGlSR0dnMENObXI3eHdPOG1UMG1TanJOcl9DMmZNSw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itw-2026-05-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works Inc (ITW) Q1 2026 Earnings Call Highlights: Strong Start with Revenue and EPS Growth - GuruFocus",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUmhqeFJsS01YOGJ0OW1KX3ptbnNILXVSWHp5MG1Fdjc1blQ3SlNVakx5SjdCT1dnVTdleUJPOGlfbzN4Z2RIVjN5VC02ckJoSEhoaWdydFhibXdFUjROVXAycWpFWEk5c25UUUU4ZHRjbFltblFTM0gzMFVUYUE4dmJyeTVVTC1jTlJVUGNmSXZ4aHduemZpNElUbVVOZFVQelF6NHpSQ2hWSUs0Nno3NEFpRUZHejBITmFwTE51eUpyYUdZeXEzYTlUTDZUcXNhaTZOQmsyMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "cnc_technology": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 5
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "dmg_mori",
+        "count": 2
+      },
+      {
+        "id": "itw",
+        "count": 2
+      },
+      {
+        "id": "airtac",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "automation_capex",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "cnc_technology",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 376,
+    "dup_title": 181,
+    "too_old": 112,
+    "gate1_blocked": 1,
+    "gate2_blocked": 8,
+    "passed": 74,
+    "pass_rate": "37.9%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "Parker Reports Fiscal 2026 Third Quarter Results",
+      "THK (OTCMKTS:THKLY) Sees Unusually-High Trading Volume - Still a Buy? - MarketBeat",
+      "Building connections through intersectional allyship",
+      "Retief Goosen captures Mitsubishi Electric Classic for fifth Champions Tour title - PGA Tour",
+      "2026 Mitsubishi Electric Classic money: Purse, winner's share, updated PGA Tour Champions prize mone"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為CAT、Parker、DMG Mori相關動態：「Delta Electronics: Delivering sustainable, AI-driven powe...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Delta Electronics: Delivering sustainable, AI-driven power and cooling soluti...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Mitsubishi Electric proposes three-way power chip JV with Rohm, Toshiba - dig...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
