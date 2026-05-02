@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 227,
+  "no_date": 0,
+  "too_old": 119,
+  "gate1_fail": 0,
+  "gate2_fail": 9,
+  "passed": 39,
+  "gate2_samples": [
+    "Parker Reports Fiscal 2026 Third Quarter Results",
+    "THK (OTCMKTS:THKLY) Sees Unusually-High Trading Volume - Still a Buy? - MarketBeat",
+    "Building connections through intersectional allyship",
+    "Retief Goosen captures Mitsubishi Electric Classic for fifth Champions Tour title - PGA Tour",
+    "Zach Johnson remains atop after Round 2 of Mitsubishi Electric Classic - PGA Tour"
+  ]
+}

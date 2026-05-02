@@ -1,5 +1,131 @@
 [
   {
+    "id": "itw-2026-05-02-001",
+    "date": "2026-05-02",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Danske Bank A S Sells 28,486 Shares of Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0VBZGVoQ0dBNXR1UjlHc1dmMk5fRFh2dEJRanE3YTJsTUNLajlLbkZnYTFZRFEtcTE2czBFLTV3bmlYRVppMGszck00cFZFTFM0R3ByOG9QOHBNTEtWUVgzbGN6RVYyUDlIM1RfdW",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0VBZGVoQ0dBNXR1UjlHc1dmMk5fRFh2dEJRanE3YTJsTUNLajlLbkZnYTFZRFEtcTE2czBFLTV3bmlYRVppMGszck00cFZFTFM0R3ByOG9QOHBNTEtWUVgzbGN6RVYyUDlIM1RfdWQ2ampJcV9uOHRDaVNSajRsc29jX0xJV1N3SWRCajk5bFYycDlKNFBkLXhVN05BSHQ2ajhFd0dybm1Gd3J2dVByanhiU25tbVdHY2pPMi1neWhRSEkx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-02-002",
+    "date": "2026-05-02",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Q1 Earnings Call Highlights - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNdGRLX1JsTFJIUDF0OF91WnBiMWlGbm80R2hMbFU2Y2otQUNtNE5zWWE2QVJVR1k5eWhHODBWTFlGVlozSlVZYU5LQ0hwM3YtUXdwMFZhYVFjVVlGUHZ2ZUVkVjF0N0VpN0lmQkFGYm",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdGRLX1JsTFJIUDF0OF91WnBiMWlGbm80R2hMbFU2Y2otQUNtNE5zWWE2QVJVR1k5eWhHODBWTFlGVlozSlVZYU5LQ0hwM3YtUXdwMFZhYVFjVVlGUHZ2ZUVkVjF0N0VpN0lmQkFGYmxKa2dRYUplT3NMMmNra0tVbTlMU2ZQbWhRZVJ5VEx0cG5KdFdQMWo2RTNtTWo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-02-003",
+    "date": "2026-05-02",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rep. Jared Moskowitz Buys Parker-Hannifin Corporation (NYSE:PH) Stock - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYWpjSktnck92V25jSzF2WHF5RXM1SWpHSEV6VW1VOHdJUFpHdEZ0cVZrYXE1WVBaMFMzY2lwOVBRQ2xCeFR3VGNuWW8zM0pCeExOMm54cFZNbmZnbVFMelplQ3BqNllZWGJkb3BMOW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYWpjSktnck92V25jSzF2WHF5RXM1SWpHSEV6VW1VOHdJUFpHdEZ0cVZrYXE1WVBaMFMzY2lwOVBRQ2xCeFR3VGNuWW8zM0pCeExOMm54cFZNbmZnbVFMelplQ3BqNllZWGJkb3BMOWhIQXRzb2wxT0lxaWIxTVVpdUtIWXMzNVZFUEc1RFRwM25reThFRm1nNTdKVFRJNUZJd2szRzlxclhxb1F2RUhVVkhSRW1GMzlvb184?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-02-004",
+    "date": "2026-05-02",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin Stock 5-Day Losing Spree: Stock Falls 9.5% - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMnlvWDJZV2VCQ3FFbkU0eVhBbE9wNjgydDZ0TW0xSHR1YXNlUmdMLU4tUm02dFhZNVZiME1hM2RFV2Z3aHJQOFFvVVNwYjkwXzBURmx5U2hWbUJjdm9leUZfdF9lbHVtbVkwTmo4N2",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMnlvWDJZV2VCQ3FFbkU0eVhBbE9wNjgydDZ0TW0xSHR1YXNlUmdMLU4tUm02dFhZNVZiME1hM2RFV2Z3aHJQOFFvVVNwYjkwXzBURmx5U2hWbUJjdm9leUZfdF9lbHVtbVkwTmo4N2ljMkEzX01MOXNVdUNEeTVIdkZMQzJVVUdnWE02cU1PTHU2NjFSQk5LUi1kcld3Nks4Rm5UdVpES1A1cVlFQ0dIVjRMMVE5dV9TcVRwMVZjODNQRGM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-02-005",
+    "date": "2026-05-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BofA sees more power behind Caterpillar shares - thestreet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0g5dV9hNWpVQnJsTTQ1M3FqQlA1U0Y5bXRnZlNrUWY4bFpXT0tiSkNwdm90c3dtVndZbnE1b0JYUm5JeHVMQm1jZm5YTXZkOGM4dmstSkNPVEZ0VkNsb0dFZENGWGpJZU1uRjZUUT",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0g5dV9hNWpVQnJsTTQ1M3FqQlA1U0Y5bXRnZlNrUWY4bFpXT0tiSkNwdm90c3dtVndZbnE1b0JYUm5JeHVMQm1jZm5YTXZkOGM4dmstSkNPVEZ0VkNsb0dFZENGWGpJZU1uRjZUUTR5YzdHdndTb3ZsUjluLWE2ZkNraTBpdE5jNXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-02-006",
+    "date": "2026-05-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jim Cramer Shares Big Data Center Catalyst For Caterpillar (CAT) - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOTjlLVUUxZFhIRHp1YzU1Z09fdnhTRjVQQmhCTkVPT3o2bl9HUFVUSGkwSXZhUTdsXzV4dGZwRjNHNUZhNjJ6Y2o3cEJCM3Z0MHI1Ty1FRUsyNUhraG1Kb0lVbVF2amJkcHQ0RVg1d2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTjlLVUUxZFhIRHp1YzU1Z09fdnhTRjVQQmhCTkVPT3o2bl9HUFVUSGkwSXZhUTdsXzV4dGZwRjNHNUZhNjJ6Y2o3cEJCM3Z0MHI1Ty1FRUsyNUhraG1Kb0lVbVF2amJkcHQ0RVg1d2h2SzZMNmpZWDlZVVdveDhxVw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "airtac-2026-05-01-001",
     "date": "2026-05-01",
     "companies": [
@@ -328,6 +454,460 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcEYxVTZ2UjZWUkE5YndDaU55SW1heG8tZmRzc2cwVHA1UjJxTTlTWU9TZDlMcXB4SzAtWjBzU0tUVUVnRG9FVHgyaVRIUWQ2UGVOTVFhb0pVanRpb2xUTGNoeDV3Yi1GN2NJMDVnM3RQNnlPc3cta2s1cFVoUURic2EwYmI5X1hoLVJwQloteUVQeERfSy00Y3otdkxCVk1xSUVJdjM5VnJ1N0R3S251UzlpSmpOYjZoSkdRdTd2OVM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-05-01-017",
+    "date": "2026-05-01",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Delta bullish on rising AI demand - Taipei Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4tWXJfWThCbXBjNkVVNjYtSVVjNjVJY2FwRndjbGFQQ21nb2NPcFU1LTlVZWgwY3l2UlJXVXJyVHVwNUNUV0RDMjJXWkotRFh5WVUzMmJnbkV4X2M1VDVzZ0I2dkJoc1hLdS12by1ROT",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tWXJfWThCbXBjNkVVNjYtSVVjNjVJY2FwRndjbGFQQ21nb2NPcFU1LTlVZWgwY3l2UlJXVXJyVHVwNUNUV0RDMjJXWkotRFh5WVUzMmJnbkV4X2M1VDVzZ0I2dkJoc1hLdS12by1ROTVVeXVvSlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-01-018",
+    "date": "2026-05-01",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric (OTCMKTS:MIELY) Trading Down 8% - Should You Sell? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1VuNFVidW4tcXd5UFVlTUw2MmwyeHFTeWRRZkRNc0dNNHJOUS01cW5OTkIzUHl1V2JqdkxLWWU2ZkdWdmtRcndRS2NuLUJ0NmpmTDVreVhvdnlaZjhacGRyajRVT21UYTRaUExjaV",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1VuNFVidW4tcXd5UFVlTUw2MmwyeHFTeWRRZkRNc0dNNHJOUS01cW5OTkIzUHl1V2JqdkxLWWU2ZkdWdmtRcndRS2NuLUJ0NmpmTDVreVhvdnlaZjhacGRyajRVT21UYTRaUExjaVVFMTJrTjc4WTEwbVBhWEpQSVNlRWU0bWRXa2M4V2kwNjhTbVVCWkh6WFdkMlVGdzNDVjloWXNkSUJrOE1DVFNsVjlxWE8xLUJW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-01-019",
+    "date": "2026-05-01",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works: Tricky In 2026, I Say 'Hold' (NYSE:ITW) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQaFFqa3VBQlJQYzJqV0Y1TGpPSDA2YTVtQ2hEWUNKdlBtd0F0Vm9iNFJzMzJZNmxRTF9ab0VaYWZiNnBTU2xKQUdqYWxHMk5ET05oVG84ZDZ5N09yNDQzRUs3QTVleHU0T1U4WWgxQ2",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaFFqa3VBQlJQYzJqV0Y1TGpPSDA2YTVtQ2hEWUNKdlBtd0F0Vm9iNFJzMzJZNmxRTF9ab0VaYWZiNnBTU2xKQUdqYWxHMk5ET05oVG84ZDZ5N09yNDQzRUs3QTVleHU0T1U4WWgxQ25YYkp5ZTFKTjRqWUVuX3pXdm9uaklGZWJyZWMxWDhMbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-01-020",
+    "date": "2026-05-01",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (NYSE: ITW) posts Q1 CY2026 sales in line with estimates - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNXRTYjU1MHFOVFNSUWFGRDAtdGZoQ0ZaeVpYNmRHNlZ0Ujl3YnNIOVRjNWdETEkwMk1DVWVlN3ZNS3Q3ZUZjYW9oMGdZTFl2SEtFT2l5dmxsYmdfN1NESmdqdV9Ic0VOLXlYVzkwWU",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNXRTYjU1MHFOVFNSUWFGRDAtdGZoQ0ZaeVpYNmRHNlZ0Ujl3YnNIOVRjNWdETEkwMk1DVWVlN3ZNS3Q3ZUZjYW9oMGdZTFl2SEtFT2l5dmxsYmdfN1NESmdqdV9Ic0VOLXlYVzkwWUtWRWI2QUY1WE5SbGI5R1NBRmJKczFTNmNBVlAzUzctWWJ6cFNlQ290NjBTa19EQ0xQQ2p5aGNXUmxybHlkNHpNamF3bzRrSWV1ZGo5X2xwSXo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-01-021",
+    "date": "2026-05-01",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Illinois Tool Works (ITW) Margin Compression Challenges Earnings Growth Narrative Ahead Of Q1 2026 - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQckVvWFhkdFNpVkh3d3MybHNncF9JSmxYcEVqMzNBSmNFTDdCREtna1hURy1OdXRqblBUQ1VaVzJfZDh6Y2VEaThqQmpJWW1lbG1hVEt0N3AxVjZ4WkxYZnFXcnVIcHM0Z0xrSXdOSF",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQckVvWFhkdFNpVkh3d3MybHNncF9JSmxYcEVqMzNBSmNFTDdCREtna1hURy1OdXRqblBUQ1VaVzJfZDh6Y2VEaThqQmpJWW1lbG1hVEt0N3AxVjZ4WkxYZnFXcnVIcHM0Z0xrSXdOSFA3M01QbTNtTDZXa0tSWHZXWHVmMnNwNmdtUnlaeE83RnhzbnJicTRreW9nTFJiX1JmNTlPVmhvQVllWkZjcVd3SHByUHh2VEcxODM5dVlSNHNMNUpKY25pdk9abHNnNzhDdXZkTGhPSdIB3AFBVV95cUxNT1RoU2NVWXhvYzNQNWVRM2pfQkExMWZpWGhqV1ZfSE9fcFZmendOV0tMSFFrcGtrRTlTVFhRLXliUzVjNUlaQV8tUXNyUk85N0VBQUxFVE1nTXBRcEQwQ1gtb3lxdS1lcmVBRXYwY2djMF9kNG9GUHI3R0NLamY2dzUxZ3hSeWFfdHFNQnpMWmxVWDg5OWJob0h3dk92R21Ma3FZMnhXSnctTlBuZm5uR1ZHcjhTSU5jQW45UDJpNy1hZXJCbndyX0RZclV2U1lYWFozbDZYaWduOUsx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-01-022",
+    "date": "2026-05-01",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (NYSE:ITW) Price Target Cut to $295.00 by Analysts at JPMorgan Chase & Co. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWFJCNDFSbTNMT1ktUjZfWkZzM3R3S3ZwblY0VEVmRDZkQjBUQ2lPTkp4WGlXNFFHc3NFb3pwbkl6TDk5NjhQRXkycDJtY1ZDblFUeVJlaTdYNnZ4Sm9kSkpic1lFV0hGaTZmZWhIbD",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWFJCNDFSbTNMT1ktUjZfWkZzM3R3S3ZwblY0VEVmRDZkQjBUQ2lPTkp4WGlXNFFHc3NFb3pwbkl6TDk5NjhQRXkycDJtY1ZDblFUeVJlaTdYNnZ4Sm9kSkpic1lFV0hGaTZmZWhIbDhuNVlpbFVSTEFKMkY3WDlGdkZncVUtWFdtSUszcDFId0ticTgwbng0Z01KMXNOcFgtbnptdldVNDFHemlfOWJBdmEybzVoRWVxSXpqaUV1cEI2WloxV09Va2xCZWVhbEtiSGo4MDluMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-01-023",
+    "date": "2026-05-01",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Bancorp DE Sells 5,489 Shares of Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzkxbTBVNU9EUlppbGFZVjN2Um9qQUxHVkRMbmdPV0ZOVlpGSUJrRkFmWkVXWDl1NUZHX3JZRjIzTXhpdVhuUDdPSzVLRTRIWWJ4anY0eFZ2NUV6ZnNVUll5Tlk0LUZ2ZHdFQ2JjSz",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzkxbTBVNU9EUlppbGFZVjN2Um9qQUxHVkRMbmdPV0ZOVlpGSUJrRkFmWkVXWDl1NUZHX3JZRjIzTXhpdVhuUDdPSzVLRTRIWWJ4anY0eFZ2NUV6ZnNVUll5Tlk0LUZ2ZHdFQ2JjSzIxYlNxREVQZHJ6cHplbHRpQm9feEdoTXkwc0Z5NFhzRE1MUWd6bGhxRHdoeE5RaVFzV1YyYnRtc1JST1hpeEFScllBRElhbndKQ1QtTVJHUGo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-01-024",
+    "date": "2026-05-01",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Stock (PH) Opinions on Q3 Earnings Beat - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWdMSy11NDN2Nng5Y2hLd01KbzBMblZwUzJaaWVBQnA3MkJIX1g1dXZzTElVOUxUNU54M3BrMHBKM2RneWRoM2VhYy01dkJQSE52Zy1QVFZnRHdWNDRCaWlVa0dtaURzanA0R2doaF",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWdMSy11NDN2Nng5Y2hLd01KbzBMblZwUzJaaWVBQnA3MkJIX1g1dXZzTElVOUxUNU54M3BrMHBKM2RneWRoM2VhYy01dkJQSE52Zy1QVFZnRHdWNDRCaWlVa0dtaURzanA0R2doaF9IWjA3WUhnbnZMS0h0WHEzX0paUFhjdU13M2tfY0ItUmxoMkJncklZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-01-025",
+    "date": "2026-05-01",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin Corp. stock underperforms Friday when compared to competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRXlneUU5WHdUUERacVpmdmhpM29hVEVxSlRYZGQxek91WDhJbXEyanF2Ry1VVVBSQnpINmhBVTdTMGUzOEZsNGJ1M0dSVnc3V3IwR0tpMXZyTGdOd0oxdkM2eF9wQnNlZDB2UjdPQT",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRXlneUU5WHdUUERacVpmdmhpM29hVEVxSlRYZGQxek91WDhJbXEyanF2Ry1VVVBSQnpINmhBVTdTMGUzOEZsNGJ1M0dSVnc3V3IwR0tpMXZyTGdOd0oxdkM2eF9wQnNlZDB2UjdPQTlvOU1qb2Fkb2hhWWRFdmtGM2I2dzJrNTQ3QzNZTHY3VVVxWVdMRUZ3MEFjV3JHckw2Q19yZnduYy1EbUEyWnFSdkE0SU5UNmZjQ3M4NGIxQi13NjdQdERMZ2doMENKZEp2amc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-01-026",
+    "date": "2026-05-01",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analyst recommendations: Apple, ConocoPhillips, Stryker Corporation, Parker-Hannifin, Equinix - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOVkxWUJWMS1aN2M1VE1BeXhzemRDdW11NGRoYW5Wc3ZLY0JoRDZTUWpvUlhLcHJyQXVRMXZnTEdiQ1RucXJEc3l2SlN0aW5PR0ZaWlo5U0daajVTdFZnOFRJUl8tVjJPay1qRnhwaF",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOVkxWUJWMS1aN2M1VE1BeXhzemRDdW11NGRoYW5Wc3ZLY0JoRDZTUWpvUlhLcHJyQXVRMXZnTEdiQ1RucXJEc3l2SlN0aW5PR0ZaWlo5U0daajVTdFZnOFRJUl8tVjJPay1qRnhwaFNIQlRCbDBVM3NsbHpoaHdLdVFyMzFNNkNCSlY1WWYxVV84eVF6ZGdoSzh0dzBkaEtNaUJraEExTkRPdGZRTG1NdElzWDVteHE4VnVtNGlSZWlMS2xOck1UQ3ZZNDVVWlJ2aXRuWW5iWWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-01-027",
+    "date": "2026-05-01",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New York State Teachers Retirement System Sells 3,064 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcEFpVWhaTjZERmV2TmF4S01QYzBvZExFNkxWTUVMQ2pkc2d5NDh0S2RKUUhwck5pa2xFb2tYT0lqZV9XcFhEcHdCZ1lPWU5BbURIaVdYUkhPTjBfMm9yZnFWZnZSckViOVlYR013d2",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcEFpVWhaTjZERmV2TmF4S01QYzBvZExFNkxWTUVMQ2pkc2d5NDh0S2RKUUhwck5pa2xFb2tYT0lqZV9XcFhEcHdCZ1lPWU5BbURIaVdYUkhPTjBfMm9yZnFWZnZSckViOVlYR013d2RHMnFGWlYyZDBVZDlKMmdhVU5xT3FzbDdObTNWbDB6V0w1NlkzZDgwY3pVbl9FN0o3QU9ZSzVVYlBRRzFaRE92WDh4SDNFUUZqVEo4SmRVc0NkanFaQU9WNEJpT3o1aTVqcjJ0Qk1yTklYVUM4LWN5NGFDRzhMdkdsUkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-01-028",
+    "date": "2026-05-01",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jennison Associates LLC Sells 211,902 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODBPdnRhbjNYRHRxS0xjalo5ajF5cWdkZHQ5Yk1JMmE2SnpIWHM5dFg3NVFkRFctbTdEd1NPVFg0VGkyZERkd01TRXR5dkZ1VFQ4YlJUeFZoNUVUTGM2UWRTVFkzYW4tOHJhOHRLd2",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODBPdnRhbjNYRHRxS0xjalo5ajF5cWdkZHQ5Yk1JMmE2SnpIWHM5dFg3NVFkRFctbTdEd1NPVFg0VGkyZERkd01TRXR5dkZ1VFQ4YlJUeFZoNUVUTGM2UWRTVFkzYW4tOHJhOHRLd28yOHdiNnc0N2d5N2k0Y1ZoV1JtLTJ6OTl2OEdVbUFhaS1qVVloN1RYZ2NxQlRldTJVSlpOSEFGQ29LLVM3dnpzamRIX2pNbnBpNXhtRTBlNHFHbUE2Yi1TODU1Uk85bmJ6bzVyRg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-01-029",
+    "date": "2026-05-01",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation (NYSE:PH) Q3 2026 Earnings Call Transcript - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOZVRMQktjSTV5ZFh2MFFNVE1YNkhwOFpLSE5ndkRJeWdrQjAyLXk5MDFIMG1TUGNKYUxNcmlCaFFvdFQyRFB3eEhPQjlhVlpvWjFlY3BiNnh4UkNULUpZbXQzX3F6TkhIWnEySm1sc3",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZVRMQktjSTV5ZFh2MFFNVE1YNkhwOFpLSE5ndkRJeWdrQjAyLXk5MDFIMG1TUGNKYUxNcmlCaFFvdFQyRFB3eEhPQjlhVlpvWjFlY3BiNnh4UkNULUpZbXQzX3F6TkhIWnEySm1sc3F5NDQzblFlRWktazBCTUJxbHJFYXQxRWVwQURUMmgwSmxHeExwMGw2ajQ1Z0FFbGVucmtiaHViSUh6UG9YXy03Tg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-01-030",
+    "date": "2026-05-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar’s Biggest Bear Folds as AI Power Demand Soars - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1ZEWnZhTTJmd3ZCZUZnb0ZiNzAzNXpvWDU4a3NzV0g5cndkMmVkUElUSHlrTjhaSHJlaE4zS1hGc3gzZlJOWHliN2hDc2dOOHZmWE5JQjhlaTMwTU1JbVUtaXByTmtUakh6Sk9iaj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1ZEWnZhTTJmd3ZCZUZnb0ZiNzAzNXpvWDU4a3NzV0g5cndkMmVkUElUSHlrTjhaSHJlaE4zS1hGc3gzZlJOWHliN2hDc2dOOHZmWE5JQjhlaTMwTU1JbVUtaXByTmtUakh6Sk9iajR1SnphWEJ5MWFKOTFiZ01JT29vSVllbzEzbklMMHNSNS1fcjJzX1pJd3kzWFJwR3ZkX2QxSjUtV0RXS0E0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-01-031",
+    "date": "2026-05-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar upgraded at Morgan Stanley after underestimating U.S. construction market (CAT:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzFfYzVWOGZDQWpYWmRxOVpaaHFBSkhtMjcxRzVmeV9zWXFVQ3FSSk1yREZzT1NMTTNHSHhlRGNwLTBtS0hINFRCeS1EUGJYWUZCS3NXVW8yQkFVSUl4YS1LUm1hUEROMVVHdjh1Y1",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzFfYzVWOGZDQWpYWmRxOVpaaHFBSkhtMjcxRzVmeV9zWXFVQ3FSSk1yREZzT1NMTTNHSHhlRGNwLTBtS0hINFRCeS1EUGJYWUZCS3NXVW8yQkFVSUl4YS1LUm1hUEROMVVHdjh1Y1R1bTNxU3RKck1nbVlIcnpya3dWd2g5N3pPOEFTQ2luUVRmT3FaTTlTMERVc1NJNHI2ZFpUZ183ZGszZll4VmIzamZpQ043MlR2TG9IS2sxTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-01-032",
+    "date": "2026-05-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Don't look now, but Caterpillar is becoming an AI darling - Axios",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9RNHNxOUtkTzZIM1FCZHczaE95VkFKZkwwNWUwbmMxd1JpbWllV3lLRWlFYjJSX0ZuSG5yOUZ4cEtmRXVuR2VUTWEtbFlDdmhxSkw3cTlNcjV0M0J2VWY1NjRzZG9iZGF3SGhnVg?oc=",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RNHNxOUtkTzZIM1FCZHczaE95VkFKZkwwNWUwbmMxd1JpbWllV3lLRWlFYjJSX0ZuSG5yOUZ4cEtmRXVuR2VUTWEtbFlDdmhxSkw3cTlNcjV0M0J2VWY1NjRzZG9iZGF3SGhnVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-01-033",
+    "date": "2026-05-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Purdue visit to Caterpillar Inc’s Tinaja Hills Demonstration and Learning Center shows the power of partnerships in action - Purdue University",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcE1aZ3duOGRrSHI1VkVWV0JrLVlIal9rUXdoNUREcE54bVJiTUJZSzQ4V004aGVJeTRiUUhONzdwM2dfazZOQ3BRdDNOSWdYSWJ4c3VsRWdXejVJMEsxS0Z5cW9TSlRHdmNsNzZ5OT",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcE1aZ3duOGRrSHI1VkVWV0JrLVlIal9rUXdoNUREcE54bVJiTUJZSzQ4V004aGVJeTRiUUhONzdwM2dfazZOQ3BRdDNOSWdYSWJ4c3VsRWdXejVJMEsxS0Z5cW9TSlRHdmNsNzZ5OTNFOVNWUFMzYjk5ZThuNEotV3ZqTE4xbTdUQ3JHSFVDTTlXOUhlQ015b1d1MUh0WTJXM3BsOUtqWkUzS1RITW9mMXdlRUo4bUZ6Zkh6N0xwckRUQlU2RmNxeW9iNDI5Si1ocy1zUkctd2JsLTAyakg5dE5R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-01-034",
+    "date": "2026-05-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Caterpillar Stock Just Hit a Record High. Why Wall Street Thinks It Can Gain Another 30%. - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNaldRcHViMmRjbHF5ZEpxeDVndl9fNlIzLVByZUt4NlN3ZTduWmttN0ZCREZsWkMzNkd0M3gxV3V6b0Z0UzRBSjR4TU1QNTZ2REFfZnQ3Uk4wbHFnYUIwcVhERGxLR1ZBZ2pneWhBeV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaldRcHViMmRjbHF5ZEpxeDVndl9fNlIzLVByZUt4NlN3ZTduWmttN0ZCREZsWkMzNkd0M3gxV3V6b0Z0UzRBSjR4TU1QNTZ2REFfZnQ3Uk4wbHFnYUIwcVhERGxLR1ZBZ2pneWhBeVY5M3lCSHJpQjFTS1pNTnkwRzc2aWlxYlJUdTg2U0poTThnQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-01-035",
+    "date": "2026-05-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Texas Motor Speedway announces multi-year sponsorship with Caterpillar - Jayski",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaDJyNEd3SzlsZXZacF9VZHBWZkxsSXhVMHRCaUM1cFpkb1l0UE5qakZia1U3dk8weHhYVFIwa1lFckRoR1plMWFEajRRLU9WNXpZak5VNVBXekI4TzZWMFUxbDZ1emRiU1p1eW5fOW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaDJyNEd3SzlsZXZacF9VZHBWZkxsSXhVMHRCaUM1cFpkb1l0UE5qakZia1U3dk8weHhYVFIwa1lFckRoR1plMWFEajRRLU9WNXpZak5VNVBXekI4TzZWMFUxbDZ1emRiU1p1eW5fOW5EbU5XQi1CdnZVbkZXZEktQjUzVHF1YktzNzVXbmhBMEtoTXFMOTlpT2FxOTZuX0F1eXUtTVh4S0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-01-036",
+    "date": "2026-05-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar to triple power generation capacity, raises 2030 targets - Manufacturing Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOWERYOUJOVC1vUmJpSXhLZUdCdGp2SDZKRkdCdDJwMjdzNFN2LUZqOVlfQ1JDYUNrQ2JDRUtjdlRIMC1aRmpKc3JGYUZmd3VMLUwtbTdpUVQwWjBOYU9XTFR5S1ZpWTJ3cWhpQ2lHb3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWERYOUJOVC1vUmJpSXhLZUdCdGp2SDZKRkdCdDJwMjdzNFN2LUZqOVlfQ1JDYUNrQ2JDRUtjdlRIMC1aRmpKc3JGYUZmd3VMLUwtbTdpUVQwWjBOYU9XTFR5S1ZpWTJ3cWhpQ2lHb3l4MWhMWnh4R0YyQVlCaWtGWWNyOVhMaXRzM0hrVzk3ZGpwLWtYM2QzYmNPUmIyTHhGdmVzQkV1c0hCMVoyX1NDdzhVNlU4T2ZFTWFzRjAtSWxsendDdkZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-01-037",
+    "date": "2026-05-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar signs 16 students from training program - WEEK | 25 News Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZzBKdndUc3ZKT1B4bExDZHZCcXJxNlp3bVBOSmRCRm9xM24wWVNKSnVKN19sMXlGS1JmSFhKbUJKblAyUFJxU0Zhb0UwTUVrZ3NCZEViS3FKX2FkWEtjczR0Z3NKYndhLUpwUHJITj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZzBKdndUc3ZKT1B4bExDZHZCcXJxNlp3bVBOSmRCRm9xM24wWVNKSnVKN19sMXlGS1JmSFhKbUJKblAyUFJxU0Zhb0UwTUVrZ3NCZEViS3FKX2FkWEtjczR0Z3NKYndhLUpwUHJITjQxYnJwWWV6YlFDMGdCSWctblBfY3QzTWY0VUpLWtIBoAFBVV95cUxOaVVtQnNJY3NlV3VaSUxiZEpROGlXNGlHb0VfdWRJXzFvVW5fbEQxeU9ycXhoR3BlUXM0cmZqOVV1a202RGpZSkNsLUdWX1IxX0hQSE9IS2ZzdGx0eTFfdjdOMDVLSXNabjZHOGlYM3RyRlpLcTZ2NTNPdWk3clZDSjlwWmZ6eWM3RjFQNm10ZlFsckRCeXJidmxXSndmcmot?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-01-038",
+    "date": "2026-05-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar’s biggest bear folds as AI power demand soars - Mining.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxORF9OWTZkaXRpNTM5TWQzUFhkQy1VN0RiSG0xZnR6WjFoc05nQ19HR01kaU9qRWo1em12TzlvY0x0eGhNSHpWVWVUVU9GdFNlRjNxbjZBcjJEV2ZTX1pTTFlINFk4bTB5MkxHLVVIMk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORF9OWTZkaXRpNTM5TWQzUFhkQy1VN0RiSG0xZnR6WjFoc05nQ19HR01kaU9qRWo1em12TzlvY0x0eGhNSHpWVWVUVU9GdFNlRjNxbjZBcjJEV2ZTX1pTTFlINFk4bTB5MkxHLVVIMkhLWnBVWWlNakdzYUtGRTlUaXdFRGtyUVBiZEhiTg?oc=5",
         "type": "rss"
       }
     ]
@@ -1635,6 +2215,147 @@
     ]
   },
   {
+    "id": "delta-2026-04-30-064",
+    "date": "2026-04-30",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan's Delta Electronics warns costs rising as AI data centre demand surges - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPUC1MS3lQdFd3dkFUQzZoazl4TUhjeVFPT3ZYRFJhU0gtVGlqRXo0NVQxR0RRTkl3NS12RGdzWkNEMGxkcFhXa1l5Wl9Xbl9sblRLNjFkUi1iRlZoUVBWTWdLV2wzd0ttWmFuZ29sQV",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUC1MS3lQdFd3dkFUQzZoazl4TUhjeVFPT3ZYRFJhU0gtVGlqRXo0NVQxR0RRTkl3NS12RGdzWkNEMGxkcFhXa1l5Wl9Xbl9sblRLNjFkUi1iRlZoUVBWTWdLV2wzd0ttWmFuZ29sQVZnLWw4aTJSbER0QXF0bTMzWjBTdkNMSm9mVVhRa0RHb1BmV0I2bHVqS1JCQ3RUR01EU1ItZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-04-30-065",
+    "date": "2026-04-30",
+    "companies": [
+      "delta"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Delta Electronics Plans Rapid Expansion as AI Fuels Growth - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQV214S2s5WDFqODZVTlRfRkp6QVZncTgzZEcwNHk2bGNDS3NNakV2Vm94NUxmT0o3aGF3R28yZkhuVWN4NUowWEh4RzVkZWdPU1A2SG1LWDVyS2dZRmp5aTZ3em5mMFlwSUdvOE9rUE",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV214S2s5WDFqODZVTlRfRkp6QVZncTgzZEcwNHk2bGNDS3NNakV2Vm94NUxmT0o3aGF3R28yZkhuVWN4NUowWEh4RzVkZWdPU1A2SG1LWDVyS2dZRmp5aTZ3em5mMFlwSUdvOE9rUEJXdHVpdDZzcktHSFpSUUlSZjBLcWZRQV9IZWNELW5ibWpFSTJsOE1qTXdSOGRzYV9nYlAtZUVDSFlVNm9ZMkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-04-30-066",
+    "date": "2026-04-30",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics beats Q1 expectations with 101% profit surge - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlFqQzZ0M2JUc1l0MjJKNEI5cDUwR3hMZEhlcWdmNGg4N2hGRWhhYkMwZ2ZxZk85ZDAycHFDSlBQanJfT05hLWJONnBYNEtjYjR5dFMxUnEwa2R3VklidnBLN2lpM3BzbGVLNlA0R0",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlFqQzZ0M2JUc1l0MjJKNEI5cDUwR3hMZEhlcWdmNGg4N2hGRWhhYkMwZ2ZxZk85ZDAycHFDSlBQanJfT05hLWJONnBYNEtjYjR5dFMxUnEwa2R3VklidnBLN2lpM3BzbGVLNlA0R0dCOVRwdk5KYUtBc0JORFZra202RGZHYXRQWld6NFBKX0tNeTM4czk4MTVGdkN2R3hHMXNQMnliTE5OQTQ2WVphS3k1WTlYXzhFY096TlE0TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-04-30-067",
+    "date": "2026-04-30",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Hon Hai and Mitsubishi Electric Exploring Automotive Equipment Business In MOU - 富泰华工业(深圳)有限公司 - 鴻海科技",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9SY1R2Tm1obkh0QTZCYWx6REptejFBQk45ZFJmY1lkX1lSUG1MWk8tVGlpWkFSb00tUlNmUTllaEFGQUlEUDh0U21qeG5waTQzaXFVSXpWcU12TVlmWjA2QWVWdkEzMHhUM1RYY2RWOH",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SY1R2Tm1obkh0QTZCYWx6REptejFBQk45ZFJmY1lkX1lSUG1MWk8tVGlpWkFSb00tUlNmUTllaEFGQUlEUDh0U21qeG5waTQzaXFVSXpWcU12TVlmWjA2QWVWdkEzMHhUM1RYY2RWOHBVZHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "makino-2026-04-30-068",
+    "date": "2026-04-30",
+    "companies": [
+      "makino"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Asian Fund MBK Cancels Makino Milling Machine Bid - nippon.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxVkI1S2oxalRGdm9xaUpfZjFLQ0szbURKZmtYTW1wTi1VODVLdDNONnRoLVU4OGgyMmdQaV9kWUVyRklUTmRHUFhDWXBnYnNnM3loTk00Rl84dnlr?oc=5\" target=\"_blank\">Asi",
+    "sources": [
+      {
+        "name": "makino",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxVkI1S2oxalRGdm9xaUpfZjFLQ0szbURKZmtYTW1wTi1VODVLdDNONnRoLVU4OGgyMmdQaV9kWUVyRklUTmRHUFhDWXBnYnNnM3loTk00Rl84dnlr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-04-30-069",
+    "date": "2026-04-30",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (NYSE:ITW) Announces Quarterly Earnings Results - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2REbFU4UzFNazAzblUwbDdhWHYtMnVYQ2xfUVV4aDRpMnFkSUZyTExKNU5MNXZSVjJqLWlXWGhFQnNPenBJb3RhUS1nMF9iMTV4SEVTQk9GcVVYd29NRERqamNsbUFzWUZRUlBzVz",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2REbFU4UzFNazAzblUwbDdhWHYtMnVYQ2xfUVV4aDRpMnFkSUZyTExKNU5MNXZSVjJqLWlXWGhFQnNPenBJb3RhUS1nMF9iMTV4SEVTQk9GcVVYd29NRERqamNsbUFzWUZRUlBzVzBhelhTRUMwczZtMXhUQkdGam5zbnI5OEhtUWFndDJqWGZ4WU9XZmdxMHRzN0RTMElOT0t6MF8zaWZRYmhBaE9WRUN5RW5wLXctZFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-04-30-070",
+    "date": "2026-04-30",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar forecasts higher annual revenue as power equipment benefits from AI buildout - CNBC",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9FY1lIRDkzbl92Q0ZsY2JEMHdrVnFrUjhLT3VWNzBVSnQ5bzRXdGgzaXpVSlZUSGlocVVKMGt4TDhJbTBndk10S3J3azkxd0hLNEl4Ym45TnN2X1A1dTJXNzBWT3NEUHZjSH",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FY1lIRDkzbl92Q0ZsY2JEMHdrVnFrUjhLT3VWNzBVSnQ5bzRXdGgzaXpVSlZUSGlocVVKMGt4TDhJbTBndk10S3J3azkxd0hLNEl4Ym45TnN2X1A1dTJXNzBWT3NEUHZjSHIzcnphZDJqZ9IBd0FVX3lxTE9saDdyQjdEdU4wWTVPN1VVSTREWjNxTVlyZkd3ZkZ6cW10TXZOd0ZSOTJnZF8wYzZLMWUteHVnYkd6eEhKZy13WFVCMmo2TlNTUk44T29MR05Yems1UUlnTU83SmpMTHltNnJxbHVwMGt2NkJTekhz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "keyence-2026-04-29-001",
     "date": "2026-04-29",
     "companies": [
@@ -2465,6 +3186,68 @@
       {
         "name": "delta",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeGZES3JfQVJKalM1VXdnWThLbWNTQzVkc0g5N1NoajVIYk45Nnc0bS15ZGxqcFI5M3BnbnFCS09LdFhSYzE2eUtVemlBejYxakJWamNrakZQX2FLczVKTDZ3cE04aDhCNHkwck5aT01nbTNVR1ZYM2JmejliVjdSbDZta0hxYzJpaksxZWdTVUlReW9hT0dhNW1lVTBCdThPdTRfRU15NHZKMTdsay1wZzNUb0tBel9WeHdlWk5PR1ZoV3N6RmxNVFFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-04-29-041",
+    "date": "2026-04-29",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Japan losing its grip on electrification? Mitsubishi Electric Mobility sells 50% stake to Foxconn - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPeVBhMHp5VFFnTmYtY0dqYnpRdmR5QlJyRWQ5bm1JdXZ4aEd1UGQyVjVHYW5WczZkNWR4dm1EWkVFNlpsZ2NqZzQzdm5SZzJZakRlNi1mbER3MjhVYkxVTkxtTDZ4MEZ0dGJFYUd1dD",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPeVBhMHp5VFFnTmYtY0dqYnpRdmR5QlJyRWQ5bm1JdXZ4aEd1UGQyVjVHYW5WczZkNWR4dm1EWkVFNlpsZ2NqZzQzdm5SZzJZakRlNi1mbER3MjhVYkxVTkxtTDZ4MEZ0dGJFYUd1dDhmdWlRemJGdmZESjVWTjdCeDMwaVY3dE4zaDR4MUFYX0ZuWmxial9OQURJdXV5NmdUdDFIalh3WTVSUWxFaEUtbmxDczc2UV9qbnFZRmNqV0VOQjlhOVp2ZWJEdjFBRWw2ZkVyallWdWFtbzJNTlNyTHZVTVRQU0Z3c1JVNEZzVDVsT2UyNHVOd3pweUE2eFcxMkl3bEd1RzBtdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-04-29-042",
+    "date": "2026-04-29",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Mitsubishi Electric (TSE:6503) Still Sensibly Priced After Its 134.8% One Year Surge - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNcTR4aGdGWFYxbWJRV0lzNlBxNk5RR2dvZFgtT3RDM2hpOXFqdGU0MWJEcXJ0MGVicU9HZzRiVXZDeVYtSlZnVUxMTWV6NTFzalZ2aUlITHJaTmpxcWRhU2p1aFFaajlLdllyWTktaG",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcTR4aGdGWFYxbWJRV0lzNlBxNk5RR2dvZFgtT3RDM2hpOXFqdGU0MWJEcXJ0MGVicU9HZzRiVXZDeVYtSlZnVUxMTWV6NTFzalZ2aUlITHJaTmpxcWRhU2p1aFFaajlLdllyWTktaG1QWWtQdG1Dbl9GMUlzUXZzcnlqVk84U2VRaGZFLVViOHlQWmdsTmhqRjFwMllldlA0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-04-29-043",
+    "date": "2026-04-29",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "How The Illinois Tool Works (ITW) Story Is Shifting As Analysts Rework Price Targets - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUFmZHl2QV9pWFkxT19OR01TWGVwcDJGa1FfbHdNVm8xOEYzeTd0ZVdXUWhqaWQ1eHo5b0hRTGRIdnJod0NDWGJ4T2o2OHdwQVhyZjNBLVNyQXlwazZ0QU5RRTZCUm1BRTNfRW9mZW",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUFmZHl2QV9pWFkxT19OR01TWGVwcDJGa1FfbHdNVm8xOEYzeTd0ZVdXUWhqaWQ1eHo5b0hRTGRIdnJod0NDWGJ4T2o2OHdwQVhyZjNBLVNyQXlwazZ0QU5RRTZCUm1BRTNfRW9mZWtTTFc1X1dCM0VPbHZ6MTBmT2hCMnd0elczRmdSSEdtYmFRQVEtWWd2ZTZn?oc=5",
         "type": "rss"
       }
     ]
@@ -4547,6 +5330,26 @@
       {
         "name": "google_news_machine_tools",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdHNuQk8yamg1ZUU0S0x3T0o2bWF2bjRUTTkzRnltVWRnb1pNTXR1M2VQQmoyQ2ZGU3Yxa3hiSGs4V1c2Tkg1N1ZZa3dUVVRjbUdwanRoXzdMTXV6MVc5YWdwbGxtTXdOSDBqbWNoLWJiYWsyZDdyNmUybUdpREliMG9Ra2J3bTVTamJVOHNsZ0psdUw2dVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-04-26-042",
+    "date": "2026-04-26",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Retief Goosen makes birdie on No. 13 at Mitsubishi Electric Classic - PGA Tour",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0hZcVR4djVtS2lUcnZMWGhfQ1ZjMlhjQ3RuNTU0NDdVclpwNU5Ha01fYTdMbl9LMHowRkhqQUh4a2dSakNucVB6dDZLSFBncXRseWl4X1lnaHV5a1VPZ3FwLUl3czg4bEQ1NENFd0",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0hZcVR4djVtS2lUcnZMWGhfQ1ZjMlhjQ3RuNTU0NDdVclpwNU5Ha01fYTdMbl9LMHowRkhqQUh4a2dSakNucVB6dDZLSFBncXRseWl4X1lnaHV5a1VPZ3FwLUl3czg4bEQ1NENFd01iMGQ5VklzM0F1cER6TDBTcXJibVBCT0p3NzM3QmhFQml1VjRfVkx4dGtHaUJ4QmhOYThfWGZmUkNwY3ZRUm1QblpwREkxbm8tVUNKSQ?oc=5",
         "type": "rss"
       }
     ]
