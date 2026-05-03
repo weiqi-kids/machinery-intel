@@ -1,0 +1,118 @@
+{
+  "date": "2026-04-08",
+  "date_range": {
+    "start": "2026-04-02",
+    "end": "2026-04-08"
+  },
+  "generated_at": "2026-05-03T02:41:28.500596Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-04-02-013",
+      "date": "2026-04-02",
+      "title": "Europe CNC Machine Market Size, Share , 2034 - Market Data Forecast",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "cnc_technology": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 12,
+      "last_week": 11,
+      "week_over_week_change": "+9%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "automation_capex": {
+      "this_week": 4,
+      "last_week": 11,
+      "week_over_week_change": "-64%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "airtac": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "parker_hannifin": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 5
+    },
+    "okuma": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "mitsubishi_electric": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "itw": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 15,
+        "last": 20,
+        "change_pct": -25.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-02",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-03",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-05",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-06",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-07",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-08",
+      "event_count": 4,
+      "sentiment_avg": 0
+    }
+  ]
+}

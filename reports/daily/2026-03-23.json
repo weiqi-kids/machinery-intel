@@ -1,0 +1,176 @@
+{
+  "date": "2026-03-23",
+  "generated_at": "2026-05-03T02:41:25.507465Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-03-23-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CNC (Computer Numerical Control) Machine Market Size [2034] - Fortune Business Insights",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cnc_technology",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-03-23-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Precision Machining Market Size, Share | Growth Forecast [2034] - Fortune Business Insights",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "keyence-2026-03-23-036",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Keyence Corp stock faces pressure amid factory automation slowdown in Japan - AD HOC NEWS",
+      "companies": [
+        "keyence"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "parker_hannifin-2026-03-23-032",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Parker-Hannifin BofA Conference: $1000 Target Price Driven by Aerospace Boom - TIKR.com",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cnc_technology": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "keyence",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      },
+      {
+        "id": "cnc_technology",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  }
+}

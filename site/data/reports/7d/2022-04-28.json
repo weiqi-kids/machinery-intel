@@ -1,0 +1,86 @@
+{
+  "date": "2022-04-28",
+  "date_range": {
+    "start": "2022-04-22",
+    "end": "2022-04-28"
+  },
+  "generated_at": "2026-05-03T02:40:49.474190Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "keyence-2022-04-28-010",
+      "date": "2022-04-28",
+      "title": "Keyence surges to record profit, spurred by factory automation - Nikkei Asia",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    },
+    "earnings": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    }
+  },
+  "company_7d_summary": {
+    "keyence": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2022-04-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-04-23",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-04-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-04-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-04-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-04-27",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-04-28",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2021-03-17",
+  "total_events": 1,
+  "by_company": {
+    "fanuc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "automation_capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cnc_technology": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

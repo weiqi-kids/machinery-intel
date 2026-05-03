@@ -1,0 +1,187 @@
+{
+  "date": "2026-04-09",
+  "generated_at": "2026-05-03T02:41:28.630044Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-04-09-043",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics March Revenue +37.6% Y/Y - TradingView — Track All Markets",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-04-09-044",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics posts revenue growth on AI demand - Investing.com",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "itw-2026-04-09-171",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works Governance Push Highlights Board Accountability And Rich Valuation - Yahoo Finance",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "itw-2026-04-09-178",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "V Square Quantitative Management LLC Takes Position in Illinois Tool Works Inc. $ITW - MarketBeat",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "delta-2026-04-09-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta boasts 34% revenue increase for first quarter - Taipei Times",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.18,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "delta",
+        "count": 5
+      },
+      {
+        "id": "itw",
+        "count": 2
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "automation_capex",
+        "count": 3
+      }
+    ]
+  }
+}

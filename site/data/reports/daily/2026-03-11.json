@@ -1,0 +1,120 @@
+{
+  "date": "2026-03-11",
+  "generated_at": "2026-05-03T02:41:23.447322Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "dmg_mori-2026-03-11-104",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DMG MORI to demonstrate Additive Manufacturing of PCD tools at GrindingHub - Metal Additive Manufacturing magazine",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "cnc_technology",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "makino-2026-03-11-132",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NCMT to debut new Makino machine and refreshed brand at MACH 2026 - Aerospace Manufacturing magazine",
+      "companies": [
+        "makino"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cnc_technology": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "dmg_mori",
+        "count": 1
+      },
+      {
+        "id": "makino",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 2
+      },
+      {
+        "id": "cnc_technology",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  }
+}

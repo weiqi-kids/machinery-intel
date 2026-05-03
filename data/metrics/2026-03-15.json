@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-15",
+  "total_events": 4,
+  "by_company": {
+    "hiwin": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "keyence": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "thk": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "automation_capex": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

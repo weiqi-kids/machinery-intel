@@ -1,0 +1,161 @@
+{
+  "date": "2026-02-24",
+  "generated_at": "2026-05-03T02:41:21.229627Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "dmg_mori-2026-02-24-095",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Fox Chicago reports: DMG MORI expanding, will bring new jobs to Chicago, trainings for City Colleges of Chicago students - colleges.ccc.edu",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "dmg_mori-2026-02-24-100",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Collins proudly welcomes $40.5 million manufacturing expansion of DMG MORI in Chicago - Illinois Senate Democratic Caucus",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-02-24-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CNC Machine Tools Market to 2035 Driven by Industry 4.0 and Smart Factory Integration Demands - IndexBox",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "cnc_technology"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "dmg_mori-2026-02-24-099",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DMG MORI expanding, will bring new jobs to Chicago - FOX 32 Chicago",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "cnc_technology": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "dmg_mori",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "cnc_technology",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2026-02-24",
+  "date_range": {
+    "start": "2026-02-18",
+    "end": "2026-02-24"
+  },
+  "generated_at": "2026-05-03T02:41:21.318146Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "delta-2026-02-23-049",
+      "date": "2026-02-23",
+      "title": "Delta Electronics Philippines Partners with Danao City Government to Advance EV Charging Infrastructure Across Cebu Province - PR Newswire",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.2
+    },
+    "earnings": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "cnc_technology": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "delta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "dmg_mori": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 5,
+        "last": 4,
+        "change_pct": 25.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-02-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-23",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-24",
+      "event_count": 4,
+      "sentiment_avg": 0
+    }
+  ]
+}

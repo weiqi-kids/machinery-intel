@@ -1,0 +1,86 @@
+{
+  "date": "2025-10-04",
+  "date_range": {
+    "start": "2025-09-28",
+    "end": "2025-10-04"
+  },
+  "generated_at": "2026-05-03T02:41:10.328832Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2025-09-29-009",
+      "date": "2025-09-29",
+      "title": "S.Korea, Germany, Japan lock horns for machine tools supremacy - KED Global",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": -0.12
+    },
+    "automation_capex": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "cnc_technology": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {},
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 4,
+        "last": 1,
+        "change_pct": 300.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-09-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-29",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-03",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-04",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

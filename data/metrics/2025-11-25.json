@@ -1,0 +1,33 @@
+{
+  "date": "2025-11-25",
+  "total_events": 3,
+  "by_company": {
+    "thk": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "fanuc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "abb": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "automation_capex": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

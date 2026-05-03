@@ -1,0 +1,184 @@
+{
+  "date": "2026-03-02",
+  "generated_at": "2026-05-03T02:41:22.333685Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-03-02-028",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Industrial Robot Manufacturers Boosting Factory Output - Manufacturing Digital",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "itw-2026-03-02-177",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Is Illinois Tool Works' Stock Performance Compared to Other Industrial Stocks? - Yahoo Finance",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-03-02-201",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DELMIA & NVIDIA: Hardcoding the Future of Autonomous Factories - RoboticsTomorrow",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "hiwin-2026-03-02-008",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hiwin local production positioned as key supplier for South Korea semiconductor and AI-driven equipment upgrades - digitimes",
+      "companies": [
+        "hiwin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "reshoring_supply_chain"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-03-02-006",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Manufacturing technology products - March 2026 - Today's Medical Developments",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "reshoring_supply_chain": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hiwin",
+        "count": 1
+      },
+      {
+        "id": "itw",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "reshoring_supply_chain",
+        "count": 1
+      }
+    ]
+  }
+}

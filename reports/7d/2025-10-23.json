@@ -1,0 +1,97 @@
+{
+  "date": "2025-10-23",
+  "date_range": {
+    "start": "2025-10-17",
+    "end": "2025-10-23"
+  },
+  "generated_at": "2026-05-03T02:41:11.602040Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "abb-2025-10-20-085",
+      "date": "2025-10-20",
+      "title": "ABB Exits The Robotics Market, Aims To Bolster Industrial Automation (OTCMKTS:ABBNY) - Seeking Alpha",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "automation_capex": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "cnc_technology": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "abb": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "tongtai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 2,
+        "last": 2,
+        "change_pct": 0.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-10-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-20",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-23",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

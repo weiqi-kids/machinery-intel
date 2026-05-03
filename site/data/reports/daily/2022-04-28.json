@@ -1,0 +1,80 @@
+{
+  "date": "2022-04-28",
+  "generated_at": "2026-05-03T02:40:49.371983Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "keyence-2022-04-28-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Keyence surges to record profit, spurred by factory automation - Nikkei Asia",
+      "companies": [
+        "keyence"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "keyence",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  }
+}

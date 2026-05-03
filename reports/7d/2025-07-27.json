@@ -1,0 +1,80 @@
+{
+  "date": "2025-07-27",
+  "date_range": {
+    "start": "2025-07-21",
+    "end": "2025-07-27"
+  },
+  "generated_at": "2026-05-03T02:41:06.579995Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "keyence-2025-07-27-031",
+      "date": "2025-07-27",
+      "title": "Keyence’s AI Strategy: Analysis of Dominance in Fabless Manufacturing AI - Klover.ai",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "keyence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 1,
+        "change_pct": 0.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-07-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-23",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-27",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

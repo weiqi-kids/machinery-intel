@@ -1,0 +1,21 @@
+{
+  "date": "2025-11-13",
+  "total_events": 1,
+  "by_company": {
+    "dmg_mori": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "automation_capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

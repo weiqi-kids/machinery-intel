@@ -1,0 +1,20 @@
+{
+  "date": "2017-08-09",
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "automation_capex": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

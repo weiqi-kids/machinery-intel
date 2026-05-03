@@ -1,0 +1,127 @@
+{
+  "date": "2026-03-20",
+  "date_range": {
+    "start": "2026-03-14",
+    "end": "2026-03-20"
+  },
+  "generated_at": "2026-05-03T02:41:25.110905Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hiwin-2026-03-15-009",
+      "date": "2026-03-15",
+      "title": "Hiwin Technologies Stock (ISIN: TW0002049004): Taiwan Robotics Leader Eyes European Expansion Amid I - AD HOC NEWS",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 13,
+      "last_week": 4,
+      "week_over_week_change": "+225%",
+      "sentiment_this_week": 0.0
+    },
+    "automation_capex": {
+      "this_week": 10,
+      "last_week": 4,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": -0.0
+    },
+    "cnc_technology": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hiwin": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 1
+    },
+    "keyence": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 2
+    },
+    "thk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "delta": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "goodway": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "abb": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "dmg_mori": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "okuma": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 15,
+        "last": 7,
+        "change_pct": 114.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-15",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-16",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-17",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-18",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-19",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-20",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-03",
+  "total_events": 2,
+  "by_company": {
+    "thk": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "dmg_mori": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "automation_capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cnc_technology": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

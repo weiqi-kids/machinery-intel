@@ -1,0 +1,108 @@
+{
+  "date": "2025-07-30",
+  "date_range": {
+    "start": "2025-07-24",
+    "end": "2025-07-30"
+  },
+  "generated_at": "2026-05-03T02:41:07.254011Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "okuma-2025-07-28-116",
+      "date": "2025-07-28",
+      "title": "Okuma America Corporation Positions for Strategic Growth in Industry - PR Newswire",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.25
+    },
+    "cnc_technology": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "keyence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "hiwin": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "okuma": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 6,
+        "last": 1,
+        "change_pct": 500.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-07-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-27",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-28",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-29",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-07-30",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

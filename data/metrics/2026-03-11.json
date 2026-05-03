@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-11",
+  "total_events": 2,
+  "by_company": {
+    "dmg_mori": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "makino": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "automation_capex": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "cnc_technology": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

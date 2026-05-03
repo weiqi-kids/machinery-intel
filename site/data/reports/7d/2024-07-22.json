@@ -1,0 +1,102 @@
+{
+  "date": "2024-07-22",
+  "date_range": {
+    "start": "2024-07-16",
+    "end": "2024-07-22"
+  },
+  "generated_at": "2026-05-03T02:40:58.863471Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "makino-2024-07-18-019",
+      "date": "2024-07-18",
+      "title": "A New Dimension: Makino and Fraunhofer ILT Expand Additive Manufacturing Possibilities - Metrology and Quality News",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.25
+    },
+    "cnc_technology": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "earnings": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": -0.17
+    }
+  },
+  "company_7d_summary": {
+    "makino": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 1
+    },
+    "hiwin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "fanuc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 1,
+        "change_pct": 200.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2024-07-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-07-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-07-18",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-07-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-07-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-07-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2024-07-22",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

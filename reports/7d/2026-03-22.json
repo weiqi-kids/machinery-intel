@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-22",
+  "date_range": {
+    "start": "2026-03-16",
+    "end": "2026-03-22"
+  },
+  "generated_at": "2026-05-03T02:41:25.376349Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "delta-2026-03-16-053",
+      "date": "2026-03-16",
+      "title": "Delta's Power, Cooling and Microgrid Solutions Showcased at NVIDIA GTC to Bolster the 800 VDC Architecture of Next-gen AI Factories - PR Newswire",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 8,
+      "last_week": 7,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": -0.0
+    },
+    "earnings": {
+      "this_week": 10,
+      "last_week": 7,
+      "week_over_week_change": "+43%",
+      "sentiment_this_week": 0.0
+    },
+    "cnc_technology": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hiwin": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 3
+    },
+    "delta": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "goodway": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "abb": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "dmg_mori": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "okuma": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 13,
+        "last": 11,
+        "change_pct": 18.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-16",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-17",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-18",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-19",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-20",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-22",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

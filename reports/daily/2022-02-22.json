@@ -1,0 +1,77 @@
+{
+  "date": "2022-02-22",
+  "generated_at": "2026-05-03T02:40:48.384386Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hiwin-2022-02-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Business alliance led by Hiwin seeks to boost smart manufacturing technology - Taipei Times",
+      "companies": [
+        "hiwin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "cnc_technology"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cnc_technology": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hiwin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 1
+      },
+      {
+        "id": "cnc_technology",
+        "count": 1
+      }
+    ]
+  }
+}

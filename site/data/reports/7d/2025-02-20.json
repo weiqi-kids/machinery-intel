@@ -1,0 +1,80 @@
+{
+  "date": "2025-02-20",
+  "date_range": {
+    "start": "2025-02-14",
+    "end": "2025-02-20"
+  },
+  "generated_at": "2026-05-03T02:41:01.761747Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hiwin-2025-02-20-001",
+      "date": "2025-02-20",
+      "title": "Hiwin to build new Italy headquarters; completion set by 2025 - digitimes",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hiwin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 1,
+        "change_pct": 0.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-02-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-02-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-02-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-02-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-02-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-02-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-02-20",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "date": "2022-02-22",
+  "date_range": {
+    "start": "2022-02-16",
+    "end": "2022-02-22"
+  },
+  "generated_at": "2026-05-03T02:40:48.482936Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "hiwin-2022-02-22-003",
+      "date": "2022-02-22",
+      "title": "Business alliance led by Hiwin seeks to boost smart manufacturing technology - Taipei Times",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "cnc_technology": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hiwin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2022-02-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-02-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-02-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-02-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-02-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-02-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2022-02-22",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

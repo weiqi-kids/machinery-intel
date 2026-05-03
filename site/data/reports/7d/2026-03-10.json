@@ -1,0 +1,102 @@
+{
+  "date": "2026-03-10",
+  "date_range": {
+    "start": "2026-03-04",
+    "end": "2026-03-10"
+  },
+  "generated_at": "2026-05-03T02:41:23.317905Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "abb-2026-03-10-084",
+      "date": "2026-03-10",
+      "title": "ABB launches pH/ORP sensor with digital connectivity and industry-leading lifespan - ABB",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 1,
+      "last_week": 11,
+      "week_over_week_change": "-91%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 2,
+      "last_week": 11,
+      "week_over_week_change": "-82%",
+      "sentiment_this_week": 0.5
+    },
+    "cnc_technology": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "fanuc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "dmg_mori": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "abb": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 14,
+        "change_pct": -78.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-04",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-05",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-06",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-07",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-08",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-09",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-10",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2024-11-13",
+  "total_events": 1,
+  "by_company": {
+    "hiwin": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

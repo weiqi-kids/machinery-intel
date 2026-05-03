@@ -1,0 +1,62 @@
+{
+  "date": "2024-12-27",
+  "generated_at": "2026-05-03T02:41:00.755015Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "makino-2024-12-27-139",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Japan's Nidec takes aim at Makino Milling with $1.6 bln unsolicited bid - Reuters",
+      "companies": [
+        "makino"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "makino",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  }
+}

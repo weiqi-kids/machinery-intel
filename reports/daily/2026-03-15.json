@@ -1,0 +1,158 @@
+{
+  "date": "2026-03-15",
+  "generated_at": "2026-05-03T02:41:23.894672Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hiwin-2026-03-15-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hiwin Technologies Stock (ISIN: TW0002049004): Taiwan Robotics Leader Eyes European Expansion Amid I - AD HOC NEWS",
+      "companies": [
+        "hiwin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "keyence-2026-03-15-038",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Keyence Corp Stock (ISIN: JP3236200006) Faces Margin Pressure Amid Resilient Revenue Growth - AD HOC NEWS",
+      "companies": [
+        "keyence"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "thk-2026-03-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "THK Co Ltd Stock (ISIN: JP3801600002) Faces Headwinds in Industrial Motion Control Sector - AD HOC NEWS",
+      "companies": [
+        "thk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "keyence-2026-03-15-039",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Keyence Corp Stock (ISIN: JP3236200006) Faces Margin Pressure Amid Industrial Slowdown - AD HOC NEWS",
+      "companies": [
+        "keyence"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "keyence",
+        "count": 2
+      },
+      {
+        "id": "hiwin",
+        "count": 1
+      },
+      {
+        "id": "thk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "automation_capex",
+        "count": 3
+      }
+    ]
+  }
+}

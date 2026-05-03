@@ -1,0 +1,86 @@
+{
+  "date": "2023-09-08",
+  "date_range": {
+    "start": "2023-09-02",
+    "end": "2023-09-08"
+  },
+  "generated_at": "2026-05-03T02:40:53.963900Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "fanuc-2023-09-08-073",
+      "date": "2023-09-08",
+      "title": "FANUC America Demonstrates Automated Solutions for Welding and Coating at FABTECH - Business Wire",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "fanuc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 1,
+        "change_pct": 0.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2023-09-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-05",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-06",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-07",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-08",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

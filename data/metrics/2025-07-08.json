@@ -1,0 +1,21 @@
+{
+  "date": "2025-07-08",
+  "total_events": 1,
+  "by_company": {
+    "airtac": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

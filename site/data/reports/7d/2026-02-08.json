@@ -1,0 +1,96 @@
+{
+  "date": "2026-02-08",
+  "date_range": {
+    "start": "2026-02-02",
+    "end": "2026-02-08"
+  },
+  "generated_at": "2026-05-03T02:41:19.995477Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-02-02-008",
+      "date": "2026-02-02",
+      "title": "The world's number one, Chinese machine tools, have avenged the shame. - 36 Kr",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 10,
+      "last_week": 5,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "automation_capex": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.2
+    }
+  },
+  "company_7d_summary": {
+    "abb": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "mitsubishi_electric": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "delta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 12,
+        "last": 5,
+        "change_pct": 140.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-02-02",
+      "event_count": 8,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-04",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-05",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-06",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-07",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-08",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "date": "2026-03-17",
+  "date_range": {
+    "start": "2026-03-11",
+    "end": "2026-03-17"
+  },
+  "generated_at": "2026-05-03T02:41:24.438198Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "dmg_mori-2026-03-11-104",
+      "date": "2026-03-11",
+      "title": "DMG MORI to demonstrate Additive Manufacturing of PCD tools at GrindingHub - Metal Additive Manufacturing magazine",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 12,
+      "last_week": 1,
+      "week_over_week_change": "+1100%",
+      "sentiment_this_week": -0.0
+    },
+    "cnc_technology": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 12,
+      "last_week": 2,
+      "week_over_week_change": "+500%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "dmg_mori": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "makino": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "hiwin": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 2
+    },
+    "keyence": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 3
+    },
+    "thk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "delta": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "goodway": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 16,
+        "last": 3,
+        "change_pct": 433.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-11",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-12",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-15",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-16",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-17",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "date": "2026-03-22",
+  "generated_at": "2026-05-03T02:41:25.238021Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-03-22-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "okuma-2026-03-22-119",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Okuma Corp stock faces headwinds amid Japan machine tool slowdown - AD HOC NEWS",
+      "companies": [
+        "okuma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "okuma",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  }
+}

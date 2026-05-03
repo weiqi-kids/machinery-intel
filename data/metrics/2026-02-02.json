@@ -1,0 +1,29 @@
+{
+  "date": "2026-02-02",
+  "total_events": 8,
+  "by_company": {
+    "abb": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "mitsubishi_electric": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "automation_capex": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

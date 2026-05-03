@@ -1,0 +1,37 @@
+{
+  "date": "2026-04-02",
+  "total_events": 4,
+  "by_company": {
+    "airtac": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "parker_hannifin": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "cnc_technology": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "automation_capex": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

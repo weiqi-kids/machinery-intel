@@ -1,0 +1,128 @@
+{
+  "date": "2026-04-02",
+  "date_range": {
+    "start": "2026-03-27",
+    "end": "2026-04-02"
+  },
+  "generated_at": "2026-05-03T02:41:27.597028Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "itw-2026-03-28-176",
+      "date": "2026-03-28",
+      "title": "How The Illinois Tool Works (ITW) Story Is Shifting With AI And Analyst Revisions - Yahoo Finance",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 12,
+      "last_week": 6,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.08
+    },
+    "earnings": {
+      "this_week": 12,
+      "last_week": 7,
+      "week_over_week_change": "+71%",
+      "sentiment_this_week": 0.04
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "cnc_technology": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "itw": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "mitsubishi_electric": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "fanuc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "hiwin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "thk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "airtac": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "parker_hannifin": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 22,
+        "last": 13,
+        "change_pct": 69.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-27",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-28",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-30",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-31",
+      "event_count": 10,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-01",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-02",
+      "event_count": 4,
+      "sentiment_avg": 0
+    }
+  ]
+}

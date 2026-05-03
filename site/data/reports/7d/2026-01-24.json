@@ -1,0 +1,97 @@
+{
+  "date": "2026-01-24",
+  "date_range": {
+    "start": "2026-01-18",
+    "end": "2026-01-24"
+  },
+  "generated_at": "2026-05-03T02:41:18.441374Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "delta-2026-01-21-052",
+      "date": "2026-01-21",
+      "title": "Delta Intelligent Building Technologies Aligns Operations to Accelerate Smart Building Innovation - PR Newswire",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "earnings": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "delta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "okuma": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 4,
+        "last": 4,
+        "change_pct": 0.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-01-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-19",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-21",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-23",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-24",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

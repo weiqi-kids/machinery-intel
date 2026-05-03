@@ -1,0 +1,112 @@
+{
+  "date": "2026-03-31",
+  "date_range": {
+    "start": "2026-03-25",
+    "end": "2026-03-31"
+  },
+  "generated_at": "2026-05-03T02:41:27.152802Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "mitsubishi_electric-2026-03-26-089",
+      "date": "2026-03-26",
+      "title": "Rohm, Toshiba, Mitsubishi Electric to begin power chip integration talks, Nikkei says - Reuters",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 10,
+      "last_week": 6,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.05
+    },
+    "earnings": {
+      "this_week": 10,
+      "last_week": 8,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.05
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hiwin": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "mitsubishi_electric": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "itw": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "fanuc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "thk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 18,
+        "last": 13,
+        "change_pct": 38.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-25",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-26",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-27",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-28",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-30",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-31",
+      "event_count": 10,
+      "sentiment_avg": 0
+    }
+  ]
+}

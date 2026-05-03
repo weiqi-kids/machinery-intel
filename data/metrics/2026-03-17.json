@@ -1,0 +1,20 @@
+{
+  "date": "2026-03-17",
+  "total_events": 3,
+  "by_company": {},
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "automation_capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2026-03-16",
+  "total_events": 4,
+  "by_company": {
+    "hiwin": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "delta": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "goodway": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "automation_capex": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "cnc_technology": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

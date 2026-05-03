@@ -1,0 +1,128 @@
+{
+  "date": "2026-03-18",
+  "date_range": {
+    "start": "2026-03-12",
+    "end": "2026-03-18"
+  },
+  "generated_at": "2026-05-03T02:41:24.658019Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "dmg_mori-2026-03-12-014",
+      "date": "2026-03-12",
+      "title": "CNC Manufacturing Equipment Market Is Booming Worldwide | Major Giants DMG Mori, Mazak, Haas Automation - openPR.com",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 10,
+      "last_week": 2,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": -0.0
+    },
+    "cnc_technology": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 13,
+      "last_week": 2,
+      "week_over_week_change": "+550%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "dmg_mori": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "hiwin": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 2
+    },
+    "keyence": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 3
+    },
+    "thk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "delta": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "goodway": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "abb": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 16,
+        "last": 4,
+        "change_pct": 300.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-12",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-15",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-16",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-17",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-18",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

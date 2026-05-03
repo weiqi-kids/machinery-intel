@@ -1,0 +1,62 @@
+{
+  "date": "2025-05-15",
+  "generated_at": "2026-05-03T02:41:03.633208Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hiwin-2025-05-15-012",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hiwin assesses prospects for mass production of humanoid robots - digitimes",
+      "companies": [
+        "hiwin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hiwin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  }
+}

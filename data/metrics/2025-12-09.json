@@ -1,0 +1,37 @@
+{
+  "date": "2025-12-09",
+  "total_events": 2,
+  "by_company": {
+    "abb": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "siemens": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "rockwell": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "makino": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "automation_capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2022-07-07",
+  "total_events": 1,
+  "by_company": {
+    "dmg_mori": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    },
+    "amada": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

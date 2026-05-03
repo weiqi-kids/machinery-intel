@@ -1,0 +1,80 @@
+{
+  "date": "2023-09-19",
+  "date_range": {
+    "start": "2023-09-13",
+    "end": "2023-09-19"
+  },
+  "generated_at": "2026-05-03T02:40:54.185930Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "fanuc-2023-09-19-072",
+      "date": "2023-09-19",
+      "title": "FANUC Announces Production of its One Millionth Robot - Business Wire",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "fanuc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 1,
+        "change_pct": 0.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2023-09-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-19",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}
