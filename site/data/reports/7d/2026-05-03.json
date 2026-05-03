@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-03",
+  "date_range": {
+    "start": "2026-04-27",
+    "end": "2026-05-03"
+  },
+  "generated_at": "2026-05-03T09:15:48.372026Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "delta-2026-04-29-002",
+      "date": "2026-04-29",
+      "title": "Delta Electronics Thailand Q1 2026 slides: AI demand drives record results - Investing.com Australia",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 43,
+      "last_week": 45,
+      "week_over_week_change": "-4%",
+      "sentiment_this_week": 0.05
+    },
+    "industry_general": {
+      "this_week": 45,
+      "last_week": 6,
+      "week_over_week_change": "+650%",
+      "sentiment_this_week": 0.01
+    },
+    "automation_capex": {
+      "this_week": 22,
+      "last_week": 19,
+      "week_over_week_change": "+16%",
+      "sentiment_this_week": 0.07
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "cnc_technology": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "keyence": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "mitsubishi_electric": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "delta": {
+      "event_count": 7,
+      "sentiment_avg": 0.22,
+      "rank": 4
+    },
+    "parker_hannifin": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "caterpillar": {
+      "event_count": 21,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "itw": {
+      "event_count": 7,
+      "sentiment_avg": -0.07,
+      "rank": 5
+    },
+    "dmg_mori": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 6
+    },
+    "makino": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "airtac": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "okuma": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 236,
+        "last": 217,
+        "change_pct": 8.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-27",
+      "event_count": 37,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 25,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 43,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 73,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 38,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 14,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 6,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-27 ~ 2026-05-03）共 236 則事件，重點為「Delta Electronics Thailand Q1 2026 slides: AI d...」。DMG Mori情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "DMG Mori",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Mitsubishi Electric",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Delta Electronics",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

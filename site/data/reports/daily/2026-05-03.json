@@ -1,0 +1,231 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T09:15:48.298163Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "dmg_mori-2026-05-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DMG Mori (TSE:6141) Margin Compression To 0.9% Tests High P/E Growth Narrative - simplywall.st",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUkJjV3lQdWFVQ2dhMGliR04tZ09YZFpBay0xXzNYRWV6RDcwUWlSSkJIaHBiUno5UTlrdm16ZjMyc1pXdF9rbnR5cy1qSk9MckxsSUZnNHFvbU4wRW1SdnFHSzVxNmlPWURvZHBfTXBaemNuY0xoNXNnYzJ5YW9YbG4ySEF4NFhjdERSbVJpNUdST0F0eHhjV2ZJeEo2azFmQTJVdFFWZHNGLWl0QmdEODRkdHhfZG1GRkN1TEdzMHNXdTJfblQwdFJfU3lNSGJqcGfSAdcBQVVfeXFMTUlyaHBvTDZ5aGtSVEh6RkVyNEEwNHc1ZjNjODZrb0Q1TWpRTURVMGx5OU9NZ2FaMWxXdlZpZ0NidzdfcVVzSmNOdUgyRjYtblB6TFNQYzBJVU9rUmhHblczSjQzaUxKM25pNzlFX1lWelJBaEgtYnQwQWxLbUZnNHVTSE1keTBFVWp2TWVCNWtITHVSUFlHZ3lHVTY0cnJuZngtanJVZTdxWUxOVklZQllIbDFUTWM1OWNITS1ZZTh0bnR3dGx3V0tLZkdCVUVYdUVsNHZRbkk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itw-2026-05-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Benjamin Edwards Inc. Sells 10,561 Shares of Illinois Tool Works Inc. $ITW - MarketBeat",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeVg5UTlxTFF0MEhkc3oyck5sckN2WDRXNU1rQk9DQ3E4cFI3b0lTQnZWbzBmT2NPa2xickxvVnBuT0NzTlZGNEwteU1oUzBTdDU0cFFaOTlWSFMxWk40OThLUDY3dHJhNWlaOWlXR1hkM1NjbHVGMlV5TEVEY3pGaWRpaURvd0NNZzBYRWhnZGlFbnZ2WjZWbGFLVnJFOW1UcEZqS0VuYVVSallxZld3YjZha0hsMWJabVdBRFVIY3FDN2pBWWFOamFqQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-05-03-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin Corporation (NYSE:PH) Given Consensus Rating of \"Moderate Buy\" by Analysts - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTHZpcjY0TWlQODJEc3Aya1lTWWxBUVhuQVFPUlBnOEdpNnZHb1dTc2c0MEZlQTZiNFlqblFQSmgxMjc3VWNFekpuYkpIRll2am5YQkhQcUJoM19Xc2RMcVlpQ2hfUFk1LVRsb1pvUXg5U0R4WGg3c05qNHFKdmdLSkNrVmVvalotSm16X3E1a2dtZ0N3cWhmd2tDZUZHSm1uc0sxSTQzNDgzN0hpVE93U1BSTEJpTk1CSGpGZDktNnFCQlFxekN0ODQyd3d3SWRfVnJtODRR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "parker_hannifin-2026-05-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Parker-Hannifin Corporation $PH Shares Sold by Cornerstone Planning Group LLC - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdUNiNjZRWnFGZ19BWVQxbEZYZ3pFRExabXQ5cDhsVG5jYzh5M01XQW5pVVJCa1B1cHo3WHNpaEc3UGZhZFdPVzVySE5VT295VU9SYTdldFpjbDIza0lYeUlFREFrZF9TRV9ZeUVVSndDdk1tT3NReGFVbkJDUXVvWkt2aVZEZlk0cHZUZ1BBVENpT2FoMVlvM1BtSlFOS19PS183Yjh3eE1FX29qaGloVUVBN09JbXNEUmh2dWFSemlnbFp0alItaTBFVFBHNWJLQVlz?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-05-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BofA Highlights Energy Growth Driving Caterpillar (CAT) Upside - Yahoo Finance",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMjF3Vlh6cGdlNlktMkJ0RXNqUklvaWpZaEFlMmg3U3AxcmlrU1ZXUTRPcHhPMXRmazhkLXoySTJlVERYZWFORm9VMjMtTnhLalNFek9DX1hHXy1aMEFNUW93Z3hEX3lkS0lad2pGRXZickRraVc1aEZpaU13UmFidEFPem9QVXh1VmlkZjNCV3kzQVFleElpSUZqU0pMNTZIczNiaQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "dmg_mori",
+        "count": 1
+      },
+      {
+        "id": "itw",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 395,
+    "dup_title": 244,
+    "too_old": 124,
+    "gate1_blocked": 0,
+    "gate2_blocked": 10,
+    "passed": 17,
+    "pass_rate": "11.3%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "Parker Reports Fiscal 2026 Third Quarter Results",
+      "THK (OTCMKTS:THKLY) Sees Unusually-High Trading Volume - Still a Buy? - MarketBeat",
+      "Building connections through intersectional allyship",
+      "Retief Goosen wins again at TPC Sugarloaf with Mitsubishi Electric Classic title - Gwinnett Daily Po",
+      "Zach Johnson’s bold play leads charge in Mitsubishi Electric Classic’s thrilling new format - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Parker、CAT、DMG Mori相關動態：「DMG Mori (TSE:6141) Margin Compression To 0.9% Tests High...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "DMG Mori (TSE:6141) Margin Compression To 0.9% Tests High P/E Growth Narrativ...（自動化資本支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Benjamin Edwards Inc. Sells 10,561 Shares of Illinois Tool Works Inc. $ITW - ...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

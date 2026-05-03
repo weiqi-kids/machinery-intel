@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 244,
+  "no_date": 0,
+  "too_old": 124,
+  "gate1_fail": 0,
+  "gate2_fail": 10,
+  "passed": 17,
+  "gate2_samples": [
+    "Parker Reports Fiscal 2026 Third Quarter Results",
+    "THK (OTCMKTS:THKLY) Sees Unusually-High Trading Volume - Still a Buy? - MarketBeat",
+    "Building connections through intersectional allyship",
+    "Retief Goosen wins again at TPC Sugarloaf with Mitsubishi Electric Classic title - Gwinnett Daily Po",
+    "Zach Johnson’s bold play leads charge in Mitsubishi Electric Classic’s thrilling new format - MSN"
+  ]
+}
