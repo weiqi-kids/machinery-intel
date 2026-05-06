@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 0,
+  "gate2_fail": 7,
+  "passed": 36,
+  "gate2_samples": [
+    "Parker Reports Fiscal 2026 Third Quarter Results",
+    "THK (OTCMKTS:THKLY) Sees Unusually-High Trading Volume - Still a Buy? - MarketBeat",
+    "E Sun Securities Upgrades Delta Electronics to Buy from Neutral; Price Target is NT$2,800 - marketsc",
+    "DMG MORI : Quarterly Release 1st Quarter (dmgmori126e data) - marketscreener.com",
+    "Citigroup Raises Illinois Tool Works (NYSE:ITW) Price Target to $287.00 - MarketBeat"
+  ]
+}

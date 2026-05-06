@@ -1,0 +1,162 @@
+{
+  "date": "2026-05-06",
+  "date_range": {
+    "start": "2026-04-30",
+    "end": "2026-05-06"
+  },
+  "generated_at": "2026-05-06T06:03:06.118747Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "parker_hannifin-2026-04-30-048",
+      "date": "2026-04-30",
+      "title": "Parker-Hannifin (PH) Q3 Earnings and Revenues Surpass Estimates - Yahoo Finance",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 36,
+      "last_week": 46,
+      "week_over_week_change": "-22%",
+      "sentiment_this_week": 0.03
+    },
+    "industry_general": {
+      "this_week": 41,
+      "last_week": 25,
+      "week_over_week_change": "+64%",
+      "sentiment_this_week": -0.02
+    },
+    "automation_capex": {
+      "this_week": 16,
+      "last_week": 22,
+      "week_over_week_change": "-27%",
+      "sentiment_this_week": 0.03
+    },
+    "cnc_technology": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.12
+    }
+  },
+  "company_7d_summary": {
+    "delta": {
+      "event_count": 7,
+      "sentiment_avg": 0.22,
+      "rank": 3
+    },
+    "mitsubishi_electric": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "dmg_mori": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 5
+    },
+    "makino": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 6
+    },
+    "caterpillar": {
+      "event_count": 13,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "airtac": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "okuma": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "itw": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 4
+    },
+    "parker_hannifin": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 210,
+        "last": 255,
+        "change_pct": -17.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-30",
+      "event_count": 77,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 43,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 17,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 14,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 19,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 33,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 7,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-30 ~ 2026-05-06）共 210 則事件，重點為「Parker-Hannifin (PH) Q3 Earnings and Revenues S...」。Delta Electronics表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Delta Electronics",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "DMG Mori",
+        "reason": "本週出現 5 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Makino Milling Machine",
+        "reason": "本週出現 3 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
