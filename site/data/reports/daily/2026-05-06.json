@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:03:06.047034Z",
+  "generated_at": "2026-05-06T10:11:20.904075Z",
   "top_events": [
     {
       "rank": 1,
@@ -105,55 +105,60 @@
     },
     {
       "rank": 5,
-      "event_id": "parker_hannifin-2026-05-06-003",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Parker-Hannifin Dividend Hike Highlights Long-Term Payout And Valuation Trade-Offs - simplywall.st",
+      "event_id": "mitsubishi_electric-2026-05-06-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric launches GOT3000 HMI globally - Design World",
       "companies": [
-        "parker_hannifin"
+        "mitsubishi_electric"
       ],
       "related": {
         "customers": [],
         "suppliers": []
       },
-      "topics": [],
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUGd5MEdqWTEwelZCS2FhTHB6cU9BZWJjenRoR05qQnd4T0E2VFp2QmJhdnJxNDZUbUpNMTdpWXlmaEZTbzB4NWxNVlRNRTNkdE52Z0NFTFB5N1gySFk3RXhBZnFZU1ktVjdSOEt0MFdfb1FxVW02eUtIR3lGR19HMGJVSUpXM2RmNHlEUTBjMmE2MmRrRDlpZUVUTFZwV2dIckpkT1N1N0Jra1dPY05heTlib0Y4ekR5SEJ0dEJTUDZPNUdYRGNoN29QYnB6S05K0gHWAUFVX3lxTE8xVXZ5VDVmR1JXaXhMZnNGWVRFbnIzajYzVU9pWkkwSHdHTWpfMUFSZUVwOTlNV0M0VU0tZjNSaFF6V1BzcFBHS2VQdGJJc2k4dS0wdTN2QmV4U1ZMMVpEWGRXZGRLNzl4OUJVY2NDbUg5Z0V3NkJVWUxXYWZ6U0ZxQlhYNC1jVER1U2RNeHZLNTRCWTBtMGU4eWlrMjV3NnZfc0JvTlJsX0UyN0VCaS1NRElsVTZ4WjgySVBCSlZFRGZlUmJfbTNJZ1FqVGl5alIxc0RYUGc?oc=5"
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTW1Oa2xZSXlTeS1EdU42MFNWS2w5QWtkQ2xVOVRwNHAwSURwMk40OFNrN0t4YzZPRGVvMXRISE1SbjF6bG1pRUhkaGdJNnQwb0poME1vTEpPYWgwRWZnOG1iRHFjeVpBczkwTUFRbGljaWUyMjVHZHR6ZldTNUZfYkNqVGpyRlZiLWlUaA?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "automation_capex": {
-      "today": 3,
-      "7d_avg": 0,
-      "30d_avg": 0,
-      "yoy_same_week": null,
-      "trend": "new",
-      "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.17,
-      "sentiment_7d_avg": null
-    },
-    "earnings": {
       "today": 4,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.12,
+      "sentiment_today": 0.12,
       "sentiment_7d_avg": null
     },
-    "industry_general": {
-      "today": 5,
+    "earnings": {
+      "today": 7,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.1,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
       "sentiment_7d_avg": null
     },
     "guidance": {
@@ -169,19 +174,19 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 7,
+    "total_events": 10,
     "sentiment_distribution": {
       "positive": 2,
-      "neutral": 4,
+      "neutral": 7,
       "negative": 1
     },
     "top_companies": [
       {
-        "id": "parker_hannifin",
-        "count": 2
+        "id": "caterpillar",
+        "count": 3
       },
       {
-        "id": "caterpillar",
+        "id": "parker_hannifin",
         "count": 2
       },
       {
@@ -191,20 +196,24 @@
       {
         "id": "itw",
         "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 5
+        "count": 8
       },
       {
         "id": "earnings",
-        "count": 4
+        "count": 7
       },
       {
         "id": "automation_capex",
-        "count": 3
+        "count": 4
       },
       {
         "id": "guidance",
@@ -213,14 +222,14 @@
     ]
   },
   "filter_audit": {
-    "total_raw": 394,
-    "dup_title": 217,
-    "too_old": 134,
-    "gate1_blocked": 0,
-    "gate2_blocked": 7,
-    "passed": 36,
-    "pass_rate": "20.3%",
-    "gate2_block_rate": "4.0%",
+    "total_raw": 788,
+    "dup_title": 461,
+    "too_old": 267,
+    "gate1_blocked": 2,
+    "gate2_blocked": 16,
+    "passed": 42,
+    "pass_rate": "12.8%",
+    "gate2_block_rate": "4.9%",
     "gate2_samples": [
       "Parker Reports Fiscal 2026 Third Quarter Results",
       "THK (OTCMKTS:THKLY) Sees Unusually-High Trading Volume - Still a Buy? - MarketBeat",
@@ -231,7 +240,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 7 則事件，焦點為Parker、CAT、Makino Milling Machine相關動態：「Tsugami America, Makino expand distribution networks - To...」。整體情緒偏正面，市場信心回溫。",
+    "summary": "今日共 10 則事件，焦點為CAT、Parker、Makino Milling Machine相關動態：「Tsugami America, Makino expand distribution networks - To...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "Tsugami America, Makino expand distribution networks - Today's Medical Develo...（自動化資本支出、財報、產業通用）",

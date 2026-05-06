@@ -143,6 +143,70 @@
     ]
   },
   {
+    "id": "mitsubishi_electric-2026-05-06-008",
+    "date": "2026-05-06",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric launches GOT3000 HMI globally - Design World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTW1Oa2xZSXlTeS1EdU42MFNWS2w5QWtkQ2xVOVRwNHAwSURwMk40OFNrN0t4YzZPRGVvMXRISE1SbjF6bG1pRUhkaGdJNnQwb0poME1vTEpPYWgwRWZnOG1iRHFjeVpBczkwTUFRbG",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTW1Oa2xZSXlTeS1EdU42MFNWS2w5QWtkQ2xVOVRwNHAwSURwMk40OFNrN0t4YzZPRGVvMXRISE1SbjF6bG1pRUhkaGdJNnQwb0poME1vTEpPYWgwRWZnOG1iRHFjeVpBczkwTUFRbGljaWUyMjVHZHR6ZldTNUZfYkNqVGpyRlZiLWlUaA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "okuma-2026-05-06-009",
+    "date": "2026-05-06",
+    "companies": [
+      "okuma"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Okuma America recognizes Morris Group as Okuma Distributor of FY 2025 - Aerospace Manufacturing and Design",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTVKcmc5T0ZGeUtEOUVpNDcxbkFRQ1Q4SWF6UmhPT3NDZGg3Nml6blhsMDAySWROZmF2WktTdlNSUU9kQ1UxY0NRS094MHdXcEs2MGZTdUhYNDlqY2wtMjc1OFp3OXdUN0ZQNEU3X0",
+    "sources": [
+      {
+        "name": "okuma",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTVKcmc5T0ZGeUtEOUVpNDcxbkFRQ1Q4SWF6UmhPT3NDZGg3Nml6blhsMDAySWROZmF2WktTdlNSUU9kQ1UxY0NRS094MHdXcEs2MGZTdUhYNDlqY2wtMjc1OFp3OXdUN0ZQNEU3X0lrRENPeUhYWnNDVWl1bDBVNUNjY2gzLVVIY3ktNE5VN0s3MmU0THJ4dHhLQUozSUlsbU1ncHZnOFNfOHJoOURfUGJucVlUYXdm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-06-010",
+    "date": "2026-05-06",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bokf Na Sells 7,538 Shares of Caterpillar Inc. $CAT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFZhd2ltdXJyVzNmTGVGV3MybTJ5Y1pDaGRnMHg3MFBWN3pMRm5GdVo1Q2tlQ0pzSG5wMGdkYy10R09jaUdPNV9VTEdQU1B6bzVpQnNLNElOc2l6ZnZqWlIxRkowWlI1WGR3NFVaWk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFZhd2ltdXJyVzNmTGVGV3MybTJ5Y1pDaGRnMHg3MFBWN3pMRm5GdVo1Q2tlQ0pzSG5wMGdkYy10R09jaUdPNV9VTEdQU1B6bzVpQnNLNElOc2l6ZnZqWlIxRkowWlI1WGR3NFVaWkozVlZfQUNvTUMwODEtVGFDdEJkdkxPNXhmSEtQbWtKSzVxNmdWLU5idWp4RVpuanBVQkJPWjNqRWFUSVhIUXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-05-05-001",
     "date": "2026-05-05",
     "companies": [
@@ -1206,6 +1270,44 @@
       {
         "name": "dmg_mori",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQWduSE53dzRpMnhqQmh2b29WZTRpemlqS1EyX1RXREE5Z3hjWk1HeWtVMGo5dXR5V25kZURra1NZUFZTNXVOOHI4cFpubzR3bGM5TEZpNDJ3cHNEdTRscW5xQ29sQ1l2Nl9CbGRIVy0tY3NEQmhQdjZSZXJJMFhoSWoydmFRb3BvM3FGX09mamhnT3U3ZnJvTHBsS0gzTHF4ekZMLU9MbjVoNXZUaEU4OFprak9URFNaakNpX0NCUERiXzYzdjhjeG5ZTDFwd1RleE5oQjh2azdBa2dPYmVURg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-020",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "positive",
+    "title": "Can AI within healthcare deliver outcomes without intelligent infrastructure to support it?",
+    "summary": "<p>Recently while&#160;in Chicago, I joined healthcare leaders from across the country at the&#160;Becker’s Healthcare 16th Annual&#160;Executive Roundtable&#160;to discuss the most pressing challenge",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/digital-transformation/artificial-intelligence/2026/05/04/can-ai-within-healthcare-deliver-outcomes-without-intelligent-infrastructure-to-support-it/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-04-021",
+    "date": "2026-05-04",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin Corp. stock underperforms Monday when compared to competitors - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUVE4STdDcWpuZDVYM1RPak9fd3FfSFJvWmk0SGtfd3paYWlnUXVYNDlCM3dIZjNhcUswanVSWS1NV1JkenhjN1BxcTZFTXJ2dTNHeFVjSW5LLVhtZXpCLTlCb1VqelhEQXNraTdjT1",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUVE4STdDcWpuZDVYM1RPak9fd3FfSFJvWmk0SGtfd3paYWlnUXVYNDlCM3dIZjNhcUswanVSWS1NV1JkenhjN1BxcTZFTXJ2dTNHeFVjSW5LLVhtZXpCLTlCb1VqelhEQXNraTdjT1ZEUWt2cXJ2emxNVnpPNDRYWTJwWVlWNmZ3djVxT2thWmUwdlhORWh5RDV2c1hmU3dtdEg1elRvTFpGOHVNYUsyU3NtOW83VmpGUFFkVkNMMUp2cGhkNi1ZUDRHVHZKd3lJSlE?oc=5",
         "type": "rss"
       }
     ]
@@ -4329,6 +4431,26 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLVloWF9nZnJiaUl1ZWxKaE1hTW5fdHNJU0J2NUJ3YlZrN3gzSVRjS2NreXhFY2hDQ3ZpMWlkSWVMaE9JUjU0WkxZcHBiai0xN1ozRE1wNVBneDVjMDNPRzZBTzNHR1lVQ09tY01GcTdLMWdnZTkzSWgwbVJFMV9waGRGQ2RYM1pwcHRkMUVWUExMdVFKV09DQ2ZuYkY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "schneider-2026-04-30-078",
+    "date": "2026-04-30",
+    "companies": [
+      "schneider"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "How Schneider Electric has taken proactive cybersecurity management to the next level",
+    "summary": "<p>In today’s hybrid, always‑on digital landscape, resiliency is no longer a “nice to have” &#8211; it’s a non‑negotiable requirement. IT teams and solution providers are under increasing pressure to ",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/datacenter/2026/04/30/how-schneider-electric-has-taken-proactive-cybersecurity-management-to-the-next-level/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
         "type": "rss"
       }
     ]

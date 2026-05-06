@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T06:03:05.514658+00:00",
+  "updated_at": "2026-05-06T10:11:20.426128+00:00",
   "companies": {
     "hiwin": {
       "name": "上銀科技",
@@ -206,25 +206,25 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 56861,
           "pct_held": 0.01,
-          "value": 14812290
+          "value": 15318353
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 11151,
           "pct_held": 0.0,
-          "value": 2904835
+          "value": 3004079
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 559,
           "pct_held": 0.0,
-          "value": 145619
+          "value": 150594
         },
         {
           "holder": "Strategic Investment Solutions, Inc. /il                          ",
           "shares": 11,
           "pct_held": 0.0,
-          "value": 2865
+          "value": 2963
         }
       ]
     },
@@ -237,19 +237,19 @@
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 30800,
           "pct_held": 0.0,
-          "value": 2481864
+          "value": 2534840
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 40696,
           "pct_held": 0.0,
-          "value": 3279283
+          "value": 3349280
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 14345,
           "pct_held": 0.0,
-          "value": 1155920
+          "value": 1180593
         }
       ]
     },
@@ -329,25 +329,25 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 8234,
           "pct_held": 0.0,
-          "value": 2247470
+          "value": 2304696
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 202,
           "pct_held": 0.0,
-          "value": 55135
+          "value": 56539
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 28532,
           "pct_held": 0.0,
-          "value": 7787809
+          "value": 7986106
         },
         {
           "holder": "Albert D Mason Inc",
           "shares": 9476,
           "pct_held": 0.0,
-          "value": 2586474
+          "value": 2652332
         }
       ]
     },

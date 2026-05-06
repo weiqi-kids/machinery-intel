@@ -1,11 +1,11 @@
 {
-  "total_raw": 394,
-  "dup_title": 217,
+  "total_raw": 788,
+  "dup_title": 461,
   "no_date": 0,
-  "too_old": 134,
-  "gate1_fail": 0,
-  "gate2_fail": 7,
-  "passed": 36,
+  "too_old": 267,
+  "gate1_fail": 2,
+  "gate2_fail": 16,
+  "passed": 42,
   "gate2_samples": [
     "Parker Reports Fiscal 2026 Third Quarter Results",
     "THK (OTCMKTS:THKLY) Sees Unusually-High Trading Volume - Still a Buy? - MarketBeat",
