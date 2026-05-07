@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T10:11:15.664644Z",
+  "updated_at": "2026-05-07T10:16:03.650649Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -231,14 +231,14 @@
       "name": "洛克威爾自動化",
       "ticker": "ROK",
       "currency": "USD",
-      "ar": 1773000000,
-      "ar_prev": 1931000000,
-      "ar_qoq": "-8%",
-      "inventory": 1218000000,
-      "inv_prev": 1247000000,
-      "inv_qoq": "-2%",
+      "ar": 1883000000,
+      "ar_prev": 1773000000,
+      "ar_qoq": "+6%",
+      "inventory": 1225000000,
+      "inv_prev": 1218000000,
+      "inv_qoq": "+1%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "schneider",

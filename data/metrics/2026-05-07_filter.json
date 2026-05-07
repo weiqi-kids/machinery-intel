@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 232,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 2,
+  "gate2_fail": 7,
+  "passed": 21,
+  "gate2_samples": [
+    "Parker Reports Fiscal 2026 Third Quarter Results",
+    "Getting Invited to the Dance: A reflection on inclusive workplace culture",
+    "DMG MORI : Quarterly Release 1st Quarter (dmgmori126e data) - marketscreener.com",
+    "Citigroup Raises Illinois Tool Works (NYSE:ITW) Price Target to $287.00 - MarketBeat",
+    "A Look At Parker-Hannifin (PH) Valuation After Recent Share Price Weakness - Yahoo Finance"
+  ]
+}
