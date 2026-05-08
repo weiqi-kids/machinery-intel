@@ -1,0 +1,16 @@
+{
+  "total_raw": 390,
+  "dup_title": 222,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 3,
+  "gate2_fail": 7,
+  "passed": 30,
+  "gate2_samples": [
+    "Getting Invited to the Dance: A reflection on inclusive workplace culture",
+    "Mitsubishi Electric Classic 2026 Golf Leaderboard - PGA Tour",
+    "DMG MORI : Quarterly Release 1st Quarter (dmgmori126e data) - marketscreener.com",
+    "Illinois Tool Works Inc. $ITW Position Lifted by Mitsubishi UFJ Asset Management Co. Ltd. - MarketBe",
+    "Illinois Tool Works Inc. (NYSE:ITW) Just Released Its First-Quarter Results And Analysts Are Updatin"
+  ]
+}
