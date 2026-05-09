@@ -1,0 +1,183 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:10:43.825312Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "parker_hannifin-2026-05-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin Corporation $PH Shares Purchased by Ethic Inc. - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVNUQ1NuaTZudzJfbU5JMjQ4OGxSajBKTkg3UlI3T1h2Q1dUYTVzRDdXOUpwOHJ2NHJsTFZIREVsNGhJMWE2aExBdUdXeHQ3X0VLNjRGU21vM2RhWHh1bENuWHh6azFxNDlSMWo3NVM1TmVkMXRqOFVlaHVqaTQtZHlsYTZmY1lxU3pKUzNPckpuQ2QwaUdVNFJ1aVNiZ2dCQUhhaXJGNXIwQ3hSVXJSS25XZnFGc0lqclJLaWVB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-05-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar’s AI Power Push And Workforce Bet Meets Lofty Valuation - simplywall.st",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc29QdDN5Z2lDZU5KYTVmdDRNeFNQMUZTOExROGhpYjhVSTVqU1NGWmpnRHRFNkVWYWVqZ0ctNTJQYU9Veld3eUFBNng5OUdhSEZuQ1RmLWdwbnh4SU5CaUVHWU5WNWtkc2cyWDk2WnNNRlBjelF0cnE2S1Y5MFNpSkFPU2tfRlJfVGticXJFVzh6ZWh3a0lsb25UN3d6SzhIMVJwVUthTzF3UDkySGNEQTJVNWtFbnlrVE5FVEhiUUZteG96a3RVX0Z0M3rSAdIBQVVfeXFMT21Yc2tKUTdpaGRZWjRFS3dYZi13MW03TDhESWJLeWR5TmlkZUUyTFExbHU1ajlDS2VMSHpURFR6OEtaTGxvMy1pNkJwamthSWlXZ05SQjBwN3FnSThsdXY5RTExT3BKbF9ib3N5dkUxSXFiOHp1ejBOS29tQ0QzV2M1eUlpcmRTaHcwVTdiWG9KQWZXX1R0N3hwZFhYWGNKTGQtbEEyZFlndVNDNXdJd1ludV9LZWRTdFRRdlM0MlMzMGRhWkFfRFdUSEk3ZTdpMVdB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-05-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar (CAT) Valuation Check As AI Data Center Power Contracts Follow Strong First Quarter Results - Yahoo Finance",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbzRfSi1OWVdtUnBxSEo5WjRMaXU1R1lRdlMtbFE5SC13dlEzenA2RFhzYzNWTG9KekZKOG4tTEN4SEZqN2ZjdXB1eGQ0OEtxbjBYNUkwVzNBQ1lxaE5fem5zYWJfLUNMRE8yOTVHOUZaZHBRN1JxcDVkMzI5NWg1aFhMQzFuSEFWVll1LU5ocFVGR1djSm1JQUppdllCZVZN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-05-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Denali Advisors LLC Boosts Stake in Caterpillar Inc. $CAT - MarketBeat",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjRHTmxuZDBnNjFGX3podU0zUG9SaFRJYlhSR0xUbk5pai1PQnd0am5HVEt2UC1Yd1ZDSjUyMkRja0tFMmc1LTM3UFJlSm9KNUdBQXJYVUxnMk9jbmEyOEJHZThLMkgyNEJsOW5IbnZHSEZBX2g5aUJaS3pUaDZJSDBqMTVBbGxnenhaQnRINDgyS1JxcUtNUnNLc0U2aEZpVEhhSm1NbURSNW9YLTNEODcxN1lXbE0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 392,
+    "dup_title": 240,
+    "too_old": 120,
+    "gate1_blocked": 3,
+    "gate2_blocked": 5,
+    "passed": 24,
+    "pass_rate": "15.8%",
+    "gate2_block_rate": "3.3%",
+    "gate2_samples": [
+      "E Sun Securities Upgrades Delta Electronics to Buy from Neutral; Price Target is NT$2,800 - marketsc",
+      "Mitsubishi Electric Classic 2026 Golf Leaderboard - PGA Tour",
+      "Illinois Tool Works Inc. $ITW Position Lifted by Mitsubishi UFJ Asset Management Co. Ltd. - MarketBe",
+      "Caterpillar Opens Registration for Global Innovation Challenge - Morningstar",
+      "5 Men in Caterpillar Costume, Including UIndy Photographer, Break Mini-Marathon Record - UIndy 360"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為CAT、Parker相關動態：「Parker-Hannifin Corporation $PH Shares Purchased by Ethic...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Parker-Hannifin Corporation $PH Shares Purchased by Ethic Inc. - MarketBeat（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Caterpillar’s AI Power Push And Workforce Bet Meets Lofty Valuation - simplyw...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
