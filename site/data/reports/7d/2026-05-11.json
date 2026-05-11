@@ -1,0 +1,161 @@
+{
+  "date": "2026-05-11",
+  "date_range": {
+    "start": "2026-05-05",
+    "end": "2026-05-11"
+  },
+  "generated_at": "2026-05-11T10:55:23.987522Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "caterpillar-2026-05-05-023",
+      "date": "2026-05-05",
+      "title": "Caterpillar Rolls To A Record High, Leads 25 New To Today's Best Growth Stock Screens - Investor's Business Daily",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 40,
+      "last_week": 41,
+      "week_over_week_change": "-2%",
+      "sentiment_this_week": -0.03
+    },
+    "industry_general": {
+      "this_week": 42,
+      "last_week": 43,
+      "week_over_week_change": "-2%",
+      "sentiment_this_week": -0.02
+    },
+    "automation_capex": {
+      "this_week": 20,
+      "last_week": 19,
+      "week_over_week_change": "+5%",
+      "sentiment_this_week": -0.05
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "delta": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 3
+    },
+    "parker_hannifin": {
+      "event_count": 16,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "makino": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 7
+    },
+    "itw": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 4
+    },
+    "caterpillar": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "mitsubishi_electric": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "okuma": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "airtac": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "abb": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "dmg_mori": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 155,
+        "last": 249,
+        "change_pct": -37.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-05",
+      "event_count": 39,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 21,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 33,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "event_count": 25,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-09",
+      "event_count": 11,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 11,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-11",
+      "event_count": 15,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-05 ~ 2026-05-11）共 155 則事件，重點為「Caterpillar Rolls To A Record High, Leads 25 Ne...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Makino Milling Machine",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Delta Electronics",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Parker",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

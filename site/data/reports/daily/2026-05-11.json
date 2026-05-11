@@ -1,0 +1,256 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T10:55:23.915561Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-05-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics Thailand : Thailand Included in Dow Jones Best-in-Class Indices 2026 for the Fifth Consecutive Year - marketscreener.com",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRGlRY3pLc3oxVlF6OXkweFRZQlg4c3ZveV9QV0h4WlhmVDVQQnpjdUpxbWxYZkd1cGY0Vmx5c2EyNVZWQjFuUERUUUhZYm9aWVZZQkF6MFNoR2k0cFV6UHBVLVNFMjZwQm5vbTFmTEtKeVpmZThUUFdNeFQ3aGdnelFZSzRaeW84QjI2VE5OSmJvYjFWTUNraHliWG5GX1Fya3pHcDlFdDVEOVJSX0xfVnMxVGM0b0xQMzREaExTMmh1ZGV4WHlmT1FEeElIdkp3eTB0dmlZNzlNWkU5dkNIbExXQldSQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "abb-2026-05-11-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABB Ltd stock (CH0012221716): Invests $200M in Europe grid tech - AD HOC NEWS",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGdyVTNqM0M4TUxmcjJkU25uRGJYVnBCUGVKaFlVWFBjNk8zSU5UaUNFaUpRbUZWV1pOcGRYbHJ0RjdueXh0c1llNVdQYmFlNi1sUC1vNEx0QTVoNUZTTXBNa01yQ3VFci15SlpwcmpVUnFMLV8wZ3lSMGl1a2JkODJZcTNpckFnLVRiM2pkRi16OWZyTFNENFJtUFNwcml5dk92WmlkOFg2M2E1WFdKUnN0Z1ZyeGlQNUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-05-11-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deer Robot (Luming Robotics) Closes ~1B RMB Across A1 and A2 Rounds, Mitsubishi Electric Leads - Pandaily",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kb2h2eEVmanRBdFAxOVU3MVhkVm56VmtSck0yRldqOElaXzF3SnZqMlZqdEQ1Szg5WjhMNkVuYl9rOGZSbUxFWVZJTlNhZkZoT0l0X1QxVXVYV2VKdGd3Q1FPRDg4bWlWaGhwZGhwMFhEOGM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "dmg_mori-2026-05-11-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DMG Mori raises the bar for hybrid metal AM with the LASERTEC 65 DED hybrid 2 - 3d adept media",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTzlzdDZfZ2N1RHVIV0FITHFPRjJxSnlmaTlnWjlKeEczTVkyb3FmVGZVMUZuMnlSdHFNblhYSVN6ZEMwd0pyZE13NVhwejFWaFhPOE1pa1lVREtjZjZlWUlsNnE3WEVwazRURXVid3FFRlBrZkdXT1FOTHpheDB0bVBQbG9KOWtiWVByQ2dMZHJQeEtoc3VhdXBqWUpSbTA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "dmg_mori-2026-05-11-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Just Two Days Till DMG MORI AKTIENGESELLSCHAFT (ETR:GIL) Will Be Trading Ex-Dividend - simplywall.st",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVW1PY3FrRk1reHp5VTVydHFYVDJpM3ZVMjhfdXJJWjhZaVZZR2JKc2J0cmtRZVJrTWpkaEZMZ2E3YUpMYzhMc0NoaXpFZjNnWHNRbFZuSE02MlBHdVlUMUdSSzNpWmJlbXB6Q1MxWmU1NWNQTnF5SlloWGItX3lERXU2a3RoczVGRk1HTFJfMC01S3Zmd0dPXzF2clkzbHhLR19fWkxIakNsQkdEdTBSdl9lNUUtUGRSUUYyMml6U0RLRVRPUHVud1VxUzhCbEc50gHWAUFVX3lxTE1PZDB2T1RkaE9DUzZoTlNzekJpWFozZ2ZHaEZ3elBzVmpzcThkUkQ1VUtjcjg0SGpiak5sSlV0dERHd1hUai16TFJsN0oxcDlpOWpWSjJHWVU3SmFwNjZyYnJrZTltelBSU3FVNld6YnVvYW1sWDBSdHFDWlVXMmlqczVQOTJLeTFTUlg2NENzS012YzNLdUdBQS1PaFFVZ1duZWZqNlVvdXZraS1BNzd1R2RYT1FJZXdkZEx6RXQxNWNjaG5wVENTdG9HMnVnLW1lcUU4ZEE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 6
+      },
+      {
+        "id": "delta",
+        "count": 2
+      },
+      {
+        "id": "dmg_mori",
+        "count": 2
+      },
+      {
+        "id": "itw",
+        "count": 2
+      },
+      {
+        "id": "abb",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "automation_capex",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 393,
+    "dup_title": 238,
+    "too_old": 126,
+    "gate1_blocked": 2,
+    "gate2_blocked": 5,
+    "passed": 22,
+    "pass_rate": "14.2%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "Delta Thailand Included in Dow Jones Best-in-Class Indices 2026 for the Fifth Consecutive Year - The",
+      "Mitsubishi Electric Classic 2026 Golf Leaderboard - PGA Tour",
+      "Illinois Tool Works Inc. $ITW Position Lifted by Mitsubishi UFJ Asset Management Co. Ltd. - MarketBe",
+      "New eastern tent caterpillar video from MSU Extension - Michigan State University",
+      "5 Men in Caterpillar Costume, Including UIndy Photographer, Break Mini-Marathon Record - UIndy 360"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為Parker、Delta Electronics、DMG Mori相關動態：「Delta Electronics Thailand : Thailand Included in Dow Jon...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Delta Electronics Thailand : Thailand Included in Dow Jones Best-in-Class Ind...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "ABB Ltd stock (CH0012221716): Invests $200M in Europe grid tech - AD HOC NEWS（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
