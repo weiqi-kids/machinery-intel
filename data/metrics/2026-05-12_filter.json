@@ -1,0 +1,16 @@
+{
+  "total_raw": 391,
+  "dup_title": 233,
+  "no_date": 0,
+  "too_old": 126,
+  "gate1_fail": 2,
+  "gate2_fail": 5,
+  "passed": 25,
+  "gate2_samples": [
+    "Mitsubishi Electric Classic 2026 Golf Leaderboard - PGA Tour",
+    "Illinois Tool Works Inc. $ITW Position Lifted by Mitsubishi UFJ Asset Management Co. Ltd. - MarketBe",
+    "Caterpillar and CCCC earn Pinnacle Award - The Sanford Herald",
+    "New eastern tent caterpillar video from MSU Extension - Michigan State University",
+    "5 Men in Caterpillar Costume, Including UIndy Photographer, Break Mini-Marathon Record - UIndy 360"
+  ]
+}
