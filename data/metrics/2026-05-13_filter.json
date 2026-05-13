@@ -1,0 +1,16 @@
+{
+  "total_raw": 391,
+  "dup_title": 227,
+  "no_date": 0,
+  "too_old": 123,
+  "gate1_fail": 0,
+  "gate2_fail": 5,
+  "passed": 36,
+  "gate2_samples": [
+    "Mark Walker nearly aces No. 16 at Mitsubishi Electric Classic - PGA Tour",
+    "Kanaden outlines dependence and independence in ties with major shareholder Mitsubishi Electric - Ti",
+    "Illinois Tool Works shareholders elect directors and approve key proposals at annual meeting - Inves",
+    "Caterpillar Inc. Releases 2025 Annual and Sustainability Reports - Morningstar",
+    "New eastern tent caterpillar video from MSU Extension - Michigan State University"
+  ]
+}
