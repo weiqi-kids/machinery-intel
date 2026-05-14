@@ -1,0 +1,15 @@
+{
+  "total_raw": 391,
+  "dup_title": 227,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 2,
+  "gate2_fail": 4,
+  "passed": 30,
+  "gate2_samples": [
+    "[Podcast] Downsizing AI: small models with big impact",
+    "Kanaden outlines dependence and independence in ties with major shareholder Mitsubishi Electric - Ti",
+    "Illinois Tool Works shareholders elect directors and approve key proposals at annual meeting - Inves",
+    "'Alarming-looking' caterpillar webs in park 'harmless' - BBC"
+  ]
+}
