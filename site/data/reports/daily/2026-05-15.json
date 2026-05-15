@@ -1,0 +1,229 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:15:02.562469Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-05-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics chair warns RE100 delays could risk Taiwan's global tech orders amid green power shortage - digitimes",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcElsZjlYRUVFZnk4eVhaSDB6OHVTNmstbFpPMXh1X2hvTUhYdllMa0VIQ2s1QUtOekZtM1JSdkdBd2I1YXdpNklzTVlCSC1tNVJOUUpiMVl1aWxGWll0UTZTRFo4bC1wcUtpY0t6NlkwTEZ2aWhtLTlnNkhocXNQazhSS0dlSWRMdHY2bkI3VXpiY3J3MGNlOXQtb2pnLXhNN1hXUUdnMlN6ZTlxbHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-05-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Expands its R&D Capabilities in Soest, Germany with Opening of New R&D Center, Strengthening its Innovation Process in EMEA - PR Newswire",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMmpqV0s5WGNjN1FLdzByQ296LTVXQldyMGRMaWZFdk9vaUl6SzhuR2NzWU44TUp1VlY3ZEx3RXFoVC1Xc2d2TXVFVDdTZUw2UVFYUkRyTGh1T1NvMl9rdHZLX1Q5WVBfNEgzUWhsSG03Y01yRTJ4S2dRRkFOMHdUeTN2SDVsQVd5VkpGNHV3cW9QTWJvd09qUk1tSmZNQmZBcGQyNGVOel9nR0V6dlVmY2JhZFdxNG43b1BoOThzdzJqZEV0Ny1zR3pJMUxkZVJfUU9zNlVVTkExczNvYk1MbWNCWENna1YzX1NKamhHalZWV3AxV3YwTDQzU1VPdmRRQVBlbVhBY2F0STdsam81Z29vYUU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-05-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "[News] Rohm Reportedly Warns of Delays in Talks with Toshiba and Mitsubishi Electric After Denso Exit - TrendForce",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNY2JvSTh5YVBwdmYwOU0yUHJRQl9kTHBqUjRoT04xQTNJZENBSElTeDg3akRudkk0aVZ2WkpFZE1Gc0FEVHktM054blVvQU5DZ3ZjUWo1ZGdCenA1Qk9XdW5fdThpVnF5VzhqQnFmamItMVR3OURveHJ2NFQ3NUNtNlQ1cDRQU181MnBScDBhY1p5T0NrMkw1Z01nTkhRbTREcnNrYzNPUmQ1UW9rYXZVX3dUOTh0eUdKckRNMndDYkVkV0t4QURkZTg5alVtei02WnJLMkNtZFRDSE1pd0hWa0w1ZmNEVnBwY25aNlMyWEpmUmxqMHI5UWlPVXJQaVNB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-15-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "3 Cash-Producing Stocks That Fall Short - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR2lVUllKU3F6QzhEYmtxcFNRdWh0ODBRSTdqc2NVcUZJTWVDY3JhMzlXX0p4bVZHX0N6MDVEeUEyMzNMVnFBQjJwWjZBVHFvR24wajdQNEtjSjg3S2lObDFBeDNqdUxyeXVUMmFOemhUTXdqZlBzVGQ4TGszaXp4UldBVWp2OWdrVXR1NndwMDNmc2ZlbXZ1WWQ0S3BFdkE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "abb-2026-05-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ABB Ltd stock (CH0012221716): Buyback activity and automation demand in focus - AD HOC NEWS",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1FJSlJEV3k0Z3NwQkt0LUlRZXYyNkIzeDNHYUNuVmE3U2p1UTRuQ0NrNGlTakFyTTlfWDBZdDUtdC1pSzRhZzdTbExYOGFvR0RlY2owU05TQk9HNGRZS25ZeUxDZ0FFYmFzUVdCcHZaQ0lYTzFseWw2VU1oVzZaYVJZUjBJNEx5VFZoSWRPRVJxTExNWUZzMXdRMklPdzdmY2YyVHg0NDdXYmVaa2UxNVh5Q0ZmMkowS3FpNDVzMHJ0Z2pHWFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "delta",
+        "count": 2
+      },
+      {
+        "id": "abb",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 388,
+    "dup_title": 244,
+    "too_old": 117,
+    "gate1_blocked": 1,
+    "gate2_blocked": 6,
+    "passed": 20,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Delta Electronics Thailand Named to Dow Jones Best-in-Class Indices for Fifth Straight Year - I-Conn",
+      "[Podcast] Downsizing AI: small models with big impact",
+      "Illinois Tool Works shareholders elect directors and approve key proposals at annual meeting - Inves",
+      "Caterpillar: A Masterclass In Execution Meeting An Irrationally Exuberant Valuation (CAT) - Seeking ",
+      "Why this $23-billion money manager is buying Caterpillar and selling Boston Scientific - The Globe a"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Delta Electronics、ABB、Mitsubishi Electric相關動態：「Delta Electronics chair warns RE100 delays could risk Tai...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Delta Electronics chair warns RE100 delays could risk Taiwan's global tech or...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Delta Expands its R&D Capabilities in Soest, Germany with Opening of New R&D ...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

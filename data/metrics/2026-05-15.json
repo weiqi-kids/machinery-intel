@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-15",
+  "total_events": 5,
+  "by_company": {
+    "delta": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "abb": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "mitsubishi_electric": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "industry_general": {
+      "count": 5,
+      "sentiment_avg": -0.1
+    },
+    "automation_capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

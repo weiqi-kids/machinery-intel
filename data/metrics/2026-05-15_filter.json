@@ -1,0 +1,16 @@
+{
+  "total_raw": 388,
+  "dup_title": 244,
+  "no_date": 0,
+  "too_old": 117,
+  "gate1_fail": 1,
+  "gate2_fail": 6,
+  "passed": 20,
+  "gate2_samples": [
+    "Delta Electronics Thailand Named to Dow Jones Best-in-Class Indices for Fifth Straight Year - I-Conn",
+    "[Podcast] Downsizing AI: small models with big impact",
+    "Illinois Tool Works shareholders elect directors and approve key proposals at annual meeting - Inves",
+    "Caterpillar: A Masterclass In Execution Meeting An Irrationally Exuberant Valuation (CAT) - Seeking ",
+    "Why this $23-billion money manager is buying Caterpillar and selling Boston Scientific - The Globe a"
+  ]
+}
