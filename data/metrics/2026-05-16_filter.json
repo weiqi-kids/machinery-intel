@@ -1,0 +1,16 @@
+{
+  "total_raw": 387,
+  "dup_title": 238,
+  "no_date": 0,
+  "too_old": 122,
+  "gate1_fail": 1,
+  "gate2_fail": 5,
+  "passed": 21,
+  "gate2_samples": [
+    "Delta Electronics Thailand Named to Dow Jones Best-in-Class Indices for Fifth Straight Year - I-Conn",
+    "[Podcast] Downsizing AI: small models with big impact",
+    "DMG MORI Federal Services chosen for US defence AM initiative - metal-am.com",
+    "Why this $23-billion money manager is buying Caterpillar and selling Boston Scientific - The Globe a",
+    "Caterpillar: A Masterclass In Execution Meeting An Irrationally Exuberant Valuation (CAT) - Seeking "
+  ]
+}

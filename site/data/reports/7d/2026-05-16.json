@@ -1,0 +1,166 @@
+{
+  "date": "2026-05-16",
+  "date_range": {
+    "start": "2026-05-10",
+    "end": "2026-05-16"
+  },
+  "generated_at": "2026-05-16T09:23:36.541313Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "caterpillar-2026-05-12-027",
+      "date": "2026-05-12",
+      "title": "Goldman Sachs, Caterpillar Share Losses Lead Dow's 340-Point Drop - Moomoo",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 25,
+      "last_week": 13,
+      "week_over_week_change": "+92%",
+      "sentiment_this_week": -0.04
+    },
+    "earnings": {
+      "this_week": 41,
+      "last_week": 30,
+      "week_over_week_change": "+37%",
+      "sentiment_this_week": -0.02
+    },
+    "industry_general": {
+      "this_week": 47,
+      "last_week": 34,
+      "week_over_week_change": "+38%",
+      "sentiment_this_week": -0.03
+    },
+    "guidance": {
+      "this_week": 6,
+      "last_week": 3,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.17
+    }
+  },
+  "company_7d_summary": {
+    "parker_hannifin": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "caterpillar": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "delta": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 3
+    },
+    "abb": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "mitsubishi_electric": {
+      "event_count": 7,
+      "sentiment_avg": -0.07,
+      "rank": 4
+    },
+    "dmg_mori": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "itw": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "amada": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "hiwin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "thk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "okuma": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 156,
+        "last": 166,
+        "change_pct": -6.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-10",
+      "event_count": 11,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-11",
+      "event_count": 36,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 36,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 30,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 20,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 11,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 12,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-10 ~ 2026-05-16）共 156 則事件，重點為「Goldman Sachs, Caterpillar Share Losses Lead Do...」。Okuma情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Okuma",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Parker",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "CAT",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

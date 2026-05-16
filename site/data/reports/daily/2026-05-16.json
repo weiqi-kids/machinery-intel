@@ -1,0 +1,256 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T09:23:36.410911Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "caterpillar-2026-05-16-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Dow's 381-point drop led by losses in Caterpillar, NVIDIA Corp. shares - MSN",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXN5aVFwM0s0NUswTDQyZnRSWmctYl9lNHpMeHMwOFVaOFNNTXNQZjdzT2VGWW5iX0pZV0ZOUENaVHE0cUZPSFJlYVlhcHBxOFFKQ1htSDBEYXFnN0J4UXM0R2tRTlZQWWxfaFRFcDh4NkRISXk5MFpfVjJzbEV4Y29Sa1lKUkhtclpfeVVZa21USWFjQjNNTk1XbDNVVUE4di1ZemFWWFloYm1COEh0czJLWVdhaURPNDJZTUhZcw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hiwin-2026-05-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hiwin Technologies stock (TW0002049004): robotics supplier rides AI-driven demand after strong earni - AD HOC NEWS",
+      "companies": [
+        "hiwin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa3BtQlpyeTQ4RVplel9FRWJmcjA1Tkl0eUUzc3VGaVBNWFlmcC1JaWI5SDcwc2tHNFU3ZGJzakhhelJsRjc3VVFuamk5WmdTX0lUdEJTd0JodkdIMDlkRFlvSjdXS2JCcWowU0l1cVozbDZ4RnU0QUpncVlPMTdHQXJxbnZldkEzMmdJQ0hNZXplYnB2YUU4Ql8xRXhWWG5CSUFteFJHSVpyN21BbjZ6c0JFOWlmejltVzdiUlVEcTU1SUJFSm9SMFN3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "thk-2026-05-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "THK Co Ltd stock (JP3801600002): automation specialist in focus after latest earnings - AD HOC NEWS",
+      "companies": [
+        "thk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTk16MXRueFZ1bEM4M0xyM0dVYzRfSXQ0Q0hQZmZaNHBfTm1WQ1RzbGd1dHczMW8wLWdrQW8tTjNtNWJXd1hJRUV4cFhudjZvczB3NWFMU2ROQV95eC0zQXVURy1UUm5hdDNCdTYwN0pYNnBYTXl3TkFLQTRjUjZEMEdVMHBxTXMxNndXdzlfUmsxQ2doREhkSnViSnVJSzNWMmRqYkk2cllqdUlXQXRWTmhQczdPc2hRMWNOWXhnTk9vWjQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "delta-2026-05-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics (Thailand) stock (TH0450010Y06): earnings update and growth drivers - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQal94bENmd0NXQ1ZqRWhFRnE4OFctRlE3YWt0TGFuNEVjSkI4LUcwclJZVWV2MTU0cnUtaWZHSmVtTDNTY21aZkxLcjVnZURrdnppUjJ5Y29KYkdsWWVvZVhiQ2swbXNkRktrV1ZXaFJaOUdtUExDUWkzUk5XbW5hS3kxN1JzRGljdzcydWZkaVQtME9Raks2STN4ZktpVUpmNjRkUUg0ZE9HaE5EOFNGa1B6bjQxeEJuR2lMcnZHN0NjZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itw-2026-05-16-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Assessing Illinois Tool Works (ITW) Valuation After Recent Share Price Weakness - simplywall.st",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOW1OUEMteDUtaVlqdkExTHFiS2J2X0VHcTIzeTBNelZvQkJidzZwOEE3QURGX0Z1V1BUZ3luSEM1YkdJQ3lHOVJyT1RzUkhEQ1J2YkFSbU1pOXFEaGN2UDFfUzdLVmdBbnFId21OZ0p5LS1XNGpEYzVkUEtPMkw1cEhRZUpOdlA0OTJDcXpHWHF2b1R6ZndHYmkxbjRyYU13NjA0NnlCRlY5dEwzZlB6ZnFPbklPa2FXYnh4QXdKemMxMFVrUGNkdVFnR0txSUFtMHJ1X1Buc9IB3AFBVV95cUxPUC10Tk4zMGRoS3JIVF9CUkJJbWIwZkt2bFQ4WlNRZlBHVVBsX2ZJWXQwLUdCcmxNMjc2RmJkY0xLd1pDOW9hSlBmZ2RBZUFrcE4zMUtWQlcxcjU3TjJHT2o2UkRUVHNEN1JhWEJ2Q3FScXZMWlBXRWxLYUJWR29ObnNPZV9OLWpMWmNvUGpsem82YjY1TEx5V1hCdXlCZ014bkxfeFU5UVlCYWEzeVBOQjVkdm5VNTNwRVU4RGNCS3EzeXJ2QUZpZXFPVGtXUjE0UmpYdFJzcjVHbGU1?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 4
+      },
+      {
+        "id": "hiwin",
+        "count": 1
+      },
+      {
+        "id": "thk",
+        "count": 1
+      },
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 387,
+    "dup_title": 238,
+    "too_old": 122,
+    "gate1_blocked": 1,
+    "gate2_blocked": 5,
+    "passed": 21,
+    "pass_rate": "14.1%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Delta Electronics Thailand Named to Dow Jones Best-in-Class Indices for Fifth Straight Year - I-Conn",
+      "[Podcast] Downsizing AI: small models with big impact",
+      "DMG MORI Federal Services chosen for US defence AM initiative - metal-am.com",
+      "Why this $23-billion money manager is buying Caterpillar and selling Boston Scientific - The Globe a",
+      "Caterpillar: A Masterclass In Execution Meeting An Irrationally Exuberant Valuation (CAT) - Seeking "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為CAT、Hiwin Technologies、THK Co相關動態：「Dow's 381-point drop led by losses in Caterpillar, NVIDIA...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Dow's 381-point drop led by losses in Caterpillar, NVIDIA Corp. shares - MSN（自動化資本支出、財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Hiwin Technologies stock (TW0002049004): robotics supplier rides AI-driven de...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
