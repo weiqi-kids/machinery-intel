@@ -1,0 +1,16 @@
+{
+  "total_raw": 390,
+  "dup_title": 243,
+  "no_date": 0,
+  "too_old": 125,
+  "gate1_fail": 1,
+  "gate2_fail": 7,
+  "passed": 14,
+  "gate2_samples": [
+    "[Podcast] Downsizing AI: small models with big impact",
+    "Bernhard Langer birdies No. 11 at Mitsubishi Electric Championship - PGA Tour",
+    "DMG MORI Federal Services chosen for US defence AM initiative - metal-am.com",
+    "Illinois Tool Works shareholders elect directors and approve key proposals at annual meeting - Inves",
+    "Why this $23-billion money manager is buying Caterpillar and selling Boston Scientific - The Globe a"
+  ]
+}

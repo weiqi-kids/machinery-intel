@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T09:29:49.456026Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 390,
+    "dup_title": 243,
+    "too_old": 125,
+    "gate1_blocked": 1,
+    "gate2_blocked": 7,
+    "passed": 14,
+    "pass_rate": "9.5%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "[Podcast] Downsizing AI: small models with big impact",
+      "Bernhard Langer birdies No. 11 at Mitsubishi Electric Championship - PGA Tour",
+      "DMG MORI Federal Services chosen for US defence AM initiative - metal-am.com",
+      "Illinois Tool Works shareholders elect directors and approve key proposals at annual meeting - Inves",
+      "Why this $23-billion money manager is buying Caterpillar and selling Boston Scientific - The Globe a"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-05-17 無工具機產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
