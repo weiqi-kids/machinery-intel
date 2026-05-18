@@ -1,5 +1,296 @@
 [
   {
+    "id": "hiwin-2026-05-18-001",
+    "date": "2026-05-18",
+    "companies": [
+      "hiwin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hiwin doubles robotics revenue share in 1Q26 on semiconductor automation demand - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEVNUUJDNVVnVVlHT3ZLLWZTd0h4QXlZZnBJalJQaTltVmp5bVlQUWduS2dYVDNBeVpsTnpLdjZPclZjSmhRSEhVd2lMRzJqQlpHcG1TZ0R0VG10VGduVVZWdFozTXBLR2pfbFEzUH",
+    "sources": [
+      {
+        "name": "hiwin",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEVNUUJDNVVnVVlHT3ZLLWZTd0h4QXlZZnBJalJQaTltVmp5bVlQUWduS2dYVDNBeVpsTnpLdjZPclZjSmhRSEhVd2lMRzJqQlpHcG1TZ0R0VG10VGduVVZWdFozTXBLR2pfbFEzUHI4ZzVyTVdIR1h2VE5aLTdQaTJ3eVlXYUFTeUI2a3VBS2s0VUpuMk5F?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-05-18-002",
+    "date": "2026-05-18",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Delta Electronics Thailand : Expands its R&D Capabilities in Soest, Germany with Opening of New R&D Center, Strengthening its Innovation Process in EMEA - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcERtemtsR3Q3czBNdjBRSnpGeFBPWjM5dmtqTWRwTDA4ZURqZm9vS2ptV3NnT0VYSnEzOHQ4MENuUWhlZlR1bXNuOWNjY0dZNnU0amNVRm16bDQ3a2toTDJ5TEdQZUlKcTlKNGhDRX",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcERtemtsR3Q3czBNdjBRSnpGeFBPWjM5dmtqTWRwTDA4ZURqZm9vS2ptV3NnT0VYSnEzOHQ4MENuUWhlZlR1bXNuOWNjY0dZNnU0amNVRm16bDQ3a2toTDJ5TEdQZUlKcTlKNGhDRXBpYkdUbkVUdXBUbHRKNURfNHlScHE5dmltYjdRUTJ4di1PV1IyMl9fbjFhRDN2MFNwTXo5WUtrWnRLNnczZ2R1UDJaSjllVEs5WUVzdjNLengxY1JSTFFkbk12SU16aVJ2OV9Ea1QtOWhoN3M4anpuUGJPVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-05-18-003",
+    "date": "2026-05-18",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ABB Ltd stock (CH0012221716): automation group expands manufacturing and reports solid Q1 2026 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjVDbzFCR01yS1ExXzFBTzkyNlhIVHJRS0Z4NXM2ZmRKM0pYSkt4ODI4ck1pRFdJamxOUktJUzZGX1NQaUcxY0M0ejVPRTdfMGFOU254ekIxYnFmZ0phMmlZQW5wV1pSZXBMTFZ2LU",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZjVDbzFCR01yS1ExXzFBTzkyNlhIVHJRS0Z4NXM2ZmRKM0pYSkt4ODI4ck1pRFdJamxOUktJUzZGX1NQaUcxY0M0ejVPRTdfMGFOU254ekIxYnFmZ0phMmlZQW5wV1pSZXBMTFZ2LU13WVNHeHhsaWZERGVsTTJkWTJ3S2NOSEEwTWJuQ3U5eEYxak5ubzc2SjNNYk9fb215QkRQdFhvSDBjQWZaT2NDTnAtMG9wOGpkaUFMTnF1V2l3cF9POF9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-05-18-004",
+    "date": "2026-05-18",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Ltd stock (CH0012221716): automation group steps up European investment in electrification - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNVkhydWJpNmJQZjFSUUFLQWxBcE9ONW1BX0tMWkpFTmdydFkxcV9oWVdaZFYwZHhBM2tDS2RIVUFjck1DUXJvd3pKay1vbWVTdnRoaXlkTzdiemI4QTdYQ3l2dXRSb2h1QXBVOUNVRW",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVkhydWJpNmJQZjFSUUFLQWxBcE9ONW1BX0tMWkpFTmdydFkxcV9oWVdaZFYwZHhBM2tDS2RIVUFjck1DUXJvd3pKay1vbWVTdnRoaXlkTzdiemI4QTdYQ3l2dXRSb2h1QXBVOUNVRWtwTHlsTFVCaWxxZmlCa3NjQkpneEh4OWx1cmV0dFZFMXVPZTkxUTVJMm92WGlrUUdnaVNyOGRXNUJnbk1qQks1NTFxSFVaRkdIZnF1WA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-18-005",
+    "date": "2026-05-18",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pacific Heights Asset Management LLC Has $28.32 Million Stake in Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR0M2QWZoQXppc0lVMEd5MV9FNlZtZkRrQXNaQnRpVVo5ZlBYUkFJdzhyVnNJSU5wZUVoNDhQd0tyUW9tWjZUSjF4SnlxeGZwSVFEOFk3Y213Y1FjSmFMekkyWUJuU1RKanY0eVBtb0",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR0M2QWZoQXppc0lVMEd5MV9FNlZtZkRrQXNaQnRpVVo5ZlBYUkFJdzhyVnNJSU5wZUVoNDhQd0tyUW9tWjZUSjF4SnlxeGZwSVFEOFk3Y213Y1FjSmFMekkyWUJuU1RKanY0eVBtb0VOaGVVSVZUb2h2QjNaNWRmZDNTTTE3MUNNcWE2V3UtQWxMaFk5REg0a2FtNm1vQXBLTzdKcHdIaDczNHA2UFVZcC1aZnp2NHZnQkxna0cxdDY5N3NuTm40VlljcGwyWkxLT01uTTczVDZ3RkVxdFRTZ2hOWkhnQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-18-006",
+    "date": "2026-05-18",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock (US4523081093): institutional buying and steady outlook attract attention - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZzB1NEszYTFMZE8tTWFrRG5xZjB2YmdZLVp4S3hvalFuaTZ3VHJBeXFtQnFzWTV6ODNFN3FJTnE1UFo2aF9DTTk3ek9VY3dPenYyTlFEbmpCSk5fOU9xRkxkU3otWWRCNXJtSTRPaz",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZzB1NEszYTFMZE8tTWFrRG5xZjB2YmdZLVp4S3hvalFuaTZ3VHJBeXFtQnFzWTV6ODNFN3FJTnE1UFo2aF9DTTk3ek9VY3dPenYyTlFEbmpCSk5fOU9xRkxkU3otWWRCNXJtSTRPazV0QVVLTzQyblBVc1VjOU9yZzhSRk41ekZiSUxkRFVkaEFGY1NQUi16ckZ4Y2xUQVlTVjFna0hNc05OUGNYckVQQmNGUnI5VW9IczdSRVZjdHBLNXdCSUZ0YQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-18-007",
+    "date": "2026-05-18",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Parker-Hannifin stock (US7010941019): Record fiscal 2025 Q3 and higher guidance put focus on growth - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3NwQ0NWUVVFV2VPb1B0ckxCU09rZXRIWWhzMElIV0lOZE9aZkY0bERPMGh2Q2xGbGtBQ3NEc0JWV1RoQTNtRDZkNW1JVF9wWERXdFJJOEFDaXlrSlFZLWpGU2Z6N2x0ZnlSTnZqdm",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3NwQ0NWUVVFV2VPb1B0ckxCU09rZXRIWWhzMElIV0lOZE9aZkY0bERPMGh2Q2xGbGtBQ3NEc0JWV1RoQTNtRDZkNW1JVF9wWERXdFJJOEFDaXlrSlFZLWpGU2Z6N2x0ZnlSTnZqdmZGTTVKaWJRRWlGeDM3dGxLZnhrRUs1V1J4TlQ3QkctZWR2bnZvb1VlVFRtZ081WHhNa3lKSWFrM08wZnhGLXFSSDVvd05vRW1GMTcxc0NHT05XMm40?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-18-008",
+    "date": "2026-05-18",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RiverFront Investment Group LLC Purchases 1,552 Shares of Caterpillar Inc. $CAT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdUZjbjFXY0txaXNZblJVS0gzdm9idmdvY1JLdTNoVXVPUU5oai15eUplRTk0aDY4WGZrbGJKVmdhc3JHZzQ0blNqNFdYMHZXWks3aHQ2R1o4UEpnSEpEaXlCaHl4RmhJYUpTZW5HSF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdUZjbjFXY0txaXNZblJVS0gzdm9idmdvY1JLdTNoVXVPUU5oai15eUplRTk0aDY4WGZrbGJKVmdhc3JHZzQ0blNqNFdYMHZXWks3aHQ2R1o4UEpnSEpEaXlCaHl4RmhJYUpTZW5HSFNEOGtrVk1zbGZLRzk1RjN4SkszUXA2aUk2Tl9DbFBtUlV1endiRldaWkRCejJVUExXTjdjNWlzMlljVnA0SndyQXRITHFzMVBBMlNDeDdQUkFWcXRTWlMyZllXdzh3UGlsV3Vj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-18-009",
+    "date": "2026-05-18",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Look At ProPetro (PUMP) Valuation After Barclays Upgrade And Caterpillar Power Capacity Agreement - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNZWNKcnMtbGd3Uzg1cjJ4ZzdhSHlPU1BkRVZPbnYwelpRd2tERnRJeWt4cmRabXNkVDNGRlQ3aml4Ny11ZkFzLW1TbXhCbzdORVVyYklvLW1pM21ETzVIRkgwRklleUN5RFRjN0ZOZU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZWNKcnMtbGd3Uzg1cjJ4ZzdhSHlPU1BkRVZPbnYwelpRd2tERnRJeWt4cmRabXNkVDNGRlQ3aml4Ny11ZkFzLW1TbXhCbzdORVVyYklvLW1pM21ETzVIRkgwRklleUN5RFRjN0ZOZUxwdVdnNGF2Ty1Tcnh2cldjVjYtbEM4WFFXcnNoaXFHMjk5VHdkbXAyOU1jd0JpZDlucFZVUzNmSFBFUTFWdHB0THJENXc0eHBkTFR2YmQ0NXZnX1ppb3lrelBYRdIB0AFBVV95cUxOdENhUDg0RTVHcUFSQmREemJNdk5iYTFJTURYSmE2SlNYb0NsQ3JCeUVTenY3bWJmYkxTZl9jZk16dExad0RhS2t6eFZsMEltaU1KaHNLRnVVV3N3V2ZHbUJIWGFRMXJDdVB0UW5lY0VXREVJZnUzZVFiYUwzS2gxaVoxUGs2OEVsRmIyN0xUVTVwNjVDLWl3VDFVUVQ0c3p0cW1nTm9CVnJiNGJlQm53NWRwcjBzVnZYOVN0QmJXU2hsdVhEVnVwdktzeVFkZjdo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-010",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Michelo Robotics Expands AI Factory Automation Globally - Asia Business Outlook",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTlacUtMRU5PQWsyMG91QTJwVjMtT2tqNFE2VWI4ZjJFcDV2OU45MXNHTG1aa0ZYQ2R4TnRXdDRVdFIxQTVjRmM1Z2haLXFHc1JoQ1diV2duWjFPWVdnbmpEeVIybk1tZVpDM2pBaj",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTlacUtMRU5PQWsyMG91QTJwVjMtT2tqNFE2VWI4ZjJFcDV2OU45MXNHTG1aa0ZYQ2R4TnRXdDRVdFIxQTVjRmM1Z2haLXFHc1JoQ1diV2duWjFPWVdnbmpEeVIybk1tZVpDM2pBajJxUVlKNjBvelFyTlE4Nm1zREM1eEhqaWotVVd3R3FRWi01X0RYMDF0ekFRbnVrVzNHZkRkdXBZQVVRMHJCRmdrd1FR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-17-001",
+    "date": "2026-05-17",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DNB Asset Management AS Has $26.40 Million Stock Holdings in Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeVp6TE1BUGxWeW1HTE0tX2E4MlUxVnZTYjdZY3F5UTdIcmxGckFVNEhuQUxvMDh5bGFvcjM2c0I4bUVsb2ZzblZBT0o1YVFXQVRmZjNJbDRnZVFOYm9GQndYU0Y2V2l0SUUyUkVhTm",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeVp6TE1BUGxWeW1HTE0tX2E4MlUxVnZTYjdZY3F5UTdIcmxGckFVNEhuQUxvMDh5bGFvcjM2c0I4bUVsb2ZzblZBT0o1YVFXQVRmZjNJbDRnZVFOYm9GQndYU0Y2V2l0SUUyUkVhTmdscE9SSUw0S3hJMC0wZThFQ0ZwTUtvZ19XWVluWTdIUHFuWXF6bEkwU1hkdzJVdlYtQjJfZHE1cnlPMlkxclg4NUwtY1dvY1Y3RWFrN1poVHlUZmpUa1hNYXpwUE80Vk5pQW5UdXFQSDZ2bEk3Qk9obQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-17-002",
+    "date": "2026-05-17",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Northwestern Mutual Wealth Management Co. Has $96.06 Million Stake in Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY2h3TFg5NzhTZ3NaUWdnVExjcl9DQVZsQ2otZHI1NlRTUTVkX1JlelotQ09uY1VRRWltSGxhbUhfUWF1T2FmaXZvUUVmWldfbXM4RmJkNmxfekVjUlBPMElOd1Q2T3ZpYUdWM0dBb0",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY2h3TFg5NzhTZ3NaUWdnVExjcl9DQVZsQ2otZHI1NlRTUTVkX1JlelotQ09uY1VRRWltSGxhbUhfUWF1T2FmaXZvUUVmWldfbXM4RmJkNmxfekVjUlBPMElOd1Q2T3ZpYUdWM0dBb0FhNktjaGtKdHZuZnRiWVczVFlIbVZubmxGR0NTc1NCOENYU3RPU25IT1d0d29sbHhvSUZmY2hvUG4tT0JWNFFYUEhrdXp1dWxJU0Y5VktRUnpmcnU5Q0VhWGw5bW53VTdZa0ZRNXNncGxzdFlYYXM5Y0lVYm9GOFJEanNJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-17-003",
+    "date": "2026-05-17",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hendley & Co. Inc. Reduces Stock Holdings in Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxORWM3SDBWbEhUdDhGeElsdm5Ob3ZsX01aTksxNzhkb2FPaThkZEhfN3hjQVFCT0Rkdjl0TVRnQzFKd2ZYUjF5UDBTTzRYOUpPNG9OSW1pd2wtc2lpX09uUXh3LUppdEVwU0Yzdlhibm",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORWM3SDBWbEhUdDhGeElsdm5Ob3ZsX01aTksxNzhkb2FPaThkZEhfN3hjQVFCT0Rkdjl0TVRnQzFKd2ZYUjF5UDBTTzRYOUpPNG9OSW1pd2wtc2lpX09uUXh3LUppdEVwU0YzdlhibmYxZUNua2xzQ2FyNHgwMjUzZ0RLOHBlQjNtNGVXRXdHSlNCVEJhMy00VzJYXy01S0ZkT2U2d0RPa3VzQlVaYjlMcHRobDZDMlZUU1YzYW5OOXJiRHhMU2ZyWi1IVjY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-17-004",
+    "date": "2026-05-17",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Stock (CAT) Opinions on Trading Strategies and Market Performance - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUhrNV9acHBaTDNCT2o3YU93ZFN1NmlSdGFiQm9lbjc1SDh3aWZPSUhsdFRnR3dhcnpWcU9wSm1BVlJIQVBXOW5mTHNGbnJHOUpEdjJxOEE4bG8yTDEwYmRLaFNCWG1xWjlUbUVXSj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdUhrNV9acHBaTDNCT2o3YU93ZFN1NmlSdGFiQm9lbjc1SDh3aWZPSUhsdFRnR3dhcnpWcU9wSm1BVlJIQVBXOW5mTHNGbnJHOUpEdjJxOEE4bG8yTDEwYmRLaFNCWG1xWjlUbUVXSjNiOVF6cERDVVF5d1hkMkk4NEhsRFhHMkVUQjkyQzZhMkZuOEhXSi1oa2o3bFJIclFMU1MyMkRIeUpaWjdZbnNGQk1pWTY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hiwin-2026-05-16-001",
     "date": "2026-05-16",
     "companies": [
@@ -457,6 +748,28 @@
     ]
   },
   {
+    "id": "caterpillar-2026-05-16-023",
+    "date": "2026-05-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CAT Stock Quote Price and Forecast - CNN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yek5SOE1zbTAzY0dLQWI1UXFWeEhOY2FGMmtaQ0ZqdmpGaEhhOGQtQ3o2N3NTTGZkREpIcjVHbUJYX2t5TGNOU1VEVWs3YU0?oc=5\" target=\"_blank\">CAT Stock Quote Pric",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yek5SOE1zbTAzY0dLQWI1UXFWeEhOY2FGMmtaQ0ZqdmpGaEhhOGQtQ3o2N3NTTGZkREpIcjVHbUJYX2t5TGNOU1VEVWs3YU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-05-15-001",
     "date": "2026-05-15",
     "companies": [
@@ -725,6 +1038,109 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLVREOF9naGNMUVBxcE1zWHFmWUxBWnJBckh6T1FzWm5KVHNqOU93eTRKUkY5ek9UdlBNeFFqZTJzQVNlQ2VCanNrcVE4NXZSRTY5UXU1S05MMkhVUnd6V1diNmFfbE9XN2ZVLTJfSmd2cXpWRTV2bkNuU2sxVW9rTTBoa2pPWUw4TkdzcFhNcFdYTi0zeVVqV3pIT1ZiSEVob0FlU0lZNklUaEpJMWl0b0h2UjVBSVRQUWlGNk9IeGdvejQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-15-014",
+    "date": "2026-05-15",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ITW Stock Price, Quote & Chart | ILLINOIS TOOL WORKS (NYSE:ITW) - ChartMill",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwS3lQWUZURGNzU1NURllKZHRVcUFWZmVlLUdmbkZXNDk3V0ZvU0c2bG9aVDBYTjB5QXN3X3V5em15NlhjNG1Xa0NIY1R3YVlhRlVHblp4T1pMUHI1eGc?oc=5\" target=\"_blank\">",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwS3lQWUZURGNzU1NURllKZHRVcUFWZmVlLUdmbkZXNDk3V0ZvU0c2bG9aVDBYTjB5QXN3X3V5em15NlhjNG1Xa0NIY1R3YVlhRlVHblp4T1pMUHI1eGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jtekt-2026-05-15-015",
+    "date": "2026-05-15",
+    "companies": [
+      "jtekt"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Gears Up to Report Q1 Earnings: What's in the Cards? - Eastern Progress",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdGYxWWJjMkUtUUpwNXhrZDBoNjFNRDd0amNRR2k0Uk40Q2NxRERtanZWRFNONER4bzBFMzdmN2xfZEtWRnJTektpUzBrNkdoeXdTS0xEN0pnWFV4STVFSmtiWElBZmNoSFVEdkg3Nj",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdGYxWWJjMkUtUUpwNXhrZDBoNjFNRDd0amNRR2k0Uk40Q2NxRERtanZWRFNONER4bzBFMzdmN2xfZEtWRnJTektpUzBrNkdoeXdTS0xEN0pnWFV4STVFSmtiWElBZmNoSFVEdkg3NjRmS0tfUDdtMVN2TWdialJ1dVVvV3RhMXdOOFZxcnhBbEVqSzNBTUZIcGlla1BfdTFxX1JqWWFsdWFtdjBzbXgzeHFsYnhkUWY5N29CQVd0YnlXWmUwQnBQLU1IdG5xUmRoWEpwaWlXOFpSczNfakE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-15-016",
+    "date": "2026-05-15",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ITW News Today | Why did Illinois Tool Works stock go down today? $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LcFZFVkVBZ3EzdE9RZG5OSnRLZ3IwSUdJSUFnTkk2Y2tRTlRvOHozcTNnYlRTRGpKUC1BSTBwRUs2VVVyN2FTb3dsd1ZNUkV1ZGdJUEwyblExQnZq?oc=5\" target=\"_blank\">ITW",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LcFZFVkVBZ3EzdE9RZG5OSnRLZ3IwSUdJSUFnTkk2Y2tRTlRvOHozcTNnYlRTRGpKUC1BSTBwRUs2VVVyN2FTb3dsd1ZNUkV1ZGdJUEwyblExQnZq?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-15-017",
+    "date": "2026-05-15",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "S&P upgrades Parker-Hannifin outlook on strong performance - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNcXkteGNBcDZUOFNBWFJxczlLM3RWVWNiLWRkd2Y2MHdEbloxaHFoQUlCRzh2cXBHX0c5al9rdjVtNzZ0M0RCOW9BY3BEd3VBZDRKSGRKWDljVkd4SVVRUnl5WURkNDNFcFVHZm1vaW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcXkteGNBcDZUOFNBWFJxczlLM3RWVWNiLWRkd2Y2MHdEbloxaHFoQUlCRzh2cXBHX0c5al9rdjVtNzZ0M0RCOW9BY3BEd3VBZDRKSGRKWDljVkd4SVVRUnl5WURkNDNFcFVHZm1vaWlnZWVQRFFISFY5QVJyTUVGdDZNR1o0T3E1ZW5QbG5XWWkwMWRRblkweUFoVnNpNmRrRFBGSEFRMnBhazNSM2FnOGk1NDNnSk5MQWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-15-018",
+    "date": "2026-05-15",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "negative",
+    "title": "Can Caterpillar Sustain Margins Amid Rising Tariff Pressures? - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOelNyLW9NWDlzdlp1Mjc1Y2tGRFo0bnRwaUZkVUVzb3ozS29yV2Q0TmZydG9hLVp6VlNkeUVRanNIa0JsVlRocUZJeGtmSnFaUlMwdEI5TDFBVzVybjBGOHNMemZvQ0VtY1ctd0xlYz",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOelNyLW9NWDlzdlp1Mjc1Y2tGRFo0bnRwaUZkVUVzb3ozS29yV2Q0TmZydG9hLVp6VlNkeUVRanNIa0JsVlRocUZJeGtmSnFaUlMwdEI5TDFBVzVybjBGOHNMemZvQ0VtY1ctd0xlYzNLNzJQMlkzV1VQRzR1VHRNNkN2SGZNd3VRMEp6SHNnUE10Uk1Gb01fYXBRT014NlhuX3o0?oc=5",
         "type": "rss"
       }
     ]
@@ -1173,6 +1589,27 @@
       {
         "name": "google_news_industrial_automation",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQnRpQ2xZWXpEaVByaGtncnRSNzE4cVpjZ0MyQkRRYW9pTklidm1DeFdSbU42VS1zWG1CZXBYSDI4QmJhM2xlc0o3d21UV0t6OVotTkVPTGhsbDV2YjJCeXNKWERQWXJZZmhUenVkbWw5SmQzQzNPRHhNUktBXzVlVkNqdkRNTXcwUkRMMnN6QjFMeFlxTFZaYlFDSWJqWWNBNkM4UmhtNUhVT1U0WWJ3SjBvY2s5WjdtaDZvWkh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-14-023",
+    "date": "2026-05-14",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Independent Advisor Alliance Sells 6,026 Shares of Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZUlWVXRxdjlYSmFCN0hzaUpkaXJQZDhOMjRrRWJiYnE1d2VkTVlLWU1JN05vSUZFRFJRMXRKTUoxSFl2bmJYelVPeVhYOXFMZUJZSFAxT29mdkRjRVVWMGwtVXoyY3FPUXdVdUZlLX",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZUlWVXRxdjlYSmFCN0hzaUpkaXJQZDhOMjRrRWJiYnE1d2VkTVlLWU1JN05vSUZFRFJRMXRKTUoxSFl2bmJYelVPeVhYOXFMZUJZSFAxT29mdkRjRVVWMGwtVXoyY3FPUXdVdUZlLXlXZU5sMVRIUkJ6TEVmYjZPOFpETmNYM1pvTWw0anlINGx6c0ZIc1E4RjlUbWRLOGcydUFqdDd6U0RTZFJKRi1kVlZjRGdaaTVoTWw5elh5b25za3BCeXZnRmNRZ3kzSDNWS0hfNg?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-18",
+  "total_events": 10,
+  "by_company": {
+    "hiwin": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "delta": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "abb": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "itw": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "parker_hannifin": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    },
+    "caterpillar": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 8,
+      "sentiment_avg": 0.28
+    },
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": 0.19
+    },
+    "automation_capex": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "guidance": {
+      "count": 3,
+      "sentiment_avg": 0.42
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

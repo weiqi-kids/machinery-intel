@@ -1,0 +1,16 @@
+{
+  "total_raw": 389,
+  "dup_title": 241,
+  "no_date": 0,
+  "too_old": 121,
+  "gate1_fail": 1,
+  "gate2_fail": 5,
+  "passed": 21,
+  "gate2_samples": [
+    "[Podcast] Downsizing AI: small models with big impact",
+    "DMG MORI Federal Services chosen for US defence AM initiative - metal-am.com",
+    "DMG MORI AG: - marketscreener.com",
+    "Why this $23-billion money manager is buying Caterpillar and selling Boston Scientific - The Globe a",
+    "Caterpillar 299DXHP For Sale (88066589) from Zeppelin Baumaschinen [9189] in Garching Bei, Munich, G"
+  ]
+}
