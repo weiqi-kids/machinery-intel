@@ -4,7 +4,7 @@
     "start": "2026-01-17",
     "end": "2026-01-23"
   },
-  "generated_at": "2026-05-03T02:41:18.222873Z",
+  "generated_at": "2026-05-18T13:31:41.234675Z",
   "highlights": [
     {
       "rank": 1,
@@ -56,37 +56,37 @@
     {
       "date": "2026-01-17",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-01-18",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-01-19",
       "event_count": 1,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-01-20",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-01-21",
       "event_count": 1,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-01-22",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-01-23",
       "event_count": 1,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.5
     }
   ]
 }
