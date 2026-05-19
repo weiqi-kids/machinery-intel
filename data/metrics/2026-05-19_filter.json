@@ -1,0 +1,15 @@
+{
+  "total_raw": 390,
+  "dup_title": 234,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 2,
+  "gate2_fail": 4,
+  "passed": 23,
+  "gate2_samples": [
+    "Delta Electronics Installs Detroit Microgrid via Live Utility Connection - AsatuNews.co.id",
+    "[Podcast] Downsizing AI: small models with big impact",
+    "Caterpillar Inc. (CAT) is Attracting Investor Attention: Here is What You Should Know - Yahoo Financ",
+    "Cricket nuggets? Caterpillar cookies? Canadians would consider eating insects if they can’t see them"
+  ]
+}

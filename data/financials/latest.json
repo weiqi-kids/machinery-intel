@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T11:39:29.269818Z",
+  "updated_at": "2026-05-19T10:55:52.914577Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -133,14 +133,14 @@
       "name": "Illinois Tool Works",
       "ticker": "ITW",
       "currency": "USD",
-      "ar": 3227000000,
-      "ar_prev": 3255000000,
-      "ar_qoq": "-1%",
-      "inventory": 1659000000,
-      "inv_prev": 1725000000,
-      "inv_qoq": "-4%",
+      "ar": 3380000000,
+      "ar_prev": 3227000000,
+      "ar_qoq": "+5%",
+      "inventory": 1726000000,
+      "inv_prev": 1659000000,
+      "inv_qoq": "+4%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "jtekt",
@@ -259,14 +259,14 @@
       "name": "西門子",
       "ticker": "SIE.DE",
       "currency": "EUR",
-      "ar": 16881000000,
-      "ar_prev": 14540000000,
-      "ar_qoq": "+16%",
-      "inventory": 11100000000,
-      "inv_prev": 10259000000,
-      "inv_qoq": "+8%",
+      "ar": 17535000000,
+      "ar_prev": 16881000000,
+      "ar_qoq": "+4%",
+      "inventory": 11499000000,
+      "inv_prev": 11100000000,
+      "inv_qoq": "+4%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "thk",
