@@ -1,0 +1,16 @@
+{
+  "total_raw": 390,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 125,
+  "gate1_fail": 1,
+  "gate2_fail": 5,
+  "passed": 39,
+  "gate2_samples": [
+    "The Grid Wasn’t Built for This: Why Energy Parks Are Emerging",
+    "Mitsubishi Electric Asia is back as Gold Sponsor for the 16th PropertyGuru Asia Property Awards (Sin",
+    "Caterpillar Inc. (CAT) is Attracting Investor Attention: Here is What You Should Know - Yahoo Financ",
+    "Dior and World of Eric Carle Partner for a “Very Hungry Caterpillar” Collection - License Global",
+    "Expose your children to STEM this summer with Caterpillar Corner - WILX"
+  ]
+}
