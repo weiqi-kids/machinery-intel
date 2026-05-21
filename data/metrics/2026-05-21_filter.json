@@ -1,0 +1,16 @@
+{
+  "total_raw": 388,
+  "dup_title": 234,
+  "no_date": 0,
+  "too_old": 126,
+  "gate1_fail": 1,
+  "gate2_fail": 5,
+  "passed": 22,
+  "gate2_samples": [
+    "The Grid Wasn’t Built for This: Why Energy Parks Are Emerging",
+    "Cricket nuggets? Caterpillar cookies? Canadians would consider eating insects if they can’t see them",
+    "Caterpillar Inc. (CAT) is Attracting Investor Attention: Here is What You Should Know - Yahoo Financ",
+    "Purdue students kick off Caterpillar internships - WLFI News 18",
+    "Expose your children to STEM this summer with Caterpillar Corner - WILX"
+  ]
+}

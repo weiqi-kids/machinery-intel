@@ -1,5 +1,234 @@
 [
   {
+    "id": "thk-2026-05-21-001",
+    "date": "2026-05-21",
+    "companies": [
+      "thk"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "THK Co Ltd stock (JP3801600002): earnings recovery and automation demand in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQVUNfamVaNkxMczZEc1lpb1FjQlp5T01LUE1oQnE3d1JNME9xQmpodm8wTUJDTmRkZEw0UkkzSTY0b0xmUTlldjB5N25FM1dlbjYybXNVRk5kNm1pU2JVeGxTZHlmRnEwMnJxbWU4U3",
+    "sources": [
+      {
+        "name": "thk",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVUNfamVaNkxMczZEc1lpb1FjQlp5T01LUE1oQnE3d1JNME9xQmpodm8wTUJDTmRkZEw0UkkzSTY0b0xmUTlldjB5N25FM1dlbjYybXNVRk5kNm1pU2JVeGxTZHlmRnEwMnJxbWU4U3R4bVd2a0pEMzhXSTA4cEhmclNOOWhaZXRqTWVySm55UUY2a0Fwa2xKQWd3QWtTVVFkd0ZnMXRwV3pfdmtMTjlzT0NBNEpMTXd3Y1BKNlM2cXliU0xQcGs0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-05-21-002",
+    "date": "2026-05-21",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NXP CoreRide Z248 leverages Inventec, Delta support in SDV push - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPaF94RHJ3S21TZWtNRUV0bkl2MUFtMkZ1ZG0yNWZILXA0anV6Y3VOZWNRNGFJWnM2WVU2dWdMM0VyUklJM3lmaWZTbXZ4QUZfanJXUDdnc2pLUkQwamFjQl9ic3VkRFZVNXNEb2w4Rj",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaF94RHJ3S21TZWtNRUV0bkl2MUFtMkZ1ZG0yNWZILXA0anV6Y3VOZWNRNGFJWnM2WVU2dWdMM0VyUklJM3lmaWZTbXZ4QUZfanJXUDdnc2pLUkQwamFjQl9ic3VkRFZVNXNEb2w4RjQzLTc2WUM0NWpNOFJoOFFweXA5eEhEQWJ6YWJYRkpfeDlsVzJld0dtVXVHelRVQ2hVbnRyYlNyQmtVMkNWRkVrcm5ITjdrMm96YXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-05-21-003",
+    "date": "2026-05-21",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Ltd stock (CH0012221716): AI data center momentum and Q1 2026 results focus investor attention - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxON1ZGdkVUSkZYQ1QtUG9BMEYzVkRrVXRuUzVYZ1UwRTI3Y0F4elh5d3VqWkVSTGZQT2VKSFNJTG9MYWNsenAwcEJvcFZseHdxbXlsZVhXS2pqb19QeUIybFVEdEY3MUNqbFJPMVEyMG",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON1ZGdkVUSkZYQ1QtUG9BMEYzVkRrVXRuUzVYZ1UwRTI3Y0F4elh5d3VqWkVSTGZQT2VKSFNJTG9MYWNsenAwcEJvcFZseHdxbXlsZVhXS2pqb19QeUIybFVEdEY3MUNqbFJPMVEyMGx6U2xNQVFCUkVuQUd3bTBHNU44djVGeXpQU3lTQU1JYTJpRWdISG9lcE5mS1JkVjVjYkhwaE84WWR6SUVjSks0QVF2ZnNHYmZRRGF1LVZScHlFZ2FKdm5tQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-21-004",
+    "date": "2026-05-21",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Named to CDP Supplier Engagement Assessment Leaderboard - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPMGdGLXpsZllISWtJd0pJemJyMDlWRzJlUnYwVGxwalFLVVVVTlFER0ZvTHN4cjZRMVNEUDJRMzhSTGJoY01OOXJkRC1WT0ZpbW1oMHB5VFVrbDQ3akdyaDBSaHl3elY2RER4MkRZeG",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMGdGLXpsZllISWtJd0pJemJyMDlWRzJlUnYwVGxwalFLVVVVTlFER0ZvTHN4cjZRMVNEUDJRMzhSTGJoY01OOXJkRC1WT0ZpbW1oMHB5VFVrbDQ3akdyaDBSaHl3elY2RER4MkRZeGsxZkdfZHVwSmxQMDdTX3BYamtGV2lVcHlWOHRNQmE0dExkSmFWcjRwYVhJY0VSSG5JNGFvaHdaRS1hU3BHNXlrREEwV1pDY0dDOTUtYmp1OFlpcEp1YlpXc3gzcVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-005",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Industrials Sector Outlook: Two Stocks to Watch and One to Avoid in 2026 - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxORXhqLWNCMWxhRlY2WWFrVWI2d2tEX09OczMyX2RBaTd5d2ZuVnllUWh2R05vQnhmaUJYMUpUOUpCNG83eHgtTzhpbjBPRHdXMl80SlVtQXhDZ0czdTMxazlucWpGTmNXYVFzX2J5Nk",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORXhqLWNCMWxhRlY2WWFrVWI2d2tEX09OczMyX2RBaTd5d2ZuVnllUWh2R05vQnhmaUJYMUpUOUpCNG83eHgtTzhpbjBPRHdXMl80SlVtQXhDZ0czdTMxazlucWpGTmNXYVFzX2J5NkRrOWx0ekV1b0tVNHR4SVFkNDQwbXNreGpkSWM1SUdqc0FYQzlqcDQ0WDFHelA5b0FkeHJV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-21-006",
+    "date": "2026-05-21",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock (US4523081093): earnings beat keeps diversified industrial in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEtzeXVOWTc5cGNJZkRLZHlaUE9sTFhodWJDM1Z3bkVqY1c0c2RkUUcyVGxhWU00dW1DbUZwcHFVWlpGcXZkcG8xc25haGJ2X19KQ1ZlMzNSUE9SYVR2TWZlVktSaGZmUXUyaDR3b3",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEtzeXVOWTc5cGNJZkRLZHlaUE9sTFhodWJDM1Z3bkVqY1c0c2RkUUcyVGxhWU00dW1DbUZwcHFVWlpGcXZkcG8xc25haGJ2X19KQ1ZlMzNSUE9SYVR2TWZlVktSaGZmUXUyaDR3b3ZMb2ljTzIyRldNM05ZYzdCX0E3N1NKaExyZEMzRks5VGU4QzRHbnVaaHRETHZlQkRSWlBZUGNHVHk2UjlBblM2eHhGUGhmblpJbl9SZTB5ZkdZbENCR3NNbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-21-007",
+    "date": "2026-05-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin stock (US7010941019): order momentum and aerospace strength in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFFBWVpZT1RYNlo4WmxLT0tvazVhM0NsNkRYeDJWaWs5VjZtRVg5cENaTWVYMFluSkZCa1V4Sm90ME1HdUpyM1YxMlFKU3J5cEdWdmk2TEV3LU5USno2aWJlTUJVenJSMEUtRnY1R2",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFFBWVpZT1RYNlo4WmxLT0tvazVhM0NsNkRYeDJWaWs5VjZtRVg5cENaTWVYMFluSkZCa1V4Sm90ME1HdUpyM1YxMlFKU3J5cEdWdmk2TEV3LU5USno2aWJlTUJVenJSMEUtRnY1R2xGOEQtUF9JWGZDUGROYVVMTW44MzVMZ01aVE52UHJyQTFqbm1VUG1TZXNmYkIwbTVyZklucWhBUXZuQkVUcXdBdGE0RTFJeGxiaEtYRDZSZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-21-008",
+    "date": "2026-05-21",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Does Caterpillar Stock Still Have Room to Run? - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFFMb2I3OFlhYlpSQlpiVmQ2OGpZc04zUlNGdG84akh0UThfdFJmOS10aWJKTDd4c29jb1BUQ3BjcnlUeDZWbVp5NU1lR25xTnFfTURDSmpEUzVRYWhDb3ZXSWx0b0x6MExpQ3c4N2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFFMb2I3OFlhYlpSQlpiVmQ2OGpZc04zUlNGdG84akh0UThfdFJmOS10aWJKTDd4c29jb1BUQ3BjcnlUeDZWbVp5NU1lR25xTnFfTURDSmpEUzVRYWhDb3ZXSWx0b0x6MExpQ3c4N29MSzRBVjNFU25NcndjVklmb1c3ZjVRQzU1UHVIZFd0ZEFGNXBWTXFwUk9TQ2ZYZG5UcDJWcW1IeXR1d00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-21-009",
+    "date": "2026-05-21",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is It Too Late To Consider Caterpillar (CAT) After Its 157.5% One Year Surge? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ0REMDhZRWpQYzg4R08xRGFiMkVFcW5oU3BScTlIZnlzUHA5M1lscmxxYkZVV1ZpTHJ6YlFobG9QLWQ1a0RraUVVUEtPbVh5UUhtdzA0UU9lRjgzdFY4akJ0S1dwajJSN3V1RWVVZW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ0REMDhZRWpQYzg4R08xRGFiMkVFcW5oU3BScTlIZnlzUHA5M1lscmxxYkZVV1ZpTHJ6YlFobG9QLWQ1a0RraUVVUEtPbVh5UUhtdzA0UU9lRjgzdFY4akJ0S1dwajJSN3V1RWVVZWhzbEVSTjI1eFEwSnMzaHlMeUcyejJUNkg3SVZhczlMRlJTZ2ZtT1B6Q3B5VlpDazc4Y2wyVkdxZjBlTXBKdWtydmM1Ync2My0wbEM2NzJWWlh5WmdTQ0Y0MmxMcHPSAdIBQVVfeXFMUFJUQzM3VnRLOFFwZmY0RnV4bW9HTkhpSFZvTUozTVVicExMVHVCR3o3OGRYd3h4Sl83Y0VCZloyM0lXZjd5NGFDM2FBREpWSFYwcm5DbjdzVVF4Mkc2MFpmSnNTaDAzbFFUY3NmUVB0MGxRUDdiS3hLdWZhVEJYOEROYTlRZjZ5TVlDcjVaT0pXamNIXzlMZzVBV2VEUUV1eFItbFUycTFtWjFmbWdvVS0xT0JvaG5RNFJoRnp6R0VPc1o4UlBJa2JRcTFfREZsLXZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-21-010",
+    "date": "2026-05-21",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Leonteq Securities AG Invests $13.09 Million in Caterpillar Inc. $CAT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOUkVSYzJtWGZNc3RKblliOWdSS1RwZ1ljS1g2R0xzWWJsX1B6QkRCcmJ1Um1iT0ZEV1JfaF9uSWt0OHRVdXVFLUprQTRRZ3hjeTFZcFdNNXI4RjQ5Qy1BYlBDYUZSZXhpN3YwR25Ybz",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUkVSYzJtWGZNc3RKblliOWdSS1RwZ1ljS1g2R0xzWWJsX1B6QkRCcmJ1Um1iT0ZEV1JfaF9uSWt0OHRVdXVFLUprQTRRZ3hjeTFZcFdNNXI4RjQ5Qy1BYlBDYUZSZXhpN3YwR25YbzJzeHptZ1gzVkZ0cjN1d2JfRmRQbFN5QUg2eHM1VFVwamtoLWNCc1c4STNfZGREcEZfSVh0YllTYnFCNU4wZFJYMHBnR1RBZ2ZhMFJkUkpRcVlkVEkt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-21-011",
+    "date": "2026-05-21",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PNC Financial Services Group Inc. Sells 11,367 Shares of Caterpillar Inc. $CAT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOWlVTDZiVnNEc0J1WW11bUVqMU50Nm1NY19CUV9qNzA0TEVCVjVYMkROOWRQWFZmaElsS1hzem9hT0Jnc2RRSjM3RTNZNlQ0YS12bmhORXc3YVhOM2hwSkNBLXh3eE1vVUhnTzFsZH",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOWlVTDZiVnNEc0J1WW11bUVqMU50Nm1NY19CUV9qNzA0TEVCVjVYMkROOWRQWFZmaElsS1hzem9hT0Jnc2RRSjM3RTNZNlQ0YS12bmhORXc3YVhOM2hwSkNBLXh3eE1vVUhnTzFsZHo1RmJtNUs5eWlfU09uYl9HMTNlTHBmTllGazVVcXpzWjhvT0tyWnNOQjl0QlZWOV84T1Jndm9tekkwNnJUQTR2cV9TcWVvNi1mZkpPekJabEM1ZTdsbW9ZT3hDTUczWkFh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "abb-2026-05-20-001",
     "date": "2026-05-20",
     "companies": [
@@ -237,6 +466,192 @@
       {
         "name": "google_news_industrial_automation",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdWZXTEdFQUlBcTdIVWM0YThZVzNteVBQaUd3dDFidHFLR2lpTi1VSllQYmN1NVJPYXRrZjVIQ25IdlJyU3dmS1pidzNHRE9yTnNuSjVQZVNPWXBRcFlRNFRFN1BQeFM2U2VGWGdOVW9jdlc2azlXN2gyeFVsY3F0TE9UNTcwSlp2Y1I1WlNncENyaGs1Uk04NFJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-05-20-013",
+    "date": "2026-05-20",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics launches Detroit microgrid flexibility project - EV Infrastructure News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUkotOUIxRGtmc2xweFEzYkVhWG51VUwxUGtOVUNubWw5dks3SWphT21RVnNtT3ViRDN3TGExSFVhck1GeHl2TDhtX1BuMEI3eXpMZ3BmUHNvRnNGd3dOWHpDemhycUtaUTFxSVprbn",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUkotOUIxRGtmc2xweFEzYkVhWG51VUwxUGtOVUNubWw5dks3SWphT21RVnNtT3ViRDN3TGExSFVhck1GeHl2TDhtX1BuMEI3eXpMZ3BmUHNvRnNGd3dOWHpDemhycUtaUTFxSVprbnJDWnl4UGJfR3kxaGZBa0FUNGo4SXZ3ZUZIM1NFNEg4VVdqQnk5dTR3M1BEVlJBaXRxLWhtUUhwYUtuVkQ1T1hwb0haX2ViUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-05-20-014",
+    "date": "2026-05-20",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Ltd stock (CH0012221716): AI data center boom and Q1 2026 strength keep the automation champion - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzdmLUZOakFEOF8tVC16MWowdmZLcjBWb2FHejVfTE1POEV5MzNET3AzSnBka19ac242dklJa3pSYVp6ZFZOTTNIdHhZdzNjaUpLblF1b0tnSk4yZkpfa3gyRVJMdVlwMnlxdnBncV",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzdmLUZOakFEOF8tVC16MWowdmZLcjBWb2FHejVfTE1POEV5MzNET3AzSnBka19ac242dklJa3pSYVp6ZFZOTTNIdHhZdzNjaUpLblF1b0tnSk4yZkpfa3gyRVJMdVlwMnlxdnBncVc3M0NEREV4cmNYeEIwRTZVR25VOGV0MDAtRXlvSEFlbHBpNERYUkttM1pXc28wTWlkRDlNeGdFU09OeW5STjFLVmxtd0VjYTRmNy0wSkg0ZEdwdS15?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-20-015",
+    "date": "2026-05-20",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock (US4523081093): what investors are watching now - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTzNSeVNIUDNNQzZ4MUxySlJhX0lyTUxsQl9vWjZ4TkZZcTZSdUY1X2NqTjN5QjZ4REdMamZXQ3B3OFpMenhoSEdzQ3d6SUZuOXA5cFRrOGEycERwT1hTUlFBM0duaVNrZmlPRjFpQU",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTzNSeVNIUDNNQzZ4MUxySlJhX0lyTUxsQl9vWjZ4TkZZcTZSdUY1X2NqTjN5QjZ4REdMamZXQ3B3OFpMenhoSEdzQ3d6SUZuOXA5cFRrOGEycERwT1hTUlFBM0duaVNrZmlPRjFpQU1ZYVFxS01YRlk3anVPWkdBelNZMFpMNmV6VmpVZTFlZ1k5SWRDZVNsVUNKNkZlTU1mQmRHTW1TOGQ3bG9PeHJFRi16UmtGVjVBSXZqSmcwaGVlNXZCNjlUbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-20-016",
+    "date": "2026-05-20",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock (US4523081093): recent earnings and dividend keep industrial story in focu - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQYm5zSG14RkJFUE1VYlc2Z0NlSmFDd245eTZYNUozSlFqNkF2V0E2WjNXWFdHNHNRdjFMUTlaOXY3YnlQSjhGVHJnRzZNVHd4VWFzZ2dtWHdNTGJ6WEhnQW5yZmJ1VC1xeXZhdklucT",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYm5zSG14RkJFUE1VYlc2Z0NlSmFDd245eTZYNUozSlFqNkF2V0E2WjNXWFdHNHNRdjFMUTlaOXY3YnlQSjhGVHJnRzZNVHd4VWFzZ2dtWHdNTGJ6WEhnQW5yZmJ1VC1xeXZhdklucTRualRhbmo5cTlsUGx2UHU1WG9id0xPWVU5ejU4V245aFZTcDYtVUJfbWxhdHM2cDNCaHZJdmNVdmcxX0FrbnItdEZEbW9vX2hyOEhmTDJsaEJHdHZi?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-20-017",
+    "date": "2026-05-20",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin's Hybrid Drive System Approaches 1 Million Miles - Work Truck Online",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORlpvcTU5bWtiV3VXUkJJdDZmMzFYOEtvdGRwNldfZGFiOFdrWldDZk1aR1l1Wlh2YnduRDZBVkVTX1Fsd3pnUTlxckF4anJGY1FjM0lzanRrRkRTczRhaGhqeGZVYnQ2a0RaaDNhNj",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORlpvcTU5bWtiV3VXUkJJdDZmMzFYOEtvdGRwNldfZGFiOFdrWldDZk1aR1l1Wlh2YnduRDZBVkVTX1Fsd3pnUTlxckF4anJGY1FjM0lzanRrRkRTczRhaGhqeGZVYnQ2a0RaaDNhNjlSbmdBb21EaEYtaVJ4VWFNUklPVGd5R2cxUFFQZHZPZ1Q2SzNYSTNobGVtZUpaOEhGRnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-20-018",
+    "date": "2026-05-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Deere Earnings Due. It Also Has A Caterpillar-Like Growth Lever. - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZRkgyUEY5LUdYTnBEQ2RRQ2hnZDMwV1JTNXgyenYtdUtaNWR3eW5DRk5Vb0xXSV91LU9RU3NXd2NFQ0pMVWFvZnBvQ3lFLWdPaUVqQkZaVXQ4dmJLOW5la0UwcE5SODZaRE1uTTlvTV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZRkgyUEY5LUdYTnBEQ2RRQ2hnZDMwV1JTNXgyenYtdUtaNWR3eW5DRk5Vb0xXSV91LU9RU3NXd2NFQ0pMVWFvZnBvQ3lFLWdPaUVqQkZaVXQ4dmJLOW5la0UwcE5SODZaRE1uTTlvTVoyNWcyN0I2NDVwT3hfbEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-20-019",
+    "date": "2026-05-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "'Make the job better': Caterpillar interns get advice from CEO Joe Creed - Peoria Journal Star",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQQjdvNDRTY1lFTzJ3LXFnVTVxTzNqbGZQVGVWZjFFV0dnWER6RFJxSVpvZG9wMHZQNWx2WEotSWs5S2dteWY1S29FTEx4RVFDb18xc0w3YW9Cc0dhMFNHRHE0Unc0WFJpRWNyekt5UX",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQjdvNDRTY1lFTzJ3LXFnVTVxTzNqbGZQVGVWZjFFV0dnWER6RFJxSVpvZG9wMHZQNWx2WEotSWs5S2dteWY1S29FTEx4RVFDb18xc0w3YW9Cc0dhMFNHRHE0Unc0WFJpRWNyekt5UXotcXdndzd2enZuTjJvVlN1NF9sYWJTZXFIb05qOTFEdUZRQndLZG9KdnNhc0x5dS1NSEdGdEFEaDR6S1drLTZaYXFLV1Eya012T3NEag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-20-020",
+    "date": "2026-05-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Power Chief Just Revealed What the Data Center Boom Really Means for CAT Stock - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFlacThtX1RzaFRuSGpXQ05xei1ITXdWeDZoaVRPSDN0Z2Uwdy1SakUzWWRRU3FTdjk0UW1PTU83cTZjd0FOUDlqazBPbWhKeHBIbUlESkJMT2lmSW9JeTZpWjhZa1d4cXQ1eHVPcU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFlacThtX1RzaFRuSGpXQ05xei1ITXdWeDZoaVRPSDN0Z2Uwdy1SakUzWWRRU3FTdjk0UW1PTU83cTZjd0FOUDlqazBPbWhKeHBIbUlESkJMT2lmSW9JeTZpWjhZa1d4cXQ1eHVPcUZYS0d6OEtaM0U1UEdUN1g3YTFISGEtdkloNUVHc0ppcUlJanNSTElaV19pSG5DN2ZUdE51WXdkaXdEZnhBRlV4bjF6UU5BSFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-20-021",
+    "date": "2026-05-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS (AMUB) offers autocallable notes linked to Caterpillar through May 2027 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUs4NGlFb1d5ZlJUZ3poRjJsc0hCMDl2MGpSTkJwMlo3VDRiTHUyZHkyWkpzYjhiY1l6VjhDTEtNU1ktbS1HSjZPaHpubktSd2FlNEV1VkxQYk9PQmhxVGlVWWZvbDJlbWZxWThyS0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUs4NGlFb1d5ZlJUZ3poRjJsc0hCMDl2MGpSTkJwMlo3VDRiTHUyZHkyWkpzYjhiY1l6VjhDTEtNU1ktbS1HSjZPaHpubktSd2FlNEV1VkxQYk9PQmhxVGlVWWZvbDJlbWZxWThyS045c0RaLTV3TTc5Z1JxN1hjZ3VRSU5xQnR0MHRXSU9TVTJVUVgycFdVT01YTnk?oc=5",
         "type": "rss"
       }
     ]
@@ -776,6 +1191,27 @@
     ]
   },
   {
+    "id": "mitsubishi_electric-2026-05-19-027",
+    "date": "2026-05-19",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric to Ship Samples of NX-type 1.2kV IGBT Module for Industrial Use - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNzBGNlZLZGRKYUVhdjZmUFFCU1BteGJON1o2X24tbC1DNHpNc0k0SmZjMldhM0hicWFwaEU4cmdOUUphUWh2aWlPeUMzeE1nQnRlaFBrLVBKVzNWVUdqYUNDeFhBNXFPTGV4QklZaX",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNzBGNlZLZGRKYUVhdjZmUFFCU1BteGJON1o2X24tbC1DNHpNc0k0SmZjMldhM0hicWFwaEU4cmdOUUphUWh2aWlPeUMzeE1nQnRlaFBrLVBKVzNWVUdqYUNDeFhBNXFPTGV4QklZaXJ6MzhVZkMyOXFNQktrejd2UmJJNThvOVl0d1JCbFJZeWRoMGM2TWlsc2d1VjItOTRQY2JacnlkbGpCRVZkY3g0SjhYRlhHTF81UnA5bFNzaVZfaGJlMDcxeWY2Ry1vQks5VW40bUU3OA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hiwin-2026-05-18-001",
     "date": "2026-05-18",
     "companies": [
@@ -1284,6 +1720,27 @@
       {
         "name": "schneider",
         "url": "https://blog.se.com/buildings/healthcare/2026/05/18/can-hospitals-heal-themselves-a-global-study-says-yes/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-18-026",
+    "date": "2026-05-18",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar vs. Deere: Which Heavy Equipment Stock is the Better Buy? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNU1JzOFlINEdmX3JkSi04dm05QWdCNU5iNXRGTGM3UE1iMWlaTXd2U256SWtNa1hjTjNpUXltQ0s5SHB0OGlXNHBEZ09vdFQzb21IMnpoRnRCeFRLMmlhQ2h1V002bUFFZVhvSEtPZX",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU1JzOFlINEdmX3JkSi04dm05QWdCNU5iNXRGTGM3UE1iMWlaTXd2U256SWtNa1hjTjNpUXltQ0s5SHB0OGlXNHBEZ09vdFQzb21IMnpoRnRCeFRLMmlhQ2h1V002bUFFZVhvSEtPZXhaT3hmSzNLV0l2aVNHbE1Bc1cydS1PVzBJNWpqQjU3TkNnSHBtckxTZTBxY2pMc2puM2pN?oc=5",
         "type": "rss"
       }
     ]
