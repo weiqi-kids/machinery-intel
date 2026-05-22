@@ -1,5 +1,106 @@
 [
   {
+    "id": "abb-2026-05-22-001",
+    "date": "2026-05-22",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Ltd stock (CH0012221716): fresh buybacks keep momentum in automation leader - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNTjRkZkF6WFpVaG9ZVkxVX2JBUm1BMnBjMDdhT0ZZbVRzcGRxUjRJWEoyamJodktiZG9hSnV2WG15dHVnSGZoQXpDMnBPUFhjaTdOVHdjV0NoN3MyV3pZWVVMWW1Lc1NwaC05VDZjWE",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTjRkZkF6WFpVaG9ZVkxVX2JBUm1BMnBjMDdhT0ZZbVRzcGRxUjRJWEoyamJodktiZG9hSnV2WG15dHVnSGZoQXpDMnBPUFhjaTdOVHdjV0NoN3MyV3pZWVVMWW1Lc1NwaC05VDZjWEZiSGFqV2lFdW9qN2wyMTZ0YWZRVEZsOVp3X3RvUkJsM1FXMktUbVcwR25PRnlqY0RrajBMcWtpN0kzQUtRQ0xnWFBBNlVBZTdhVmpRY1hVT2dKdGhhbzAw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-22-002",
+    "date": "2026-05-22",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Earnings call transcript: Mitsubishi Electric Q4 2026 beats forecasts, stock rises - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVldGczVuTFRuVUlEQzE2MXE2Vmt0UHhIVVQtdHZEM3NkNGVXcENRRnJUS1h2RUR5SUwySWxVWjl3Zjdxem54Z3RHM0w5bjBMLUh1YTRtemNSNTRpRWFYZVFGQzY0d0UxSHM1LW16cF",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVldGczVuTFRuVUlEQzE2MXE2Vmt0UHhIVVQtdHZEM3NkNGVXcENRRnJUS1h2RUR5SUwySWxVWjl3Zjdxem54Z3RHM0w5bjBMLUh1YTRtemNSNTRpRWFYZVFGQzY0d0UxSHM1LW16cFVSNERlRFlERWd6TF9PNDdXLVZJTjFoVHRWZG1ybGRJa2U1N01GelRtMDJCNThJd19raENGM1M2QUNMb2VWUTlGNTktN09jcVN2dVdKOFB3Zm1KNEtIOFBsVFZFZXNXbHhXOWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-22-003",
+    "date": "2026-05-22",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Parker-Hannifin to acquire KKR-owned Circor Aerospace for $2.55 billion By Reuters - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNbDEzOHA2TkVnTkdSVHVVTDdaZXJNVFdQc2lIc0dubWRDalEzRXB3SThqMXk3RWlyVV93cGFZWHZJdjE0VXBhMmk5dzE3MWlrSmdxWUhHWlF2YVE5Yzd6QXFRRWlqcjNKZjVNQ0xNYV",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbDEzOHA2TkVnTkdSVHVVTDdaZXJNVFdQc2lIc0dubWRDalEzRXB3SThqMXk3RWlyVV93cGFZWHZJdjE0VXBhMmk5dzE3MWlrSmdxWUhHWlF2YVE5Yzd6QXFRRWlqcjNKZjVNQ0xNYVdodXBIblZULTh0TTJNUmxyd2dqZlUxbXU2LUNHdVBqNDV4ZUdYYWZHbnVvOGMyV295RGhvNmNuWWQwUzlSa01pNVJKbmY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-22-004",
+    "date": "2026-05-22",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Just Made Another Big Move - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0JWcWpVVWlaNUFvVDhDYUxTejZHQldERTUzemVTY3hfOXBoT2JMbl96dEdyUkhSd3o5c09nVFRLRGdsVHRHajlGWnZxaE1NLW9PWGxpQ1FTUllESzh2Y0JiVGlJRTJKRkdNVk15UE",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0JWcWpVVWlaNUFvVDhDYUxTejZHQldERTUzemVTY3hfOXBoT2JMbl96dEdyUkhSd3o5c09nVFRLRGdsVHRHajlGWnZxaE1NLW9PWGxpQ1FTUllESzh2Y0JiVGlJRTJKRkdNVk15UEUxMktvSzBWR1BXZUk4OG1yLWptaTFQVnRKZVRkWGNUWl9zdjVobzZzcWxBZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-22-005",
+    "date": "2026-05-22",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Heritage Investors Management Corp Sells 4,825 Shares of Caterpillar Inc. $CAT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMmJnWXl4d0N3cVhEN1B4akI3QzBaMjhJaFg5a1ZFb3ZfRDFWbGpqRXBpcTBXd2p2OC1WZ0NZYU1DREZPb1Z2S2NJOGVKOS1aV2FsNy1rTmQ4N3l3cFZpTzZWTGFjZjVtTVpXNXNIdW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMmJnWXl4d0N3cVhEN1B4akI3QzBaMjhJaFg5a1ZFb3ZfRDFWbGpqRXBpcTBXd2p2OC1WZ0NZYU1DREZPb1Z2S2NJOGVKOS1aV2FsNy1rTmQ4N3l3cFZpTzZWTGFjZjVtTVpXNXNIdW5Qa3Z6ZUNSNVNCOU85RTZNcGg5eXFvWk1FdGI3bmRfUWZEZFhJaWhxdnMxY0NteTJJa2djcEtTOS1aQTUtQWFlMFdLNVA3SlBRSmZNeEtYUU1vTjJHaDFWVDF0RzFleHdNUEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "thk-2026-05-21-001",
     "date": "2026-05-21",
     "companies": [
@@ -224,6 +325,435 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOWlVTDZiVnNEc0J1WW11bUVqMU50Nm1NY19CUV9qNzA0TEVCVjVYMkROOWRQWFZmaElsS1hzem9hT0Jnc2RRSjM3RTNZNlQ0YS12bmhORXc3YVhOM2hwSkNBLXh3eE1vVUhnTzFsZHo1RmJtNUs5eWlfU09uYl9HMTNlTHBmTllGazVVcXpzWjhvT0tyWnNOQjl0QlZWOV84T1Jndm9tekkwNnJUQTR2cV9TcWVvNi1mZkpPekJabEM1ZTdsbW9ZT3hDTUczWkFh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hiwin-2026-05-21-012",
+    "date": "2026-05-21",
+    "companies": [
+      "hiwin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hiwin Technologies stock (TW0002049004): earnings momentum and automation demand in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbURSS2ktRFBOTEszTVVDRV9tMmNtZWh5anhtWTV2cmozX2VtMDNTY2Z2SEQ4QnZocWVBVDUwSHJsdHVCZ0gzUFNxNHRlTkRZdlFvQThTZ1plRE8yOU8yTGlkSlp4eUFFbFNQN2NtTm",
+    "sources": [
+      {
+        "name": "hiwin",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbURSS2ktRFBOTEszTVVDRV9tMmNtZWh5anhtWTV2cmozX2VtMDNTY2Z2SEQ4QnZocWVBVDUwSHJsdHVCZ0gzUFNxNHRlTkRZdlFvQThTZ1plRE8yOU8yTGlkSlp4eUFFbFNQN2NtTm1VT3RCeDFsLXpLLVg2WDNUdy1qNGhld25iTFRldUVwWExEVGRkcFl0SXByc3RVa2VPT2lIeVBKY0lfU3VCZHFwaG5VTHV5M25oQ1Fwc1A5THQ1TlkxbmIzUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thk-2026-05-21-013",
+    "date": "2026-05-21",
+    "companies": [
+      "thk"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "THK Co Ltd stock (JP3801600002): earnings pressure as industrial demand softens - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPd2xOcVRSQXZyMEZiUEZOcGhPSWgzUVFveDdvaEhxYUVhQ19DYTM3VmNtek9CQlp1NzgwQUs3Q2JVVDZzcFd6bkhPWDcyNTZrVTV5V2Z5aDk4bGNVMUpSdmhnSkxFZ3kyaHpFNG9LRG",
+    "sources": [
+      {
+        "name": "thk",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd2xOcVRSQXZyMEZiUEZOcGhPSWgzUVFveDdvaEhxYUVhQ19DYTM3VmNtek9CQlp1NzgwQUs3Q2JVVDZzcFd6bkhPWDcyNTZrVTV5V2Z5aDk4bGNVMUpSdmhnSkxFZ3kyaHpFNG9LRGJwSDExQ1FvZnVtcUo2NlNhUTdXQllqMGRpQ0JfeUNZZWtGZTByX3FoVWtKOFBEUUJNdWMxT1VQWlNWMWNaNXE1VTJ0dW4yX1BWYUwwNERWNGROZncxU1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "keyence-2026-05-21-014",
+    "date": "2026-05-21",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Keyence Corp stock (JP3236200006): steady demand for factory automation keeps Japan sensor specialis - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQZTNGeHRSakZud3FHS2tfTkhka1lualVRaVdOQXo4VWNhMFAzMkJac1NfQWtWRDZXMkVaR2FOVndwSm5vaVV1MzM1dDVWUHNyTkZtc1BmdjR6ZFlnZ21MRnh5NUN5REpxX1pYR1NrVj",
+    "sources": [
+      {
+        "name": "keyence",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZTNGeHRSakZud3FHS2tfTkhka1lualVRaVdOQXo4VWNhMFAzMkJac1NfQWtWRDZXMkVaR2FOVndwSm5vaVV1MzM1dDVWUHNyTkZtc1BmdjR6ZFlnZ21MRnh5NUN5REpxX1pYR1NrVjV2dUp6T1laeXVPWUV0TXFpWi1RS29mMWhCYm50cmhtVENwUEdqNFpXbS0yTUtTZFcwR0JmbHRBMFJRVjlvdWZCRWJtSTd2V1QyTDNCMUl1cmhUNGlndnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fanuc-2026-05-21-015",
+    "date": "2026-05-21",
+    "companies": [
+      "fanuc"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fanuc stock (JP3802300008): earnings update and factory automation outlook - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNN0JoVllScHlhaHBSR2NhQ1FhblRBd1VDMDQ5NnU2NWlXU2R3WEVlS2lrRnd4Tlo0eDNSTGJtMEdueUV3eUdrTjExM2VDdjRBMXg2SERMdkpWVnBkNldtQS10N2dOeVdiSnJwSUt5cC",
+    "sources": [
+      {
+        "name": "fanuc",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN0JoVllScHlhaHBSR2NhQ1FhblRBd1VDMDQ5NnU2NWlXU2R3WEVlS2lrRnd4Tlo0eDNSTGJtMEdueUV3eUdrTjExM2VDdjRBMXg2SERMdkpWVnBkNldtQS10N2dOeVdiSnJwSUt5cC1FVWtnUTRXSmZwZ2l1SDl2djM2c3dqcGRTcERENkN4WUF0MUVCbHh4UzRPTHppZ0hTQXV0SXdNZTV5N0F0V1VTbDJtRHJpUGZTeTVKWlYyYlNTVlBCaHNiXzFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-05-21-016",
+    "date": "2026-05-21",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Ltd stock (CH0012221716): stronger orders and automation demand keep investors watching - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlJPS1UzeUFKMTI2X05ZTlVrc0RXcE1kaGFqY2lLU25NQk9RR29ESnE4VlJtLU9ZejhZVWN0YnBsbUNPRHZadkZwWE5uNUFJWEFXR3BpTlRHa1hVYW9KdlZIcjFBNHpYa2Z0aGlDaz",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVlJPS1UzeUFKMTI2X05ZTlVrc0RXcE1kaGFqY2lLU25NQk9RR29ESnE4VlJtLU9ZejhZVWN0YnBsbUNPRHZadkZwWE5uNUFJWEFXR3BpTlRHa1hVYW9KdlZIcjFBNHpYa2Z0aGlDazl5WHdtM3M0VVBfbFV5UHJ0NFVmWDVIYkFRYXNQbzRhaHdudHJmTDdyNWg1c2Zod1MteklPWUJjazl2QTZXUGxjTVBXOEpEd1FLcmVJQkJhZXo3SGJueXk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-21-017",
+    "date": "2026-05-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Exclusive | Parker-Hannifin Strikes Deal to Buy Unit of KKR-Owned Circor for $2.55 Billion - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPRE1YcTI3M0o1S19zc2pvTEI2MTBTOEZ6dUlRR2RzMVpCUnFLb3FlQll4X293UVIwOXdUYUxHWHNHTFQ1SVlrb1RCZ1ZzaFVhOXE3VmdQM21zTndvMjhzcWU2X1ZVTndXQU11dkFyQX",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRE1YcTI3M0o1S19zc2pvTEI2MTBTOEZ6dUlRR2RzMVpCUnFLb3FlQll4X293UVIwOXdUYUxHWHNHTFQ1SVlrb1RCZ1ZzaFVhOXE3VmdQM21zTndvMjhzcWU2X1ZVTndXQU11dkFyQXlRckRZLWFDNktEeTdLdlRMN3BzU1VUbjFLYjJJbU1ROExGSlpad1RGTDdiX3NyZTh1Wm1sb2gwMGVJVURhUzBYY2hGSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-21-018",
+    "date": "2026-05-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin to acquire KKR-owned Circor Aerospace for $2.55 billion - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNU0FBQm4xQjBqUnM0c2htNHJxRTM0Qjd3OXMzU0prX0psT3U0SVduQ3RrTGNMalVzX3RMUVB6dDNTUzFFT3Q4bTdubU5ZWXJ1dm9DQWhXSC04Qk94RkJmc3d0bnA4d01mcGNxeUFVbV",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU0FBQm4xQjBqUnM0c2htNHJxRTM0Qjd3OXMzU0prX0psT3U0SVduQ3RrTGNMalVzX3RMUVB6dDNTUzFFT3Q4bTdubU5ZWXJ1dm9DQWhXSC04Qk94RkJmc3d0bnA4d01mcGNxeUFVbVBJbmZCeGtqYVNCVWc0bGNtTWEtRUtERF9mZHBYOEYyeWNOek1JODlSVTZldXRUMkIza1JpcTlzVXlMYXpa?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-21-019",
+    "date": "2026-05-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Buys $2.55B Flight-Critical Systems Business - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNMlZ6T25GczQ4ZzFFX2xPTUYxZmhLcVdtSDllcEg2RnA4RWlKZDU3SFh0N3dJTzh5bktqVjdJSlBwblFTSDZfUmdmZHdhY09naGZpNlNLMy1Pb1pCT0lPYkRab2IxNjdQR09tM0prdG",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMlZ6T25GczQ4ZzFFX2xPTUYxZmhLcVdtSDllcEg2RnA4RWlKZDU3SFh0N3dJTzh5bktqVjdJSlBwblFTSDZfUmdmZHdhY09naGZpNlNLMy1Pb1pCT0lPYkRab2IxNjdQR09tM0prdG1Dc25rNzNEY0p5bGtadEFrMVFhczcyOWpEeS1ITi1lX2E4dFJhVDlUQmFHZzVJbnJ5ZHRXQVB3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-21-020",
+    "date": "2026-05-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin to buy KKR-owned defense business for $2.5 billion - Crain's Cleveland Business",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPam5rMEJ6NVBMN2xwWHhxekRXSXFwWWd0VkpHcVVoSFkyeFpwanNURmFqblF2d2laS09FYkFPckxyM05kMFlrTE0zcUlDMkJiNWc5RDNlRFFKSUQyU290ck03bGFYdGFVTy1EUk1jbH",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPam5rMEJ6NVBMN2xwWHhxekRXSXFwWWd0VkpHcVVoSFkyeFpwanNURmFqblF2d2laS09FYkFPckxyM05kMFlrTE0zcUlDMkJiNWc5RDNlRFFKSUQyU290ck03bGFYdGFVTy1EUk1jbHlOT1NjbmVRLU1FU3dRSGZRM0FWOFlTczFObzZhSFpibFBXczNTQ2xiX3RkWnQtbDhjemdENm1wQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-21-021",
+    "date": "2026-05-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin to buy unit from KKR’s Circor for $2.5B, WSJ reports - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTBrN0ZUV1FjcTloYzVrQmpzNWowRVlpaXBYekdGWUJSVnZORExndVluOUh1SmVUUWVvNFg4ZjFBZDQzUzZZNTU4bWx3WnNWclhuc0xXakJqSUJCYnFPcDhtV3l3VWdqTV9RREVBQ0",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYTBrN0ZUV1FjcTloYzVrQmpzNWowRVlpaXBYekdGWUJSVnZORExndVluOUh1SmVUUWVvNFg4ZjFBZDQzUzZZNTU4bWx3WnNWclhuc0xXakJqSUJCYnFPcDhtV3l3VWdqTV9RREVBQ0NoeWpOWWZ3R1B4dUJSVXNwV2dBbnNHRDlTVzd5dFNvcmxsbGd4RWd5NVhld1ROOXc3eVBZR0NOWERhbEx5ejlzQlJaY1NCQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-21-022",
+    "date": "2026-05-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "KKR Sells CIRCOR Aerospace to Parker Hannifin for $2.55 Billion - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQcHNtbEUyNzc4VS1uOFoydlJSamhvQ01PbWRpNnYtaFFjcmFiak9vT1ZXMmlZdFhudTVwaFJjNWFzNjBuWlNhc1hiOW9LR2ZGUkYyUENRNGFCZVBBVEp5WkFaN1dkTDJJWnYxMHpyWX",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcHNtbEUyNzc4VS1uOFoydlJSamhvQ01PbWRpNnYtaFFjcmFiak9vT1ZXMmlZdFhudTVwaFJjNWFzNjBuWlNhc1hiOW9LR2ZGUkYyUENRNGFCZVBBVEp5WkFaN1dkTDJJWnYxMHpyWXZzUk5lVHhuN2tQMEk5UGhTZ21wTDZVaGlrTmd2RVRGa09TVTloVnVDSkRXeFh4akRES3g3Qk5uRUNyVHhFSDV4cUd2UEJSRmcyN0hId3o4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-21-023",
+    "date": "2026-05-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin to Acquire Circor's Aerospace Business in $2.55B Deal - Industrial Distribution",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxObDNNYUZPb3I2TVhzekVxc01hXzhxX2FrQ0h6TXFGRWIxSUkta2dyOEJIVWcwcDR3ZWE3Q2luOFh3Q21TZGVobUEtQlFpNGM3dVlGaXQySndJdUk5U3ZUNjduVEExN0FBRTNPc2hxQl",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObDNNYUZPb3I2TVhzekVxc01hXzhxX2FrQ0h6TXFGRWIxSUkta2dyOEJIVWcwcDR3ZWE3Q2luOFh3Q21TZGVobUEtQlFpNGM3dVlGaXQySndJdUk5U3ZUNjduVEExN0FBRTNPc2hxQl9nWWE5VEZGR2M2clhIb3o1aUhYT3k3NFZXemhmR0NEM1ZtM3ZTMkpuY3RwZWNyRzl5eUFGSTBhZzVsLVRWWUlsVDloVWxlYldFQjZCbmtjZ3JzQ2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-21-024",
+    "date": "2026-05-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin Buys Circor Aerospace Business for $2.5 Billion - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQM184SDY4VWI5R3NKU01YZFhZN1RaYjFNcjUtTjNGMC1qT1F0MkhQZHVHTzlfSmRTMWhXZHVsckFPengweGJ0Q3hKUWJuZThsY05BdDZqaWp2dTFMNmw0M0RXckhwZVN2ejg4WU92U0",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM184SDY4VWI5R3NKU01YZFhZN1RaYjFNcjUtTjNGMC1qT1F0MkhQZHVHTzlfSmRTMWhXZHVsckFPengweGJ0Q3hKUWJuZThsY05BdDZqaWp2dTFMNmw0M0RXckhwZVN2ejg4WU92U0sxcUFLTjU0SVJBaHdQcU5PRzc0Yk5KbGlMLThSRGRrdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-21-025",
+    "date": "2026-05-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Parker Hannifin buys CIRCOR Aerospace from KKR for $2.55B - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNTWtCcEFhcjMzT2JvajRBY1plb3JSOVZiMGRCWUNXUmdoVG03SzBvMW9YOVFNcXF0NGZnclppVTRWbTAyd2ZYU0RyWjA3dWVGRGtmSGlWUHZ5RHNPVmt6UkhvRGVzRXpyT2lRR1daSX",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTWtCcEFhcjMzT2JvajRBY1plb3JSOVZiMGRCWUNXUmdoVG03SzBvMW9YOVFNcXF0NGZnclppVTRWbTAyd2ZYU0RyWjA3dWVGRGtmSGlWUHZ5RHNPVmt6UkhvRGVzRXpyT2lRR1daSXBkX2oxbVlxb2I5VWNfcjNzQzhacHctSURKRUhIUDFNc1IxM2RBRHp4WlBXS2lWLVhHMGVibA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-21-026",
+    "date": "2026-05-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin Corporation Announces Definitive Agreement to Acquire CIRCOR Aerospace Business for $2.55 Billion - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYlFxUkUxMWx0NF9XRWFYT1RsS2FjMXk2Y1VYVzdYcDQ5VnZ5b0ljM2x2dGFVVG9NQ2VqSFN4cnZBMGVKbjYzMzVjLVA5S1dzOWJWQkNSQnktaHZOeFVobEVXWFB5d3BBQy0tT2Nzdl",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYlFxUkUxMWx0NF9XRWFYT1RsS2FjMXk2Y1VYVzdYcDQ5VnZ5b0ljM2x2dGFVVG9NQ2VqSFN4cnZBMGVKbjYzMzVjLVA5S1dzOWJWQkNSQnktaHZOeFVobEVXWFB5d3BBQy0tT2Nzdlk0ZXJRS29LVk5pTHhINThEZVQ1LS1SV0xYXzA4a2pmc0kxVk9sZmg5SFNqVjlReFdsRHA4SmdjaTdhb3JVeWxKdVhDMTlocTNhSTBzdHZjaHZPeVBWVE85R3pxZUVjWm90SnJOSEFGWkxzT2ZBTERlRGxR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-21-027",
+    "date": "2026-05-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "KKR Sells CIRCOR Aerospace Business to Parker-Hannifin in $2.55 Billion Deal - citybiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2pFbThxM0NuVExYLXJxMS14bmRtWWNfTnlYQWIxSXp1UWxmOEZuQnF0UXlMOGNjVkl2T09DdWdpSWpvWE50VWJ1WHBpNW92bS1sa3ptMS1rMFV0OTgzSjJmeXBIT0otbUp6Z3ZmYk",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2pFbThxM0NuVExYLXJxMS14bmRtWWNfTnlYQWIxSXp1UWxmOEZuQnF0UXlMOGNjVkl2T09DdWdpSWpvWE50VWJ1WHBpNW92bS1sa3ptMS1rMFV0OTgzSjJmeXBIT0otbUp6Z3ZmYkRGT3FoUVlTc3J6VXptekhWYnBXajlPUmVTYWlRcUtZemM0MFRENTZ0NUR1cjZCd1dxQWNMcURjclotN1F4TUVGLVZFU2o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-21-028",
+    "date": "2026-05-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Is Buying Circor’s Aerospace Unit For $2.55 Billion - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQSy15RVQ5ZjJzV0RFa1dKYU45eWI3OFp6bE4ySWUtbERPVjRIUTZVYlVITmQ3bm5jUUlaVzFUd0x3alhWcTl2dXVMcDhPMy1zbUZ3MmROMzZFLW9lSWwxYzhZZUUxeV9KRTF0WTVQT3",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSy15RVQ5ZjJzV0RFa1dKYU45eWI3OFp6bE4ySWUtbERPVjRIUTZVYlVITmQ3bm5jUUlaVzFUd0x3alhWcTl2dXVMcDhPMy1zbUZ3MmROMzZFLW9lSWwxYzhZZUUxeV9KRTF0WTVQT3NJa3FEZ3dkc3k2c1dHSVdOM0k0Mmg5UlFsVTZteFVNTllUTmUyZWxsRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-21-029",
+    "date": "2026-05-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin in deal to buy aerospace/defense unit of Circor for $2.5B - WSJ - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXIxTzlzT0FtY0g2YXhLOFRiNGN0LTNBbUVvYzdzSFdTUUxTUXF4MFRuUUpOVTBsbUptSDYybEhJa2h3ZnAya0M1Y2Vtcl9hd0duQjgxX2V0VzdTb3Y0Y0xQVlFPUkRvd0JhbUt3Yl",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMXIxTzlzT0FtY0g2YXhLOFRiNGN0LTNBbUVvYzdzSFdTUUxTUXF4MFRuUUpOVTBsbUptSDYybEhJa2h3ZnAya0M1Y2Vtcl9hd0duQjgxX2V0VzdTb3Y0Y0xQVlFPUkRvd0JhbUt3YlpZQ09fa3lFVmF6TS1QNGUwRmQ1WHZoRVRNSWVLYUItR1RuRldLZ1U3U0oybERZTHRZNUdEN2lrbjlOM2RaNk54bVo4aFRhTEhYbDYydnhzRFRyN2tDTmZGNFlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-21-030",
+    "date": "2026-05-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Is Buying Circor For $2.55 Billion - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxObVFmb0dVdTZvc3lIWElMTEFzcUlfa05pVGF4NlNBV2lJQjgyOWdjQjNEZ1kwNkFuTEhBMV9VTzUtTVRDeU5qdEpmV1BGejAwOFA1QjJjQl81RWEtbmUxSG5pWVBoUnpPSGhWbjl1c2",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObVFmb0dVdTZvc3lIWElMTEFzcUlfa05pVGF4NlNBV2lJQjgyOWdjQjNEZ1kwNkFuTEhBMV9VTzUtTVRDeU5qdEpmV1BGejAwOFA1QjJjQl81RWEtbmUxSG5pWVBoUnpPSGhWbjl1c2R2b29jSWVqeDNEc0M5andDMTZHNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-031",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AI Infrastructure Provider Deere Hikes Outlook For A Growth Lever - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZRkgyUEY5LUdYTnBEQ2RRQ2hnZDMwV1JTNXgyenYtdUtaNWR3eW5DRk5Vb0xXSV91LU9RU3NXd2NFQ0pMVWFvZnBvQ3lFLWdPaUVqQkZaVXQ4dmJLOW5la0UwcE5SODZaRE1uTTlvTV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZRkgyUEY5LUdYTnBEQ2RRQ2hnZDMwV1JTNXgyenYtdUtaNWR3eW5DRk5Vb0xXSV91LU9RU3NXd2NFQ0pMVWFvZnBvQ3lFLWdPaUVqQkZaVXQ4dmJLOW5la0UwcE5SODZaRE1uTTlvTVoyNWcyN0I2NDVwT3hfbEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-21-032",
+    "date": "2026-05-21",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Caterpillar (CAT) Is Becoming a Power Infrastructure Play Too - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1VnLU5FT1M1S0NhbGFmSGJac0ZfZFVhSURkMGFNMnl2dWktRlgzRnJibW85bllSRlZwRGFaZ1poWTlQWXE1SEdvdVFtRFBnZGhXcldOdTlnNEdyd2EtUVpiNlRSSllLbWJSb1pyek",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1VnLU5FT1M1S0NhbGFmSGJac0ZfZFVhSURkMGFNMnl2dWktRlgzRnJibW85bllSRlZwRGFaZ1poWTlQWXE1SEdvdVFtRFBnZGhXcldOdTlnNEdyd2EtUVpiNlRSSllLbWJSb1pyekpGUlpSdTdIa2ZJc3ZEelMzTjhDUEdTQ25hVFJWVDM2Wm9SdUhoSzVjSHlzYkdzanVRMWtVTUpvemRmdkXSAbMBQVVfeXFMUDZfaUMwQzFSQ2tyV3NxLVFqY19Td3Roc0oyakVXcjZkY1UyZmNma09JQkhSNnk3VS1SYmV4RzUxd25LYWo3UkRmN1RoVGpBME00SjAzb3ZDNkFFUFZGd1NWX0tHRWVIWnN2UXVKTVFSNjctWkl2S2xZdTd0VzRPbEUzcTluRHdXODhycVhRNUJQcXowdU5obTllX1d4Vy1LeS1SMUVlSjFVZWJtSU1INHhCMVk?oc=5",
         "type": "rss"
       }
     ]

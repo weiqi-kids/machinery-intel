@@ -1,0 +1,16 @@
+{
+  "total_raw": 388,
+  "dup_title": 229,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 1,
+  "gate2_fail": 12,
+  "passed": 26,
+  "gate2_samples": [
+    "Parker to Acquire CIRCOR’s Commercial and Defense Aerospace Business",
+    "The Grid Wasn’t Built for This: Why Energy Parks Are Emerging",
+    "Mitsubishi Electric Engineer Earns Kaggle Competitions Master Title in World’s Largest AI Competitio",
+    "Mitsubishi Electric Engineer Earns Kaggle Competitions Master Title in World’s Largest AI Competitio",
+    "Assessing Illinois Tool Works (ITW) Valuation As Growth Concerns Weigh On Investor Sentiment - Yahoo"
+  ]
+}

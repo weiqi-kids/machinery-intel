@@ -1,0 +1,229 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T10:43:48.005924Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-05-22-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings call transcript: Mitsubishi Electric Q4 2026 beats forecasts, stock rises - Investing.com",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVldGczVuTFRuVUlEQzE2MXE2Vmt0UHhIVVQtdHZEM3NkNGVXcENRRnJUS1h2RUR5SUwySWxVWjl3Zjdxem54Z3RHM0w5bjBMLUh1YTRtemNSNTRpRWFYZVFGQzY0d0UxSHM1LW16cFVSNERlRFlERWd6TF9PNDdXLVZJTjFoVHRWZG1ybGRJa2U1N01GelRtMDJCNThJd19raENGM1M2QUNMb2VWUTlGNTktN09jcVN2dVdKOFB3Zm1KNEtIOFBsVFZFZXNXbHhXOWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "parker_hannifin-2026-05-22-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin Just Made Another Big Move - Seeking Alpha",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0JWcWpVVWlaNUFvVDhDYUxTejZHQldERTUzemVTY3hfOXBoT2JMbl96dEdyUkhSd3o5c09nVFRLRGdsVHRHajlGWnZxaE1NLW9PWGxpQ1FTUllESzh2Y0JiVGlJRTJKRkdNVk15UEUxMktvSzBWR1BXZUk4OG1yLWptaTFQVnRKZVRkWGNUWl9zdjVobzZzcWxBZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-05-22-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Heritage Investors Management Corp Sells 4,825 Shares of Caterpillar Inc. $CAT - MarketBeat",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMmJnWXl4d0N3cVhEN1B4akI3QzBaMjhJaFg5a1ZFb3ZfRDFWbGpqRXBpcTBXd2p2OC1WZ0NZYU1DREZPb1Z2S2NJOGVKOS1aV2FsNy1rTmQ4N3l3cFZpTzZWTGFjZjVtTVpXNXNIdW5Qa3Z6ZUNSNVNCOU85RTZNcGg5eXFvWk1FdGI3bmRfUWZEZFhJaWhxdnMxY0NteTJJa2djcEtTOS1aQTUtQWFlMFdLNVA3SlBRSmZNeEtYUU1vTjJHaDFWVDF0RzFleHdNUEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "abb-2026-05-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ABB Ltd stock (CH0012221716): fresh buybacks keep momentum in automation leader - AD HOC NEWS",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTjRkZkF6WFpVaG9ZVkxVX2JBUm1BMnBjMDdhT0ZZbVRzcGRxUjRJWEoyamJodktiZG9hSnV2WG15dHVnSGZoQXpDMnBPUFhjaTdOVHdjV0NoN3MyV3pZWVVMWW1Lc1NwaC05VDZjWEZiSGFqV2lFdW9qN2wyMTZ0YWZRVEZsOVp3X3RvUkJsM1FXMktUbVcwR25PRnlqY0RrajBMcWtpN0kzQUtRQ0xnWFBBNlVBZTdhVmpRY1hVT2dKdGhhbzAw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-05-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Parker-Hannifin to acquire KKR-owned Circor Aerospace for $2.55 billion By Reuters - Investing.com",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbDEzOHA2TkVnTkdSVHVVTDdaZXJNVFdQc2lIc0dubWRDalEzRXB3SThqMXk3RWlyVV93cGFZWHZJdjE0VXBhMmk5dzE3MWlrSmdxWUhHWlF2YVE5Yzd6QXFRRWlqcjNKZjVNQ0xNYVdodXBIblZULTh0TTJNUmxyd2dqZlUxbXU2LUNHdVBqNDV4ZUdYYWZHbnVvOGMyV295RGhvNmNuWWQwUzlSa01pNVJKbmY?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "abb",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 388,
+    "dup_title": 229,
+    "too_old": 120,
+    "gate1_blocked": 1,
+    "gate2_blocked": 12,
+    "passed": 26,
+    "pass_rate": "16.4%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Parker to Acquire CIRCOR’s Commercial and Defense Aerospace Business",
+      "The Grid Wasn’t Built for This: Why Energy Parks Are Emerging",
+      "Mitsubishi Electric Engineer Earns Kaggle Competitions Master Title in World’s Largest AI Competitio",
+      "Mitsubishi Electric Engineer Earns Kaggle Competitions Master Title in World’s Largest AI Competitio",
+      "Assessing Illinois Tool Works (ITW) Valuation As Growth Concerns Weigh On Investor Sentiment - Yahoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Parker、ABB、Mitsubishi Electric相關動態：「Earnings call transcript: Mitsubishi Electric Q4 2026 bea...」。主要關注主題為產業通用、財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Earnings call transcript: Mitsubishi Electric Q4 2026 beats forecasts, stock ...（財報、展望、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Parker-Hannifin Just Made Another Big Move - Seeking Alpha（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
