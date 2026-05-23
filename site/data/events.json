@@ -1,5 +1,89 @@
 [
   {
+    "id": "abb-2026-05-23-001",
+    "date": "2026-05-23",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Ltd stock (CH0012221716): automation giant in focus after latest orders and AI-drive news - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNnVEU05WbG1nOEVTbmVpYm1XSURZZHFiVXpadFdQWjZvRF9RZ2daTkVnWHFCZXo2VEc5VmRUcGlRMW50Y3Z1QzZ1TDA4NTVkTEtzZHpmRHQtT2c2b0l3TmVJck1xTjFXSWt1Ym1KX2",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNnVEU05WbG1nOEVTbmVpYm1XSURZZHFiVXpadFdQWjZvRF9RZ2daTkVnWHFCZXo2VEc5VmRUcGlRMW50Y3Z1QzZ1TDA4NTVkTEtzZHpmRHQtT2c2b0l3TmVJck1xTjFXSWt1Ym1KX2dXNmJlcjcyRzNDb3hrdGpIOXl4ckREM0hfNWRhVzR1d1ZDMjY4cXVha2x5LW8yUE02UEJlU2Y1LTR4X3NtOVNhVzlYTndSZGZVRHMycDE3NVlOdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-23-002",
+    "date": "2026-05-23",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rathbones Group PLC Sells 6,680 Shares of Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWExrQjRTMzRVZ0V5VTdUNWcwd01PaFA5dE9Ibkw3R2NQRkZuSEJ5RzF3SlJoRUZMdURpNVVBUC12NTgxNE8tbnMzTG1GNGVXWlVOR0RlMUh2ZVhGMU8zU3ZOZHI3LXFseFZybkQ4ZH",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWExrQjRTMzRVZ0V5VTdUNWcwd01PaFA5dE9Ibkw3R2NQRkZuSEJ5RzF3SlJoRUZMdURpNVVBUC12NTgxNE8tbnMzTG1GNGVXWlVOR0RlMUh2ZVhGMU8zU3ZOZHI3LXFseFZybkQ4ZHkxcFI5am1mZzhNZFBDNy01d25PTHhHU01xSnBGdFNHUWQyS0U0VWhiUURmdWlqTjI5S1NqU2V3SXhYTkxIdVQtdnNfQm9MdHhGdXNDaVFVdzhUVy1FdngtLQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-23-003",
+    "date": "2026-05-23",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Axxcess Wealth Management LLC Raises Holdings in Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdHJ3ZXFrTmZaamRoWHFGY1p1MkhKenlfLXJweE1xS29ENHJQT2t6V1l4a2hrTFAxclRMU2I5YlhhSkk1R1J1WE5tcnJveFB0dDYtWTNBY2RhUzAwbzVVdUQ4aGQ0OEttUXMxVncxRF",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdHJ3ZXFrTmZaamRoWHFGY1p1MkhKenlfLXJweE1xS29ENHJQT2t6V1l4a2hrTFAxclRMU2I5YlhhSkk1R1J1WE5tcnJveFB0dDYtWTNBY2RhUzAwbzVVdUQ4aGQ0OEttUXMxVncxRFlZcUxJcC1lU3h4VV9zOTEyMGdpNUlyQTlxMGlQSEFna3o4MXNjY3FwdGxvaE9HUmU2ck5SRm9vYW84SmNwMEkzdVpsZGl2a3ppdmxxbmplc0tsWVJLa3hLbmVDdzNTX1hrSTJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-23-004",
+    "date": "2026-05-23",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Caterpillar (CAT) Valuation Check As PROPWR Power Deal Expands Data Center And Energy Infrastructure Opportunity - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZW9ndURPeUpSb3VBRlFjbE5mVHFyV1dudWtmNm1fUXdRY3h6bzRqcEFMV2pwRzhDaE0zY2hmUU81VlV0bkYtZXc5U01qcy1CUzY0eFVWWFAtc2dFV2RHY1ktVzYycVV0b1BPeEw1OU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZW9ndURPeUpSb3VBRlFjbE5mVHFyV1dudWtmNm1fUXdRY3h6bzRqcEFMV2pwRzhDaE0zY2hmUU81VlV0bkYtZXc5U01qcy1CUzY0eFVWWFAtc2dFV2RHY1ktVzYycVV0b1BPeEw1OUhnSmptNHZveHZXazE4N1lGQXJrZVU2RU1FTHVVcDhZY0pFeGJFbGdJb0RRaEQ3alA1SUp0WXh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "abb-2026-05-22-001",
     "date": "2026-05-22",
     "companies": [
@@ -96,6 +180,258 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMmJnWXl4d0N3cVhEN1B4akI3QzBaMjhJaFg5a1ZFb3ZfRDFWbGpqRXBpcTBXd2p2OC1WZ0NZYU1DREZPb1Z2S2NJOGVKOS1aV2FsNy1rTmQ4N3l3cFZpTzZWTGFjZjVtTVpXNXNIdW5Qa3Z6ZUNSNVNCOU85RTZNcGg5eXFvWk1FdGI3bmRfUWZEZFhJaWhxdnMxY0NteTJJa2djcEtTOS1aQTUtQWFlMFdLNVA3SlBRSmZNeEtYUU1vTjJHaDFWVDF0RzFleHdNUEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-22-006",
+    "date": "2026-05-22",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "cnc_technology",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Develops CNC Error Compensation Digital Twin - Metrology and Quality News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOQXF5clE3NHBXc2puWHhKWl9UY1dxZlhfbVFmN3RnS0NqWUlOZUNOcXF6ZkhoR3RaRDJqSG5ra1c4X0ltSVNnWGxRa0tpYVNKdmpLSFFKTHp4aGdZQW9kQTB6US03MHM3UDRWUlZMMl",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQXF5clE3NHBXc2puWHhKWl9UY1dxZlhfbVFmN3RnS0NqWUlOZUNOcXF6ZkhoR3RaRDJqSG5ra1c4X0ltSVNnWGxRa0tpYVNKdmpLSFFKTHp4aGdZQW9kQTB6US03MHM3UDRWUlZMMlpJcWpuQ3RtZlBKcjFBX2t5RGhYeDN5bm1Za1p1UnlMSTg0QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-22-007",
+    "date": "2026-05-22",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Earnings call transcript: Mitsubishi Electric Q4 2026 beats forecasts, stock rises - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPXzJreFFhS2ZjZ29QT0FDM0VuSnpZa0s1TmZPaVAtWTlWSWRBMC1jUjFxcjROVjYzZjE0cEdHVDNPcEpRUDBtUlVhX2FPS0loNTBQZFFuRkh2bmZwTWYxYk1lZlZvcTVrUFVQU3ZjX2",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPXzJreFFhS2ZjZ29QT0FDM0VuSnpZa0s1TmZPaVAtWTlWSWRBMC1jUjFxcjROVjYzZjE0cEdHVDNPcEpRUDBtUlVhX2FPS0loNTBQZFFuRkh2bmZwTWYxYk1lZlZvcTVrUFVQU3ZjX2V3TjdxLVJEUVo0N0ZzUjhwWHJzdjczeTBjc05uODd6Wjllc3lISDlCNU5Rbk5mVUpWRUl6MkRrZG4zZ2NVeEctNG9QUi1hdW5jRWFTU1VIVEthUXBjaWNpRHZsU1gyTHRmUFlHS1I3eEw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-22-008",
+    "date": "2026-05-22",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (NYSE: ITW) appoints new principal accounting officer - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGkwZkRWM280NHpaWnVyQ1RPR1A2QXNiX0Qtb1JqcnRNS292YjBFVVhURC1zSzZJbTljLXZsSlNsZ0tnS3g2SkNXZ2h0NnRTNWcyamFuaERwMGtGdW1neEJVOEpfVjlJY1ZOZzN0dk",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGkwZkRWM280NHpaWnVyQ1RPR1A2QXNiX0Qtb1JqcnRNS292YjBFVVhURC1zSzZJbTljLXZsSlNsZ0tnS3g2SkNXZ2h0NnRTNWcyamFuaERwMGtGdW1neEJVOEpfVjlJY1ZOZzN0dkMxTUFaa1ZvcWlPVTl2TlhiZno0Z19WbXlqS2plVTFPTEpJd1kzS05rb0RMLUZ0R21PWlhCWlVCdnFrZjQ2UHJDaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-22-009",
+    "date": "2026-05-22",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Look At Parker-Hannifin (PH) Valuation As Shares Pull Back Despite Strong Multi Year Returns - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY1FoY2RGX0xHMDdqVDBSNDgzY3Z3N2ZXUDVXOGxZd0R0RzlHV2dHM01XZFcyaC1RV2tJT3hwaWVEMHk0d01iaUpTdzJfaU9Gbmh2YXh5NG1QS1BJY3FOVEhsel8xSHlDYjQ3cGQ1R0",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY1FoY2RGX0xHMDdqVDBSNDgzY3Z3N2ZXUDVXOGxZd0R0RzlHV2dHM01XZFcyaC1RV2tJT3hwaWVEMHk0d01iaUpTdzJfaU9Gbmh2YXh5NG1QS1BJY3FOVEhsel8xSHlDYjQ3cGQ1R09wbFdRT1RibENneXVoUkxKNk1oS3VPSFE4OTctdmF2UHdJbDhyYktqU3lrajE2TVhlNXpZc00tT3dzbkpmUzZBME5oYWxpYV83T0M4NkljSnc3NGVVNTRUcGlkb0xSeDlD0gHWAUFVX3lxTFByWXZXWHBkRGg3d3poWVVsZnRmZzM0N3RLVnlfUThlc0FSbndRUlBtV1ptM3JXMVRsc0p6aWxIRHMwbFUxTWJhZ0NtZnpaOV96WTN3TmZXdjBPdEN1cFgza0UyMHJPOFlDVjhVSU9DZ3h2ZkMwX3Z3bHN2YXh3bDdTSmVPRTloc0l4U1dJbllUUWNPd0ZjTlEzdkF6aXhVeFhhYnFPeE0wNjdsM2hWTFROdHpvSGIyclFNZGZmRjZRRGRpRFlCSmZRa01seVVFSE51RTg1Rnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-22-010",
+    "date": "2026-05-22",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin to Buy CIRCOR Aerospace Business for $2.5B - Modern Distribution Management",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmZwSXA1b3ZIWkJDcWtsVjVHWDNiRzNzTUNvaEtRTjVuWHNxLW1MMnlPRDU3cTRrbmhSRmp5bmhWWUdCVEN0X1NySjIzMGJWNzhWaGZOcnNMaEQ1RTJLSHVKZlg4Wkczc3Jvcmxmcm",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmZwSXA1b3ZIWkJDcWtsVjVHWDNiRzNzTUNvaEtRTjVuWHNxLW1MMnlPRDU3cTRrbmhSRmp5bmhWWUdCVEN0X1NySjIzMGJWNzhWaGZOcnNMaEQ1RTJLSHVKZlg4Wkczc3JvcmxmcmJWR1Z2VThHREhha1pZYmk0TEpqUnFTaG1zd2J5bXpaajkwY2VtNlBRZERXcW9WOFdfRnEzdUNjV2tfSDdIWU52VVZKbFE2aUVt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-22-011",
+    "date": "2026-05-22",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Are Wall Street Analysts Bullish on Parker-Hannifin Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWVhTHBjcmlwM01TZExKZlJpblM3cEpsUXFEakRyTktWa0YwVnpzOHNDQU9vdjhlamJNanRwTnY4cDBhNWJ5cVVQdjZ6SW1lam43WkxIME9CTW9ZMklONFlrUmFHXzdpdlBQNHVJek",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWVhTHBjcmlwM01TZExKZlJpblM3cEpsUXFEakRyTktWa0YwVnpzOHNDQU9vdjhlamJNanRwTnY4cDBhNWJ5cVVQdjZ6SW1lam43WkxIME9CTW9ZMklONFlrUmFHXzdpdlBQNHVJekRJRVFwbFc3OFVydmJLT3cxdzR3YXhGai1FbEZLWnFrYkNVanJTaDhjTUxXZVplZFdvQ3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-22-012",
+    "date": "2026-05-22",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Stock: Aerospace Strength Still Justifies The Premium (NYSE:PH) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPYWp0cmFyNlpMYmRkV1RBM3R4dFU3NEJya0t0LWhyMFB0N0hKOGdRSGdWY01mbC05QlZyYkhud2VfN1drU2lMcEZ1Y0RNN3N0MFYxbDFldXlXeUFzZFFvbEpYcm5COVFBY3o2X2VSND",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYWp0cmFyNlpMYmRkV1RBM3R4dFU3NEJya0t0LWhyMFB0N0hKOGdRSGdWY01mbC05QlZyYkhud2VfN1drU2lMcEZ1Y0RNN3N0MFYxbDFldXlXeUFzZFFvbEpYcm5COVFBY3o2X2VSNDBwZ1FLM24zWlBPcEVyb0VwSGNZeFlpSDJINVVKYnhlaDZENU92S3lXRFVpbGx0c2IwSF9BZ013?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-22-013",
+    "date": "2026-05-22",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin strikes deal to buy unit of KKR-owned Circor for $2.55 billion - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihANBVV95cUxPZDFtVTcxU1BxLWY3andWZDM2VXBIVlNwbUVqejRDbUJIVDdFazg5RmtCSUtmOVpvMG81MzBORWlyRWpQa09HYThQZXlPMXh1UTAzODJxaHh5RWZhTWp2WGJHaWhpaFh2anl5YzJlR2",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPZDFtVTcxU1BxLWY3andWZDM2VXBIVlNwbUVqejRDbUJIVDdFazg5RmtCSUtmOVpvMG81MzBORWlyRWpQa09HYThQZXlPMXh1UTAzODJxaHh5RWZhTWp2WGJHaWhpaFh2anl5YzJlR2lmM3lveE4wSEdNY1ZmRlVNaEtXUEc1Q2NZR0MxajVKNHFLVUp2MVkwdlBRN19KU1gyRDduWVNMbnFxNDB0OWNfbU9MQ3MwME5wT0JkRFpUTWFrbWx6aDdsbzFuV3VSeXhrT2dyUjJjaXp2dWpZNFkySjZxZ0pOMUw1Y2R0bzVsRVNzQ09IZ1hJbUw4RjM0YS10VFdRWmhkTlUwRnFtdTVTQzlQOHd2ZGl6MkVuVGxEdHc4VnZ1bnBmY0ptWHBJUGtmQ2xGU1Z5a204R2t0dWNOWFdyM0tuVjJFcUFicEIzV3lyanpibFlmZVJqMGRUNTBiOFJzLXAxWGxHTUVGWks4NlduLVpSZUwwYV9rTHBzcTFQYUdD?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-22-014",
+    "date": "2026-05-22",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Rally Keeps Dow Jones Industrial Average In Focus - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ21mbUpPVWNsUzFLNURWUWdpTENyZGwtR0hvdE5zdmJRMDVtTEpidVUzOTRvTk1BN1F6YkFJd1dzazY0S1NRT05JWUY5dWZLd25YNDh1Y2o0eExqdm1zVXpGQlJESjRIckhHX1RTS3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ21mbUpPVWNsUzFLNURWUWdpTENyZGwtR0hvdE5zdmJRMDVtTEpidVUzOTRvTk1BN1F6YkFJd1dzazY0S1NRT05JWUY5dWZLd25YNDh1Y2o0eExqdm1zVXpGQlJESjRIckhHX1RTS3U1d243MlZ4c0h4T19CNGJEOUpPYkFOTUJ6cUhvelY0WGVwcFlXVVlzN29fa1ZvcjB5VWVHaXpDUkFyeHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-22-015",
+    "date": "2026-05-22",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABQ BioPark’s sole Sacramento Mountains checkerspot caterpillar dies - KRQE",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1BRE9wY0lhOGl6dm9ELWQwWHhZNUVSdXM0WHRmdThOZV84UDJXYlR4Wm5UN1NSb3NXY196YTQwUXE4Mk9CU2JkM0JPWW50V2p3U2F2ZzBiN3JMN2hqNjRCckcwZUxudTZWSHRQdG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOS1BRE9wY0lhOGl6dm9ELWQwWHhZNUVSdXM0WHRmdThOZV84UDJXYlR4Wm5UN1NSb3NXY196YTQwUXE4Mk9CU2JkM0JPWW50V2p3U2F2ZzBiN3JMN2hqNjRCckcwZUxudTZWSHRQdGI4eTc0cHh5ajg1ZDR0ZTROczM4ZEtNZWFJT0h5Tkg0c3dKRUtxcmFqLUZuTEhxdE1IdHZyNVlOZ9IBrAFBVV95cUxQNDl6VUkwckppQzhmWGtyOENSTmtTRWJ4TnF1cG1SZGxxMUtONEVONU51Nll0X081MHIzR1ByaGdST19zVC0tSEhQZlJZb0J4UlFhYlRZQkRpZ3BWYUFNd0w3WVJncG80YWFkOWZ4cVQwU2RicG13YmFmY25DVVdHUG9LMFlZOGlLbWVxd3VwMkRXYmhOTUk4TlFVTGtSMG5VU1dzQTlsY0tnTWdF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-22-016",
+    "date": "2026-05-22",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Assessing Caterpillar (CAT) Valuation After A Strong Year Of Share Price Momentum - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNVlpqU1dkNlVoNTRjRlh6SXROVWMwa0lMZEZ6M2NSWlhzV3NsOGRFczhQYTRfX0t1QlFLbzZpR1pJUl9aTHhsLU5UT2l0THRmVHJxZGk2RTZnSV9VRXUxQ2dhcm9NeXdRclQ3b1hKT0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVlpqU1dkNlVoNTRjRlh6SXROVWMwa0lMZEZ6M2NSWlhzV3NsOGRFczhQYTRfX0t1QlFLbzZpR1pJUl9aTHhsLU5UT2l0THRmVHJxZGk2RTZnSV9VRXUxQ2dhcm9NeXdRclQ3b1hKT0JhVmczM2RRRl9icnVHdURHMkNRUHhxb2NINy1FdVYyT0ZGQmhlTHpfT0pPdjZxRWkxZnJxVDFvVU44aDA4WkdOQ3FkYTU3TVVyYUxTRkRiOU04dG4xbFkwSG9LcGXSAdIBQVVfeXFMUEc4cVF1V2tTLXhxOVBHZlV3MlJiWGluZXNUS3NxMVo0Ul9EMF83dEl6ZUJ5a05nSGdkcHg0TU1rWWx4aFVMS0w4WURPdXd2LVhTVnNOQS0yVnV4b1hKMkVVU1NwS29DUU5zbFNDdDdRcG53eEJEUEl3aEFybllQOVlNVjFNTEVvUlBQZHlJWU9ScVhBRmVDR0tvTFpzRUpIOHN3U18xMGdaT3JIajhBS2pTS0RqWkxKcDZBQkNrZ2RxcUNLMVNUNVUxckJ6emptaEVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-22-017",
+    "date": "2026-05-22",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dow's 525-point rally led by gains in Merck, Caterpillar stocks - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMDhDdi1ZeldLWnBxUVFSRUZsMU1GcmtaZTl1MUNkMjRQc0ctZjJhWVoxUnFYOWRnc3QwZF9nbTJNYzVNZWlmenM0OEFPOWNHOWN6aHpCLTJrQ2VLTXRDblJELWwwMkhNcmp2Q1hMRk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMDhDdi1ZeldLWnBxUVFSRUZsMU1GcmtaZTl1MUNkMjRQc0ctZjJhWVoxUnFYOWRnc3QwZF9nbTJNYzVNZWlmenM0OEFPOWNHOWN6aHpCLTJrQ2VLTXRDblJELWwwMkhNcmp2Q1hMRkFZX3c0RGpNNG5HUzdEMXIwcEx0cnZfdnROT2k1NmdEMFk1R25nSEtsSGVqaU1ndGVkSkpaYmNPM1hNWEFVd1gxQ0xWamtPNTVmVUNscWd2R3BYbkpSUmVESGhqZklXaUhoNXpKVkVhbw?oc=5",
         "type": "rss"
       }
     ]
@@ -754,6 +1090,25 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1VnLU5FT1M1S0NhbGFmSGJac0ZfZFVhSURkMGFNMnl2dWktRlgzRnJibW85bllSRlZwRGFaZ1poWTlQWXE1SEdvdVFtRFBnZGhXcldOdTlnNEdyd2EtUVpiNlRSSllLbWJSb1pyekpGUlpSdTdIa2ZJc3ZEelMzTjhDUEdTQ25hVFJWVDM2Wm9SdUhoSzVjSHlzYkdzanVRMWtVTUpvemRmdkXSAbMBQVVfeXFMUDZfaUMwQzFSQ2tyV3NxLVFqY19Td3Roc0oyakVXcjZkY1UyZmNma09JQkhSNnk3VS1SYmV4RzUxd25LYWo3UkRmN1RoVGpBME00SjAzb3ZDNkFFUFZGd1NWX0tHRWVIWnN2UXVKTVFSNjctWkl2S2xZdTd0VzRPbEUzcTluRHdXODhycVhRNUJQcXowdU5obTllX1d4Vy1LeS1SMUVlSjFVZWJtSU1INHhCMVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-21-033",
+    "date": "2026-05-21",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "EPFN2026 Charts and Quotes - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1iWW5YVEk5V2JIS3ZISE5icExYdmI1SFNFa0FfSmNVOHJkaGQ0UWZuU1BFTl9QR2pXd2puWk9ibDlSVmhfbGI2NHhyT2RmbUk4VjFGTkZaSVBxOW9IeDZGQ3hIU0J2NTdzWk1XVDdoY3",
+    "sources": [
+      {
+        "name": "airtac",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iWW5YVEk5V2JIS3ZISE5icExYdmI1SFNFa0FfSmNVOHJkaGQ0UWZuU1BFTl9QR2pXd2puWk9ibDlSVmhfbGI2NHhyT2RmbUk4VjFGTkZaSVBxOW9IeDZGQ3hIU0J2NTdzWk1XVDdoY3RULW4xZGNVMw?oc=5",
         "type": "rss"
       }
     ]

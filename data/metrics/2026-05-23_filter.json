@@ -1,0 +1,16 @@
+{
+  "total_raw": 392,
+  "dup_title": 243,
+  "no_date": 0,
+  "too_old": 121,
+  "gate1_fail": 1,
+  "gate2_fail": 10,
+  "passed": 17,
+  "gate2_samples": [
+    "Parker to Acquire CIRCOR’s Commercial and Defense Aerospace Business",
+    "The Grid Wasn’t Built for This: Why Energy Parks Are Emerging",
+    "Mitsubishi Electric Engineer Earns Kaggle Competitions Master Title in World’s Largest AI Competitio",
+    "Assessing Illinois Tool Works (ITW) Valuation As Growth Concerns Weigh On Investor Sentiment - Yahoo",
+    "Parker Hannifin Bulks Up By Buying Circor Aerospace and Defense - Aviation Week"
+  ]
+}
