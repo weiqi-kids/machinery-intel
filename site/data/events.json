@@ -1,5 +1,26 @@
 [
   {
+    "id": "abb-2026-05-24-001",
+    "date": "2026-05-24",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Ltd stock (CH0012221716): automation group updates investors after latest quarterly figures - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXpPTjhnc0t4Zi1ZMXhqYVRweVlvTktST2tqQ1dURjhTYkRzTjlxOTh5Z0VTcW5lZXZuN0psNUtoWEZtSXUwNUlyVkstWHh3NjBzU0ZyNy1KTWI4cEw5UVJFQVZ1Mk44djlVWEtjbW",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXpPTjhnc0t4Zi1ZMXhqYVRweVlvTktST2tqQ1dURjhTYkRzTjlxOTh5Z0VTcW5lZXZuN0psNUtoWEZtSXUwNUlyVkstWHh3NjBzU0ZyNy1KTWI4cEw5UVJFQVZ1Mk44djlVWEtjbWs2SmpnNTNkVFhGNUh2NmROd2VLZUVka0ZsdXBiemYwT1lMbXdmQWVhQmR4dm5wdmRZdGV6S2hSdVpqdXh2aElmNEJQclVSdTB1Q2VUZS11WXk0T01o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "abb-2026-05-23-001",
     "date": "2026-05-23",
     "companies": [
@@ -79,6 +100,64 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZW9ndURPeUpSb3VBRlFjbE5mVHFyV1dudWtmNm1fUXdRY3h6bzRqcEFMV2pwRzhDaE0zY2hmUU81VlV0bkYtZXc5U01qcy1CUzY0eFVWWFAtc2dFV2RHY1ktVzYycVV0b1BPeEw1OUhnSmptNHZveHZXazE4N1lGQXJrZVU2RU1FTHVVcDhZY0pFeGJFbGdJb0RRaEQ3alA1SUp0WXh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-23-005",
+    "date": "2026-05-23",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Assessing Mitsubishi Electric (TSE:6503) Valuation After New Power Module And Sustainability Technology Updates - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX1h3ZFpUNFZ6VVFsNHE0cjNoUGdHRl9aODhna2JzaFZ3WklSYmJFd3dBUS1PQ1ZzUWFtU3VVUmJYR2FTbTczWHVGVmpSc09INGl2VUR5c0ktYnAwN1pZdWFJU2Z5YUVlaUUyeU5xT0",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX1h3ZFpUNFZ6VVFsNHE0cjNoUGdHRl9aODhna2JzaFZ3WklSYmJFd3dBUS1PQ1ZzUWFtU3VVUmJYR2FTbTczWHVGVmpSc09INGl2VUR5c0ktYnAwN1pZdWFJU2Z5YUVlaUUyeU5xT0huUUxzbTEtM0owVWZnazFPUWt1THZzUTFWSWtaeWtoTEI2Y20zUzBaYW15bHVaT3R2ZUtXXzNKWElFb3AzcWs2X1ZMZmU3aDVFTjZRZk82TWNXU1VXdHlxLVE4cVFEaHZTcVdIRW9EUXlDNkhxeThCctIB5gFBVV95cUxNT05ScTN6UEdfbnVLVFIySmdyeDU3b1N2LUNSWjRUMnZZSzFHVzhVM3J3MWc1RElRWTNQRFlDUlNfYzg0QTRONm42Y2NOUEtrdDNBLVBiVlNyRURJa2xJWEhZemdvRHFqbDF2aFl1OGFaZFY0MFJMcjlSc1JGRFNrRXcycG9UZ0dhaWIxTGZJSUwwaXJfOUUxVnZMUmEzNENlbktQakk3NExwcl9Tc1dKd2V4Yi1FbDRmZkV2RmdMdWZKREJQNEtKdE1ycmc2dUpKaFZWeTZWXzVoUHJqUm5PYldnX1BNUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-23-006",
+    "date": "2026-05-23",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Parker Hannifin buys Circor aerospace business for $2.5 billion - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPb1dHRXNVQjdhZ3BabU9GRlFDZWJxSzVqYlRkb3lDcVNXN2Rxc2RlQkp1b1BLUWtMVWJoRHZfYklpVTFFb0ctSFh2QjBaZkdQazZoclJvbHdNdE5OS0N5b0VBcFJQYk5Bb21CRnZXSU",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb1dHRXNVQjdhZ3BabU9GRlFDZWJxSzVqYlRkb3lDcVNXN2Rxc2RlQkp1b1BLUWtMVWJoRHZfYklpVTFFb0ctSFh2QjBaZkdQazZoclJvbHdNdE5OS0N5b0VBcFJQYk5Bb21CRnZXSUZKdWdsbWZBcGZwdFNBZTdwSmRZY1B5MDVSNy1oTlZqYVIySHJjLW9Sb2FzSG5TT00xSWtHLVBRbElOcVYwVTFoYWVMRVRKZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-23-007",
+    "date": "2026-05-23",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Key deals this week: Parker Hannifin, Dominion Energy, LiveRamp and more (ZS:NASDAQ) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS0FxOGw5aG9tVE01cFZ6RlpjZDNKeEpTSm1OOTYzWllNVjBsd0Y1T3VTTWF4aDVwLVRCcG5LNEp3ejdxODRRQ1g5SEdqeFhfbEtKcld1VTR6a1U0d3pIdXVTdmZGZkdlc21yMy1hbm",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS0FxOGw5aG9tVE01cFZ6RlpjZDNKeEpTSm1OOTYzWllNVjBsd0Y1T3VTTWF4aDVwLVRCcG5LNEp3ejdxODRRQ1g5SEdqeFhfbEtKcld1VTR6a1U0d3pIdXVTdmZGZkdlc21yMy1hbmE3a2tOMmFpWnpHajltMm1qU0ZnNlZBbVRZVG0yVnVuT1p0ODY0WlphZ3g1TUhXcFpHTlFSaGluTVJDUms?oc=5",
         "type": "rss"
       }
     ]
@@ -1537,6 +1616,45 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdUs4NGlFb1d5ZlJUZ3poRjJsc0hCMDl2MGpSTkJwMlo3VDRiTHUyZHkyWkpzYjhiY1l6VjhDTEtNU1ktbS1HSjZPaHpubktSd2FlNEV1VkxQYk9PQmhxVGlVWWZvbDJlbWZxWThyS045c0RaLTV3TTc5Z1JxN1hjZ3VRSU5xQnR0MHRXSU9TVTJVUVgycFdVT01YTnk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-20-022",
+    "date": "2026-05-20",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MarketWatch - Software (EN), Mitsubishi Electric - Data Center Dynamics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVFHLUtOdUx2V2NGWnN3U05RSWktQmxWVGRDa3A0MUNKekFyM2JySWw5Y0FrTGdLb3RRSFljZ09rWGZuNU9fV3pOVy1RRzdHYjhYQU05TDhaNk5PNTRJY1hMOHg1U1ZPLVdCMF9Xa1",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVFHLUtOdUx2V2NGWnN3U05RSWktQmxWVGRDa3A0MUNKekFyM2JySWw5Y0FrTGdLb3RRSFljZ09rWGZuNU9fV3pOVy1RRzdHYjhYQU05TDhaNk5PNTRJY1hMOHg1U1ZPLVdCMF9Xa1h0RDlKWXA2UjBqQWlnSjdTRXg2MWUzdGpoQTM1S1dJZGR4VXVvOWow?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-20-023",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Man dies after surface mine incident - WYMT",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1xdE1FQVdodUVIS2RkV1doTkhJWVZkZkVfMkVHUEwwQXgwMUxSanBDdmQ3QnpKWmh0aFNYclRCQV9mOHJUV19rQUdWUU9sTnFrMGVIT0dZLTV6aHV4bUo4U0FUZ3VHTC1MX3g0NUp6VG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xdE1FQVdodUVIS2RkV1doTkhJWVZkZkVfMkVHUEwwQXgwMUxSanBDdmQ3QnpKWmh0aFNYclRCQV9mOHJUV19rQUdWUU9sTnFrMGVIT0dZLTV6aHV4bUo4U0FUZ3VHTC1MX3g0NUp6VG1DMUtRRFE2VA?oc=5",
         "type": "rss"
       }
     ]

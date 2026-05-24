@@ -1,0 +1,111 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T09:49:45.422015Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "abb-2026-05-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABB Ltd stock (CH0012221716): automation group updates investors after latest quarterly figures - AD HOC NEWS",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXpPTjhnc0t4Zi1ZMXhqYVRweVlvTktST2tqQ1dURjhTYkRzTjlxOTh5Z0VTcW5lZXZuN0psNUtoWEZtSXUwNUlyVkstWHh3NjBzU0ZyNy1KTWI4cEw5UVJFQVZ1Mk44djlVWEtjbWs2SmpnNTNkVFhGNUh2NmROd2VLZUVka0ZsdXBiemYwT1lMbXdmQWVhQmR4dm5wdmRZdGV6S2hSdVpqdXh2aElmNEJQclVSdTB1Q2VUZS11WXk0T01o?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "abb",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 392,
+    "dup_title": 241,
+    "too_old": 130,
+    "gate1_blocked": 2,
+    "gate2_blocked": 13,
+    "passed": 6,
+    "pass_rate": "4.0%",
+    "gate2_block_rate": "8.6%",
+    "gate2_samples": [
+      "Parker to Acquire CIRCOR’s Commercial and Defense Aerospace Business",
+      "The Grid Wasn’t Built for This: Why Energy Parks Are Emerging",
+      "Mitsubishi Electric Engineer Earns Kaggle Competitions Master Title in World’s Largest AI Competitio",
+      "Joe Daley 2013-14 Mitsubishi Electric Championship at Hualalai Results - espn.in",
+      "Assessing Illinois Tool Works (ITW) Valuation As Growth Concerns Weigh On Investor Sentiment - Yahoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為ABB相關動態：「ABB Ltd stock (CH0012221716): automation group updates in...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ABB Ltd stock (CH0012221716): automation group updates investors after latest...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "ABB為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
