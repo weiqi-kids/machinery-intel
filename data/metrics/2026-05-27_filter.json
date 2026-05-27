@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 1,
+  "gate2_fail": 16,
+  "passed": 35,
+  "gate2_samples": [
+    "Parker to Acquire CIRCOR’s Commercial and Defense Aerospace Business",
+    "Hiwin inaugurates new Italy headquarters - Focus Taiwan",
+    "Having Pride in Growth: The Yeses, the Nos, and the Spaces Between",
+    "[Podcast] AI & Accessibility: Removing Barriers",
+    "If Gas Insulated Switchgear Is Filled with Pressurized Air, Why Do We Still Call It “Gas”?"
+  ]
+}
