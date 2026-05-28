@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 235,
+  "no_date": 0,
+  "too_old": 126,
+  "gate1_fail": 1,
+  "gate2_fail": 11,
+  "passed": 22,
+  "gate2_samples": [
+    "Parker to Acquire CIRCOR’s Commercial and Defense Aerospace Business",
+    "Hiwin inaugurates new Italy headquarters - Focus Taiwan",
+    "Having Pride in Growth: The Yeses, the Nos, and the Spaces Between",
+    "[Podcast] AI & Accessibility: Removing Barriers",
+    "Assessing Illinois Tool Works (ITW) Valuation As Analyst Targets Clash With Cash Flow Estimates - si"
+  ]
+}

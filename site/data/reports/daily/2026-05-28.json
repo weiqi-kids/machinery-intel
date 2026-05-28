@@ -1,0 +1,239 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T11:31:22.245855Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-05-28-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Taiwan’s Delta Electronics posts record profit on AI demand - Taiwan News",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OZ2FCRkJjWlV4SzZGQVBPMWxxT3AwVUZFR2NUelVsdm0zclpTRjlHY1BUTl9HUVg5aVZiMEZrUjNkOHd3ay1XZTZiVTQzNTJXakprNDlJVWw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-05-28-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Caterpillar Countersues in Patent Fight With Doosan Bobcat - Engineering News-Record (ENR)",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekhhUlF5VUJQQ1dyNllKRmRWMmhMZ3FKMHZlcElfa1dscUUyUm1WVjk1Vk9sR0Fld0JmTzBzN3ljUHBOcW1FLUJjRG1USmJ0bzhqd1J0aUlDSUUzZXpTcHVFMlV3TlIwRU5jZmpUdXhNRXZidnQtcEtZYXM5T2tmQXhaRHUtZkhMZ3Z5Uw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "abb-2026-05-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABB Ltd stock (CH0012221716): solid Q1 2026 performance and continued focus on electrification and a - AD HOC NEWS",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRFdyT3haNzBjSXRFTEhlYkNodkpQU0laSzZtMjhaRGltYXR3ZjBDSVRHc3NNeUM5alZ5dXdCQ3EwbVJZR2RQTDlhd01qSms4TGNDNUppdHl0ZXdiTTdWLWVEUmY1M2tpYmtCaEFqa2pvcWJISlFpVjh3Y2liQURVZlZ6VjZaazRJOEI2YWRFTEhBRkdpWW8yN2F6Q1h1M2FvRVJIa0NOcC1iT3luQmdkVDh4V2d6NjYxM241ZGYzVHRLdkE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "parker_hannifin-2026-05-28-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Huntington National Bank Reduces Stock Position in Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOTVJalJISWVsREdxNXN1N0JidEJzOF95V2MwNXlHajV6N3Q1UDF6WnZHOXEtbVdRSWphN1Z4ZDBHWlR5aVUxUXVhNzdreWVBX2dKZmwyQm55OVZ5dTJnQktOeXN0YUJjSEdNVTQ2RWhCeDRnR2RxNDRPZHlTdnlyQzR2ektaTmVMckFPTnRiaXR2Y09JWElKblZJdkRRZ3ZESnpMM2Y0MnRucWZ4WVlreGtHSmdIZkoxbFd5Nnk1MUJaNTZvWFhsV0tQRjFCQWd4Q1E4d0tRNG9rUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-05-28-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Wells Fargo Maintains Caterpillar(CAT.US) With Buy Rating, Raises Target Price to $1,050 - 富途牛牛",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMnhMNi01dzJPM3Jfa3B0WVF0MzdoMGt1VE1OT2FQdDN6Slp1NWxaOVdNbDNNRFFKcjNEa3hnTzgtdnpjcWhSZ1RuZTk4Y1BsQVlFTWxwV2NYZndPakg0MjF1SjdOTUNFVVhhZTlHMUpPWEQ3UGRhYmtFdG1tRGJ5VHBOQlRmazdpUkFKOEVELXdweEF0eUhEYkFoR0pTNjU5RGpna3BtcGx2SXVFTVpj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.4,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "abb",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 395,
+    "dup_title": 235,
+    "too_old": 126,
+    "gate1_blocked": 1,
+    "gate2_blocked": 11,
+    "passed": 22,
+    "pass_rate": "13.8%",
+    "gate2_block_rate": "6.9%",
+    "gate2_samples": [
+      "Parker to Acquire CIRCOR’s Commercial and Defense Aerospace Business",
+      "Hiwin inaugurates new Italy headquarters - Focus Taiwan",
+      "Having Pride in Growth: The Yeses, the Nos, and the Spaces Between",
+      "[Podcast] AI & Accessibility: Removing Barriers",
+      "Assessing Illinois Tool Works (ITW) Valuation As Analyst Targets Clash With Cash Flow Estimates - si"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為CAT、Delta Electronics、ABB相關動態：「Taiwan’s Delta Electronics posts record profit on AI dema...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Taiwan’s Delta Electronics posts record profit on AI demand - Taiwan News（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Caterpillar Countersues in Patent Fight With Doosan Bobcat - Engineering News...（自動化資本支出、財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

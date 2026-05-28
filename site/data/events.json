@@ -1,5 +1,110 @@
 [
   {
+    "id": "delta-2026-05-28-001",
+    "date": "2026-05-28",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan’s Delta Electronics posts record profit on AI demand - Taiwan News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OZ2FCRkJjWlV4SzZGQVBPMWxxT3AwVUZFR2NUelVsdm0zclpTRjlHY1BUTl9HUVg5aVZiMEZrUjNkOHd3ay1XZTZiVTQzNTJXakprNDlJVWw?oc=5\" target=\"_blank\">Taiwan’s",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OZ2FCRkJjWlV4SzZGQVBPMWxxT3AwVUZFR2NUelVsdm0zclpTRjlHY1BUTl9HUVg5aVZiMEZrUjNkOHd3ay1XZTZiVTQzNTJXakprNDlJVWw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-05-28-002",
+    "date": "2026-05-28",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Ltd stock (CH0012221716): solid Q1 2026 performance and continued focus on electrification and a - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRFdyT3haNzBjSXRFTEhlYkNodkpQU0laSzZtMjhaRGltYXR3ZjBDSVRHc3NNeUM5alZ5dXdCQ3EwbVJZR2RQTDlhd01qSms4TGNDNUppdHl0ZXdiTTdWLWVEUmY1M2tpYmtCaEFqa2",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRFdyT3haNzBjSXRFTEhlYkNodkpQU0laSzZtMjhaRGltYXR3ZjBDSVRHc3NNeUM5alZ5dXdCQ3EwbVJZR2RQTDlhd01qSms4TGNDNUppdHl0ZXdiTTdWLWVEUmY1M2tpYmtCaEFqa2pvcWJISlFpVjh3Y2liQURVZlZ6VjZaazRJOEI2YWRFTEhBRkdpWW8yN2F6Q1h1M2FvRVJIa0NOcC1iT3luQmdkVDh4V2d6NjYxM241ZGYzVHRLdkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-28-003",
+    "date": "2026-05-28",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Huntington National Bank Reduces Stock Position in Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOTVJalJISWVsREdxNXN1N0JidEJzOF95V2MwNXlHajV6N3Q1UDF6WnZHOXEtbVdRSWphN1Z4ZDBHWlR5aVUxUXVhNzdreWVBX2dKZmwyQm55OVZ5dTJnQktOeXN0YUJjSEdNVTQ2RW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOTVJalJISWVsREdxNXN1N0JidEJzOF95V2MwNXlHajV6N3Q1UDF6WnZHOXEtbVdRSWphN1Z4ZDBHWlR5aVUxUXVhNzdreWVBX2dKZmwyQm55OVZ5dTJnQktOeXN0YUJjSEdNVTQ2RWhCeDRnR2RxNDRPZHlTdnlyQzR2ektaTmVMckFPTnRiaXR2Y09JWElKblZJdkRRZ3ZESnpMM2Y0MnRucWZ4WVlreGtHSmdIZkoxbFd5Nnk1MUJaNTZvWFhsV0tQRjFCQWd4Q1E4d0tRNG9rUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-28-004",
+    "date": "2026-05-28",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Caterpillar Countersues in Patent Fight With Doosan Bobcat - Engineering News-Record (ENR)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPekhhUlF5VUJQQ1dyNllKRmRWMmhMZ3FKMHZlcElfa1dscUUyUm1WVjk1Vk9sR0Fld0JmTzBzN3ljUHBOcW1FLUJjRG1USmJ0bzhqd1J0aUlDSUUzZXpTcHVFMlV3TlIwRU5jZmpUdX",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekhhUlF5VUJQQ1dyNllKRmRWMmhMZ3FKMHZlcElfa1dscUUyUm1WVjk1Vk9sR0Fld0JmTzBzN3ljUHBOcW1FLUJjRG1USmJ0bzhqd1J0aUlDSUUzZXpTcHVFMlV3TlIwRU5jZmpUdXhNRXZidnQtcEtZYXM5T2tmQXhaRHUtZkhMZ3Z5Uw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-28-005",
+    "date": "2026-05-28",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wells Fargo Maintains Caterpillar(CAT.US) With Buy Rating, Raises Target Price to $1,050 - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNMnhMNi01dzJPM3Jfa3B0WVF0MzdoMGt1VE1OT2FQdDN6Slp1NWxaOVdNbDNNRFFKcjNEa3hnTzgtdnpjcWhSZ1RuZTk4Y1BsQVlFTWxwV2NYZndPakg0MjF1SjdOTUNFVVhhZTlHMU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMnhMNi01dzJPM3Jfa3B0WVF0MzdoMGt1VE1OT2FQdDN6Slp1NWxaOVdNbDNNRFFKcjNEa3hnTzgtdnpjcWhSZ1RuZTk4Y1BsQVlFTWxwV2NYZndPakg0MjF1SjdOTUNFVVhhZTlHMUpPWEQ3UGRhYmtFdG1tRGJ5VHBOQlRmazdpUkFKOEVELXdweEF0eUhEYkFoR0pTNjU5RGpna3BtcGx2SXVFTVpj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "abb-2026-05-27-001",
     "date": "2026-05-27",
     "companies": [
@@ -100,6 +205,286 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaFpDSTBEMW1Rem9SR3ZWZnFUb3ZvLWF1R3MwZi1fVjJ1TERmdmNwQ1VlMzc4R3RXTHdQYTlJbmcxM1o2cWVCTmVTSlFIaXREZnZYd1ljQVlIb09KSGNtVzY4QlhjS1NGYjFLNUpLLUhyeDlSQmt0b1pOUjAxcEZWSy00d0lfV0VrMG5aU29GS1ktTk5YcHJsalhGbjRMS2dhYmtXZg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-05-27-006",
+    "date": "2026-05-27",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eaton or ABB: Which Electrification Giant Offers More Upside? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHZTSTdWbVllTWxZZVBrcVVFSXE3STE2RG1weVI3UlhhSzBBMC03ZDZjMVZTTllKOHN2SXFFYmx0Q1cwRGUyTENSeG0tdzV5SVpzc09BLUk2SnZzQjBiR0c0NEJZZDlXaUduVTVoTz",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaHZTSTdWbVllTWxZZVBrcVVFSXE3STE2RG1weVI3UlhhSzBBMC03ZDZjMVZTTllKOHN2SXFFYmx0Q1cwRGUyTENSeG0tdzV5SVpzc09BLUk2SnZzQjBiR0c0NEJZZDlXaUduVTVoTzVmcDdvall5WWxlZmVYenpYc0JFcGZDOGo5NjZhYUMxZURYbHNGaHVpTEFhSThucGlCTHF1dEt0YTVCa2NyMWd6bWlZeUJKQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-05-27-007",
+    "date": "2026-05-27",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Ltd stock (CH0012221716): Automation specialist lifts guidance after solid Q1 and new share buyb - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOMGtCUC02Y095QUY5dk9qR3RyUDFQQklYdWFLTnc1eUQzTjZyR2JDdW9RVld2ZXZKMy13bC1vYW5FQmRFbnZFRkFVanJQcTZ4SHFoYnF3cFU2cXdhdDVybXdDTEV1YmNDVllkNERWaX",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMGtCUC02Y095QUY5dk9qR3RyUDFQQklYdWFLTnc1eUQzTjZyR2JDdW9RVld2ZXZKMy13bC1vYW5FQmRFbnZFRkFVanJQcTZ4SHFoYnF3cFU2cXdhdDVybXdDTEV1YmNDVllkNERWaXoxVWk4Ulo0clF6RFdJSjhKM29tMEl0N1FhMjhxT2JfcXRYRjI0dVJXaEM1aDVGcDRYQUFBTEdWSzFQY3kxV1o1b1VGUjZSNWlmUHlBWlROSlZSUm0wRjJj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-05-27-008",
+    "date": "2026-05-27",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ABB Ltd stock (CH0012221716): ABB reports first-quarter growth and strong US exposure - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTMyYnJnRFNTZ3hLQ3d6LWlmU2ktMjBsMkJiU3dudG0yQkdlcktPVVpZY04zZFhVMURITmpmTUhDSWgwQk14QVYteHBlNGxsZ1o3TndKWTBDekRuaDZxMEl6Q19ITWQxNjJtM3lNeH",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTMyYnJnRFNTZ3hLQ3d6LWlmU2ktMjBsMkJiU3dudG0yQkdlcktPVVpZY04zZFhVMURITmpmTUhDSWgwQk14QVYteHBlNGxsZ1o3TndKWTBDekRuaDZxMEl6Q19ITWQxNjJtM3lNeHZmSDhWRkpEbkhtdVZ2UkhoaGw2Tmo2bFJzczh4LXlvdFh6czdHQTRJeng0WFZZbGdtUnZkTURSeFcxcmQtU2tzQ21qRk14OURybXJBbk1YSGUtaWtiRktkeA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-05-27-009",
+    "date": "2026-05-27",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Ltd stock (CH0012221716): automation giant in focus after recent capital markets updates - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeWVka3NTU1lLUTl0ektOVVVjQXNQMnJUaHJodnR1bE5aTkJLRDhZWkxGR0hoUmZaTlZvUEkxcTRSaXNHYW5YOHBlR2hqa0phWGUtcWpULXE3bGVJVHRGeUVRNFkyRXlqU3E0SXAtQm",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeWVka3NTU1lLUTl0ektOVVVjQXNQMnJUaHJodnR1bE5aTkJLRDhZWkxGR0hoUmZaTlZvUEkxcTRSaXNHYW5YOHBlR2hqa0phWGUtcWpULXE3bGVJVHRGeUVRNFkyRXlqU3E0SXAtQmN5dWt6YUp6TmdOeXhHRURmaVdhcGkzUXZJY1RVSjVYckIyaXhXQV9HOTQ5dVE0NkJxQ0VlSndjVXVGUGVoQmF6djJYTExvaThNeHZIaXBsRkQ3dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-27-010",
+    "date": "2026-05-27",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric, Chiba Tech to develop physical AI - Engineering.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQVDVHLW8tZ2ozNzRTRngtdXlObTVNenN0eFJHZXJ6X0V0eTFYNUFRekZRaVNPVUhGcTR0THNEek1jRlFTOGZ5bFBsWUQ4eVRrcWxCRkZHcF9wbllYTUZEWkhzOWtRTG16WkpuSnpwbW",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVDVHLW8tZ2ozNzRTRngtdXlObTVNenN0eFJHZXJ6X0V0eTFYNUFRekZRaVNPVUhGcTR0THNEek1jRlFTOGZ5bFBsWUQ4eVRrcWxCRkZHcF9wbllYTUZEWkhzOWtRTG16WkpuSnpwbWx6TzFnTkQ4bjlhYUJreUVrQWJ6ZUtiV21YRGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-27-011",
+    "date": "2026-05-27",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Vdeal System Entered Memorandum Of Understanding (MoU) With Mitsubishi Electric - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYjNkSnpHTnFqMDJNUl9hUkdtRHl0MVlrLVRkQUNMTDZVQnFrSTY0TWM3VHlBX3ZvQm1tNzNlRUhkMHVPLXlQQVVWMXBZVlZ0eEY5YjRhcjlqNTFwWktpMk1CenZyLUtpLWV5M3c2dW",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYjNkSnpHTnFqMDJNUl9hUkdtRHl0MVlrLVRkQUNMTDZVQnFrSTY0TWM3VHlBX3ZvQm1tNzNlRUhkMHVPLXlQQVVWMXBZVlZ0eEY5YjRhcjlqNTFwWktpMk1CenZyLUtpLWV5M3c2dWMtdGNDWFNvdDdzaTFEdFJzVEdRTkFIamR3a2VBazBiLXR1RmRCVjd0WXd3Q0Q5ZVcxT0FMVDlXSTloRjZQUUgyaDdCZU4yNXJZZFNvdzc0Sjl3N20wUjRSRnRGTEF2UkZyRF9ibG0yNlVDb0poX0JNXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-27-012",
+    "date": "2026-05-27",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Vdeal System entered memorandum of understanding (MoU) with Mitsubishi Electric - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPRmFuNk50a0ZROFJLbTREWXpYUGZyTVhUN0hnUTFxWktlT1ZaNDJtdnozSEJhM1RGU0EtemZ6Nm1LUm5lR0FLc25BeTdPWHRheU14U3lBZlBrc0tScktEempGbmR1VGhQQm44RmNEaU",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRmFuNk50a0ZROFJLbTREWXpYUGZyTVhUN0hnUTFxWktlT1ZaNDJtdnozSEJhM1RGU0EtemZ6Nm1LUm5lR0FLc25BeTdPWHRheU14U3lBZlBrc0tScktEempGbmR1VGhQQm44RmNEaUtVa0tyY21PYWVpNW5EdVQ0c29SUFl1OHk0ZUdpcjRBMi1Sdm5PMmZuUFVKWG5SUG9id3FnNTJqYUF0WldpRENGeU9xV0tfdEd3aGYxTHJ2OUcyVmNVaGJhZ0dR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-27-013",
+    "date": "2026-05-27",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Caterpillar Expands Bobcat Patent Clash With New Complaints (1) - Bloomberg Law News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnhfc2tMU3kyRng1OUx0VE1EblFRTW5OLWxrN0twUE9XNE96azdLREJNdF9VZ25aRUp6OGVpT2Y2a1JxcWR0dWVzaDh2RXJINFpvV2dpVDIwMFhIaGZxZjdpbjg1NUJZZzZMMHppQ0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnhfc2tMU3kyRng1OUx0VE1EblFRTW5OLWxrN0twUE9XNE96azdLREJNdF9VZ25aRUp6OGVpT2Y2a1JxcWR0dWVzaDh2RXJINFpvV2dpVDIwMFhIaGZxZjdpbjg1NUJZZzZMMHppQ0I1dlNTcklTbncwd2ZwTjhqNEFfUXBiNUhtdlpEUTJra1dPZzVMTnUzRkRYTndVcENUR1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-27-014",
+    "date": "2026-05-27",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar escalates patent fight with Doosan Bobcat over construction tech - Equipment Finance News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOa0tncmlQNW9vNVlEWWtWcnViMktyQjlmcDJXTWEtdUE1dkVPVVg1UUN5cjYzSm5pRG1ZRUU3TWNoUC1YUmFqZjZ3OG1td3U2QVptbGdMUGp5Q2prS3o3NTU1dllncVRNazhvdGdyNF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa0tncmlQNW9vNVlEWWtWcnViMktyQjlmcDJXTWEtdUE1dkVPVVg1UUN5cjYzSm5pRG1ZRUU3TWNoUC1YUmFqZjZ3OG1td3U2QVptbGdMUGp5Q2prS3o3NTU1dllncVRNazhvdGdyNFhWWGpYZ3VMTkRBek1JMWRrMG0yUlMtUnNDQjZmRF9FRE5zMTRneENqWktKVmFIT0dSbFBraHBIa3RyUGFVbFJBSEpVWUtoLVBMN2IxaHlXSnAzZmpMNFhZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-27-015",
+    "date": "2026-05-27",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar sues Bobcat in ongoing legal battle over patents - Equipment World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtkY3h2WFo5QXZ3YTBxdHZxSnpHSW5ZdWZNeGxYMVFTSUt0WDR2aGRSWUdtUjhJdnhOZU93Tjh3QU50XzRZbWFHUHVraFBXY2hhNnpkUTVydms4SThERV9uSGJPRGNJVmZNWHBMeF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZmtkY3h2WFo5QXZ3YTBxdHZxSnpHSW5ZdWZNeGxYMVFTSUt0WDR2aGRSWUdtUjhJdnhOZU93Tjh3QU50XzRZbWFHUHVraFBXY2hhNnpkUTVydms4SThERV9uSGJPRGNJVmZNWHBMeFhOUjlIN1lXQjdZR0JxRkNYZC0tZ25qa0w0SVZzamdlTjEyaVdTU0FDM1R4UUpxbHI4WHc0TXRJMmE5ZGRybDJKcktVT180cnJo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-27-016",
+    "date": "2026-05-27",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) CFO receives grant of phantom stock units in compensation plan - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnJzYkx2dFFnanA0Sy1UR2VqVGhRYTVHSE9GYlVUSG82YndvbmEteGdNanRlOVYzSjNmU19rd0tHVnVfMFNCdHJxYWozazViMWtZQnBoZEFnamRYZUhQTnFFRlZMT1A2Tll0VjBNLV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbnJzYkx2dFFnanA0Sy1UR2VqVGhRYTVHSE9GYlVUSG82YndvbmEteGdNanRlOVYzSjNmU19rd0tHVnVfMFNCdHJxYWozazViMWtZQnBoZEFnamRYZUhQTnFFRlZMT1A2Tll0VjBNLVp3bmFQa1EtVGw0MDVHZFZicDFzdWh5QWJfSklPVElvSWJFQmZjeWk2ZV9aNm5GWVhmWkxKckJVVm41T1ln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-27-017",
+    "date": "2026-05-27",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Launches New Patent Suits Against Bobcat - Law360",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnpFejBDTE0zNEFzQm56Wk1SR2hJclBiU3d6RnJCT19CQUZsaE1zdHZmdmJuVzVtRmItM1dZODJaemIxOFRvLWVVY3ZVZmF4WGdHWjFXWTZvUEdHVE80elNKZXJtWXBpdEwwSUFVSD",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnpFejBDTE0zNEFzQm56Wk1SR2hJclBiU3d6RnJCT19CQUZsaE1zdHZmdmJuVzVtRmItM1dZODJaemIxOFRvLWVVY3ZVZmF4WGdHWjFXWTZvUEdHVE80elNKZXJtWXBpdEwwSUFVSDhaalVJYjhoQk5TdS1JTlR0aG44cWlUZmkxeDdXUmpzZ3JybFJGVlM00gFWQVVfeXFMT05IVnY2NFdUYndSN0tSWDNwOVJNVHdJYkdaZm9vdVFWQ294VE9UekV4MHZrZ09xaDB4Z2tmMTM0bTFpTkZiM1h1Z0huSGI2aGROdS1YaWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-018",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "cnc_technology",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Metal Working Machinery Market to Reach USD 138.10 Billion by 2033, Driven by CNC Automation, Precision Manufacturing, and Industrial Capacity Modernization: Verified Market Research - PR Newswire UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxPUDdsZ0RVME5FU0ViVERGS28wOXRFUmhTWHBwN1lXYnNsS19fRTFCV1Z2OVhHUXhkdHkyQUFYbFAwTWFUZWVJR2xsWWE2SUR2SjZyTHlRVDV5N1pIcUpvY3RzMml6WWJqQnI3aEh5cG",
+    "sources": [
+      {
+        "name": "google_news_machine_tools",
+        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPUDdsZ0RVME5FU0ViVERGS28wOXRFUmhTWHBwN1lXYnNsS19fRTFCV1Z2OVhHUXhkdHkyQUFYbFAwTWFUZWVJR2xsWWE2SUR2SjZyTHlRVDV5N1pIcUpvY3RzMml6WWJqQnI3aEh5cGhMQUZmaU1FSVhkaTcwNWhlcDcxcE5UYVNnX2MteHQ0dU10d2Z0bW00WGk3MUl3c1ZURnZuZW5XYWVudm03b205dTc1S2ZwNkxWVGlFYW1JZ3ZEQTJZNTJNQmp4aVNLdVpBSEpQRnNBRjAtTEhSSGVlV3ZMNXhib0dTWEJxNU54enRHNjlYWGtxbVpJRExVUFQ5QXZtUjhZd01meDBZTU1FaHM5LXJZdHhMQS1LaXRVV2ladE9TTExnbkh0N2JJaDlYRldtT1RsZjNtLWRzX1E5V2RPczJlQ1V1VkZUOV94Q2hZeWlIZ2VkeA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fanuc-2026-05-27-019",
+    "date": "2026-05-27",
+    "companies": [
+      "fanuc"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fanuc Launches Next-Gen AI Robotics at Automate 2026 - intlbm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc3dqZEp3ekxETS1RLUswOG1nYm9wa3U2bjdROEVpQUk2QXhkYTg5elYxaGVFeUhLdmpLZDVPbEttdkIzakFOeU1pQTVab3pCbnhXa3pra3RHRVkwYUxWdzUxUEtQZmJpVVdWV3VZYU",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc3dqZEp3ekxETS1RLUswOG1nYm9wa3U2bjdROEVpQUk2QXhkYTg5elYxaGVFeUhLdmpLZDVPbEttdkIzakFOeU1pQTVab3pCbnhXa3pra3RHRVkwYUxWdzUxUEtQZmJpVVdWV3VZYUQ0ZmRCaXBDYjl1UXhrci00a216U2pmYmJlemV3?oc=5",
         "type": "rss"
       }
     ]
@@ -523,6 +908,48 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRUlTazYzRlpCVHFrbU9BcklwN01yLUhsZTNVSk0wVkpyUEhKT2lvd21zYkt1azA3X3VXbDNsOTh1VHNpejNaejFRMDZad0JLSGZaZjNuV3dJR0RjbnJmelM0NFJPVlV3ZmRid2E4ekVEZ2dsLXd4Q1U3V2NRc3NjRTY1aXFYY3FjczVmbjVwdVRYVWF4UEIzR2NjNkJsTVZobV9fSFFlZWRhQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-26-022",
+    "date": "2026-05-26",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric, Chiba Tech Team Up to Develop Physical AI - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGxQOXVsaUYxVUNja210VFJwSlFzcWpfMXFPN2JoZE44dzlkdGZMYlNueVRYWFlrSE40TGMwdU9uVzZkSkRYcGN5ekJSTjNCQWFwb2VWQXF1OW1rRUQwTGh0aE5Gd0NXWTZ3Qk1wZ3",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSGxQOXVsaUYxVUNja210VFJwSlFzcWpfMXFPN2JoZE44dzlkdGZMYlNueVRYWFlrSE40TGMwdU9uVzZkSkRYcGN5ekJSTjNCQWFwb2VWQXF1OW1rRUQwTGh0aE5Gd0NXWTZ3Qk1wZ3VqM1djQ2xCSnRrb210eXRDdU45VEhyOHRiOUI1RHBJZWc5OFo1azdmN2tkdS1YMWM3eWczYVhpRFVHWXIwRnRIYlByUVBnNnVuT1Qyb0V4UWFnQXdfaVhraE9FQlRCR09fX1Y5VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-26-023",
+    "date": "2026-05-26",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Jefferies Adjusts Mitsubishi Electric's Price Target to 7,700 Yen From 6,800 Yen, Keeps at Buy - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN3pLRVY3QVhDQXIxVE1VbnFxSDlRbWJFdUFQSUtjbkJJVnFuZUFQVjFmOGtoNFlBUGs1OGhsS0hRTUxRdF8tT0IzOHVBT2k1UkdFS1ZnV3YzN0FUeTFmX0NLX1NVRzB4aW04M1llQ0",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN3pLRVY3QVhDQXIxVE1VbnFxSDlRbWJFdUFQSUtjbkJJVnFuZUFQVjFmOGtoNFlBUGs1OGhsS0hRTUxRdF8tT0IzOHVBT2k1UkdFS1ZnV3YzN0FUeTFmX0NLX1NVRzB4aW04M1llQ0VTMFAtd3g1b2NDOERNWWVKRDk0a1p0V3ptM3dtbmV0SW14em5BWldUa05Bem5IRFdkdXF2azdaZ0xVaTRhaG1aOTB2TkpSVllZYVJoUnRQREZMQkVXLUJWd2NTYVJMdDI1TXpVWUoxZDY?oc=5",
         "type": "rss"
       }
     ]
@@ -1536,6 +1963,28 @@
       {
         "name": "parker_hannifin",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdDRnMEFoZ0xtbmNxRHlnNjFVN2xmNzlmeldFMDBVZGNYVTFwaWxhMkxxcVVEdS14MTdrTkk0eGZ4dVdQaC1CSnZ3V2lubjZSdlZRSEZuX2VhOUQtQ1RmallFang2YUYydW1KVnpQR1JqZDRIb2lvMmk1aEM5ekEtMDFfbzN2dHkteFpmcXQ2VlZ5SXVkX3gwQ3NWZjE3M2R6TkNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-22-021",
+    "date": "2026-05-22",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "cnc_technology",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric engineer earns Kaggle master title - Engineering.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0FfR0dHMmx0Z3o0VFRRdF9FV2ZkMHZpRHQ1Z25lN1RPQkdkdTFsaTNrSnRLRFRGdmhvZkh0NHg5TFFWZjVnaGtUZFhVeFNhZkJzc0IxdXI4UVdQU2R3b3drUU1RenNHdUNWM1h2Qk",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0FfR0dHMmx0Z3o0VFRRdF9FV2ZkMHZpRHQ1Z25lN1RPQkdkdTFsaTNrSnRLRFRGdmhvZkh0NHg5TFFWZjVnaGtUZFhVeFNhZkJzc0IxdXI4UVdQU2R3b3drUU1RenNHdUNWM1h2Qkl0OWdvdElkTF9SY0hJT3VaelZXSDBTVGwzcncw?oc=5",
         "type": "rss"
       }
     ]
