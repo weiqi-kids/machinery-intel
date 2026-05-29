@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 234,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 2,
+  "gate2_fail": 8,
+  "passed": 15,
+  "gate2_samples": [
+    "Hiwin inaugurates new Italy headquarters - Focus Taiwan",
+    "Having Pride in Growth: The Yeses, the Nos, and the Spaces Between",
+    "Bernhard Langer’s wild ride on No. 7 at Mitsubishi Electric - PGA Tour",
+    "Mitsubishi Electric : IR Day 2026 - marketscreener.com",
+    "Assessing Illinois Tool Works (ITW) Valuation As Analyst Targets Clash With Cash Flow Estimates - si"
+  ]
+}

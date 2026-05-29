@@ -1,5 +1,87 @@
 [
   {
+    "id": "delta-2026-05-29-001",
+    "date": "2026-05-29",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Delta Electronics looks to micro grids as auto slugs through EV slowdown - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3N3WnMwc1M0REdXTU1STS1aaElkOHdaYURULWx6dU53UUlZY2RqMkdKYXFRbE9HMEZYTUxzT2NWUjgtSklVdm9WVEhRUS03dUExcnlNTWQzVG55U3FXZkV1WGZmQkZ5QTFsSHFlVT",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3N3WnMwc1M0REdXTU1STS1aaElkOHdaYURULWx6dU53UUlZY2RqMkdKYXFRbE9HMEZYTUxzT2NWUjgtSklVdm9WVEhRUS03dUExcnlNTWQzVG55U3FXZkV1WGZmQkZ5QTFsSHFlVThUSWc5ZlIyLUx6V0E2OFlCd3RmdURmeGxDRXZNT1lhOFVKd05Ja3dUbDRUa24?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-29-002",
+    "date": "2026-05-29",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric: Aiming for 12%+ OPM and global leadership in Smart Energy, Automation, and Defense & Space - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxOeFlFM2VBSEFYVVNhVV9NcVBGSEducHJCcE85VC1STHZjU2pxSlIxX0k1Q2s2Z3FmQUNKYnVtUjFaTjJUN2MzajlhMUptMEZLcjZpa0FheEdSajlBX05LU2tQblFYYVE1X0FLZXU2N0",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOeFlFM2VBSEFYVVNhVV9NcVBGSEducHJCcE85VC1STHZjU2pxSlIxX0k1Q2s2Z3FmQUNKYnVtUjFaTjJUN2MzajlhMUptMEZLcjZpa0FheEdSajlBX05LU2tQblFYYVE1X0FLZXU2N0J3XzQxUDZKVlNkMzF5dEpzc1RUQ2pVYk5kR3ZuZXEtTXZ4RGJxb0hmRk9xTUI3UXlUdDdLb3ZsSGhJMVJqU2dOYjVvRHZkOXhYS0YyNWlFSXJ3QzcteVhwX2ZKZmM4TVRDSmtha2VzN1V0MWVlTEtuSE8zSlhoY3ZURnM2ckxtdFVyVUswT0JZLXhoeEpwdGY3QUt0MlVwWUJBN28yRFlHR0tQNWFkdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-05-29-003",
+    "date": "2026-05-29",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "DMG Mori Co., Ltd. Announces Issue Conditions of Sixth Perpetual Subordinated Bonds (With Subordinated Covenant) - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxORktKNG5jdHdLUENJMGZRRnRMTUJDNXhDWlI4VjhGbUo4d1V3LWdoaHJrYjdaWkptcmVPVFQ4WTZVNlp6SE1wMGZtMjRPdk84bDBSdGdRQ1Z6ai1XV2JvS294aTMxUlJ3X0x6ZHQ4aU",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORktKNG5jdHdLUENJMGZRRnRMTUJDNXhDWlI4VjhGbUo4d1V3LWdoaHJrYjdaWkptcmVPVFQ4WTZVNlp6SE1wMGZtMjRPdk84bDBSdGdRQ1Z6ai1XV2JvS294aTMxUlJ3X0x6ZHQ4aU9GZmZCRkt3QlZZR2ZwZ2lPejJGbTJKQy1aRjJRTmplVGJMQ0lRZ3lLdDdUbDVJQmh5bkJ3TmJnMnBRVm1GRTRVaXpKcVpfNndPbmZxb1lJdVMxMS16TWE0Y1FwMUxnX2lVTXh0bG5iVXB0NGY1czJsMHhqcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-29-004",
+    "date": "2026-05-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is Caterpillar’s Blowout Quarter And Data Center Demand Altering The Investment Case For CAT? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEhOcnZ6M0FfQTlURzYwNGxVakp2Z0tVSVl5ZlNBcVVkcGxCUFljR2xnLS16OWtTeWFjNlA3bkJ1VVVaQ0F6YkZpWTZxLVlIdVk5aVEyZ0FVLUR2M3JRWGpxMXpUMDRyZVJQN1F3Zm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEhOcnZ6M0FfQTlURzYwNGxVakp2Z0tVSVl5ZlNBcVVkcGxCUFljR2xnLS16OWtTeWFjNlA3bkJ1VVVaQ0F6YkZpWTZxLVlIdVk5aVEyZ0FVLUR2M3JRWGpxMXpUMDRyZVJQN1F3Zm4wQ3kzdFplNlgwV1JfWjRrcmFsbGhqRGI0ZlR5TXhJU29pRm9jTzB2VHEwWW51cW9LR2xxdFgxYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-05-28-001",
     "date": "2026-05-28",
     "companies": [
@@ -100,6 +182,169 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMnhMNi01dzJPM3Jfa3B0WVF0MzdoMGt1VE1OT2FQdDN6Slp1NWxaOVdNbDNNRFFKcjNEa3hnTzgtdnpjcWhSZ1RuZTk4Y1BsQVlFTWxwV2NYZndPakg0MjF1SjdOTUNFVVhhZTlHMUpPWEQ3UGRhYmtFdG1tRGJ5VHBOQlRmazdpUkFKOEVELXdweEF0eUhEYkFoR0pTNjU5RGpna3BtcGx2SXVFTVpj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amada-2026-05-28-006",
+    "date": "2026-05-28",
+    "companies": [
+      "amada"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Amada Co Ltd stock (JP3163200001): Industry backdrop as shares trade steadily in Tokyo - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNFduT1Zkb2htWEdZT243NGVkeUhXbjRDOFYzbWJPRExXeHI3TjlhdW1iYnlmQVJndkJXN1hEQXJUbkVJYVl3YnF4M3JGVDNRLVdhUTJVZ3V2WS1DNlZPUGZhRWpJTVRFTWZkeWwyZH",
+    "sources": [
+      {
+        "name": "amada",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNFduT1Zkb2htWEdZT243NGVkeUhXbjRDOFYzbWJPRExXeHI3TjlhdW1iYnlmQVJndkJXN1hEQXJUbkVJYVl3YnF4M3JGVDNRLVdhUTJVZ3V2WS1DNlZPUGZhRWpJTVRFTWZkeWwyZHVvbGtnTXRTX3FYTUdTcnUtQklWc1dmcVE1ZXIxTkMyZ1JBTkZpQllHQmIyWDJSMlJabHMyVUxmeVhzc201LWhkbjBjeG9GUEdabHNzUTJwbXViQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-28-007",
+    "date": "2026-05-28",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (PH) Has an Aftermarket and Aerospace Mix the Industrial Label Misses - AlphaStreet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0dpeHZoUW84eU5wbUZvdEZROW8tR0E4bzFIa0FpTHJmZFBMdlpqaUoxb0xlRF8xMWMxX1ROSXFfMFByYTFOcl96dXFJZnlrNFdtbWprbjEtMnpYNkFPaFU4WlpsZEpMblJ1TjB5eX",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa0dpeHZoUW84eU5wbUZvdEZROW8tR0E4bzFIa0FpTHJmZFBMdlpqaUoxb0xlRF8xMWMxX1ROSXFfMFByYTFOcl96dXFJZnlrNFdtbWprbjEtMnpYNkFPaFU4WlpsZEpMblJ1TjB5eXVHRVB4VkNuVjdhSm5oWnEzeHFISXdoQXowbFJhdDZoSmpGRGFMQlE0UGhVa3NKUWtYTnMyak5EZjdzdG9tZG1weXBIWdIBswFBVV95cUxQa0dpeHZoUW84eU5wbUZvdEZROW8tR0E4bzFIa0FpTHJmZFBMdlpqaUoxb0xlRF8xMWMxX1ROSXFfMFByYTFOcl96dXFJZnlrNFdtbWprbjEtMnpYNkFPaFU4WlpsZEpMblJ1TjB5eXVHRVB4VkNuVjdhSm5oWnEzeHFISXdoQXowbFJhdDZoSmpGRGFMQlE0UGhVa3NKUWtYTnMyak5EZjdzdG9tZG1weXBIWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-28-008",
+    "date": "2026-05-28",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Parker Chomerics chassis seal ensures leak-tight performance - Aerospace Manufacturing magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQVkgwRWM5TTRwS19WbWw4RTlGVXRFUU5xMDhIZEYxY2pLNGU1eE1SUTZEYlFBWTcxYnVLZlU2dXNBempOcm9Qb3Y5LW1hNkI3dWh6eUlNZVdTRGI4aDRqdUdYVE1VWUhadGppaktOSU",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVkgwRWM5TTRwS19WbWw4RTlGVXRFUU5xMDhIZEYxY2pLNGU1eE1SUTZEYlFBWTcxYnVLZlU2dXNBempOcm9Qb3Y5LW1hNkI3dWh6eUlNZVdTRGI4aDRqdUdYVE1VWUhadGppaktOSUVPb1duckZGdG96b0JOZzFzWkdDQjFtaEV1OHc1V2NkV3lkS2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-28-009",
+    "date": "2026-05-28",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Rallies 59% Amid AI Trade Boost, Offers Buy Point - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE42aFN6RS16WTF2d3VZQ2lzQ2pmY1JCRi11RmxUVlJWYnF3cEVEX2E5YjZRU1cxVHh1TWxFcVdKUzJmNjNkQVlTVHE3dEpfTHJQMmNyMV9pdV9PaTZOSkpIaVdPSlNtWDJnSjdFeURCR2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42aFN6RS16WTF2d3VZQ2lzQ2pmY1JCRi11RmxUVlJWYnF3cEVEX2E5YjZRU1cxVHh1TWxFcVdKUzJmNjNkQVlTVHE3dEpfTHJQMmNyMV9pdV9PaTZOSkpIaVdPSlNtWDJnSjdFeURCR2pJdC1fay0tVkc4ZW0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-28-010",
+    "date": "2026-05-28",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Caterpillar Is Evolving Into a Tech-Driven Heavy Equipment Leader - Thomasnet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nR1pTaEtLN3pjTTFtS3RTY2dVWkhhYmwyYTBfR2xnVlptdFI1MWVxVTlJeWlxWjhNVEgyYmhfSm1HakY2TzdlX005Z0pEcWVlMTlJZDFkVEhpUkZ5MlR1UEU0b24xMjg?oc=5\" targ",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nR1pTaEtLN3pjTTFtS3RTY2dVWkhhYmwyYTBfR2xnVlptdFI1MWVxVTlJeWlxWjhNVEgyYmhfSm1HakY2TzdlX005Z0pEcWVlMTlJZDFkVEhpUkZ5MlR1UEU0b24xMjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-28-011",
+    "date": "2026-05-28",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is It Too Late To Consider Caterpillar (CAT) After A 163% One-Year Surge? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2lmQTV0ZFJGeGJGcWktYkFHcU8yWjZqdWZnQl9uV1NvamcxLV9wNllYX2FhM0xXbkhnUjFxTVBmR2JVWXI4R0txTzFtbVAycFNud0pZcGRlUXZiTHVLbGdwa1pUSFJKUGZaSUltYk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ2lmQTV0ZFJGeGJGcWktYkFHcU8yWjZqdWZnQl9uV1NvamcxLV9wNllYX2FhM0xXbkhnUjFxTVBmR2JVWXI4R0txTzFtbVAycFNud0pZcGRlUXZiTHVLbGdwa1pUSFJKUGZaSUltYkd0NDBCS1NWaTdCYWlEVnVLM0RzLWpZdWdsMVN3SWs0dDAxYnFUczQ4bDVKVjNOaTNWU3B5YkV2TmVWNGRqaFp2eVhnQ3l0bm1aanZXWFhZVlZLM2VGSXIzeHVaMnnSAdIBQVVfeXFMT3VROFlEMlV0V2lTNEh6WkUzWDliTmFWNHgtLV9sUUdqUjdMa0JzNU1LVTVXRWZLWjlnOWtidVBWZWlrU21wOVEwR2RzVmstMklEU1BvSVFvamNFVnNzMFJKUmNGSms2em00bnltSlVURHBsb3U0ZUx2XzU4N3J5LUFSZ09IX2ZTUHN1bFRsdFRDOWpzekN6STh6T3VLT1UzYjdOSXhINklMVUE4Y29yem5iTmwwZjNmS29ldzhFV0FLSDloS2FQUU1QZ0NiLU5HT0hB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-012",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "New Indy initiative focuses on robotics, manufacturing skills - Indianapolis Recorder",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9qS0NPX0JWWm53WTBWbjdtQ2U2cFRnQXlZbUFnbHhrY0d6Sm96ODI4YlhXbmJoSnFFc2RPRmhsTDVxcWwtUWZuRFIwdEZRZTd3QTFhc3NGUEt3QWZCMFhrRDNkUGptd3drQ053VEJfeV",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qS0NPX0JWWm53WTBWbjdtQ2U2cFRnQXlZbUFnbHhrY0d6Sm96ODI4YlhXbmJoSnFFc2RPRmhsTDVxcWwtUWZuRFIwdEZRZTd3QTFhc3NGUEt3QWZCMFhrRDNkUGptd3drQ053VEJfeVpycm9iOFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-013",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why 80% of manufacturers aren’t automated",
+    "summary": "<p>Even though 98% of manufacturers are exploring artificial intelligence, a staggering 80% are not automated. The reasons are complex.</p>\n<p>The post <a href=\"https://www.plantengineering.com/why-80",
+    "sources": [
+      {
+        "name": "plant_engineering",
+        "url": "https://www.plantengineering.com/why-80-of-manufacturers-arent-automated/",
         "type": "rss"
       }
     ]
@@ -485,6 +730,47 @@
       {
         "name": "google_news_industrial_automation",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc3dqZEp3ekxETS1RLUswOG1nYm9wa3U2bjdROEVpQUk2QXhkYTg5elYxaGVFeUhLdmpLZDVPbEttdkIzakFOeU1pQTVab3pCbnhXa3pra3RHRVkwYUxWdzUxUEtQZmJpVVdWV3VZYUQ0ZmRCaXBDYjl1UXhrci00a216U2pmYmJlemV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-27-020",
+    "date": "2026-05-27",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kevin Sutherland's eagle putt on No. 13 at Mitsubishi Electric Classic - PGA Tour",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3hLLW1ySUJaN1FKUUdyQnFjN0kzR1RJbzByUW1wLVp4TVVFNkJHZW5ySGVJSldhb19XZENsUTB3a19Eb0ZneFFKRWxneTRQZ0lnWl81eVdGVlJOenl3TEh5LXdCdW0yVUFzT2duWG",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3hLLW1ySUJaN1FKUUdyQnFjN0kzR1RJbzByUW1wLVp4TVVFNkJHZW5ySGVJSldhb19XZENsUTB3a19Eb0ZneFFKRWxneTRQZ0lnWl81eVdGVlJOenl3TEh5LXdCdW0yVUFzT2duWGhLODBtbldkNHpzYUhIMVVPZTZDZU1HZ002OWJJMnNvY3dEb1pkWS1FV0NTWF9sTTF6M0paTTdMM0ZYZHpzLVlqVHY1LVhmQlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-27-021",
+    "date": "2026-05-27",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jeff Sluman’s hole-out eagle at Mitsubishi Electric Championship - PGA Tour",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWxqaHN1UHlYTWlzdUJvWEY5eFhWT19lLWg0RDA3WnZMdEEwN3lVSDRwRHYtRmF0M1RhWTVqRHI4Q3NTbnB5XzhBeVpydXduUFNQUEV4SHBOS0FBalE3clpEZE1hNHNTd1FpSWFqWF",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWxqaHN1UHlYTWlzdUJvWEY5eFhWT19lLWg0RDA3WnZMdEEwN3lVSDRwRHYtRmF0M1RhWTVqRHI4Q3NTbnB5XzhBeVpydXduUFNQUEV4SHBOS0FBalE3clpEZE1hNHNTd1FpSWFqWFk1SllnQTJ5TURDYTZLdTRQN194X2Zndzgyb1dpbnhtZE5sVk1IQTdzVGpKRFFRc3BiX093WlVyVHp2dEdpRzNwd1Bn?oc=5",
         "type": "rss"
       }
     ]
@@ -950,6 +1236,27 @@
       {
         "name": "mitsubishi_electric",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN3pLRVY3QVhDQXIxVE1VbnFxSDlRbWJFdUFQSUtjbkJJVnFuZUFQVjFmOGtoNFlBUGs1OGhsS0hRTUxRdF8tT0IzOHVBT2k1UkdFS1ZnV3YzN0FUeTFmX0NLX1NVRzB4aW04M1llQ0VTMFAtd3g1b2NDOERNWWVKRDk0a1p0V3ptM3dtbmV0SW14em5BWldUa05Bem5IRFdkdXF2azdaZ0xVaTRhaG1aOTB2TkpSVllZYVJoUnRQREZMQkVXLUJWd2NTYVJMdDI1TXpVWUoxZDY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-26-024",
+    "date": "2026-05-26",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric and Chiba Institute of Technology to Co-Research and Develop Homegrown Physical AI - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQU5yUk1QeU5CM080XzlmTk5DMm9UN09fc2djZEdDN0VWMmh5dmpfZ0I0dzVWUWVfbEFoZmFlTTlXZGdyR004TTRYSENmTTNJMzZQYTVfQ1p0UDRHeVVDaEEyc0pqd3UzanVpRzg4Ny",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQU5yUk1QeU5CM080XzlmTk5DMm9UN09fc2djZEdDN0VWMmh5dmpfZ0I0dzVWUWVfbEFoZmFlTTlXZGdyR004TTRYSENmTTNJMzZQYTVfQ1p0UDRHeVVDaEEyc0pqd3UzanVpRzg4Ny1OdnhqR1lpRWU2NTRyNEItR3ctMXJHQXNyb3NvNDJxemNPQzVnUWREZDdVaV9iLUdZdkZGN3N3V2l2cG9PNVFBSEN2cHJHTG5EVGROWHhXWENYZ01pLTVYWkkxcllObmQ4YjNVdzRPd3BGNHpCTEgzYlNCSXJmTjNZR19Ka3Q0U0Q?oc=5",
         "type": "rss"
       }
     ]
