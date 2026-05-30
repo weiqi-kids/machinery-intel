@@ -1,0 +1,16 @@
+{
+  "total_raw": 396,
+  "dup_title": 227,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 1,
+  "gate2_fail": 7,
+  "passed": 18,
+  "gate2_samples": [
+    "Hiwin inaugurates new Italy headquarters - Focus Taiwan",
+    "Mitsubishi Electric : IR Day 2026 - marketscreener.com",
+    "DMG Mori's Finalizes Terms for 10 Billion Yen Bonds - Moomoo",
+    "Assessing Illinois Tool Works (ITW) Valuation As Analyst Targets Clash With Cash Flow Estimates - si",
+    "Parker-Hannifin to Acquire Circor Aerospace from KKR, Reuters Says - Yahoo Finance"
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T09:53:19.561724Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-05-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Jeff Sluman birdies No. 14 at Mitsubishi Electric Championship - PGA Tour",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT1hDZXF6bFNMeXJaUGktRmExOVg0aGg3ZEJpVWhFQTRwcDB5d2VXTnJNUDd4RkpIdlFQd3FKdzJZM1c2dFFlLVlITjEwc18yUXNIcXFleEVrWjlVNEp1U0lHQk9GSFkweFhFcmxucWNvUXZHVWxNb3RDOUVNMnpETmN5ZU1YeE51M1Q1a0Y3RHdCc1REZ29DQ0tMUklsb0RzUW1pc0VIenRFeVJvb1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "parker_hannifin-2026-05-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rep. David Taylor Purchases Shares of Parker-Hannifin Corporation (NYSE:PH) - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPajRnTElXZWNqbkN6d0RCQzlXeFVhUkJZbWpfbm85bjJGX3UwWnZtQTlMbEh3MmlYLVh6djc5RzRtNzVLS1ZVVXJOUExFeWMyQ1drMS1QOW5iTEVSUjg4TGdqeHVIbEFjR2ZLQ05neEZUZWtROUVwbF83dWxDdDJiWGNFa25IalllSkx6VkpNc0l1THp1Sjg3X3Fnb1N1dV9lZ05CT2VueXlvNm82SHJLbmUtdHZhSl9MTkwzck5GM0xqYmM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-05-30-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker Hannifin to Acquire CIRCOR Aerospace Business for $2.55 Billion - Machine Maker",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVjF0VHpCSDV1ZXd2dklBdHE2S0dXeWk0eEhBbkxvN1hjcmR5YU9yWVNITHpJRlVraFNZUEZlWjJOS3VYczM0WTQ0UmtVR182NkhmazZ1NUlRdjQ5cDNUSzVDZVktMXVBbTNUeDB2WmpDdVdqVGV4RGxLOTdCODRObThWV1lKY3B4S2NUdWs4Q3gxM3ZBc3BVOV94SDJ2S3ZZMC1vMVFB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-05-30-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "JPMorgan, Caterpillar Among 11 Companies To Announce Dividend Increases In June - Seeking Alpha",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1F6OURscDdBazYwTldyYkNDWDFKVUp3dlBfQlozNHlXUkFrMHFFb2xNUnRLb2hRakRpa1Zmb3dVTzlOeFdTdWtGb2hOWENoQjIySTQzc3Q4OXpKbWFFM1hkOTE3WXJDdDgxbzd4ZDdUdHBpSlc5VkJocGl4cndZbU9abVBleEhkZGZLbDA2SG5UOGwtTEQySG9wcjJlbWZqVUU0QTg0VUhkdWdhX0ljQ3lzUUVEeVZBdWhF?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-05-30-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Years of Rewards: $43 Bil From Caterpillar Stock - Trefis",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cnc_technology",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVhaNThKTzZPY0c4ZTdhcTVfMmhfUWgwZzFYZWR5RlF3aE1NUXBTX1BhQ2tEV1Nhank0Rm1PSGd6b2F2NUdDaTE1ZVE4MlQ3cTgweDZKSy1uVzFvT3B4WXpzX0NnLUh3a2tsSGMwcncwMWpNR2lVUktERzIxT25PSUdOVFJxaDNCNDZOZWRVOFprQnRaM3I1cWkzSWhSTjFkc0hJNGpqTncwWjZ0MmVmOEpEanNuQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cnc_technology": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 4
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      },
+      {
+        "id": "cnc_technology",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 396,
+    "dup_title": 227,
+    "too_old": 143,
+    "gate1_blocked": 1,
+    "gate2_blocked": 7,
+    "passed": 18,
+    "pass_rate": "10.7%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "Hiwin inaugurates new Italy headquarters - Focus Taiwan",
+      "Mitsubishi Electric : IR Day 2026 - marketscreener.com",
+      "DMG Mori's Finalizes Terms for 10 Billion Yen Bonds - Moomoo",
+      "Assessing Illinois Tool Works (ITW) Valuation As Analyst Targets Clash With Cash Flow Estimates - si",
+      "Parker-Hannifin to Acquire Circor Aerospace from KKR, Reuters Says - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為CAT、Parker、Mitsubishi Electric相關動態：「Jeff Sluman birdies No. 14 at Mitsubishi Electric Champio...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Jeff Sluman birdies No. 14 at Mitsubishi Electric Championship - PGA Tour（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rep. David Taylor Purchases Shares of Parker-Hannifin Corporation (NYSE:PH) -...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

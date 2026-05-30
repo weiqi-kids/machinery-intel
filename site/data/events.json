@@ -1,5 +1,153 @@
 [
   {
+    "id": "mitsubishi_electric-2026-05-30-001",
+    "date": "2026-05-30",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jeff Sluman birdies No. 14 at Mitsubishi Electric Championship - PGA Tour",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNT1hDZXF6bFNMeXJaUGktRmExOVg0aGg3ZEJpVWhFQTRwcDB5d2VXTnJNUDd4RkpIdlFQd3FKdzJZM1c2dFFlLVlITjEwc18yUXNIcXFleEVrWjlVNEp1U0lHQk9GSFkweFhFcmxucW",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT1hDZXF6bFNMeXJaUGktRmExOVg0aGg3ZEJpVWhFQTRwcDB5d2VXTnJNUDd4RkpIdlFQd3FKdzJZM1c2dFFlLVlITjEwc18yUXNIcXFleEVrWjlVNEp1U0lHQk9GSFkweFhFcmxucWNvUXZHVWxNb3RDOUVNMnpETmN5ZU1YeE51M1Q1a0Y3RHdCc1REZ29DQ0tMUklsb0RzUW1pc0VIenRFeVJvb1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-30-002",
+    "date": "2026-05-30",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rep. David Taylor Purchases Shares of Parker-Hannifin Corporation (NYSE:PH) - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPajRnTElXZWNqbkN6d0RCQzlXeFVhUkJZbWpfbm85bjJGX3UwWnZtQTlMbEh3MmlYLVh6djc5RzRtNzVLS1ZVVXJOUExFeWMyQ1drMS1QOW5iTEVSUjg4TGdqeHVIbEFjR2ZLQ05neE",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPajRnTElXZWNqbkN6d0RCQzlXeFVhUkJZbWpfbm85bjJGX3UwWnZtQTlMbEh3MmlYLVh6djc5RzRtNzVLS1ZVVXJOUExFeWMyQ1drMS1QOW5iTEVSUjg4TGdqeHVIbEFjR2ZLQ05neEZUZWtROUVwbF83dWxDdDJiWGNFa25IalllSkx6VkpNc0l1THp1Sjg3X3Fnb1N1dV9lZ05CT2VueXlvNm82SHJLbmUtdHZhSl9MTkwzck5GM0xqYmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-30-003",
+    "date": "2026-05-30",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin to Acquire CIRCOR Aerospace Business for $2.55 Billion - Machine Maker",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOVjF0VHpCSDV1ZXd2dklBdHE2S0dXeWk0eEhBbkxvN1hjcmR5YU9yWVNITHpJRlVraFNZUEZlWjJOS3VYczM0WTQ0UmtVR182NkhmazZ1NUlRdjQ5cDNUSzVDZVktMXVBbTNUeDB2Wm",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVjF0VHpCSDV1ZXd2dklBdHE2S0dXeWk0eEhBbkxvN1hjcmR5YU9yWVNITHpJRlVraFNZUEZlWjJOS3VYczM0WTQ0UmtVR182NkhmazZ1NUlRdjQ5cDNUSzVDZVktMXVBbTNUeDB2WmpDdVdqVGV4RGxLOTdCODRObThWV1lKY3B4S2NUdWs4Q3gxM3ZBc3BVOV94SDJ2S3ZZMC1vMVFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-30-004",
+    "date": "2026-05-30",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "JPMorgan, Caterpillar Among 11 Companies To Announce Dividend Increases In June - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1F6OURscDdBazYwTldyYkNDWDFKVUp3dlBfQlozNHlXUkFrMHFFb2xNUnRLb2hRakRpa1Zmb3dVTzlOeFdTdWtGb2hOWENoQjIySTQzc3Q4OXpKbWFFM1hkOTE3WXJDdDgxbzd4ZD",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1F6OURscDdBazYwTldyYkNDWDFKVUp3dlBfQlozNHlXUkFrMHFFb2xNUnRLb2hRakRpa1Zmb3dVTzlOeFdTdWtGb2hOWENoQjIySTQzc3Q4OXpKbWFFM1hkOTE3WXJDdDgxbzd4ZDdUdHBpSlc5VkJocGl4cndZbU9abVBleEhkZGZLbDA2SG5UOGwtTEQySG9wcjJlbWZqVUU0QTg0VUhkdWdhX0ljQ3lzUUVEeVZBdWhF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-30-005",
+    "date": "2026-05-30",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar, Inc. Stock 12‑Month Price Target Raised to $964.81, Implies 10% Upside - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3VBVFpZTU9TX1dkUG51UFVJRE9SZnc0MTFZUUxuMGxVb3M0VUg2MEhCN2h3eUdtMXRVaDdGTjF2eVplU01QalF1cHY5ZWgtLU9yQWMxeHNvLXpWOGRxRVA5SFdhTlRqbkJMZ0ZsWm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ3VBVFpZTU9TX1dkUG51UFVJRE9SZnc0MTFZUUxuMGxVb3M0VUg2MEhCN2h3eUdtMXRVaDdGTjF2eVplU01QalF1cHY5ZWgtLU9yQWMxeHNvLXpWOGRxRVA5SFdhTlRqbkJMZ0ZsWmNrZzM2Y180dkFXbEY1Qk13NC0zZ2wtU1QxZTlVTm5YcmswQUlIWjRGY3M0UWdMeVpENVd2Vnk4aFFQclNOQWpnZ0M0ZVpYZDJkVHVTXzZUa2JGNENVMzMxem5HMUE2YWdLQW9mUm5TZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-30-006",
+    "date": "2026-05-30",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "cnc_technology",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Years of Rewards: $43 Bil From Caterpillar Stock - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVhaNThKTzZPY0c4ZTdhcTVfMmhfUWgwZzFYZWR5RlF3aE1NUXBTX1BhQ2tEV1Nhank0Rm1PSGd6b2F2NUdDaTE1ZVE4MlQ3cTgweDZKSy1uVzFvT3B4WXpzX0NnLUh3a2tsSGMwcn",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVhaNThKTzZPY0c4ZTdhcTVfMmhfUWgwZzFYZWR5RlF3aE1NUXBTX1BhQ2tEV1Nhank0Rm1PSGd6b2F2NUdDaTE1ZVE4MlQ3cTgweDZKSy1uVzFvT3B4WXpzX0NnLUh3a2tsSGMwcncwMWpNR2lVUktERzIxT25PSUdOVFJxaDNCNDZOZWRVOFprQnRaM3I1cWkzSWhSTjFkc0hJNGpqTncwWjZ0MmVmOEpEanNuQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-30-007",
+    "date": "2026-05-30",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CAT Youth Welding Apprentices honored for achievements - The Sanford Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc052bnpNSnFQVDFoY1NLN3hzNnAzNzV5RGptUTloUDFGbzdLUURxU2FuQTNJTjhwVnB6M1BwcnFVZkFCS0VycUpwdnhRcnpadFRaLWFSdDlpN2szMHlDc2RzWHRaczBMOWNwaXdEZl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc052bnpNSnFQVDFoY1NLN3hzNnAzNzV5RGptUTloUDFGbzdLUURxU2FuQTNJTjhwVnB6M1BwcnFVZkFCS0VycUpwdnhRcnpadFRaLWFSdDlpN2szMHlDc2RzWHRaczBMOWNwaXdEZlpfOWRUWWo1NmtySlREMG1yZTdkSFlab1F5eHdhMEx5LTBHRE82NC1WMGNzRDQ0SHdmUnNLaFdyNFc0TTBBc1RhQjVGVjhtVGJzZ0gyTnQ5ZUdELS1VODhlVVQyc3lqRHFaQmdYQjZpdWVBRTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-05-29-001",
     "date": "2026-05-29",
     "companies": [
@@ -77,6 +225,145 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEhOcnZ6M0FfQTlURzYwNGxVakp2Z0tVSVl5ZlNBcVVkcGxCUFljR2xnLS16OWtTeWFjNlA3bkJ1VVVaQ0F6YkZpWTZxLVlIdVk5aVEyZ0FVLUR2M3JRWGpxMXpUMDRyZVJQN1F3Zm4wQ3kzdFplNlgwV1JfWjRrcmFsbGhqRGI0ZlR5TXhJU29pRm9jTzB2VHEwWW51cW9LR2xxdFgxYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "keyence-2026-05-29-005",
+    "date": "2026-05-29",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Keyence Corp stock (JP3236200006): shares hover near recent highs on Tokyo market - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFFvcU9QUm9BT1VpLUU1TGtXLWNlTWJPTlBSV2hOWkxzLVFQRlNBYTFtQnE0bFZlVlBwMzhjN3U3NjUwRjhUR3N1T2ZoY0FscHg2YXZGaXVqOGt1ODlBVmFJMXNPb1Q0NzNSQ3ZUSE",
+    "sources": [
+      {
+        "name": "keyence",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFFvcU9QUm9BT1VpLUU1TGtXLWNlTWJPTlBSV2hOWkxzLVFQRlNBYTFtQnE0bFZlVlBwMzhjN3U3NjUwRjhUR3N1T2ZoY0FscHg2YXZGaXVqOGt1ODlBVmFJMXNPb1Q0NzNSQ3ZUSEtKeVF2bUVIZmFnbEN2WkV2WktRem1TR2pCYi0yd1VybnZ0NV9mTEtIcXF0dVR6Nl9IX1RaTDZJRTh2dEdZM1QwUm9EQmRuV2ZMc2owM1U1VHBHMng1QUZEczFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-29-006",
+    "date": "2026-05-29",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Padraig Harrington makes birdie on No. 17 at Mitsubishi Electric Classic - PGA Tour",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT05uZXpuc0dYV1ZKTFBBeVNad0QxYm81YVhkS0VNNU5LaWVBdXRiYTBIZVdlUkE1RGctUUtMdXE2c2F1VFhUdGlON1V4clRvVEdmTk9hYmpGOUpoM0NaeDN5SFRkaGRJcnhsQi1md2",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT05uZXpuc0dYV1ZKTFBBeVNad0QxYm81YVhkS0VNNU5LaWVBdXRiYTBIZVdlUkE1RGctUUtMdXE2c2F1VFhUdGlON1V4clRvVEdmTk9hYmpGOUpoM0NaeDN5SFRkaGRJcnhsQi1md2FVajlGQzdKQlhIUUVPUUFmWFBFWndOUllaRmJQb2VHcGdRSm5hTkNfWl9Md2s1czlaNmxNbzliMUg1U2tLTlh1cXFoS3NVQkRwZVA4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-007",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi gets US midsize pickup from Nissan, revives Pajero SUV - Automotive News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeExBOXJBN0FEWHgySXEzSzlfd2lxQ1BqVG5Ha1I1UmVNOWZtUXVMRk1wWnUyQUNtNUJyYWJHVnJHdDlxVHMxZ0psRmpQLWUyVXo4aTFtT01nX0JVcFlyZWR3cnVTWWFYaUh1dGRDOU",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeExBOXJBN0FEWHgySXEzSzlfd2lxQ1BqVG5Ha1I1UmVNOWZtUXVMRk1wWnUyQUNtNUJyYWJHVnJHdDlxVHMxZ0psRmpQLWUyVXo4aTFtT01nX0JVcFlyZWR3cnVTWWFYaUh1dGRDOUtSQnhTSVNlWGR6ckM0M2hXcXN0NUNQWVZuVWpMZm5IWW9MNjBOdGdCQ0hHMEN1ZTZWMk9QbzhCWU9tTks5QlkxenJqOVJTTWxx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-29-008",
+    "date": "2026-05-29",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 Reasons ITW is Risky and 1 Stock to Buy Instead - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWE1SkgxQkktQWpJRDdnZ1VWX3NuN0tJMjRMUjhpd1ZabGFveEF2Ti1qYzZTOVYzck5sZUhjZTdIejJ1VThlNGFCd1RSSmJvNllrSGEzSXh4SFlGU0M5UDNvalNmY3o0cmNOVEZlRl",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWE1SkgxQkktQWpJRDdnZ1VWX3NuN0tJMjRMUjhpd1ZabGFveEF2Ti1qYzZTOVYzck5sZUhjZTdIejJ1VThlNGFCd1RSSmJvNllrSGEzSXh4SFlGU0M5UDNvalNmY3o0cmNOVEZlRlVFNnI5NVZacnY4WVBtSlJGTmpIVXFSNXNnR1RTNVhqRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-29-009",
+    "date": "2026-05-29",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Stock (PH) Opinions on Congressional Stock Purchases - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSmh6NmxsNG5zTWtnUGhIYTdWUzlYRFlYTlpEaTlwcTRCM3k0TVR0ZzlCZmZMc0tTZUM3aGl1eTkyZXd3X1ZJVS1Sa2xSekpfc0ZyeG9mSDk3RVNSem9xSm5LREh0SHExVElDVHY3R2",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSmh6NmxsNG5zTWtnUGhIYTdWUzlYRFlYTlpEaTlwcTRCM3k0TVR0ZzlCZmZMc0tTZUM3aGl1eTkyZXd3X1ZJVS1Sa2xSekpfc0ZyeG9mSDk3RVNSem9xSm5LREh0SHExVElDVHY3R2o2bENmaFhkWVM5OW00Sy1TbmVXeUpJblJzLUdCUmRraHJKLWZmdi1aU1Y3aXI3Q3U2cjMtdk5qV0c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-29-010",
+    "date": "2026-05-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trade tracker: Steve Weiss trims Caterpillar and buys more Dick's Sporting Goods - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPXy1oeDk0Ym1iMmdqVldKSnJ3YnZ5QUVDVUJiYzZqdHVmLWdrWC1zNWFlWHZnMGpuajM4OWc2MXBlUkJndEFVWC1KNk9nMGp6cnZDLTRqUE5UR0tlM0VqSWhPQkpWT0xmWDZwdXQtXz",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPXy1oeDk0Ym1iMmdqVldKSnJ3YnZ5QUVDVUJiYzZqdHVmLWdrWC1zNWFlWHZnMGpuajM4OWc2MXBlUkJndEFVWC1KNk9nMGp6cnZDLTRqUE5UR0tlM0VqSWhPQkpWT0xmWDZwdXQtXzZRSzRQd21Kc2NmaG5PcXB2cmt2bVlVU1NFN0NYSm9vdF91YklxNTFjTndjcHYzQlFtbTAwNmlwR0dZZXNLY1JCcXZaelVWWU9KMWw2dkdtRldJMk9za2wtem03TmNxZkV6QzhwV3lfNzRKd2JoMkt6Ti1rU3Z6eXlnTlBHQWdtZlg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-29-011",
+    "date": "2026-05-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "United States Machine Tools Market Size, Share | CAGR of 4.9%.. - Market.us",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE8yYUNldU5TUDFCV1VEWGk5UnhjUVNmUm4ycVBTRjVFUU5HeWNJY21HelpEelVqdC1MTlZBYWxSaVoxel81Z3o1WVJucVhhcWxBd3lRQW1NYzJva2djWXozdU5RYkszMlJFcTNNbQ?oc=",
+    "sources": [
+      {
+        "name": "google_news_machine_tools",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yYUNldU5TUDFCV1VEWGk5UnhjUVNmUm4ycVBTRjVFUU5HeWNJY21HelpEelVqdC1MTlZBYWxSaVoxel81Z3o1WVJucVhhcWxBd3lRQW1NYzJva2djWXozdU5RYkszMlJFcTNNbQ?oc=5",
         "type": "rss"
       }
     ]
@@ -345,6 +632,44 @@
       {
         "name": "plant_engineering",
         "url": "https://www.plantengineering.com/why-80-of-manufacturers-arent-automated/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-28-014",
+    "date": "2026-05-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Clayton center expands its workforce and embraces new tech - Dayton Daily News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbkE3SlJjSkJrajJ2M3ZrX01KYTBKNkI5amdpeTdMbC1EVWFINzQwWEcwdmx2TUlwNGRjUjlCSUdKZlJFbjlxY0FRLS1oTzk5WWQxa3ptdlI4SUkwRUNJalNMUVB0OWNQMFhqVDFrUl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbkE3SlJjSkJrajJ2M3ZrX01KYTBKNkI5amdpeTdMbC1EVWFINzQwWEcwdmx2TUlwNGRjUjlCSUdKZlJFbjlxY0FRLS1oTzk5WWQxa3ptdlI4SUkwRUNJalNMUVB0OWNQMFhqVDFrUlp4NEp5ZTg5TVlZR3oycGJXWjk2X3NKejdTblVUb1RPRkZOLUdiSWJPLTlIWDZ0OTJ0eTBuNHNZOXdfMHFrckVROFlZTVJqN0lMaU9xck1WWmtJRVlMNV8tUUVUc0xWYlFUR2lPeWxFMkxGX1lFNkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-28-015",
+    "date": "2026-05-28",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Warning as toxic caterpillars surge near Paris - The Connexion",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNYTNaMDlPS242QlBmSHNZeGtfSHFqeGp2cjJKODlnamY3anlVRkxTNjRFRWtoZVV2enVMSE9kQVdacW9rdkpSTC10YnVzdFBLeDQ5SUgzOUk2MmlTMXhGQTMyWmI0Nm9wdEQ4aXpSUE",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYTNaMDlPS242QlBmSHNZeGtfSHFqeGp2cjJKODlnamY3anlVRkxTNjRFRWtoZVV2enVMSE9kQVdacW9rdkpSTC10YnVzdFBLeDQ5SUgzOUk2MmlTMXhGQTMyWmI0Nm9wdEQ4aXpSUElodzc4bklMTDhLWW9NamsxU1R2bXg4Ql8wRmt5c0sxYWsxTVVTRHhRMU5Hel81T1dOOVNuZnlZYlBPMmtMSk5YdmhNZ2cxcVU?oc=5",
         "type": "rss"
       }
     ]
@@ -771,6 +1096,24 @@
       {
         "name": "mitsubishi_electric",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWxqaHN1UHlYTWlzdUJvWEY5eFhWT19lLWg0RDA3WnZMdEEwN3lVSDRwRHYtRmF0M1RhWTVqRHI4Q3NTbnB5XzhBeVpydXduUFNQUEV4SHBOS0FBalE3clpEZE1hNHNTd1FpSWFqWFk1SllnQTJ5TURDYTZLdTRQN194X2Zndzgyb1dpbnhtZE5sVk1IQTdzVGpKRFFRc3BiX093WlVyVHp2dEdpRzNwd1Bn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-022",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "This Plant Summons Wasps When Under Attack, And We Finally Know How - ScienceAlert",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNTnZuN2lJYTM1bHZPdWotNEgtNHlJd1FqcVVvZjdoZ1NZbVk3VHdCMXMxQl9CaE43eHdRWlNBNEc0Qkx0TlRzeURYOW9JeGZ4RjNJVGctRXFsNVBOVGhkMlc1dWk5czlkRTVmV2lpd0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTnZuN2lJYTM1bHZPdWotNEgtNHlJd1FqcVVvZjdoZ1NZbVk3VHdCMXMxQl9CaE43eHdRWlNBNEc0Qkx0TlRzeURYOW9JeGZ4RjNJVGctRXFsNVBOVGhkMlc1dWk5czlkRTVmV2lpd0VHcVRla1J1N0EyQ2I0cEN2b0lDdlVmZUZwbkdoTzJIalJmMHJzaGs4RDE4QQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1257,6 +1600,28 @@
       {
         "name": "mitsubishi_electric",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQU5yUk1QeU5CM080XzlmTk5DMm9UN09fc2djZEdDN0VWMmh5dmpfZ0I0dzVWUWVfbEFoZmFlTTlXZGdyR004TTRYSENmTTNJMzZQYTVfQ1p0UDRHeVVDaEEyc0pqd3UzanVpRzg4Ny1OdnhqR1lpRWU2NTRyNEItR3ctMXJHQXNyb3NvNDJxemNPQzVnUWREZDdVaV9iLUdZdkZGN3N3V2l2cG9PNVFBSEN2cHJHTG5EVGROWHhXWENYZ01pLTVYWkkxcllObmQ4YjNVdzRPd3BGNHpCTEgzYlNCSXJmTjNZR19Ka3Q0U0Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-26-025",
+    "date": "2026-05-26",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric (MIELY) Partners with Chiba Institute for AI Robotics Development - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPNW1FLUdtVUwtdXZteW04ckZoaURSRTR2ZVJyWDFaZzgyQVF6d2xpOTExMjlYWUhrWG1fdThWWEFOOXdRbEZ1MnNDSDY0czBvMHBUTkNObng2T2cybEFRVnpqdU1YOVI5LTlxX1FkQk",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNW1FLUdtVUwtdXZteW04ckZoaURSRTR2ZVJyWDFaZzgyQVF6d2xpOTExMjlYWUhrWG1fdThWWEFOOXdRbEZ1MnNDSDY0czBvMHBUTkNObng2T2cybEFRVnpqdU1YOVI5LTlxX1FkQk1qb1lMXzhVMVc3S0NwQ2NnWUU1dUJzSVpFek5JZVEtYjk0RXd2YWs0ZHYxNXd0dWE2RVp1QUl3eGdfeHc0RXJzQXQ3SVRReWxUTUdDNU9DdjJKUmxnXzlPVG9XQk5oZU0?oc=5",
         "type": "rss"
       }
     ]
