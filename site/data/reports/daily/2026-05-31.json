@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:09:01.731966Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 395,
+    "dup_title": 243,
+    "too_old": 137,
+    "gate1_blocked": 1,
+    "gate2_blocked": 8,
+    "passed": 6,
+    "pass_rate": "3.9%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "Hiwin inaugurates new Italy headquarters - Focus Taiwan",
+      "Mitsubishi Electric : IR Day 2026 - marketscreener.com",
+      "DMG Mori's Finalizes Terms for 10 Billion Yen Bonds - Moomoo",
+      "Assessing Illinois Tool Works (ITW) Valuation As Analyst Targets Clash With Cash Flow Estimates - si",
+      "Parker-Hannifin to Acquire Circor Aerospace from KKR, Reuters Says - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-05-31 無工具機產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

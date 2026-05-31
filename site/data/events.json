@@ -148,6 +148,65 @@
     ]
   },
   {
+    "id": "mitsubishi_electric-2026-05-30-008",
+    "date": "2026-05-30",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Corporation (MIELY) Analyst/Investor Day - Slideshow (OTCMKTS:MIELY) 2026-05-30 - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXdqd0RKZXRRRFUzd0FYRU5NbTNVeWJtaEE4S18tYWJZRUwxOGhpRGo4aUlkSUxBWDNPaV95eHNwWkpqMWE4MzRha21vNGgydWlsUDBPMTRvSFYxUnBSeG5HWl96T19uSkl1cUJvWU",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXdqd0RKZXRRRFUzd0FYRU5NbTNVeWJtaEE4S18tYWJZRUwxOGhpRGo4aUlkSUxBWDNPaV95eHNwWkpqMWE4MzRha21vNGgydWlsUDBPMTRvSFYxUnBSeG5HWl96T19uSkl1cUJvWU9zVU1ieWZkS2xDemE1aDN1d01mR0pjZ3QwWEYtTGVnYmJDMzk3b1N5VWUwYVVYcjVsTFFXcEtXOTRydHlQLWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-30-009",
+    "date": "2026-05-30",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dow Jones Giants Amazon, Caterpillar Lead Five Stocks Near Buy Points - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPRWhHVDZSQ0YxbTNhZlE2RGNWUnFPWFNqdkRhZWNuWkZuWG1pcUN1ekgydTlIQngzSzctZ2J5WHVCVzRFOFlsaUdIcUZuZU8yRDlZTU1DeUxUSHpQSWZNWkpvbENVemxZeVJzdnNESn",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRWhHVDZSQ0YxbTNhZlE2RGNWUnFPWFNqdkRhZWNuWkZuWG1pcUN1ekgydTlIQngzSzctZ2J5WHVCVzRFOFlsaUdIcUZuZU8yRDlZTU1DeUxUSHpQSWZNWkpvbENVemxZeVJzdnNESnRzR3Robkdmd0M5QVR1YlM1OG13M3V5amNzcDBSMmVFbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-30-010",
+    "date": "2026-05-30",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Is Caterpillar Stock Outperforming the Nasdaq? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0hPbnB1QUNNMG00WkZadjZNSENudXlueE90VWFaM21HbW85SmU2REk5RjlrTVNQWllUU084MFZKSkE4NHJEWUt0RFFHUTVZLXFtYnJhM2xFMzNzSGJDbllDWXU2eTg5MEh3YXp2WG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0hPbnB1QUNNMG00WkZadjZNSENudXlueE90VWFaM21HbW85SmU2REk5RjlrTVNQWllUU084MFZKSkE4NHJEWUt0RFFHUTVZLXFtYnJhM2xFMzNzSGJDbllDWXU2eTg5MEh3YXp2WGh6VnMyQ0FQYUNlVnV6bjc4cVk0bEwzVUhaSjI4c2c1cGlFSU5WQjc3SUo4Z2NkN3h1Um5sYmlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-05-29-001",
     "date": "2026-05-29",
     "companies": [
@@ -364,6 +423,27 @@
       {
         "name": "google_news_machine_tools",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yYUNldU5TUDFCV1VEWGk5UnhjUVNmUm4ycVBTRjVFUU5HeWNJY21HelpEelVqdC1MTlZBYWxSaVoxel81Z3o1WVJucVhhcWxBd3lRQW1NYzJva2djWXozdU5RYkszMlJFcTNNbQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-05-29-012",
+    "date": "2026-05-29",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 Reasons ITW is Risky and 1 Stock to Buy Instead - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNRndleDY0MTV5SjladF9kN1lmb1BINkNLRVFYNnQtSnZzbDdkMFh2UWs0SDdmWGdtM2VwNFFvak44NWFkVFFqTkNPWFNHS1Fra19nY05lSXI3SGFudFFWdGNvelp0SXV2R2pTLTUxY3",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRndleDY0MTV5SjladF9kN1lmb1BINkNLRVFYNnQtSnZzbDdkMFh2UWs0SDdmWGdtM2VwNFFvak44NWFkVFFqTkNPWFNHS1Fra19nY05lSXI3SGFudFFWdGNvelp0SXV2R2pTLTUxY3FweEZ1NThVbVpZWVQtS0tsOXpzZ1lKeE5oV2VaQWVnMGt1T2dXTUlUTTVhamFaQzk4TUdyUzdQdUtidEo3aFRYWlFZTXI1VjlsbVZsYmhtWVgzNnJDLURucERVUG1Fdw?oc=5",
         "type": "rss"
       }
     ]
@@ -1119,6 +1199,28 @@
     ]
   },
   {
+    "id": "caterpillar-2026-05-27-023",
+    "date": "2026-05-27",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Clayton Caterpillar distribution facility celebrates 15th anniversary - WDTN.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdm5SalowdGhLMGxxSHAyUDZ1ektaMXAyaHZiRU01T0JHd3NoemNOREFMbWhxNG9NT1V1RHVMZ1h4THViRjdCbm8tenhHS1lJTnZ2VXgtU0xNSFgtRkR4bGZTQl9hb3ZMQjJkWGl0al",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdm5SalowdGhLMGxxSHAyUDZ1ektaMXAyaHZiRU01T0JHd3NoemNOREFMbWhxNG9NT1V1RHVMZ1h4THViRjdCbm8tenhHS1lJTnZ2VXgtU0xNSFgtRkR4bGZTQl9hb3ZMQjJkWGl0alVpWS0wdXlidmFRNGZIMUlvZzlITm44SnhQM0hGbHZnZGw3Sk94dHM3dlVn0gGfAUFVX3lxTE5yR2EtMUFCRHNGbldEdmVuTUhNZlctMjJPdGUzZElQME5pTVR6VGlLUWJ5MEVfYnhhYzZWRU9kbUhOenlNOXBpU3pnMFhMTVcxeEdYREg5OVdqUTRXY3V2cmtDSjdKQ2Z6ajhmNDhLelFoQjlmU21WdWhVVTJrVUR5LUJETjQ1dnF4cUZxV1N1Z1ZSakFEWW13WkRqUkY1cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hiwin-2026-05-26-001",
     "date": "2026-05-26",
     "companies": [
@@ -1622,6 +1724,25 @@
       {
         "name": "mitsubishi_electric",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNW1FLUdtVUwtdXZteW04ckZoaURSRTR2ZVJyWDFaZzgyQVF6d2xpOTExMjlYWUhrWG1fdThWWEFOOXdRbEZ1MnNDSDY0czBvMHBUTkNObng2T2cybEFRVnpqdU1YOVI5LTlxX1FkQk1qb1lMXzhVMVc3S0NwQ2NnWUU1dUJzSVpFek5JZVEtYjk0RXd2YWs0ZHYxNXd0dWE2RVp1QUl3eGdfeHc0RXJzQXQ3SVRReWxUTUdDNU9DdjJKUmxnXzlPVG9XQk5oZU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-26-026",
+    "date": "2026-05-26",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stephen Ames makes birdie on No. 7 at Mitsubishi - PGA Tour",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPeVhhSDd6UkpVSzFJQkJmbkVJNmNmOXV0b0xzY1NOS2x1dHRwazJGdFl0anFJVDhkLWlhTWxEczRQYVF6UDZEX0RKZFd5b3NHNVJzSXFNc1ZqeWt3ZTlpRG5Ha1hleU81T2tWQmI4Q3",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeVhhSDd6UkpVSzFJQkJmbkVJNmNmOXV0b0xzY1NOS2x1dHRwazJGdFl0anFJVDhkLWlhTWxEczRQYVF6UDZEX0RKZFd5b3NHNVJzSXFNc1ZqeWt3ZTlpRG5Ha1hleU81T2tWQmI4Q3pTNVgya09yeDgwVkk0Sy1Vc2t3bXJNdW9rY0ZaYTBqMHZfc3lBZXEtOEg3Wk0?oc=5",
         "type": "rss"
       }
     ]
