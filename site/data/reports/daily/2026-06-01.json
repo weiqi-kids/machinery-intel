@@ -1,0 +1,237 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:30:12.222645Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-06-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics sees AI data center power shift and manufacturing overhaul shaping future competition - digitimes",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRVNibmNWc0lJb3pXQk0xWFk1M1VPYk9iaGZNcUlPeVlaeDk4NzVjWGNiRUlSZ2x0aEg2bG1lSTZZVFhfR0pDel9jN3VLM0duT0M1YkJBRGY0ejltYjhxUndJZW9CSUEwZ3ZOaWNRZU9YaElLY0NHSERGSllzTGJOYmV6ZkRDUm10RE80Q1RKNGlmcjE2SmxhOXZFaHhKV2hvRXU4QkFaYUc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "parker_hannifin-2026-06-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Assessing Parker Hannifin (PH) Valuation After Recent Share Pullback - simplywall.st",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWU1zLURabnJWc0hSaXFlSkEzZUpsM3ByeGtTVFl0N2lWeHdWTXJEdTJKT3U0aEltd29zcDQxRW5NOVVGQl9nN1ZRbGdhdlVhOEZGcmFMVGVMRWUwU1NSUHJvSzJENkQ5MVBSYm94NXVXY0N3VzBWR1NCYVRzSFU1ZHQyRTc3c0VXblBnUUFjSWpidF9ORWFacDVOamNwNzR0RE5YdzlhQ2dNbWZCN3BOaGhSM1dFQjVJSWJxS094RDhvSGtIZDAxR05Zb1N4cnRQ0gHWAUFVX3lxTE1PcjhTcGdIZHptczRxSnJLY2VXd3RITTBfS2g5RUJsMG12SkpOSXpHcllDM2lsRHpVU0pWQ3p2aVFMX2NfZTBDdUVSZXJsSWItOGkzSGxyNjI3TklyT25SeERIczlkSFptcUYxY1c3Vjhzend5aHduQ0w2aUVZbDA2VnVTcjQzaTk3Q3M3dGhPSi1sRkNIa2puMGxWWVF3MFZETzMzQkZucVB6N1ZQbHNNVVlzX2h3WDBWSGlCTVZJUmp5S2MyVjZiR0M0YkVqR1JlUmNlX2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-01-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "One Material, Fewer Steps, Stronger EV Battery Protection - Electric & Hybrid Vehicle Technology International",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd0ZldTMtRU41ZWpIVUVJLWZSX0lDMlVGTHI5U2ZrRDY0dVp0NWFPUE1ybXd2TzRCQVdoVGFmQ2p3VDBaUjI3ZG44dVJPekI4Vmt3TW5pMC0xSzM1NnNlaXYydjd3eEdQZGtOQVpVbk9pUnlId3FNNlZUUUU0SUsxM0xpOA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-06-01-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "‘Just be amazed:’ Alberta is seeing a cyclical outbreak of caterpillars - Toronto Star",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVTBwNnJlVkxiYjNQYWhwMkFEenZJb0lnTmJqVjVWcmU4WlhZbzFOd2Rnc0dYYVE4MG9UV1lmYm9RYTRMNjNuZ3ZXam1BVFlGcE5tdFBtalJBQ0pDQ0Zpbk1henQ5VEc0c3g0eGx0RUtYZ3NGMVhGTlotRmVjb0I3Q0lwOVdrWWZaTXIzUndndlJBaE82Q3ZBdFhrSXlsdVIyUWh4U2xXRUZyRzhlTzd2Y1EwcmJ3b3JVLVhfNVRVZllHbnlnWDRETE5JRTNtaThrd245cHYwdXh0LTdqRzE3QXVBY2xoUWdpQWI1UXhEa0h2Qnc3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tiny Holes in Your Plant Leaves? These 5 Culprits Could Be the Reason Your Garden Is Struggling - The Spruce",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TU1JmQ0dDaEVSLW1GVEVyNnQtRWxkR1k4UF9nQ3FLaWMzbFJhdDEyRUJCNnk5SFhUa2FLZWpLQ0tkSHR5ZERqWk4zblFyaF9NREtTYzFZSC1nelhHQXZGODZwTEVRdUVKWndoNWU3dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 5
+      },
+      {
+        "id": "hiwin",
+        "count": 1
+      },
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "automation_capex",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 392,
+    "dup_title": 223,
+    "too_old": 143,
+    "gate1_blocked": 1,
+    "gate2_blocked": 5,
+    "passed": 20,
+    "pass_rate": "11.8%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "Hiwin inaugurates new Italy headquarters - Focus Taiwan",
+      "DMG Mori's Finalizes Terms for 10 Billion Yen Bonds - Moomoo",
+      "Assessing Illinois Tool Works (ITW) Valuation As Analyst Targets Clash With Cash Flow Estimates - si",
+      "Illinois Tool Works (ITW) Insider Trading Activity 2026 $ITW - MarketBeat",
+      "Is Caterpillar (CAT) Still Overvalued After A Recent Pullback And Strong Multi-Period Returns - simp"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為CAT、Hiwin Technologies、Delta Electronics相關動態：「Delta Electronics sees AI data center power shift and man...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Delta Electronics sees AI data center power shift and manufacturing overhaul ...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Assessing Parker Hannifin (PH) Valuation After Recent Share Pullback - simply...（自動化資本支出、財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 392,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 1,
+  "gate2_fail": 5,
+  "passed": 20,
+  "gate2_samples": [
+    "Hiwin inaugurates new Italy headquarters - Focus Taiwan",
+    "DMG Mori's Finalizes Terms for 10 Billion Yen Bonds - Moomoo",
+    "Assessing Illinois Tool Works (ITW) Valuation As Analyst Targets Clash With Cash Flow Estimates - si",
+    "Illinois Tool Works (ITW) Insider Trading Activity 2026 $ITW - MarketBeat",
+    "Is Caterpillar (CAT) Still Overvalued After A Recent Pullback And Strong Multi-Period Returns - simp"
+  ]
+}

@@ -1,5 +1,331 @@
 [
   {
+    "id": "hiwin-2026-06-01-001",
+    "date": "2026-06-01",
+    "companies": [
+      "hiwin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Hiwin partners with Qualcomm on semiconductor packaging - Taiwan News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qNkNFVWJ6RGRvZ2NPeVIwaWRQY05VWl9POVpMWlNXZkRzQkpfbVBjSDkzY0x0RWh1MHJReUhGbHNMTHBfeU5CeHhvVDIwM2lTZUlDajhvSHI?oc=5\" target=\"_blank\">Taiwan H",
+    "sources": [
+      {
+        "name": "hiwin",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qNkNFVWJ6RGRvZ2NPeVIwaWRQY05VWl9POVpMWlNXZkRzQkpfbVBjSDkzY0x0RWh1MHJReUhGbHNMTHBfeU5CeHhvVDIwM2lTZUlDajhvSHI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-06-01-002",
+    "date": "2026-06-01",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics sees AI data center power shift and manufacturing overhaul shaping future competition - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRVNibmNWc0lJb3pXQk0xWFk1M1VPYk9iaGZNcUlPeVlaeDk4NzVjWGNiRUlSZ2x0aEg2bG1lSTZZVFhfR0pDel9jN3VLM0duT0M1YkJBRGY0ejltYjhxUndJZW9CSUEwZ3ZOaWNRZU",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRVNibmNWc0lJb3pXQk0xWFk1M1VPYk9iaGZNcUlPeVlaeDk4NzVjWGNiRUlSZ2x0aEg2bG1lSTZZVFhfR0pDel9jN3VLM0duT0M1YkJBRGY0ejltYjhxUndJZW9CSUEwZ3ZOaWNRZU9YaElLY0NHSERGSllzTGJOYmV6ZkRDUm10RE80Q1RKNGlmcjE2SmxhOXZFaHhKV2hvRXU4QkFaYUc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-06-01-003",
+    "date": "2026-06-01",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric systems to be integrated into Azatutyun Complex - Armenpress",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BdXNRNkRRWXpxV3B0anREVDVrX3h3V1RBTkRSbktkQ0RTczh5ZG10c2xOR2V4LTl2ZWE0X3NtclJkLWx4cUxyaW5rcDFlaXRLbWfSAVdBVV95cUxOelU1R0xtbEM4TEFXS3Y5MTh5Y0",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BdXNRNkRRWXpxV3B0anREVDVrX3h3V1RBTkRSbktkQ0RTczh5ZG10c2xOR2V4LTl2ZWE0X3NtclJkLWx4cUxyaW5rcDFlaXRLbWfSAVdBVV95cUxOelU1R0xtbEM4TEFXS3Y5MTh5Y0loMVRCOFAzY2pSV3gwSHNMVDZvckZzeGhUa2Y5cU5MbkUyeHl2dllvaHNVMW5kaHR4bkU1WWNtU2s1Nlk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-06-01-004",
+    "date": "2026-06-01",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Assessing Parker Hannifin (PH) Valuation After Recent Share Pullback - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWU1zLURabnJWc0hSaXFlSkEzZUpsM3ByeGtTVFl0N2lWeHdWTXJEdTJKT3U0aEltd29zcDQxRW5NOVVGQl9nN1ZRbGdhdlVhOEZGcmFMVGVMRWUwU1NSUHJvSzJENkQ5MVBSYm94NX",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWU1zLURabnJWc0hSaXFlSkEzZUpsM3ByeGtTVFl0N2lWeHdWTXJEdTJKT3U0aEltd29zcDQxRW5NOVVGQl9nN1ZRbGdhdlVhOEZGcmFMVGVMRWUwU1NSUHJvSzJENkQ5MVBSYm94NXVXY0N3VzBWR1NCYVRzSFU1ZHQyRTc3c0VXblBnUUFjSWpidF9ORWFacDVOamNwNzR0RE5YdzlhQ2dNbWZCN3BOaGhSM1dFQjVJSWJxS094RDhvSGtIZDAxR05Zb1N4cnRQ0gHWAUFVX3lxTE1PcjhTcGdIZHptczRxSnJLY2VXd3RITTBfS2g5RUJsMG12SkpOSXpHcllDM2lsRHpVU0pWQ3p2aVFMX2NfZTBDdUVSZXJsSWItOGkzSGxyNjI3TklyT25SeERIczlkSFptcUYxY1c3Vjhzend5aHduQ0w2aUVZbDA2VnVTcjQzaTk3Q3M3dGhPSi1sRkNIa2puMGxWWVF3MFZETzMzQkZucVB6N1ZQbHNNVVlzX2h3WDBWSGlCTVZJUmp5S2MyVjZiR0M0YkVqR1JlUmNlX2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-005",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "One Material, Fewer Steps, Stronger EV Battery Protection - Electric & Hybrid Vehicle Technology International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPd0ZldTMtRU41ZWpIVUVJLWZSX0lDMlVGTHI5U2ZrRDY0dVp0NWFPUE1ybXd2TzRCQVdoVGFmQ2p3VDBaUjI3ZG44dVJPekI4Vmt3TW5pMC0xSzM1NnNlaXYydjd3eEdQZGtOQVpVbk",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd0ZldTMtRU41ZWpIVUVJLWZSX0lDMlVGTHI5U2ZrRDY0dVp0NWFPUE1ybXd2TzRCQVdoVGFmQ2p3VDBaUjI3ZG44dVJPekI4Vmt3TW5pMC0xSzM1NnNlaXYydjd3eEdQZGtOQVpVbk9pUnlId3FNNlZUUUU0SUsxM0xpOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-01-006",
+    "date": "2026-06-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "‘Just be amazed:’ Alberta is seeing a cyclical outbreak of caterpillars - Toronto Star",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVTBwNnJlVkxiYjNQYWhwMkFEenZJb0lnTmJqVjVWcmU4WlhZbzFOd2Rnc0dYYVE4MG9UV1lmYm9RYTRMNjNuZ3ZXam1BVFlGcE5tdFBtalJBQ0pDQ0Zpbk1henQ5VEc0c3g0eGx0RU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVTBwNnJlVkxiYjNQYWhwMkFEenZJb0lnTmJqVjVWcmU4WlhZbzFOd2Rnc0dYYVE4MG9UV1lmYm9RYTRMNjNuZ3ZXam1BVFlGcE5tdFBtalJBQ0pDQ0Zpbk1henQ5VEc0c3g0eGx0RUtYZ3NGMVhGTlotRmVjb0I3Q0lwOVdrWWZaTXIzUndndlJBaE82Q3ZBdFhrSXlsdVIyUWh4U2xXRUZyRzhlTzd2Y1EwcmJ3b3JVLVhfNVRVZllHbnlnWDRETE5JRTNtaThrd245cHYwdXh0LTdqRzE3QXVBY2xoUWdpQWI1UXhEa0h2Qnc3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-007",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tiny Holes in Your Plant Leaves? These 5 Culprits Could Be the Reason Your Garden Is Struggling - The Spruce",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1TU1JmQ0dDaEVSLW1GVEVyNnQtRWxkR1k4UF9nQ3FLaWMzbFJhdDEyRUJCNnk5SFhUa2FLZWpLQ0tkSHR5ZERqWk4zblFyaF9NREtTYzFZSC1nelhHQXZGODZwTEVRdUVKWndoNWU3dw",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TU1JmQ0dDaEVSLW1GVEVyNnQtRWxkR1k4UF9nQ3FLaWMzbFJhdDEyRUJCNnk5SFhUa2FLZWpLQ0tkSHR5ZERqWk4zblFyaF9NREtTYzFZSC1nelhHQXZGODZwTEVRdUVKWndoNWU3dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-01-008",
+    "date": "2026-06-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "‘Just be amazed:’ Alberta is seeing a cyclical outbreak of caterpillars - EverythingGP",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSnNxcnFub2E5ODQ3S0hMTnZCeFF6V0h6T0VpUFE3R2RlaU02LUVBUUNKblpuVXQ0bUZPM2owY1pFMkFzUmVsTGxYeFVhSHY5SUVjcW5vYzFSUFBsaTVjOUdySnVrbUtFdnNCeHRlWj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSnNxcnFub2E5ODQ3S0hMTnZCeFF6V0h6T0VpUFE3R2RlaU02LUVBUUNKblpuVXQ0bUZPM2owY1pFMkFzUmVsTGxYeFVhSHY5SUVjcW5vYzFSUFBsaTVjOUdySnVrbUtFdnNCeHRlWjY1ZHIwVDFCUmFRQ3lUUmNSOW8wczZ5S19lV0xPR1IwR0x4em5qNWhrUnpOUEdzRTNDTGFGeXI1QU4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-01-009",
+    "date": "2026-06-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BofA Securities Maintains Caterpillar(CAT.US) With Buy Rating, Maintains Target Price $989 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNSk1ZcXBad2ZmbjBKMDQ2c2FaTG1pcHBLbElkMkZpbEZDSlRIaFJTLXFXT1FHVWNmOFFlVlhrOFFfcTUtUzVvZHlhUmY1RnZJczhPVmZrcW9laWVJZnpJdEN2VXFGdFh2bW4wUmdaa2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSk1ZcXBad2ZmbjBKMDQ2c2FaTG1pcHBLbElkMkZpbEZDSlRIaFJTLXFXT1FHVWNmOFFlVlhrOFFfcTUtUzVvZHlhUmY1RnZJczhPVmZrcW9laWVJZnpJdEN2VXFGdFh2bW4wUmdaa25GMUs3XzBfc1BiN3kwRTFZRXg2UGIyaEM4SXpfN0p0Rl9zS0E2SHhaMmoxTTBlVDVCWkVFQXJUVjhmM3RybndYeV9sRmM3N1BnYlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-01-010",
+    "date": "2026-06-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar's Clayton site integrates 'automated ecosystem,' enters 50+ person hiring push - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNeTVxRTVqU2MyemtkWDVBVW4zbHJVbC03NlpNRTAxdnI3MWJyVkNoNUNWNWFnOTc0RlJTd3NjNVdzaFIwVldBcmZPYkdlMXM3dXhTM1lVZmFKVFZFQ0t2d0dFS1YxaXpZRE5WVGRoU0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeTVxRTVqU2MyemtkWDVBVW4zbHJVbC03NlpNRTAxdnI3MWJyVkNoNUNWNWFnOTc0RlJTd3NjNVdzaFIwVldBcmZPYkdlMXM3dXhTM1lVZmFKVFZFQ0t2d0dFS1YxaXpZRE5WVGRoU0h1b3JJTEZWbmpBcE9MeXVYUGMtV1FKSWFtQmEwdzB5VlRVa0N2QTJURTRwOU5xdUJ3ZHREbQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-01-011",
+    "date": "2026-06-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Analysts Raise Price Targets on Caterpillar (CAT) as Growth Drivers Strengthen - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPVF9qZEtZdlBKQ01nLVMyNzZoS1dpN1RnOGx4Y0g5aDJCdTJTdGtuMDh4NmhzXzRCejl0SE1TaUxIeFR6RzM4Wi1yMzdQc0wwMTVlTkxqa1pxUklGdWd2c2tVT25hanV6YVZDSkpGNF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVF9qZEtZdlBKQ01nLVMyNzZoS1dpN1RnOGx4Y0g5aDJCdTJTdGtuMDh4NmhzXzRCejl0SE1TaUxIeFR6RzM4Wi1yMzdQc0wwMTVlTkxqa1pxUklGdWd2c2tVT25hanV6YVZDSkpGNFFrNTVsZ3pENlFYNDlKYTJMVjdLcjdWeElLYXdrMzhRaGJwenNEV2lQeGU5Z0FRRl9qSDNOdy1KZ3EtT09YV05uOWFoZWpLLUJmQTNMYdIBxAFBVV95cUxOYTZFOXNmOGNfNXB6Rmd6QmpNRVRILVhta0NjMW5pazVGM0tNRlN5ZnVEUW5ZbTE3azhnaFhyOW12Sjhrc3dDblR2UGl2RHFFekxicHpYQl9lSHBMYWJKaUxUZ044eERVLTRWZTNSQVFSVGZCYlRib01aQUQzTGdfRTZKcXR1WHRrQXlKUzRLczNCemViZ3pwdFBsRS1iV1BKZ0NvRi1xdFI1S3RhMzZIZ3NmLXBmcGJibUg0SlJjQXBpei1u?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-001",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "cnc_technology",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why robotic arms are now being integrated with CNC machines - The Robot Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXFrN2ZJWDRfVV9sRzcxM0IwRFBpanRTUXFEN0FTakllVjhDUW90RUZhYVFHM3liUzhFeGdWYTU2bng2cUd1bXBTY2wza3N5NjhQY3c0dFlsVUtaZWg3UThtSTdQODdReUZla1ZoTG",
+    "sources": [
+      {
+        "name": "fanuc",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXFrN2ZJWDRfVV9sRzcxM0IwRFBpanRTUXFEN0FTakllVjhDUW90RUZhYVFHM3liUzhFeGdWYTU2bng2cUd1bXBTY2wza3N5NjhQY3c0dFlsVUtaZWg3UThtSTdQODdReUZla1ZoTG5nb2dxdFpBbk91dk5GNnZ1YmNoLWdtS19jRnBOVHBnaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-31-002",
+    "date": "2026-05-31",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (PH) Gets Lower Target from Wells Fargo as Firm Updates EPS Outlook - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOW9GZGZLMjY1d3B4SmtjWmhVdjRWRVAwREdwLW5wY2djVkV4Yk9JOFJVQTF4Tl9PTzRiSHAwekhtT0tzOFMxQnVULUUtS0xpOUY2dG5kb2RXUFhmYVRxa25aM0hwMTRSbW5IOWZLVG",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOW9GZGZLMjY1d3B4SmtjWmhVdjRWRVAwREdwLW5wY2djVkV4Yk9JOFJVQTF4Tl9PTzRiSHAwekhtT0tzOFMxQnVULUUtS0xpOUY2dG5kb2RXUFhmYVRxa25aM0hwMTRSbW5IOWZLVG5uQ2YzVVdfSGNMMnZLc19iNE80OHBmT3p0SURaUWswYUNEaUtTU01wU3NOU3dweUdGZVYyMWpVSGMzQVFDc3R4c0g1LUg2ZklrRS05d09wX2UyeFHSAcsBQVVfeXFMUC0wRWk0THB5VjJ0TUd6OExlUUcxVkw2QzI0SnZPU1QtN0U4MkNXdWVzV3pvdU1vajRrQ2xtOTVVRzYzWGV0d1B5NXJnNWhOdjVHNXBjRmZOZl8wX0NMc2dIRzlWdXYwNFlVZ1RuUi0tdk54UTZDcXk4VUdiTGFxTE1ldjVoNGRTc3VadTFYb01HUFJFcXp4bzVkREp0RzRCWVI0Nm5fdDdaM1IyVzJ2eFBhdVFqVWx6LUdGQmtnOG92cy1DM0pjeUFNVU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-31-003",
+    "date": "2026-05-31",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Forest tent caterpillars feast in Calgary as outbreak spikes population across Alberta - CBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1YzS2pXQm5lc2w1emRlYVdidFVTT1VibE5TVjB6OVYzT0J4TFR5dU9TLTRFaVF4THhpZ3RPRTVHbzdwcGtGNi1EMm45TTZEakVzNEtVeGNIZVd1bkhCR21vRjVWYXJTN2NIQUUzVk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1YzS2pXQm5lc2w1emRlYVdidFVTT1VibE5TVjB6OVYzT0J4TFR5dU9TLTRFaVF4THhpZ3RPRTVHbzdwcGtGNi1EMm45TTZEakVzNEtVeGNIZVd1bkhCR21vRjVWYXJTN2NIQUUzVkZ4VGU0YUxrUUhpSWM0REY5M3NxLUxtTFRXNzM4ZA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-31-004",
+    "date": "2026-05-31",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar 330-07 For Sale (88475205) from Altorfer Cat [2090] in Cedar Rapids, IA - Construction Equipment Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPWW5udEN0V0ZjWEM1WFpRU2VHVXRjMEhDRi0yeFpwdUdQRHd3ZFR0ODkteGpYVHBQNTlTNHVhbXlqOWZ6cHRwWjFiQl91Z3lQUWYwZTdNdmk4R3g2Y2l5d21zV1hnLTU4c2Q4STJKTk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWW5udEN0V0ZjWEM1WFpRU2VHVXRjMEhDRi0yeFpwdUdQRHd3ZFR0ODkteGpYVHBQNTlTNHVhbXlqOWZ6cHRwWjFiQl91Z3lQUWYwZTdNdmk4R3g2Y2l5d21zV1hnLTU4c2Q4STJKTkEtbWpaTGV2eVZid19LWFV3OEhuV0pmdk9FblNlalg4TmFXdlBOUHlWWXdXS2pCdHY2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-05-31-005",
+    "date": "2026-05-31",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bean plants detect caterpillar spit and call in wasps for help - Earth.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVBxTklwRjg1VW9zMzNZUnludHhDb19MMkdvaXRPcE11MEdMeEtrSFNEVERMWWYxTDItUXE5VmtoSGtnZUNmU2pUVWhuZDNrbk1pLXhjeXY5aXlXQmp6b2w5VFZRWW5Uei1rNWVDRz",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVBxTklwRjg1VW9zMzNZUnludHhDb19MMkdvaXRPcE11MEdMeEtrSFNEVERMWWYxTDItUXE5VmtoSGtnZUNmU2pUVWhuZDNrbk1pLXhjeXY5aXlXQmp6b2w5VFZRWW5Uei1rNWVDRzk5bGdfYWlMdzBBeEZsaTJqXzQyLVdmNXFXQ0VOVzJGb1E0N2x0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mitsubishi_electric-2026-05-30-001",
     "date": "2026-05-30",
     "companies": [
@@ -202,6 +528,25 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0hPbnB1QUNNMG00WkZadjZNSENudXlueE90VWFaM21HbW85SmU2REk5RjlrTVNQWllUU084MFZKSkE4NHJEWUt0RFFHUTVZLXFtYnJhM2xFMzNzSGJDbllDWXU2eTg5MEh3YXp2WGh6VnMyQ0FQYUNlVnV6bjc4cVk0bEwzVUhaSjI4c2c1cGlFSU5WQjc3SUo4Z2NkN3h1Um5sYmlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-011",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Robotics Stocks 2026: 30+ Automation Companies - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Bd3hhb29kNUZDV2pMTUxwRjE4Q3hWeGcyZy02aXBpeVgtQTZqWTVrekotOTAwTXRfeVhrRUwxejctamZhWURKUzFtWENmNVJGT3NWSjgwVDlmR3Y3UWFLUkdlVnB3STQ?oc=5\" targ",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Bd3hhb29kNUZDV2pMTUxwRjE4Q3hWeGcyZy02aXBpeVgtQTZqWTVrekotOTAwTXRfeVhrRUwxejctamZhWURKUzFtWENmNVJGT3NWSjgwVDlmR3Y3UWFLUkdlVnB3STQ?oc=5",
         "type": "rss"
       }
     ]
@@ -444,6 +789,26 @@
       {
         "name": "itw",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRndleDY0MTV5SjladF9kN1lmb1BINkNLRVFYNnQtSnZzbDdkMFh2UWs0SDdmWGdtM2VwNFFvak44NWFkVFFqTkNPWFNHS1Fra19nY05lSXI3SGFudFFWdGNvelp0SXV2R2pTLTUxY3FweEZ1NThVbVpZWVQtS0tsOXpzZ1lKeE5oV2VaQWVnMGt1T2dXTUlUTTVhamFaQzk4TUdyUzdQdUtidEo3aFRYWlFZTXI1VjlsbVZsYmhtWVgzNnJDLURucERVUG1Fdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-05-29-013",
+    "date": "2026-05-29",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Top Parker-Hannifin (PH) Competitors 2026 - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1JaHhUTHJMLTFPd2E5dEZ2SXUzRFRmanZRbFFac0FvUWlTaHBndUFfQS1ZZzdCaVIzc2hQV25reThMU3h5Z0NkN2s2dG9YTmFzc1lKRVBFaktFcEZTak5sS0pIckV4TGp3bWlsUDBLVX",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JaHhUTHJMLTFPd2E5dEZ2SXUzRFRmanZRbFFac0FvUWlTaHBndUFfQS1ZZzdCaVIzc2hQV25reThMU3h5Z0NkN2s2dG9YTmFzc1lKRVBFaktFcEZTak5sS0pIckV4TGp3bWlsUDBLVXFtZExiZFlqd3pjcw?oc=5",
         "type": "rss"
       }
     ]
@@ -1216,6 +1581,47 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdm5SalowdGhLMGxxSHAyUDZ1ektaMXAyaHZiRU01T0JHd3NoemNOREFMbWhxNG9NT1V1RHVMZ1h4THViRjdCbm8tenhHS1lJTnZ2VXgtU0xNSFgtRkR4bGZTQl9hb3ZMQjJkWGl0alVpWS0wdXlidmFRNGZIMUlvZzlITm44SnhQM0hGbHZnZGw3Sk94dHM3dlVn0gGfAUFVX3lxTE5yR2EtMUFCRHNGbldEdmVuTUhNZlctMjJPdGUzZElQME5pTVR6VGlLUWJ5MEVfYnhhYzZWRU9kbUhOenlNOXBpU3pnMFhMTVcxeEdYREg5OVdqUTRXY3V2cmtDSjdKQ2Z6ajhmNDhLelFoQjlmU21WdWhVVTJrVUR5LUJETjQ1dnF4cUZxV1N1Z1ZSakFEWW13WkRqUkY1cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-27-024",
+    "date": "2026-05-27",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan chip stocks climb after Nvidia announces $150 billion spending plans - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOYjdrRTJiX0J4b25WNlNPN2pnNHpIaTQ4bnRoQlVzQXhzalhCTUdjMkhmVUFhamJCOXBvY2twWVRtTlhubnV4LU1MMVdud1Q1REdLdTFjSEswUDJUMHNsT2dpaHB0c2tSYkI2STZsMU",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYjdrRTJiX0J4b25WNlNPN2pnNHpIaTQ4bnRoQlVzQXhzalhCTUdjMkhmVUFhamJCOXBvY2twWVRtTlhubnV4LU1MMVdud1Q1REdLdTFjSEswUDJUMHNsT2dpaHB0c2tSYkI2STZsMUtyWFcxWU5DZGhIMXFfQWNobEpfbGFZSHQ5TmfSAY8BQVVfeXFMTm14YnAzaDRaRFlHRmJvbk41elVwX3B1UGlMNFR6dE9jVC1OQzMtSFMwWExfcDlNMXFhbHFPd3kybXRtUkVtN1VObkhaT0dnY0hvbUowUU5jSlVReFl0cGdrakpHMHdSNTN1dHNzS3NBVWNUdUtEOVhVeVg1c3p1TjJEdnZ3Y0l6ckFDWTJZMzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-05-27-025",
+    "date": "2026-05-27",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Results seen as bullish for Mitsubishi Electric’s core operations, with record revenues and an upbeat outlook signaling management confidence. However, the steep profit drop from the Next-Stage Support Program raises concerns over short-term profitability. - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2E1YmRRdDNQYk0wNHJpV1pkeVJ0cUg4T1VpMlBHNWZsWHBjWlYxVXIzV21ydk5JTlp5ajl4MG5JM3EzVURvT2txSWF4R3RORjA1VW0xVjR0bUpOWE44dzlzVWxtMm94OEcwTV9CTz",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2E1YmRRdDNQYk0wNHJpV1pkeVJ0cUg4T1VpMlBHNWZsWHBjWlYxVXIzV21ydk5JTlp5ajl4MG5JM3EzVURvT2txSWF4R3RORjA1VW0xVjR0bUpOWE44dzlzVWxtMm94OEcwTV9CTzkyaFQxVDBxRDRPc0x2ZGEzZkVkWHI2QmlkNUp1blBhVjUxanhzY1ZqOG5IQTktTTloM3liRVBYVjd0V292bmRtTG5UQl9hLXYzRXRv?oc=5",
         "type": "rss"
       }
     ]
