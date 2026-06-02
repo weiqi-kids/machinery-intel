@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 219,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 3,
+  "gate2_fail": 8,
+  "passed": 29,
+  "gate2_samples": [
+    "Hiwin inaugurates new Italy headquarters - Focus Taiwan",
+    "Delta powers India’s first large-scale underground metro battery storage - Welcome to Delta",
+    "How to build a data centre that uses 40% less energy",
+    "Your CX is as good as your leadership decisions",
+    "DMG Mori's Finalizes Terms for 10 Billion Yen Bonds - Moomoo"
+  ]
+}

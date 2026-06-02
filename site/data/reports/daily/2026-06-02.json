@@ -1,0 +1,241 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T11:59:21.020727Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "caterpillar-2026-06-02-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Toxic caterpillar outbreaks prompt health warnings - BBC",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VMTI3dURONTNHYWJaSVhCRW1FOHk4ZlpCWWpQM1I0TmU4TzBrMkxZQ2hvbjc0VGpHdW5wT2JlS0dFemduS1NHQnZVSVEzOENQaENxUFBLX2R5Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hiwin-2026-06-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Market Chatter: HIWIN Technologies, Qualcomm to Develop AI for Chip Equipment - Moomoo",
+      "companies": [
+        "hiwin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQenJpaUdGU3B2YWVfNkl0d3AyTGttRkFraWFDTFZxTEFMdDgzZjlTbE40Z1pDTHpVdUx2cnlFV1M1RzUtTkxuY0tSYndxQ3p1WHFNNlNaN09USUhiTEUxNDV4Nk9WajI2MU82WHlZZi1QekFpTTBjX0hQb2ZpUDZNbk1aOWJ2SE1jQ3UxcmdBVXFOclJZVGxJMmUwNjBPcDNaSTkxV1BYRWRrOW8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "airtac-2026-06-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Airtac International Group May Revenue +40.39% Y/Y - TradingView",
+      "companies": [
+        "airtac"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnNLYzFtLWxxWDItZzZ1QTE5VEc1SkxwVE51UGpMVEd6Z1pnazN1LUF2SVJsRmRTQTRVcndVVkZsb3p6MzlCZGlKUVpoT1FhcEs1VW9PMEdWTE5yOHFSbU11amctWUxpVmpOTXgyUzhCUlZMRHp4OUlMM1RmMnNrRmtIYm14VV9ZZ3NRdVVjd1Y5MFR6T3pic3N2WWdsWmJ0YW41UEpWWGxuUFQ0TGRfSGowQzkzaFAxREE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-06-02-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric Signs MOU with Quantinuum to Launch Strategic Quantum Computing Partnership - mykxlg.com",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOX0xERldYS2lmQVM4TE1zNFJ5cXFWdExqU0ZCamNHTkJpOXRxOVhOUG9iOW9QOVJha3ptanJuVmxROG01S2E2WU8yTVpKMUNKeURRT0I5MlpnUDQ0NmExWHY1bm1tYlVZM2hIRkgtcWRqNmUxN3hMZ1ZyczdKX0I1dzY1emdZaHhoaFFvekpOVWFxbVUxTlp1V3k5bGJLTVdrN1RNbkNCME5lcTlBaUw1LUJGRVkwLWN2NlZIUWw4ZjJwWnFRMTFrYnE0V01SMHJYVEFVZUt5NXVNaXktOUg5TE5TYkJHZFN3dGJtdzBvQ1ppdU5rSUNlTnJ5S0dMVWs2T3pfWVo4cVNjM3BFZndGeFJIS2x0TmxRbnhHTkpCalNKck9SV0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mitsubishi_electric-2026-06-02-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Quantinuum and Mitsubishi Electric form strategic quantum computing partnership - Scientific Computing World",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMWU1cnYzcVNpRS1tS2g0WE1jbU90OHB0dE52WDlJT0V0cUxKV19KeFZkU1l3dlRhMTVvQ0pTdWw1dEZma0lwcTRnYUw5OHFZM1U5YV9RdTBXQ3pRMWx6N1cxU2JIVk9oUG50Zzd1OWZZYlhBdE1rbi1YcVNhXzVBN3lpQkdmcl8yQ2ltcHRIRTl3aEVzX1NNdTlnR0dCTDVSYUQzNzlhbnlYSDFCdXBIVjg5Y214d1BkRHBYTA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 6
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 4
+      },
+      {
+        "id": "itw",
+        "count": 3
+      },
+      {
+        "id": "hiwin",
+        "count": 1
+      },
+      {
+        "id": "airtac",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 394,
+    "dup_title": 219,
+    "too_old": 135,
+    "gate1_blocked": 3,
+    "gate2_blocked": 8,
+    "passed": 29,
+    "pass_rate": "16.6%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "Hiwin inaugurates new Italy headquarters - Focus Taiwan",
+      "Delta powers India’s first large-scale underground metro battery storage - Welcome to Delta",
+      "How to build a data centre that uses 40% less energy",
+      "Your CX is as good as your leadership decisions",
+      "DMG Mori's Finalizes Terms for 10 Billion Yen Bonds - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為CAT、Mitsubishi Electric、ITW相關動態：「Toxic caterpillar outbreaks prompt health warnings - BBC」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Toxic caterpillar outbreaks prompt health warnings - BBC（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Market Chatter: HIWIN Technologies, Qualcomm to Develop AI for Chip Equipment...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
