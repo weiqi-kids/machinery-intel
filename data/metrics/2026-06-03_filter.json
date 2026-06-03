@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 3,
+  "gate2_fail": 8,
+  "passed": 27,
+  "gate2_samples": [
+    "Watch Delta Electronics Flags Power Crunch - Bloomberg.com",
+    "How to build a data centre that uses 40% less energy",
+    "Your CX is as good as your leadership decisions",
+    "DMG Mori's Finalizes Terms for 10 Billion Yen Bonds - Moomoo",
+    "Watch a caterpillar enjoy a tiny playground built just for bugs - Boing Boing"
+  ]
+}

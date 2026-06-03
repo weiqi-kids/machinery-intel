@@ -1,0 +1,254 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T12:32:13.160105Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-06-03-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics unveils prefabricated AI modular data center that cuts deployment time by 60% - digitimes",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1JlWXdISUxsTW5hS2xLb3NINHpWSkY5Q0tyN3Z3UTl6QlhWbHhCQ2Fzb3BTRk1ibm5FbmxSYWhoSzl4dmdESjR1N3JKZ3ZFMkQ1TjI1a2FURl81SWRGVnpIOUZVZF9RTmRlY0plY0hiY3hIdXVrdkwyZzJJZEFxUl9HdUJYc1BqbVhMVWZaWXVlSWJRQWhIWHBIVU1oMVNkYTZRM2dNVVhLOGFQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mitsubishi_electric-2026-06-03-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric backs ZutaCore in $100m series C - Tech in Asia",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSERhUC1OQWRSREZUQ0VUSFFFRnhZbE9ZMWNOWVdNbW1kMWxXLWV6Q29mazJqcWNCY1JrSlFIZnZmLVM3SlFsTDhKWnFkZU0zR19Yc083RjBkMDBfRy02THBYUXpVUnZpejFjc2FrT0hFMmpmQTBIMXBwMzlZRGJqa25rQjc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-03-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "153 elevators and escalators delivered for the New Taipei Metro Sanying Line in Taiwan - FinancialContent",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaWxVRXlKT3Jid05JV01OcFcta2JBS1R0ZzFENHc1U29nSlh1NUZ5Z3A4NVB6YzFuYU5JREtzaWdFWTFWRnVBYTBRSGpZcUxicmdqNlEzNVZDcWJVSmJtTjR4ZnczaVRsMG9kQnZFazA3d3N1U3E0R3hTSExUNkFQdWtnUFkzUjU4WGlyUjA3Q0VkaGhSSHlzY0gxbXZlSjViWDN5UnJXaThRSUY2X0pLdUZSQ3dValdKTGJzWFVzMHVsR0J3Y2NTMkVIbTJrTUZ1Z0RiWGhvRThNMkpfWi1TZjUtRno3eGhXaWNBRUhqODQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itw-2026-06-03-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works Insider Ups Holding During Year - Yahoo Finance",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOTJ3QnU2REVDb2o1ZEVkbm94X1R6c2dmZVk1cG85aGpRTW1tMkQ2aG5GUVJKckRPOTFDa3J5Z2FVQWo3aExKM19yY0ExX3JOQ2FYdnhkWmduNExUbFVqQzdRSGxURVVZZkIwaVdVMTd2V3dTeTh4aElLVGFPYXp2dlk3QTVzZGtrZlQ5SnFaaEY0dkRUbFVDWUFma1M?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-06-03-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Shepherd Street Advisors LLC Acquires Shares of 1,975 Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbmR0eFVRM25vcDg0M29ZRjVUUG4wUjVtRHJGTXl2ZlJBeGR1MkRlUkRLbi0zYjQxYTlzRUphdE9HcERMekF1Y2NubG1rdDh5cEpUcEdIMnlMVXVhWGFweGxQRUpRaEFFMkFjVld3WVljRFM2YVBVR2dFYi12S3JIaUVfLUFPd1IzQWhnamQ1bm02UnVaOTd1THFuMGVJRWpOR1l0UHNUaDZXcEo0TS11cS1iWFVJdzlWMWcxdTB6UHZSOG43Nkw0Y2tGcmdGYkQxcVZpUTJXdEhPNXRl?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "delta",
+        "count": 3
+      },
+      {
+        "id": "itw",
+        "count": 2
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "automation_capex",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 395,
+    "dup_title": 223,
+    "too_old": 134,
+    "gate1_blocked": 3,
+    "gate2_blocked": 8,
+    "passed": 27,
+    "pass_rate": "15.7%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "Watch Delta Electronics Flags Power Crunch - Bloomberg.com",
+      "How to build a data centre that uses 40% less energy",
+      "Your CX is as good as your leadership decisions",
+      "DMG Mori's Finalizes Terms for 10 Billion Yen Bonds - Moomoo",
+      "Watch a caterpillar enjoy a tiny playground built just for bugs - Boing Boing"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Delta Electronics、ITW、Mitsubishi Electric相關動態：「Delta Electronics unveils prefabricated AI modular data c...」。主要關注主題為財報、產業通用、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Delta Electronics unveils prefabricated AI modular data center that cuts depl...（自動化資本支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Mitsubishi Electric backs ZutaCore in $100m series C - Tech in Asia（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
