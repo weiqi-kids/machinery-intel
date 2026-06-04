@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 229,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 0,
+  "gate2_fail": 11,
+  "passed": 27,
+  "gate2_samples": [
+    "THK Completes Transfer of Automotive Subsidiaries and Loans to Advantage Partners-Backed SPC - The G",
+    "Watch Delta Electronics Flags Power Crunch - Bloomberg.com",
+    "How to build a data centre that uses 40% less energy",
+    "Your CX is as good as your leadership decisions",
+    "Mitsubishi Electric to Ship 5th-generation SiC-MOSFET Bare Die Samples - 01net"
+  ]
+}
