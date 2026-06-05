@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 219,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 0,
+  "gate2_fail": 9,
+  "passed": 34,
+  "gate2_samples": [
+    "THK Completes Transfer of Automotive Subsidiaries and Loans to Advantage Partners-Backed SPC - The G",
+    "Watch Delta Electronics Flags Power Crunch - Bloomberg.com",
+    "How to build a data centre that uses 40% less energy",
+    "Mitsubishi Electric Opens Serendie Street Boston Digital Transformation Hub in Cambridge - citybiz",
+    "DMG Mori's Finalizes Terms for 10 Billion Yen Bonds - Moomoo"
+  ]
+}

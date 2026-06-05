@@ -1,0 +1,240 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:20:09.461334Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hiwin-2026-06-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hiwin and Qualcomm bring edge AI to PLP equipment with Load Port tie-up at Computex - digitimes",
+      "companies": [
+        "hiwin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzdpYm1NWDRKTjN3V3l3NXFwRmt6OTRXVHBGSTRoeGVoLW9vM1ZDNWQ3d1BoVUtGVEhnUVlNMVVQeEJJSklXbmtpX2JzVUZDczg2MmxSaWxDczN3ajBGc2hUclhoaVZaeWZQLTl5QzdpQ1I5OGlIUmxFalczVGtoSU5qY3ptbjVTMWRpWEI0WXVxdzhEZ3hzeS1NWXdNVjdQRDdyRGktVlQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mitsubishi_electric-2026-06-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Quantinuum and Mitsubishi Electric Sign Quantum Computing MOU - The Quantum Insider",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHRiWjJsRHJpOWN6VXp0LUtyNGN6TzZ2bW1GVFpXaWVtYmJFdVdocC1NT2hoMUZrekVxX3FyZkNxMDkzdENfVU1JS1Q5bUo0VWdjS0h3V0lnMWQ0Rjd6TldkWnQ1eWZUdkVKZ3V3QUlNNmJwY19neUxadk5zYXlFWlE3MXA1cmxaOC1vSUc5Zm8xeHVEVDM5YVFVRGV3a1Z6aGQ0XzN3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-06-05-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric opens first U.S. digital transformation hub in Cambridge - The Business Journals",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWdCbVcxZ2pkOTBHQXpnaktfdGRmVDZkcDJOdVlWQ3lQRnM4bTZValFYX0hOVFFXaFhXaDFiMWRNZ0FreEc0ZzF6LXpKOXN5T0ozZE83Vk16bks5akRzaV9kMWxKSXRUT3prV3I0OWl1S3JMQmNMT0Zuakw3SV9INUtfbmFLYTJWUmI1QWV3YnNWUU9yV3dXdms2UHU1dU9EUlQ4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-06-05-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric (MIELY) Launches Free Service for Inverter D - GuruFocus",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdEdXaWR5UzJROGtoNVd6UmJWMlAyRFBNc1drdV83dGFBTW5xdVpaTk42dU4wUkpWY0xib3lhM2x4U1BqQ21KVWl1Tkw2eHdESVYydDEyN1hrOFRELWV4Wk1rTUpsQnlpcTMwd3lFem5NVEpDQ1JUTTN5d3BVclNBNTFWQXEzV3dyd1pnWml6UDMyUHdCaGdvRi03a0RxWXltRS1SU2M1bGgybHNDTV92cnNXLTI?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "dmg_mori-2026-06-05-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DMG Mori Global One - The big reveal in Lorient - Pressmare",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNGpLWFRUT0NkTUFOUHJJRFljTGpLWE85bHpfRC1PTDJuQXZZMlFoSkFaaTlQU0lBRDgxS2NVdUJBUjR1V2h5Q19fVVFhTk5jWGJONGpGOFEwbWkyR2JNdlVUZl9PdmViR21XTFJWLXdLQ2x2OXZwVV9pell1aW1vWmVkN3VnUTBPX2wzaGQzZFowZ3loODJzUGlpLW9PdFdJTGl3LUpzWEVONW14SzY00gG0AUFVX3lxTFBuTjVmUTVGaW4wRGlwbzhucGNSUmpQUGlweHRTWEJsSFZ2QkRrc1dKMXJ2d3JWMzd2N0NNbW1oeC1WNUtySWliN29TQ3hZRlRpd29oOG0zdGc2NjJGOXJtS3V5MFlyZ1N0a1pLejRWS1ptRGFrUzVDSFFOblVoLXdMOTBNbnU4QWFvMW0tOEswdVVHREFnT3BqMDJVV0pNQ183OEQzbXhuempUMkxYMHZPUjhzWg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 5
+      },
+      {
+        "id": "dmg_mori",
+        "count": 2
+      },
+      {
+        "id": "hiwin",
+        "count": 1
+      },
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "automation_capex",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 394,
+    "dup_title": 219,
+    "too_old": 132,
+    "gate1_blocked": 0,
+    "gate2_blocked": 9,
+    "passed": 34,
+    "pass_rate": "19.4%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "THK Completes Transfer of Automotive Subsidiaries and Loans to Advantage Partners-Backed SPC - The G",
+      "Watch Delta Electronics Flags Power Crunch - Bloomberg.com",
+      "How to build a data centre that uses 40% less energy",
+      "Mitsubishi Electric Opens Serendie Street Boston Digital Transformation Hub in Cambridge - citybiz",
+      "DMG Mori's Finalizes Terms for 10 Billion Yen Bonds - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Mitsubishi Electric、DMG Mori、Hiwin Technologies相關動態：「Hiwin and Qualcomm bring edge AI to PLP equipment with Lo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hiwin and Qualcomm bring edge AI to PLP equipment with Load Port tie-up at Co...（自動化資本支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Quantinuum and Mitsubishi Electric Sign Quantum Computing MOU - The Quantum I...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
