@@ -1,0 +1,76 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T09:56:14.895590Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "caterpillar-2026-06-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Caterpillar outshines Zillow as a safer bet amid housing market struggles and AI hype. - Pluang",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcDFlSkdaZy10N3FsVzRJUjVsMWw1RkwzNXJ6V1B6YTEzNDNtcFZjSFJvdTJpVDd0N2pqRzVRV2hmSEY2Wk8waDctZ0ctbUEwcGlmZlMxTGlkTTJ4WnFKUDdkSmRCZndiZlVtSWt2dDlNZnlMb1RKdjh0VjljNmRUTFVvMkxma1gwYkR2Z2RzdUlBTHRmYmEyTVBrWEl5MEJOUEE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 393,
+    "dup_title": 230,
+    "too_old": 134,
+    "gate1_blocked": 1,
+    "gate2_blocked": 8,
+    "passed": 20,
+    "pass_rate": "12.3%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "THK Completes Transfer of Automotive Subsidiaries and Loans to Advantage Partners-Backed SPC - The G",
+      "Watch Delta Electronics Flags Power Crunch - Bloomberg.com",
+      "Tisco Securities Downgrades Delta Electronics Thailand to Sell from Hold; Price Target is THB305 - m",
+      "Mitsubishi Electric Celebrates Grand Opening of its Western Digital Transformation Hub, Serendie Str",
+      "Mitsubishi Electric Opens Serendie Street Boston Digital Transformation Hub in Cambridge - citybiz"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為CAT相關動態：「Caterpillar outshines Zillow as a safer bet amid housing ...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Caterpillar outshines Zillow as a safer bet amid housing market struggles and...",
+        "level": "green"
+      },
+      {
+        "text": "CAT為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
