@@ -1,0 +1,16 @@
+{
+  "total_raw": 392,
+  "dup_title": 235,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 0,
+  "gate2_fail": 8,
+  "passed": 14,
+  "gate2_samples": [
+    "THK Completes Transfer of Automotive Subsidiaries and Loans to Advantage Partners-Backed SPC - The G",
+    "Watch Delta Electronics Flags Power Crunch - Bloomberg.com",
+    "Tisco Securities Downgrades Delta Electronics Thailand to Sell from Hold; Price Target is THB305 - m",
+    "Mitsubishi Electric Celebrates Grand Opening of its Western Digital Transformation Hub, Serendie Str",
+    "Mitsubishi Electric Opens Serendie Street Boston Digital Transformation Hub in Cambridge - citybiz"
+  ]
+}

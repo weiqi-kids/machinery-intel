@@ -1,0 +1,229 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T10:23:48.434647Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "dmg_mori-2026-06-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DMG Mori Global One – The big IMOCA reveal in Lorient - Mysailing",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzdpUmtWSDdoQzFrcC0wcnh2SGhBWnVIVHIzYmZDa0ZPNTl4MEJoQlF5dE4zRFdrT2VyMkFTdGZaQ2pJb0dIcDA1V19qWV9lTDZMa2lQaXZVR0xfV2JONElsWWMtWUhJQTJxVTlUY3JKby1fZXJzZmJxM1NfVXctR09FNkRfc0Z6?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "parker_hannifin-2026-06-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Capital World Investors Buys 16,703 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOGktOXV6aEdpU21LM040dmJZdEFvNUdWTXJkcnhPYWNvUnBibGV2MVlWQ2N1ZFJqSlljb0NMa2loSnR6bkxBS0tWR2VQczRyRW92M1YzM0hTWlBocWY3QlQ1MlFHNmFXQkxTZHB5a0Jra2JGT3Q0YnQxZmZPbmVxNDZXYmdUQUxWeDZKMzgwOEppZVY0OUxXV2t5SEprc1ROUWZsTXVqOWFQekpwbWRYS3JQNld4a2NrSVlSUmRBY0FZNVpzRGFBRTFibm12REZmM1E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-06-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Clearbridge Investments LLC Raises Stake in Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN2ZEMVlEMEpDdHJNRDJEMzRjR3NVdGYtQkJrTVlrNG9CR3dSRVFwX3hzS2dqakJhWXpiQk5ESnA0VmJCdk83azhQVmMyVklPd0EwbUFhazhqQXFCc3pYcVczTFhQZ2pNYnRmcWw4ek56UGpwTjlGSmVvVk5CRGJnLWxXMlA1Ql9MZ1dOT2VMWmpPQ25zbXd4dEU2aF9lUnNBekhCUWo0Y0huc0paTjV2N2hLVFdZeHFsZm5Cdnd0QnQ1dURTUHJ5V2lqVUtSNHow?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-06-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "2012 Caterpillar 725 For Sale in Grand Prairie, TX - Construction Equipment Guide",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZnpiSmY1d1dMM2gyLVJYbVJaeUNwcmdta0REdnlRQnFOeHo5V2pUWk1LQ2poSkl5eXNkdnA0LW5yQU44XzlkV0J1UHNqMVl2Z1pOQXVwU3VfaXJ1M1hKZ1ZlR2xsc0hLWEdIS0dWOUx2MU1CWWJiRW5XRVRhZjd2YURFWjZIZTRZaXZsYTRHZm5OQkJsZ0o1VTg2Q1pYaXha?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-06-07-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Caterpillar vs Bobcat: The Software War Rewiring Machinery - Construction Kenya",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORFkyd0VXU3JhLUt3cVhCZl9WZXVtaGFkSnJrc1BfVUU4LXE2eUxpV3UzSnY3SGliM05HbTBzWGZ1ODlOcXFVZDh2Tk9jNE1NajFwLWJ3eHZHZkNHUUlpSGFrVC1GckVVWHU0bko0aWlycmc3T3lseHpDMjNrMkhZR2dZbXRFM01RZ3VlMXRMaUpGbWxyVjdzUVZ3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "dmg_mori",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 392,
+    "dup_title": 235,
+    "too_old": 135,
+    "gate1_blocked": 0,
+    "gate2_blocked": 8,
+    "passed": 14,
+    "pass_rate": "8.9%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "THK Completes Transfer of Automotive Subsidiaries and Loans to Advantage Partners-Backed SPC - The G",
+      "Watch Delta Electronics Flags Power Crunch - Bloomberg.com",
+      "Tisco Securities Downgrades Delta Electronics Thailand to Sell from Hold; Price Target is THB305 - m",
+      "Mitsubishi Electric Celebrates Grand Opening of its Western Digital Transformation Hub, Serendie Str",
+      "Mitsubishi Electric Opens Serendie Street Boston Digital Transformation Hub in Cambridge - citybiz"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Parker、CAT、DMG Mori相關動態：「DMG Mori Global One – The big IMOCA reveal in Lorient - M...」。主要關注主題為財報、產業通用、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "DMG Mori Global One – The big IMOCA reveal in Lorient - Mysailing（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Capital World Investors Buys 16,703 Shares of Parker-Hannifin Corporation $PH...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
