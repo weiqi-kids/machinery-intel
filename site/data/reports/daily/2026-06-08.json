@@ -1,0 +1,241 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:23:50.425580Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "abb-2026-06-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABB Ltd stock (CH0012221716): Here is the latest business update - AD HOC NEWS",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcG5ZclgtYnlSOTFjc0Q3WUhST0IzUXVpNGtOZ3NRSW1meDJJbnA4a2ZyY1EtSWR2eGNZSEdpUTlUTUhhWG43UG9STXpyMGIzQW9FQ0RsSUxsRkxvdVZndkRUR1AzU0xBU09DU1RUekFiQ2dVQ0s2X3dsMGpCOTRHU1NzYlBPOTYxRTVpZFBieXZMaXJaN2FyblF2Z2tRX3VReU9HMzdRQU9zRXl5ZGtXQnJ3ay1ZTWJkN0gxRA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mitsubishi_electric-2026-06-08-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric and Semikron Danfoss Jointly Develop New Standard Package for Power Semiconductor Modules - Business Wire",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTF82LWJBWElWTmVCWGdLeGJaXzhhZHh0SEROTXZkSW5oLWJuTmNNMTJ4bEwwNmc4YTBjNElLVnhjWHBOekluVkxqZDlTZ1hRSDdFTGpMX1Q2bTh1cjFGUFBpOF9jNTNsLUxNYWw4SnI2NUk0d3c4al9oOXlEaDVibmx2cjNDNmttcmlaSDV1VWw4T2ZBT056R2xPMW9iREE4NTB4cHhfdkVZcVlhN1kxTGJOT1l5OVZUX3BTLVRhNlNZRjUzODB5Sk9nTGRSUGlGZkszOUJDMTdQSmU3RWVCSXpoeE5YVFBVX0N4ZlNkemlWV3pPR0I2ZUpn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "makino-2026-06-08-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "MBK clinches Altemira buy as Japan blocks Makino deal over defense tech - CHOSUNBIZ - Chosunbiz",
+      "companies": [
+        "makino"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYTZVeEcySXlrNXJkTEVYS2NMVHR2V2wxWFFrMm81V21Bc2RsSG10QW81Rmt4cl9wOFh1UU9rV050RElMWHNidEs2bVZ4NHZRd183OGM3NjZIdDczYnN0YmIwYnhBVV95b0t4Q0otaHFUYmVkZlc1SHh6bTRIOVFvTdIBlAFBVV95cUxPbGRqM2dCSTNnb05HY240dXhvUVZUZXE1Y05uMUk4eGMwQ2xHU2ZMbHcwVk4yX2poUkNMTzc0MzlkTnJueTZkM2ZzQ0hNcnJWVnhPSlV4bzBlc2xvcVpXMUFVd3c3TGNBdjM2NlFJRWZRSWJHaklvYjV0b1RBMXJIUW11d2lxOThwMnRIckhYLW1uaXFn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "parker_hannifin-2026-06-08-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "New Direct-Operated DFplus® D-Version Valve from Parker Provides Freely Parameterizable Second Control Loop - Process and Control Today",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUFJFSmlMWkJvLXhBYWYzaGVmZlMxTjFrRTktcW1XVEtpcDVfMGFoWWxyVWdySmNZc0U0RTFoVWxZcWFnQ3ZacUhXaTkyOGszNjVMYTctQm43WTVjV1owZTZqNEU3blh5b2szcGYyNWFuQVZQUXRyWEUwdW1hN3NyTl9PTElPNTBGc0psMGFLNHU5Y3piUng2YUJnNS0yaHREaVo5Nkg5Q3U3dHdwNFlvOS1fVTVTdjEwcGwxR3RpMENZTnRQSW85OUlPd18xZm8?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-06-08-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin stock (US7010941042): Industrial motion giant after latest earnings and dividend mov - AD HOC NEWS",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTlaMmpTa2hyazRhQ2xfa2lldXhONTNBampCaS05ajBiM01IRTB4SDhJSnlvSGtSVHlXZ0FfZW4wQVhOTTd0UHg4ZnJqX1Y4QUNuRlBMZHhDLW94ZUpib1l1TUE2dkx1QmxBOUp0RlRuTVdNMFd2NmRGRF9vODBQWjFWT0hOR1ZlbVdtTzJlSERUdVlYSFRLVWhOcWVXNnVKR1FHQUM2VWVIa3haSDFNaXNIVHMxOGtReFBnRGxDYUtIYjdDM1lUbHNR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 2
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "abb",
+        "count": 1
+      },
+      {
+        "id": "makino",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 230,
+    "too_old": 134,
+    "gate1_blocked": 1,
+    "gate2_blocked": 10,
+    "passed": 30,
+    "pass_rate": "17.1%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "THK Completes Transfer of Automotive Subsidiaries and Loans to Advantage Partners-Backed SPC - The G",
+      "Number of shareholders of Airtac International Group – TWSE:1590 - TradingView",
+      "Delta Thailand Included in S&P Global Sustainability Yearbook 2026 for 11th Consecutive Year - marke",
+      "Watch Delta Electronics Flags Power Crunch - Bloomberg",
+      "Tisco Securities Downgrades Delta Electronics Thailand to Sell from Hold; Price Target is THB305 - m"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為Parker、Mitsubishi Electric、CAT相關動態：「ABB Ltd stock (CH0012221716): Here is the latest business...」。主要關注主題為產業通用、財報、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ABB Ltd stock (CH0012221716): Here is the latest business update - AD HOC NEWS（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Mitsubishi Electric and Semikron Danfoss Jointly Develop New Standard Package...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

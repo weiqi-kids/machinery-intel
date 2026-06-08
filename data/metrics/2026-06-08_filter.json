@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 230,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 1,
+  "gate2_fail": 10,
+  "passed": 30,
+  "gate2_samples": [
+    "THK Completes Transfer of Automotive Subsidiaries and Loans to Advantage Partners-Backed SPC - The G",
+    "Number of shareholders of Airtac International Group – TWSE:1590 - TradingView",
+    "Delta Thailand Included in S&P Global Sustainability Yearbook 2026 for 11th Consecutive Year - marke",
+    "Watch Delta Electronics Flags Power Crunch - Bloomberg",
+    "Tisco Securities Downgrades Delta Electronics Thailand to Sell from Hold; Price Target is THB305 - m"
+  ]
+}
