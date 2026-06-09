@@ -1,0 +1,232 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T10:53:57.341379Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-06-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics Says May Revenue Up 43.65% Y/Y - TradingView",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEVQcDNBaEN2WGxhSGs1UjY2cnduUlJSemRvZkJQMkpwYXR3VTlzYzdyTm8xR2o2M0NrQkJremVKQ1NwcFV0bW1lT3pDYmhCWndyUHJ3dmx0cGJDbjBhVHZJaG8xUkROUTktRVNwaTk2TXhNT2NqSjFfa3hzd0ttaVR0UUppZlJiR3NVMEtORXZ2QVdfVEF0cS1BdXZ0VFNKMjVLWFFraUFZejFza1ROZFBvMC1jLXYz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mitsubishi_electric-2026-06-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric and Finland’s VTT Establish Core Technology for Direct Ocean Capture - Business Wire",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSXQzY1BXQ3RqTjZqWDd2cFZWWHhFeEtDUlVPTDYxR2lDUy1TTWJJM19LaTlVOFFLRmIzdno3TFRGUUVhU2VhSkt1X2VHNTlQYjhJZHJkelFsTnkya2gzbmF2LU16djc1aEhUVEJwWXdkZnBzZVQzb2l3VkdNQmlwMFhRc25QelBhd0tHVzRXLUl3ZkdYaDJUWTVMQVY4dzZaM0p2ZmszOGNvQjl3dl9aclVsY2Jyd1JfenVHdnRNVTUwMDlhRWRkLUFFdEJFUnEzNmhBNXRQMldKLTRT?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-06-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Citi Opens 90-Day Upside Catalyst Watch on Parker-Hannifin (PH) Ahead of Q4 Results - Yahoo Finance",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnRHdGcwbnVCUUxGOWpmVTdXQ0ozeWtUa0tlX1p5RjlBUnlLNWM1Wm1YdHBrMUI2MkRkMkk3U2Z2aF9kaW1DNHlWdGtZTndKM0hrc2FYdUg0emxnaFpVNl9uSzIxSDBpUVAxaF9Nb3ZxTVpsdEE3Z1E1NU9DdGdNNDFKQ2Q3QjZPZGlkS19Ld1N2NzQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "parker_hannifin-2026-06-09-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin (PH) Valuation Check After Mixed Earnings And Revenue Beat - simplywall.st",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUk4RUo3Z2ZkRjc2TmJTbjdudEhzblB5dHBlMkdIdEdpWEw2anJsQjl5SmdWUXBBSUJFekw4NTl2VFNnYTlqUExybVhBczB3YVk3SW9uSDNPRFBvM19rNm13Y2ZNTmtFUy1jS0gxMURicUtpSlFUSkxJdUJnT1otbDhBTnVEN3ZBeWoyWGJsdFBlcm1DclQ2RkhPbXJ5UGxkMGxqUGp5UmZKV0FmRUV5SnB2UUNQUjVZMFhuZ0hZQ2I4UjktSW5sYmY2N0hRaWfSAdQBQVVfeXFMTmlpdC1GR2o0dHV0RERwek03dHBKZ2YxOTh1ZUtzdVM5c2Z3b2tZMWQwcTN3NldIdEtqUmh2dHNuVzZWQ2dDZFp0Q0VDQ2NjdFpvVENqb0s2R0p3di02MW1XanlEZExjWnQtN2phckpCdDVvMEFTeUpRY1ltRFl1YWNTTThTTEpmS1RWYlZ5RVpiRTlJaHZ3UWdzd0RTc1NObkNJNHpjUk43NHZCcUd2MFYtX3F2V0RWdlJxS1VRMmZ6c2s2QUJwNFBvWENfMXpKbDFkb3I?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-06-09-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Is Parker-Hannifin Drawing S&P 500 Attention After Revenue Beat? - Kalkine Media",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcW5rWlZ4cVhPMFROQnhsaVNnUW53Zy1peFpVWmQtbUlTWkM5T1lDMGRkR042STk5ODFoYXpva2dmUFVubzBGX3BrVHVHWjJVYUNWT0VkNHV4a19BazBIczJoeTE1emZTZ1FsRG9QUXF6am9KaVNRdjZNTGRkQzc0TlRXVG12anVTWHBoTDZzNmxmdWZtYTNxRHhzdlBNRV9yTzlfZHgxY0pYMkFUUEMwUV9n?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "delta",
+        "count": 2
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 394,
+    "dup_title": 225,
+    "too_old": 137,
+    "gate1_blocked": 1,
+    "gate2_blocked": 10,
+    "passed": 21,
+    "pass_rate": "12.4%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "THK Completes Transfer of Automotive Subsidiaries and Loans to Advantage Partners-Backed SPC - The G",
+      "Number of shareholders of Airtac International Group – TWSE:1590 - TradingView",
+      "Watch Delta Electronics Flags Power Crunch - Bloomberg.com",
+      "Tisco Securities Downgrades Delta Electronics Thailand to Sell from Hold; Price Target is THB305 - m",
+      "Why P3s Are the Financial Answer to Limited Public Capital"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Parker、Delta Electronics、Mitsubishi Electric相關動態：「Delta Electronics Says May Revenue Up 43.65% Y/Y - Tradin...」。主要關注主題為財報、產業通用、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Delta Electronics Says May Revenue Up 43.65% Y/Y - TradingView（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Mitsubishi Electric and Finland’s VTT Establish Core Technology for Direct Oc...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

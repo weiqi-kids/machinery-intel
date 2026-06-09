@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 225,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 1,
+  "gate2_fail": 10,
+  "passed": 21,
+  "gate2_samples": [
+    "THK Completes Transfer of Automotive Subsidiaries and Loans to Advantage Partners-Backed SPC - The G",
+    "Number of shareholders of Airtac International Group – TWSE:1590 - TradingView",
+    "Watch Delta Electronics Flags Power Crunch - Bloomberg.com",
+    "Tisco Securities Downgrades Delta Electronics Thailand to Sell from Hold; Price Target is THB305 - m",
+    "Why P3s Are the Financial Answer to Limited Public Capital"
+  ]
+}

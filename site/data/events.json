@@ -1,5 +1,148 @@
 [
   {
+    "id": "delta-2026-06-09-001",
+    "date": "2026-06-09",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics Says May Revenue Up 43.65% Y/Y - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEVQcDNBaEN2WGxhSGs1UjY2cnduUlJSemRvZkJQMkpwYXR3VTlzYzdyTm8xR2o2M0NrQkJremVKQ1NwcFV0bW1lT3pDYmhCWndyUHJ3dmx0cGJDbjBhVHZJaG8xUkROUTktRVNwaT",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEVQcDNBaEN2WGxhSGs1UjY2cnduUlJSemRvZkJQMkpwYXR3VTlzYzdyTm8xR2o2M0NrQkJremVKQ1NwcFV0bW1lT3pDYmhCWndyUHJ3dmx0cGJDbjBhVHZJaG8xUkROUTktRVNwaTk2TXhNT2NqSjFfa3hzd0ttaVR0UUppZlJiR3NVMEtORXZ2QVdfVEF0cS1BdXZ0VFNKMjVLWFFraUFZejFza1ROZFBvMC1jLXYz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-06-09-002",
+    "date": "2026-06-09",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta, Liteon tackle AI power and load stability needs - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmpLRW5BbHJJQVpfMGRqWWJFVUNzaUNreE13YWdVa19GeVhvQVg3MUdQczRiYTlZcDh1YnlsSWxSUFZHUkwxSXhWckJZV29qNWFOY2YzWE1nb0k0SkNvc3B6cGcyaDMweVZIWFhnSW",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZmpLRW5BbHJJQVpfMGRqWWJFVUNzaUNreE13YWdVa19GeVhvQVg3MUdQczRiYTlZcDh1YnlsSWxSUFZHUkwxSXhWckJZV29qNWFOY2YzWE1nb0k0SkNvc3B6cGcyaDMweVZIWFhnSW1XS0pSVE01eDMza1cyUEw2a0dfU0JkcHR4UGhfSGpoZ2pkb3Y4NkxtU1o3S2pEZnB4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-06-09-003",
+    "date": "2026-06-09",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric and Finland’s VTT Establish Core Technology for Direct Ocean Capture - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSXQzY1BXQ3RqTjZqWDd2cFZWWHhFeEtDUlVPTDYxR2lDUy1TTWJJM19LaTlVOFFLRmIzdno3TFRGUUVhU2VhSkt1X2VHNTlQYjhJZHJkelFsTnkya2gzbmF2LU16djc1aEhUVEJwWX",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSXQzY1BXQ3RqTjZqWDd2cFZWWHhFeEtDUlVPTDYxR2lDUy1TTWJJM19LaTlVOFFLRmIzdno3TFRGUUVhU2VhSkt1X2VHNTlQYjhJZHJkelFsTnkya2gzbmF2LU16djc1aEhUVEJwWXdkZnBzZVQzb2l3VkdNQmlwMFhRc25QelBhd0tHVzRXLUl3ZkdYaDJUWTVMQVY4dzZaM0p2ZmszOGNvQjl3dl9aclVsY2Jyd1JfenVHdnRNVTUwMDlhRWRkLUFFdEJFUnEzNmhBNXRQMldKLTRT?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-06-09-004",
+    "date": "2026-06-09",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Citi Opens 90-Day Upside Catalyst Watch on Parker-Hannifin (PH) Ahead of Q4 Results - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxObnRHdGcwbnVCUUxGOWpmVTdXQ0ozeWtUa0tlX1p5RjlBUnlLNWM1Wm1YdHBrMUI2MkRkMkk3U2Z2aF9kaW1DNHlWdGtZTndKM0hrc2FYdUg0emxnaFpVNl9uSzIxSDBpUVAxaF9Nb3",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnRHdGcwbnVCUUxGOWpmVTdXQ0ozeWtUa0tlX1p5RjlBUnlLNWM1Wm1YdHBrMUI2MkRkMkk3U2Z2aF9kaW1DNHlWdGtZTndKM0hrc2FYdUg0emxnaFpVNl9uSzIxSDBpUVAxaF9Nb3ZxTVpsdEE3Z1E1NU9DdGdNNDFKQ2Q3QjZPZGlkS19Ld1N2NzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-06-09-005",
+    "date": "2026-06-09",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (PH) Valuation Check After Mixed Earnings And Revenue Beat - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUk4RUo3Z2ZkRjc2TmJTbjdudEhzblB5dHBlMkdIdEdpWEw2anJsQjl5SmdWUXBBSUJFekw4NTl2VFNnYTlqUExybVhBczB3YVk3SW9uSDNPRFBvM19rNm13Y2ZNTmtFUy1jS0gxMU",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUk4RUo3Z2ZkRjc2TmJTbjdudEhzblB5dHBlMkdIdEdpWEw2anJsQjl5SmdWUXBBSUJFekw4NTl2VFNnYTlqUExybVhBczB3YVk3SW9uSDNPRFBvM19rNm13Y2ZNTmtFUy1jS0gxMURicUtpSlFUSkxJdUJnT1otbDhBTnVEN3ZBeWoyWGJsdFBlcm1DclQ2RkhPbXJ5UGxkMGxqUGp5UmZKV0FmRUV5SnB2UUNQUjVZMFhuZ0hZQ2I4UjktSW5sYmY2N0hRaWfSAdQBQVVfeXFMTmlpdC1GR2o0dHV0RERwek03dHBKZ2YxOTh1ZUtzdVM5c2Z3b2tZMWQwcTN3NldIdEtqUmh2dHNuVzZWQ2dDZFp0Q0VDQ2NjdFpvVENqb0s2R0p3di02MW1XanlEZExjWnQtN2phckpCdDVvMEFTeUpRY1ltRFl1YWNTTThTTEpmS1RWYlZ5RVpiRTlJaHZ3UWdzd0RTc1NObkNJNHpjUk43NHZCcUd2MFYtX3F2V0RWdlJxS1VRMmZ6c2s2QUJwNFBvWENfMXpKbDFkb3I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-06-09-006",
+    "date": "2026-06-09",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Parker-Hannifin Drawing S&P 500 Attention After Revenue Beat? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNcW5rWlZ4cVhPMFROQnhsaVNnUW53Zy1peFpVWmQtbUlTWkM5T1lDMGRkR042STk5ODFoYXpva2dmUFVubzBGX3BrVHVHWjJVYUNWT0VkNHV4a19BazBIczJoeTE1emZTZ1FsRG9QUX",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcW5rWlZ4cVhPMFROQnhsaVNnUW53Zy1peFpVWmQtbUlTWkM5T1lDMGRkR042STk5ODFoYXpva2dmUFVubzBGX3BrVHVHWjJVYUNWT0VkNHV4a19BazBIczJoeTE1emZTZ1FsRG9QUXF6am9KaVNRdjZNTGRkQzc0TlRXVG12anVTWHBoTDZzNmxmdWZtYTNxRHhzdlBNRV9yTzlfZHgxY0pYMkFUUEMwUV9n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-09-007",
+    "date": "2026-06-09",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Designing for automation to make manufacturing operations resilient",
+    "summary": "<p>As factories integrate advanced automation, AI and connected technologies, operations become faster — but also more fragile. </p>\n<p>The post <a href=\"https://www.plantengineering.com/designing-for",
+    "sources": [
+      {
+        "name": "plant_engineering",
+        "url": "https://www.plantengineering.com/designing-for-automation-to-make-manufacturing-operations-resilient/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "abb-2026-06-08-001",
     "date": "2026-06-08",
     "companies": [
@@ -177,6 +320,207 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdndkTjhROTk5UWoxM2hnakhuWUNvSlkzVFFBSkxob0NETG5IVG0wUk1SaDN5WTN4Zy16b1l0alpNa1M2dFAwZGxUUElrNy1QMmh5ZXpYNlAzb2h3UU5aNW1HLWdOVnZVdERfaEtoRGcteElXY1c2TXRmOGxsSjhiY3ZuY0ZuQV9hZ2JUV2wwMWx2bUZKcUxaV0RhaDlkdXMxWHdPT3NVaVpfTDNYN0dCZFZBSklNWGxkclFydGpic2otU01oei1ULWlIQkjSAdIBQVVfeXFMUGlCWVJldnZwdmxMQWFqamRaUGhVSWhaU2xmNG9vM2FRNlc4WVA4bTE1VWxXTlRRS1ZCS2lBLVNiaTYxSnFpQkpxSW9HRzFtVUJVNE5wRjlZUEVqemtPMVp1eFNHTk1nZThUMklTSloxV0IwM20zWHMyVnVMTFlKdGZXYVFEbGNZRnJ5ZmNNLUxyQm03bGJEOHc2Z0o3Zm10azZjNTFoQjNWaTVIRTI0M2hfUXdQOURvbE56bXI5QmJUZXBMTUd5d3p0N0taQ2VjY1VR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-06-08-010",
+    "date": "2026-06-08",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Ltd stock (CH0012221716): Earnings momentum and automation demand in focus - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOQUdpdVBkVmJFU2JPY0JBdmxXSUYzTlNxSGt6eVpudXctdzE2M3hmTVBFYjJKNm1VNGh0ZDAtMFFwWUtOZkh6OWVtQXNCYm1yYl82OVBMQUY1cWljZUNkTHRoRmc0RzI5NmktbnZPRT",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQUdpdVBkVmJFU2JPY0JBdmxXSUYzTlNxSGt6eVpudXctdzE2M3hmTVBFYjJKNm1VNGh0ZDAtMFFwWUtOZkh6OWVtQXNCYm1yYl82OVBMQUY1cWljZUNkTHRoRmc0RzI5NmktbnZPRTVpRnExT0hmM3FheUM4V3RBRkRTMHNpUGxoUEZRRGpBbHl3YXh1Wmxra0dGNmNGMjc1TzZsN1hzTldSMDg4R3JFRmVrY05XSGJkQ05BTURFOC1vcDVSU2ZN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-06-08-011",
+    "date": "2026-06-08",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Automation Wins Gold in Control Engineering 2026 Product of the Year Awards for FR-D800 VFD - PHCPPros",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVjU0alFtUWoxdzVmSHBWNnRRZXBEZDlibk5EbnVtVkRoNWVDakllSGp3RUZ5ejdmVDNvX2NHV0ZYbkRxSnluXzZhSUkyX0h0VzZ2ZHNDd2R0RzMtTzRWTlY2U2YzakJBNzFvdGlCWl",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVjU0alFtUWoxdzVmSHBWNnRRZXBEZDlibk5EbnVtVkRoNWVDakllSGp3RUZ5ejdmVDNvX2NHV0ZYbkRxSnluXzZhSUkyX0h0VzZ2ZHNDd2R0RzMtTzRWTlY2U2YzakJBNzFvdGlCWlphV2dkQkVPN0RNTV8xT19WLVQyeFhtdm8zNTJKQ0xWWDdnRDAtbWxVUXJ5cW81clBIMFU4ZEVEbTRMOTkxWHhLcmNmeEhXUEdNT0ktZm5rWlluV3RMb04xdGxnaVB5aHNFbEhyQzdmY3lPeV9XbXA1bTVJOThla0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-06-08-012",
+    "date": "2026-06-08",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Mitsubishi Electric (TSE:6503) Quietly Repositioning Its Moat Around Power Electronics And Automation? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPNWdNb01RSmxVRGtkd01MWldLZ3hCRURoYXlJX09qOVVfb2ZMR2lHblpwakxPcWRqVVFjTXhYU1NsMzFGZjg4V2IwUG91QWtIWko2Y2k0czAxa3M2YnZKd1hkelkxZVpWYmFrSFkxbD",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNWdNb01RSmxVRGtkd01MWldLZ3hCRURoYXlJX09qOVVfb2ZMR2lHblpwakxPcWRqVVFjTXhYU1NsMzFGZjg4V2IwUG91QWtIWko2Y2k0czAxa3M2YnZKd1hkelkxZVpWYmFrSFkxbDJ4RDFoa2YyTV9PZFIwTlRLLWEzUmZMRU1VZzZZMlVjLWxYR25WbmNBYXVKQUR6WmNTN3ln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-06-08-013",
+    "date": "2026-06-08",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock (US4523081093): Industrial heavyweight draws institutional interest - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQTjhhWGpBMXFIc3VVUHBFNWxXaW5XVGlhS0NqT2luZVY4MnYzdWlrZE1zTUNUT0traTY3QWdOYXNhbmprTEhBV2ptTTZybWdLRnVnaVB5cmU1QmZDTTBEazhtTUx1Z2x2RTZSQUt2LV",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTjhhWGpBMXFIc3VVUHBFNWxXaW5XVGlhS0NqT2luZVY4MnYzdWlrZE1zTUNUT0traTY3QWdOYXNhbmprTEhBV2ptTTZybWdLRnVnaVB5cmU1QmZDTTBEazhtTUx1Z2x2RTZSQUt2LVdjSDh4blJyQ0xmSnQ2cTlzTnhJSlR0VmR3TFpTUk44cFpxemtRYmM5T3dGVlFKODVUdUl4RkxGSGYyNkg3UlBFcWpmNDNiRk8yMVBwajNPaFgtTUNz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-06-08-014",
+    "date": "2026-06-08",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation - MLQ.ai",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYbFlzOVphV0JkUWJWbzRWRnBNeWVJR2RSRWxMVXVqTnFQaUJUd0NxR3gzZnEwb3dvLVpJMzZ1aEVvMzROd0JndFFVdUlDQmxmMmtzdlR3?oc=5\" target=\"_blank\">Parker-Hann",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYbFlzOVphV0JkUWJWbzRWRnBNeWVJR2RSRWxMVXVqTnFQaUJUd0NxR3gzZnEwb3dvLVpJMzZ1aEVvMzROd0JndFFVdUlDQmxmMmtzdlR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-08-015",
+    "date": "2026-06-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Zacks Analyst Blog Highlights Caterpillar, Coca-Cola, HSBC, SandRidge Energy and NVE - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWENvWkZCTmRfRk5vbnlzaF9oRUFUWGU0THBFUHUzdlNZUW1oWFljUUd0Uk1uZk1DamRYTWlQMTlNNlkwSDNrLUN2MzNraHBXUnlWX21vMHlLX3hwTXNKcFByeUNMWlZrdXFFTVJvb1",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWENvWkZCTmRfRk5vbnlzaF9oRUFUWGU0THBFUHUzdlNZUW1oWFljUUd0Uk1uZk1DamRYTWlQMTlNNlkwSDNrLUN2MzNraHBXUnlWX21vMHlLX3hwTXNKcFByeUNMWlZrdXFFTVJvb1laVW02dHJDZ1pPWTVUV2N3VGRRanEyR2Rua185V1Z5eVJweUk1WDRZeUdqYlJXclVOVExCVTh1SDZaQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-08-016",
+    "date": "2026-06-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tia McGraff Inches Forward With Caterpillar Song - Tinnitist",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOR250UkVrNmFlZHB5MHdOU2NQQjFtbkc0Q25Vcm42Z1BVaWVHNG5SYnNCQ2RvaEM4Q045WFBXVWQ5Zy1jVUFnT2JCRjQyQUZUSDRoT1pqMkFqdC0yVHc3YTFWODE0eWNWQXRzdHEwdU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR250UkVrNmFlZHB5MHdOU2NQQjFtbkc0Q25Vcm42Z1BVaWVHNG5SYnNCQ2RvaEM4Q045WFBXVWQ5Zy1jVUFnT2JCRjQyQUZUSDRoT1pqMkFqdC0yVHc3YTFWODE0eWNWQXRzdHEwdUxWa2JEaGZhVHU3SXNfN01POXdTUmMyWmdVM3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-08-017",
+    "date": "2026-06-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tia McGraff Releases Joyful New Children's Single \"Caterpillar Song\" to Celebrate the Launch of Her New Book 'In Your Dreams, Jake' - Cashbox Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQXzNNWjlaaHRKc083Y2t4SFFvcm5YaXJGTWtobnprZkhfNHBQOEFFeVpsNkl6cElTQ0xrNnhucWxGSlVEdndSVmRSNEppS1B6emNMTUxIdjVEQjQwblNYZjZiQ2lYQ0xxeTRTejlQYn",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQXzNNWjlaaHRKc083Y2t4SFFvcm5YaXJGTWtobnprZkhfNHBQOEFFeVpsNkl6cElTQ0xrNnhucWxGSlVEdndSVmRSNEppS1B6emNMTUxIdjVEQjQwblNYZjZiQ2lYQ0xxeTRTejlQYnNZWk1XdDROYlZyZzJ2U2F4Yi1MVmQ0LVNLNWg3UHRFcE5xcldxQ3A4bF94cklUcFc0QWF1VHV1b3lVUVlFYXY2dUc5aU1HVWpvMDFIc0pNdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-08-018",
+    "date": "2026-06-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Zacks Investment Ideas feature highlights: Caterpillar, Vertiv and Eaton - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNTmZFZ3ItTVlwRUFsT2o4aGd1ZHk4WUZPcnB4c1pvY20wNmg1NWJSdk9EMGJ3Z3cwdGh5UnQ0eHZhdzc4VnlsQXhFMkxnYjVnZ0t1eUhWNDhMbHdLd0loQTFzeGxWZnBlbkt3YXNwX1",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTmZFZ3ItTVlwRUFsT2o4aGd1ZHk4WUZPcnB4c1pvY20wNmg1NWJSdk9EMGJ3Z3cwdGh5UnQ0eHZhdzc4VnlsQXhFMkxnYjVnZ0t1eUhWNDhMbHdLd0loQTFzeGxWZnBlbkt3YXNwX1NMTnRxSjBBNXJPdmY4eWMyb2RkT1JaQ3lRa0RPNWozNVBKZk50?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-08-019",
+    "date": "2026-06-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Expert Q&A: Pare back on devastating risk, enhance safety with training",
+    "summary": "<p>In a high-stakes industrial environment, safety is no longer just a requirement, it is a powerful test of leadership, trust and a plant’s ability to protect its people amid relentless change.</p>\n<",
+    "sources": [
+      {
+        "name": "plant_engineering",
+        "url": "https://www.plantengineering.com/expert-qa-pare-back-on-devastating-risk-enhance-safety-with-training/",
         "type": "rss"
       }
     ]
@@ -462,6 +806,27 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFpHVWd2RGRkZ04waEFFYS1lOXdqdkJsY3dLVmxyR0poTnpTcllMS1pkSzNYYzA4cm9sVDBFVTJpSU9RV3oxVkRqcTVUZDUtRXRuZ2N0Z3BEdUlCT2dJQzFuU1duc2pXWW9hb2xWQTBRNi1ZRXFJdlprZDFZWWROS2NDS1c3czYwaFo1Qkh1Wnpiejh5YXZzdEdYR1ZPMWdqNnRQRmlBdW5mTVQ0azZablFqclNfTnpXdkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-07-015",
+    "date": "2026-06-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Government Issues Warning Not To Touch Caterpillar 'Under Any Circumstances' - HuffPost UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1FvenNXMFFvRGJhQWIxTEp2cTZ2UUh2eVIwbUlXbU9rcUR0dzFvaDRQTG5aQTltSUtncHh3ellGZzFvVThmamZWOUZ0eExIWDRDZmIyRGJSaF9CekZCbFZqZWdRWW05VkxOZ0ZrbH",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1FvenNXMFFvRGJhQWIxTEp2cTZ2UUh2eVIwbUlXbU9rcUR0dzFvaDRQTG5aQTltSUtncHh3ellGZzFvVThmamZWOUZ0eExIWDRDZmIyRGJSaF9CekZCbFZqZWdRWW05VkxOZ0ZrbHNnNjFwR3gtODV3U3ZZeE1yazRpRDhSeVdsQW5oTEZQSGtUT0VYQlEtSWRLNXQzT1NJSTk2d2NndC05Rnhac2fSAbQBQVVfeXFMUHp6a3B6LVVZbEpuMkd6ME5naVE5dzNHTk10eG5mYWR6b0JpeWVOWFQ4UmpsMHFPOWY3YV84V0JZdWVTdkNmT2Y0ZVY4YVBBSzE2djBicFlUOXo5VGRNaVBSQWhqTTE0UDBZaDRjb09YeEpqWTRldG5ubWFsZ1EtcS0xY0Zlcm5TcGYtb3VmOGJOY1VvM2tfdjctclF6ZUl2QTZZdkZVT1RoaGk5SkZsbXAycmJk?oc=5",
         "type": "rss"
       }
     ]
@@ -1185,6 +1550,28 @@
       {
         "name": "schneider_blog",
         "url": "https://blog.se.com/energy-management-energy-efficiency/2026/06/05/what-to-look-for-in-hvac-drives-for-efficient-connected-buildings/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-06-05-031",
+    "date": "2026-06-05",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric to Launch Data-provision Service to Accelerate Adoption of Latest Power Semiconductors - lincolnjournal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwJBVV95cUxOUzZERVdMQTdsaXpFb2FCdkhOZkwwTmdLMTF1X3VFLXk2RmhSMjFVSkR2UFlBd29iQ2Q2YldlVXlIR09fam1FY0pSVzVxM2hXNVp4QXZvRXpVVExndy1aUWxRRVY0bWhVMlpBcFR3a2",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOUzZERVdMQTdsaXpFb2FCdkhOZkwwTmdLMTF1X3VFLXk2RmhSMjFVSkR2UFlBd29iQ2Q2YldlVXlIR09fam1FY0pSVzVxM2hXNVp4QXZvRXpVVExndy1aUWxRRVY0bWhVMlpBcFR3a2VvcTF2SlJpTzdBbFd2aGNxaXMzRkZ5d2g3ZkdLRk0xYl9OMGJqWVE1LW1NbDl5THVuU1U4Z1NxTUd4djBvLUVRWDRaWENteFlQVVlObVF5ODN5Tl9XbGZIZ25oTVhQZUZWZzJkV1Z0WEVBM3pxQmZJOWFEbXlxYzdXU3hFM01xZXp1eDBNZExlcW1nMUlOb2JPLWZ3RGVTTkFTeWxhYlRxRTBieUdKZGUwQW9xa0NzNV92d1ZaakJodmprUUlRRldKZE9feVBNRFQ1RnZLZ2sw?oc=5",
         "type": "rss"
       }
     ]
@@ -2010,6 +2397,45 @@
       {
         "name": "schneider_blog",
         "url": "https://blog.se.com/energy-management-energy-efficiency/2026/06/04/strategic-financing-is-accelerating-critical-energy-infrastructure-projects/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-04-042",
+    "date": "2026-06-04",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Wins Snowflake 2026 Data Driver in AI Award - Caterpillar Inc",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1VQSWh6OUVVT2xHaVBnOXdnOVVTZDcwNkI1aXUyU3g2MFl5US1mM3JZbW8xdjNMQ0pBUFItZUVtSjBNOU9EYjlhYmstSTl6VklsM25SdkhUM3N2d3JNbW9Od1RRaWVSc2U1bVBhdT",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV1VQSWh6OUVVT2xHaVBnOXdnOVVTZDcwNkI1aXUyU3g2MFl5US1mM3JZbW8xdjNMQ0pBUFItZUVtSjBNOU9EYjlhYmstSTl6VklsM25SdkhUM3N2d3JNbW9Od1RRaWVSc2U1bVBhdTM3dzB4eDgzVFpCVkVFcFd5OFE5ek1GZkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-04-043",
+    "date": "2026-06-04",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "8 Best Robotics Stocks to Buy in 2026 and How to Invest - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmszUHNFLVJYODRkTnJuT09DLVZSV0lCRmt5TWNSWEViWVhGYWlsQmVqbmdFWnJnU2dsMHk3SGQ1bHV6ZHVwc2VFYlJvM1BaZHdRMkFfZ1paTGZ5LWNSVVRrLVJhU0tFNnRZX1pDQV",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmszUHNFLVJYODRkTnJuT09DLVZSV0lCRmt5TWNSWEViWVhGYWlsQmVqbmdFWnJnU2dsMHk3SGQ1bHV6ZHVwc2VFYlJvM1BaZHdRMkFfZ1paTGZ5LWNSVVRrLVJhU0tFNnRZX1pDQVVZZU54SS1neE9tLS1BM1BuWjE3VmZVLUtXVnhsTTB3VzV5czZ4WXFJNE80MGVvcTA?oc=5",
         "type": "rss"
       }
     ]
