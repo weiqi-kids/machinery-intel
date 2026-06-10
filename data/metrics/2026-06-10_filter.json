@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 1,
+  "gate2_fail": 11,
+  "passed": 33,
+  "gate2_samples": [
+    "Number of shareholders of Airtac International Group – TWSE:1590 - TradingView",
+    "Delta Thailand Included in S&P Global Sustainability Yearbook 2026 for 11th Consecutive Year - marke",
+    "Watch Delta Electronics Flags Power Crunch - Bloomberg.com",
+    "Why P3s Are the Financial Answer to Limited Public Capital",
+    "Mitsubishi Electric (MIELY) Receives JAXA Funding for Advanced S - GuruFocus"
+  ]
+}

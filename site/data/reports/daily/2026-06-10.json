@@ -1,0 +1,244 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T11:32:34.260536Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "parker_hannifin-2026-06-10-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Bernstein initiates Parker-Hannifin stock coverage with outperform rating By Investing.com - Investing.com South Africa",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWmFUcUVjUmpNb1FQTDVyZFlKYWJSVEt4SHJlem5WNjJjeWg3Z3J2OVhFZ3RzUkZidzJ0WTFpOTY2Z1RWZVVLQzU2OTNHVnlXUkljV3hxV3dIX2Y5OWxOU1lHQ2FSS2wtOVZsaHBXTXZwRWJiNWtuOFp2TDFyRFRGZHBBOUZzdWsxWGw3V1BIQXY4eTQyenRzTDVyckpKNWF4SGp4LUJSQV9INlpRMEc5aHJybHV1SnRYTnJwTlN3RFFaR0p2X3JOeDd5MGJSdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-06-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta and Lite-On poised to benefit as AI pushes data centers toward megawatt power levels - digitimes",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFVnLUhpQ3VCWGFNRl8tQ2VxdlF2Uy1oQThibWQzRmUtWWYtdGpWcEJGT294R1BDVDFMRXlaMHVkaHRqOUpxSjFqd08yQlF5S0Z6RUhvc1JzcTRkdkc2eUhpODNOQ3pSTjd6d2VXR0xSR3ZDX0k5N2tkQzlRM1BVSHp3Q2NHNzkxeEt1VUF3NkRQVE9tcHRMdFBnaU5GaDVDQTJlcXoteEdId3J1T0lJajNhTXZBNU54TXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-06-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric Awarded Subsidy to Develop Flexible Space Mobility Technology under JAXA’s Space Strategy Fund - The Norfolk Daily News",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNbGsxUTdJOEZsM3Q5ZDRiTXUzMzZvdjU1ZTA5ZGxjUVE4ZS0tXzdiUkRtSmNWaWQzRGNsQkloZGFaM2tCTmNvTTZJZXl2WUx2YkNjcE5lLWpiLUdGTUNJZGJRaVF2eWs3ZFFqbWVOOWp2UzJuWHRjeG9yS1ZXb2lKdS0wTVRLbHNjVDE0Z1JIUzU5SDdQeGtVUzZibnQ0UjdKbzZ2THRnMWhlUUttRC00VUdOZVluREZDOXdyRlI5M2ZjSVNhakROaXE0QmE4YnVOQlV1UEVmck1sYzdKS1dUTTZjbGo5X1N6Z3B0Tm9hZ1RWaVJPX2JZcUdZeFZFVkxQcEtERFRJNlRMSmdQeE9ObVQ3SzVTaFh4Z0xPU3FCODVjMXFUZVRMazJQc3ZCRHFlTGxTQzZaWm84MVZkbW5rbg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-06-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric and VTT advance ocean carbon capture technology toward pilot phase - Splash247",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZmZJQi1wbW1pdHMtbFJ6UElPdGJGWWZkOHhvOUd1SG41M3FWTWhyVWZIWnVVMzh2UjZEZnpYdVVuZmxHQmRaOW9US2c4ZXNHU01HZGZLdGkwb3VqN2tid0FQMlFBVTlGWkpJOFF2cU9qeFNVNkF6Q2Rwa1pnZDc2NC1QTlVUUkQzVElkNkxXTHhFU1BTbk03UHF5bE9GUXF5UzRnZGV4bUdVczd6Y1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-06-10-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker Hannifin Stock Surges 10%, With A 6-Day Winning Spree - Trefis",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX25JZDU0T1Z1V3VtenNtRnNlNlg5b3N2akhPYUQ1ZWp5ZG54LWZCVkMtLXRmeTJQSGM5aGhVLWxGRnJyNVR1MzVFa2pSalNKaWRhMkllMlBwQ0JMN01jMlFHZFFaWWx6cUpQRE45LTVaMnE2YWJEM1ZPa3FhQU05UEhWeThBbUJiX1VCekNqX2VDMFhDUDJrMWMxVXFROVR0M3FORXVjeDlYOXNP?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 2
+      },
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "itw",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "automation_capex",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 395,
+    "dup_title": 220,
+    "too_old": 130,
+    "gate1_blocked": 1,
+    "gate2_blocked": 11,
+    "passed": 33,
+    "pass_rate": "18.9%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "Number of shareholders of Airtac International Group – TWSE:1590 - TradingView",
+      "Delta Thailand Included in S&P Global Sustainability Yearbook 2026 for 11th Consecutive Year - marke",
+      "Watch Delta Electronics Flags Power Crunch - Bloomberg.com",
+      "Why P3s Are the Financial Answer to Limited Public Capital",
+      "Mitsubishi Electric (MIELY) Receives JAXA Funding for Advanced S - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Parker、Mitsubishi Electric、Delta Electronics相關動態：「Bernstein initiates Parker-Hannifin stock coverage with o...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bernstein initiates Parker-Hannifin stock coverage with outperform rating By ...（自動化資本支出、財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Delta and Lite-On poised to benefit as AI pushes data centers toward megawatt...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
