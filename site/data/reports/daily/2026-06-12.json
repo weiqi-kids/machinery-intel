@@ -1,0 +1,193 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:37:41.426368Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Next-generation infrastructure with built-in resilience - IBM",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yZGtoMjN1VC1KSXNBelFtMHQ3Zk1uOEJnLWRxMURKdmtlb2VHR0NvSXhxRWJKMXNnMWZKUGN3Q1BpbXZGbmdVMjZ2WmlMcnQtc1N6OU44cG0yM19DZnBGVG1JbkdNc2N3QkhvTEYycw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi's 2027 Eclipse Sportback breaks cover as a fully electric crossover with Nissan Leaf bones - The Cool Down",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLTVGX003TG9ScGhfVmZES0Nzekpib2ZJeXZfRDNROEdRS0dPS2FKYll0Z3hEVmlNX1FHM3RwUDltQkNRSGNjVjFWLXhGLU1jZnlJbklOdkdmRThYcG1kM0ItcDhzeW9SbnJsOW9SVkVxZUZMX0Q1REtCWG9maEc3czhrYVA1Mi1pLVVjRHJza3pmY3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-12-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lathe Machines Market Insights Highlight Segment Expansion And Market Leadership - openPR.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV2Q4SkZxRHUzVXNFYkszNllrSnB4SzU1YUU1SWo1bzZWTmJyYUxiZ3hkb3E5cFhDQVJPdWdKYVdwQkdNSU9Bakd3MzBfQXlzSjdRWGxfQlZnMV9fMjk1VW1BOF9rYTJhR05SVDhxYTR4NUs2MU9mdmJTejNsa2NiZnRKdm1BaHpSMjJOVVdvZk1oVFVWSXFBcHJR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itw-2026-06-12-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Illinois Tool Works (ITW) Stock After Miller Electric Welding Update Is The Valuation Gap A Quiet Opportunity Or Warning - simplywall.st",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNUxydmhMNk5jQU1pT2hBT2tBSlUxRmd0WEJNaEczTWFvemY5NXB3Z0drdFc2MXdRRm1RXzN6eXNBbkJ1TmhSbGRFVklxYkhNZDlLTjBQQzNqMFd0U0lpX2wzWFFSSXBxZk1qWE51TWJ0OUNpbHR0eFV6X0J1bDVjaFEtRTVYbFlha3ZGNVdldGFWRms1Mmg3cGxwSkhTZTBBNGZfdmIwLVJ1bFoxMGhtNnlFa1R2N19xS0xmakZ6ZE02RHBVZTZMdUt3WjM3dXJmVFplbnZn0gHbAUFVX3lxTFBJS2prY0N6cW9QVkpUMUtTNGlMS0dWTEp3ZFlYVm1nSkd2LXpYNDZqNjV3SzlMRjlBWFNta1FWMDF2cXFqeFdQWHVEeGNVaFN1WWlnaG1mcUNCVW1aWlI1NHhLMllXZ3lPSXMwUDBlX1JjcGdxOFNNSWNYS0w0czY5c3B4RE9TV0pfb0JqNWVJNjRzX1N2a1FhYTJYeUJZRjhzd240NE5hUGtOalR4YjNVM05nUWlNNVdqUDJuel9RZzAzN29xUWpnNF9rVk4yMnNKbUlveEtoS054TQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "itw",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 397,
+    "dup_title": 239,
+    "too_old": 134,
+    "gate1_blocked": 1,
+    "gate2_blocked": 6,
+    "passed": 17,
+    "pass_rate": "10.8%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "Number of shareholders of Airtac International Group – TWSE:1590 - TradingView",
+      "What Is Illinois Tool Works Inc.'s (NYSE:ITW) Share Price Doing? - Yahoo Finance",
+      "Toxic caterpillars terrorise Berlin - The Berliner",
+      "Oak Trees Outsmart Caterpillars With a Brilliant Spring Trick - SciTechDaily",
+      "Anna Llewellyn wins Caterpillar Poetry Prize - The Irish Times"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為ITW相關動態：「Next-generation infrastructure with built-in resilience -...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Next-generation infrastructure with built-in resilience - IBM（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Mitsubishi's 2027 Eclipse Sportback breaks cover as a fully electric crossove...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

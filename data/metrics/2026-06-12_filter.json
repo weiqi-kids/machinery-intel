@@ -1,0 +1,16 @@
+{
+  "total_raw": 397,
+  "dup_title": 239,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 1,
+  "gate2_fail": 6,
+  "passed": 17,
+  "gate2_samples": [
+    "Number of shareholders of Airtac International Group – TWSE:1590 - TradingView",
+    "What Is Illinois Tool Works Inc.'s (NYSE:ITW) Share Price Doing? - Yahoo Finance",
+    "Toxic caterpillars terrorise Berlin - The Berliner",
+    "Oak Trees Outsmart Caterpillars With a Brilliant Spring Trick - SciTechDaily",
+    "Anna Llewellyn wins Caterpillar Poetry Prize - The Irish Times"
+  ]
+}

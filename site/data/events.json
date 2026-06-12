@@ -1,5 +1,82 @@
 [
   {
+    "id": "unknown-2026-06-12-001",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Next-generation infrastructure with built-in resilience - IBM",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE8yZGtoMjN1VC1KSXNBelFtMHQ3Zk1uOEJnLWRxMURKdmtlb2VHR0NvSXhxRWJKMXNnMWZKUGN3Q1BpbXZGbmdVMjZ2WmlMcnQtc1N6OU44cG0yM19DZnBGVG1JbkdNc2N3QkhvTEYycw",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yZGtoMjN1VC1KSXNBelFtMHQ3Zk1uOEJnLWRxMURKdmtlb2VHR0NvSXhxRWJKMXNnMWZKUGN3Q1BpbXZGbmdVMjZ2WmlMcnQtc1N6OU44cG0yM19DZnBGVG1JbkdNc2N3QkhvTEYycw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-002",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi's 2027 Eclipse Sportback breaks cover as a fully electric crossover with Nissan Leaf bones - The Cool Down",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQLTVGX003TG9ScGhfVmZES0Nzekpib2ZJeXZfRDNROEdRS0dPS2FKYll0Z3hEVmlNX1FHM3RwUDltQkNRSGNjVjFWLXhGLU1jZnlJbklOdkdmRThYcG1kM0ItcDhzeW9SbnJsOW9SVk",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLTVGX003TG9ScGhfVmZES0Nzekpib2ZJeXZfRDNROEdRS0dPS2FKYll0Z3hEVmlNX1FHM3RwUDltQkNRSGNjVjFWLXhGLU1jZnlJbklOdkdmRThYcG1kM0ItcDhzeW9SbnJsOW9SVkVxZUZMX0Q1REtCWG9maEc3czhrYVA1Mi1pLVVjRHJza3pmY3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-003",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lathe Machines Market Insights Highlight Segment Expansion And Market Leadership - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOV2Q4SkZxRHUzVXNFYkszNllrSnB4SzU1YUU1SWo1bzZWTmJyYUxiZ3hkb3E5cFhDQVJPdWdKYVdwQkdNSU9Bakd3MzBfQXlzSjdRWGxfQlZnMV9fMjk1VW1BOF9rYTJhR05SVDhxYT",
+    "sources": [
+      {
+        "name": "goodway",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV2Q4SkZxRHUzVXNFYkszNllrSnB4SzU1YUU1SWo1bzZWTmJyYUxiZ3hkb3E5cFhDQVJPdWdKYVdwQkdNSU9Bakd3MzBfQXlzSjdRWGxfQlZnMV9fMjk1VW1BOF9rYTJhR05SVDhxYTR4NUs2MU9mdmJTejNsa2NiZnRKdm1BaHpSMjJOVVdvZk1oVFVWSXFBcHJR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-06-12-004",
+    "date": "2026-06-12",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Illinois Tool Works (ITW) Stock After Miller Electric Welding Update Is The Valuation Gap A Quiet Opportunity Or Warning - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNUxydmhMNk5jQU1pT2hBT2tBSlUxRmd0WEJNaEczTWFvemY5NXB3Z0drdFc2MXdRRm1RXzN6eXNBbkJ1TmhSbGRFVklxYkhNZDlLTjBQQzNqMFd0U0lpX2wzWFFSSXBxZk1qWE51TW",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNUxydmhMNk5jQU1pT2hBT2tBSlUxRmd0WEJNaEczTWFvemY5NXB3Z0drdFc2MXdRRm1RXzN6eXNBbkJ1TmhSbGRFVklxYkhNZDlLTjBQQzNqMFd0U0lpX2wzWFFSSXBxZk1qWE51TWJ0OUNpbHR0eFV6X0J1bDVjaFEtRTVYbFlha3ZGNVdldGFWRms1Mmg3cGxwSkhTZTBBNGZfdmIwLVJ1bFoxMGhtNnlFa1R2N19xS0xmakZ6ZE02RHBVZTZMdUt3WjM3dXJmVFplbnZn0gHbAUFVX3lxTFBJS2prY0N6cW9QVkpUMUtTNGlMS0dWTEp3ZFlYVm1nSkd2LXpYNDZqNjV3SzlMRjlBWFNta1FWMDF2cXFqeFdQWHVEeGNVaFN1WWlnaG1mcUNCVW1aWlI1NHhLMllXZ3lPSXMwUDBlX1JjcGdxOFNNSWNYS0w0czY5c3B4RE9TV0pfb0JqNWVJNjRzX1N2a1FhYTJYeUJZRjhzd240NE5hUGtOalR4YjNVM05nUWlNNVdqUDJuel9RZzAzN29xUWpnNF9rVk4yMnNKbUlveEtoS054TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-11-001",
     "date": "2026-06-11",
     "companies": [],
@@ -97,6 +174,212 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQms0VV90am5zWEJJb3p3ZjlXT3l3U0JIUWVVVTIzR2dRZE54SlhSN0VETExDNnZFNHp3MEtTVEVvYV9yZ3pUUE5ReDE4dUdxbWhWMHIxa0gwMlVNTEFiWWlkSzhsWlNCYlRfeDB4N09xZUN6RzhQb2hYYkN4TXl1SENvVzFWYk54Ql9xdnktTnpRa1R1bGRkQlUwOGczRGhUSjU3XzRzU0JaN0hnM1lDOV90M3VVZHJFYUE2R1FtaFhkWl9nelVKUVJuaUMxRTBzbUpKSlpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-006",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "cnc_technology",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DMG Additive Manufacturing Precision Factory - MEM Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdi1aOWdEWU42bjBvLVVmZmh5MjloWmozNzhPZ3dKV0FSTUhTVHBYXzY5MGhLOUpoS2Y1anJ1dFJ1c0JDa3l0NUFzRkVLdjAzWVFVY09RWlQzR3NrM0ZuWTRZTjJlOHFZV1lyaHhsVD",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdi1aOWdEWU42bjBvLVVmZmh5MjloWmozNzhPZ3dKV0FSTUhTVHBYXzY5MGhLOUpoS2Y1anJ1dFJ1c0JDa3l0NUFzRkVLdjAzWVFVY09RWlQzR3NrM0ZuWTRZTjJlOHFZV1lyaHhsVDRZdkptaHRtTVlMN2szbFo4Q28wTGhQMjM4eldqckxZTTl0Vl9BRUhTYU9pMmZPVWw2X0FRaVVOajRBT3VZQnVILTVZcHVhRVhkOURlT253RGJ0Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-06-11-007",
+    "date": "2026-06-11",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Inc. stock rises Thursday, still underperforms market - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZl9xU3k3YmE4TnpGWDV4Q2RfYU1GZzR1SkUwMU04Wk1TdHYzR1ExcXphMmtiYTRIa1ZERU40SG5USmNGbUFESDRNWTlidVVHUDNYLWlKVFlmWVJBdHhLaGV6SXlPaEpSeEFaRTQzVz",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZl9xU3k3YmE4TnpGWDV4Q2RfYU1GZzR1SkUwMU04Wk1TdHYzR1ExcXphMmtiYTRIa1ZERU40SG5USmNGbUFESDRNWTlidVVHUDNYLWlKVFlmWVJBdHhLaGV6SXlPaEpSeEFaRTQzVzk1UWJQb2RiMU9XYVJ3ZmNFTDVtQ24weFZ3dWxoSUFweFFuMzZQVUpCRFhOUV9ib243UTJZZExmUTlOOXhjOWlIaFRMOUNxMFhweHlNZEZkbTBHNTcwS05CcFFOX2FycEw1RmZsUDVXRFhaQkFGeDQxSmd4UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-06-11-008",
+    "date": "2026-06-11",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Draws Focus As Industrial Quality Takes Center Stage - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGxwaEZJTEJkOTB0Q2hLbW5MTzlSTjFwWUw3cnowY1lsNXdYbHpGQzVZRm1zV3FTVWE2TlBfNU5RUVdxNFdoWW5RWXh2WmxIYjVXS3d0U01rOVpHaHZNZjhIUlE5VkFZNHBaMk1WTF",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGxwaEZJTEJkOTB0Q2hLbW5MTzlSTjFwWUw3cnowY1lsNXdYbHpGQzVZRm1zV3FTVWE2TlBfNU5RUVdxNFdoWW5RWXh2WmxIYjVXS3d0U01rOVpHaHZNZjhIUlE5VkFZNHBaMk1WTFJjeC1henVfZnJoTzdYcFh4OHlKeWxyXzdxaE5Qb04zeFpBYkowek5qZWNmelBNVnVvWEFfelVzbk5pbkVBa0pza2VQSFo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-11-009",
+    "date": "2026-06-11",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Caterpillar Inc. (CAT) A Good Stock To Buy Now? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMHRHRXhndTZoc1FlVW1mM0dYVDVKSi1SOTVGMG1qVE03TUlKeWN0c0syanlSOGsxSzlnYWZIam1RYzg4M2hxWHF6ekZZQjZsWGpGLWhtQjZGRENkTXJjREx1UEJheVdpbHIxV1M5WS",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMHRHRXhndTZoc1FlVW1mM0dYVDVKSi1SOTVGMG1qVE03TUlKeWN0c0syanlSOGsxSzlnYWZIam1RYzg4M2hxWHF6ekZZQjZsWGpGLWhtQjZGRENkTXJjREx1UEJheVdpbHIxV1M5WS1yN0RWRThwRFU3VHU0amRRSllGdVRyUHg5TEliTjZEZTkxdkFDcDVxRGJvRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-11-010",
+    "date": "2026-06-11",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar’s AI And Services Pivot Reshapes Earnings Mix And Dividend Story - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNZWlzeDZORUZHNHYzdVU2QmRPRm5MSjFQVGdKMDVRNzVERjhLN1kwUzNHTlpEVk1IRzUya3ZEbEpqZ25CZnJPX1E3bmN5c1Y2Rl9ObV9zejgyRHVVWDk4M0N3Q1ZDX3Q0RHo0bGtqc0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZWlzeDZORUZHNHYzdVU2QmRPRm5MSjFQVGdKMDVRNzVERjhLN1kwUzNHTlpEVk1IRzUya3ZEbEpqZ25CZnJPX1E3bmN5c1Y2Rl9ObV9zejgyRHVVWDk4M0N3Q1ZDX3Q0RHo0bGtqc05QSndPcjRvZGg5R3BuZFA1M2RkSHdTVUVRVUtsSjYxcDdBcGtlRkRRTDVyWV9PX1hjQzgzZlg0bDBWWXpVZlFsRE54NjF2ajdVRFg3Y0Z2Sml3UHdKT2F1cjV2dG_SAdIBQVVfeXFMUEN3cDRUeG1fSzZMYzZONGsxRC0yYTBrUTgyc0VvbEVEeVIzZUhsb19Xb1ZkNDhRRDRnLXlXUkE5NTY3dE1CSk1sajc1OFo4UEFZMVBKTHFyY040NnU0a0U3NmZBRVRWZlpiUEJ5S3hDb0d5X3dUUDJ4bW9NX0Y4NnhrbVUxRDR0VWpGU2pZSThsLUpKeDVJanh2Yzkta09SLXBWckV1NlNFb2VLMDd5OWdxakhKZ1c2Q0pVMENDY3Z1Uy14YXhDT3Q0NUFncEFWdGRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-11-011",
+    "date": "2026-06-11",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (NYSE: CAT) director receives 211-share stock award - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPOFEyTjNvM2o2YTZUQWRsd0ZUTE1GMktxbHBzTDEwektMV29TVm9SdGZZcHo2TEFXOEowNHVZUk5ZVnZuYTB1dnZic2NzNkRaRWJQRXE4TjJ6TnFsZEJpSlhwQkc0ZUU2TnNJQWgxVk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOFEyTjNvM2o2YTZUQWRsd0ZUTE1GMktxbHBzTDEwektMV29TVm9SdGZZcHo2TEFXOEowNHVZUk5ZVnZuYTB1dnZic2NzNkRaRWJQRXE4TjJ6TnFsZEJpSlhwQkc0ZUU2TnNJQWgxVkJtREdQeTh1ckVVOVZXQk5oNW5PVEZHeEM3U01DN0JiamlXRF9wZlBNa3IyT21xd0w0T0RJa0l1YzBPNmlM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-11-012",
+    "date": "2026-06-11",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Stock (CAT) Opinions on AI Data Center Power Demand - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQaS1SMDRWTkF6U2JLdHVjMVRyeXR2bk5vR01QUmZMRk5ncThzS3pHYVdxSWF0Xy1FM0Zva3VneEVwbnBWb01VQWs2djRhN0NGQ19aNHZoMnVSS19Rbkg4ZUEzSmlUX3hLU09VaXk0eW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaS1SMDRWTkF6U2JLdHVjMVRyeXR2bk5vR01QUmZMRk5ncThzS3pHYVdxSWF0Xy1FM0Zva3VneEVwbnBWb01VQWs2djRhN0NGQ19aNHZoMnVSS19Rbkg4ZUEzSmlUX3hLU09VaXk0eW1IMGtrSGtDbHB1eWc1bXotTzEwODhFUVBGRS1ZUHJUcXgtRk5vVVppZ0NCdTlHY2szWXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-11-013",
+    "date": "2026-06-11",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Has Dropped Nearly 10% From Its All-Time High. Here’s What the Data Says Now - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2h5d2diWk1QWklvQm9wcWd2US02T2JXTEh6YjVFMEhTUzNEUG8wN1RqYldCZzVOU1B1UkZUQURScU81aWRTbWFIb2Z6Z2V2UEttbVo0eEdDSmQ5a01fY3ZuWUVGdXRxUVlsb2lVbG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2h5d2diWk1QWklvQm9wcWd2US02T2JXTEh6YjVFMEhTUzNEUG8wN1RqYldCZzVOU1B1UkZUQURScU81aWRTbWFIb2Z6Z2V2UEttbVo0eEdDSmQ5a01fY3ZuWUVGdXRxUVlsb2lVbGFmZllpYlFnWVZKNTllSTZ3ZU5hbGJUbW95Ui1tZ2ctbmNYQ3c2d0JJZUtOT1NTVGE5cWJZSjZ3X1d3VXNZbmZUTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-11-014",
+    "date": "2026-06-11",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (NYSE: CAT) director David MacLennan receives 211-share stock grant - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWoxc0ZueS00Tk9rbW1GOWFZTURrSDRiUlkxQ0JabHhXd3lQbEhaQTdLZEw3RzZlMXVOejlLNEtPdE5sVnB2ZEZIVVFWV0ktb0FpT29ZWEJWTVRNWl9weXIzYXludG1rMlFpSnZMdm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWoxc0ZueS00Tk9rbW1GOWFZTURrSDRiUlkxQ0JabHhXd3lQbEhaQTdLZEw3RzZlMXVOejlLNEtPdE5sVnB2ZEZIVVFWV0ktb0FpT29ZWEJWTVRNWl9weXIzYXludG1rMlFpSnZMdmxiQTU0TDNqZjExLXlScmV1OXkweUM0NWFlUlpVdDlQbWtSMmZnb0FDNmtNUnB6SUpaOFFtSldrSnRXRUlq?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-015",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs - Robotics Tomorrow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQc2o2dy1MRnZRRmNNb3B0REl2SHpod3dJX2VLWFlWMXM4UElTN29TU0hobGhZU1FqckhzVXB2ZE00d0ZEUnlaVHFhR3E1bjlYUjlYeWppeUpfaVM0OEVkREZxeTZrTkdJbXNvVlY5V2",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQc2o2dy1MRnZRRmNNb3B0REl2SHpod3dJX2VLWFlWMXM4UElTN29TU0hobGhZU1FqckhzVXB2ZE00d0ZEUnlaVHFhR3E1bjlYUjlYeWppeUpfaVM0OEVkREZxeTZrTkdJbXNvVlY5V2U3bWxyRWdYS2p4M0p6NVRoeDlmNE5EYnhKTlpoZ0FIQWtFUXZLN3NFRlJaRUQzeWZXSEVWdlhxWXVZbVlISVBDTDlkSWtYekZtbk9xaXZKQmRIUW96ZHJIc1FzTThiYVc2VmpvM2tKdnpUUmd5eTEtdGhvS0pUcHdsOEZwQjVwRHBMX3E3a1dab2FOZw?oc=5",
         "type": "rss"
       }
     ]
@@ -732,6 +1015,27 @@
       {
         "name": "plant_engineering",
         "url": "https://www.plantengineering.com/modernizing-plant-ehs-operations-for-emerging-industrial-tasks/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-06-10-032",
+    "date": "2026-06-10",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Awarded Subsidy to Develop Flexible Space Mobility Technology under JAXA’s Space Strategy Fund - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzBMSlVYWEdsaUh2MHBnNF93M3VSTndHSzZBWXU0VWdWYVNGaGlzRElsRkhma2xINjhRLWdSQ2lIYUk3OVlGc1hXRmQ3d3FjcUxzYjZGVXNPUHBSLVlleFYxZkVIem5nMUlFQl9sS2",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzBMSlVYWEdsaUh2MHBnNF93M3VSTndHSzZBWXU0VWdWYVNGaGlzRElsRkhma2xINjhRLWdSQ2lIYUk3OVlGc1hXRmQ3d3FjcUxzYjZGVXNPUHBSLVlleFYxZkVIem5nMUlFQl9sS25BaFN6Znk1SG1oTHNPUWVlZ3FDRXAtV0JwX2dhaXdhYnpzLVc1cXpTSjEwenJnOXZaUHF6eFZBUUtRMVY2NnBWX3VB?oc=5",
         "type": "rss"
       }
     ]
@@ -1740,6 +2044,48 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEUwV0JmN21GLWdSQ1k2LXZUcGpBZzh6Z25TVGktMEtuVkc3Wlc3ZHlrb1dLVS1uOVZwUXRIRlZ0eEZlWlpCUi1UalNxbC1sZkM4UnlzQlh5THoxT2pobGFMUHdkLW9aV0VvYW5FREVDbTBlTmVUenlZd29mODhfall4ZVRCM0FtZjRSMUUyeHFtNWI1OVd0emJVUXloMWphbmdBeF9yMzJVQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-06-08-023",
+    "date": "2026-06-08",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric and Semikron Danfoss Jointly Develop New Standard Package for Power Semiconductor Modules - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxrYXZ0dlJITXYtT1VvNEVCekdSY0MyNUtiMXpqTWRrVlU5aTdvN01yb0NOdHoxd21iUTdWbTJ2RnB5MnM3OGkwVW96QjZPbmJjcGdfQlJYeTJkbmpIRDBjTUREZjAyTXktN0JoUk",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWxrYXZ0dlJITXYtT1VvNEVCekdSY0MyNUtiMXpqTWRrVlU5aTdvN01yb0NOdHoxd21iUTdWbTJ2RnB5MnM3OGkwVW96QjZPbmJjcGdfQlJYeTJkbmpIRDBjTUREZjAyTXktN0JoUk9VNEU4MHU3eWlIaVZaU0lMYXc5eXk2bHJYaExCcnQ0aUxVZm1mc250ZGxFajBTdVJ0S24zUktyMTROVmI4ZmRvMDNMdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-06-08-024",
+    "date": "2026-06-08",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin Corp (PH)'s Winning Formula: Financial Metrics a - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb0pkMDZ1QUQ3b1ZTMlVJN1lxd0ZUdENVb3BNODZhWnZIay1MZkhjdGIwM0tPX3VuakpGUjhfeWZfbjFkTWpfam5OczZEaFRoTEs4b0Z4WGJ1UWx3cThxcXlKU19YTG53LXB4bUIxLU",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb0pkMDZ1QUQ3b1ZTMlVJN1lxd0ZUdENVb3BNODZhWnZIay1MZkhjdGIwM0tPX3VuakpGUjhfeWZfbjFkTWpfam5OczZEaFRoTEs4b0Z4WGJ1UWx3cThxcXlKU19YTG53LXB4bUIxLUtKNWE0cXJTVVQzWFo0cVNqSVc3SmN6YUF0bDl0VW1OZ1NzRkFpQm5HQlFzRjZDY3FUcFNQSUE0S0dWR09lYzZJWEttZDluRm1wb2V4OGxkQWM?oc=5",
         "type": "rss"
       }
     ]
