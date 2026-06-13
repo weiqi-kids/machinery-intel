@@ -1,0 +1,216 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:23:28.303282Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "parker_hannifin-2026-06-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin Corporation $PH Shares Acquired by Korea Investment CORP - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVDFISVg5UkFFT25qQUd2ZFNkVlBGNzJFTzNLajdvR0hGTTdaMC1CUGRyS1FYMFdpaVFNM3NwelFPcHBCbTVZdURWM2llOWFuVnVNSXhZNFROQjFfUk9GOFZIQWtISk1TU1hEWmp4TDFyR2p1YU9kNng4bDhvR3lXVThqSnpCVElNR3Z4RTZEX2J4VkZzNXBSdk8wNmFCRFQ3QzJwRGg0a0xud0N6bHVsV25DRndWS0RkdGZVWFJ5bUlpbkRVRm13QVA2Vmg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "parker_hannifin-2026-06-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Precision Trading with Parker-hannifin Corporation (PH) Risk Zones - Stock Traders Daily",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNamJNNE1DeUZYWXI4WVhVQWpxUXh4RXNQM29hRFk2b3lrS0lGME9OSDFqZW9DdVBPTkRUcEdNN3pycmNjeDEtZ3pIaDBwM1FsOWJmVXNYQ1NzaVRoZDlEVHBna19mUFRvcGxyQXJ2UFpEZHpzeHRoM2pnTjB3QVRxeHJpVnd3dDlNWUk0U1I0ZEhKWE5LWWZqVjZWNldGLTE5cm9Xb0xGY1dOWkJBTHlob0pub1lFaW1xZ1RzTXVWQ0loRWgxRU5GOFZUcXJkWU1kRkd1S3JpM1lqcE43?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zach Johnson makes birdie on No. 10 at Principal Charity Classic - PGA Tour",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdUFUU01DaHFzZVhfWXFzaFZRaVlCMjhvRDBGV1piVTFvVjUxbjJ5M3JZRUI4Sm53bjV0cV9zblVIS1VDeElZX2lPV3ZvYlVENFhmWGJWc0hLOGhsZzBMTm01akY0cnBlMVl2a1VTOG9oRXZzN0RBOWpYOGUyX3NlRFFNXzMxWThxYTNfaTFOM3dwYVd1VEc5UW90X1FmQWlteTRfTWNDME01Qm9ZTzBraw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-06-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Caterpillar Stock and the Five-Billion-Dollar Whisper - Trefis",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFlJNy1qTDJEQXQyYThMc0FvQjRoVDFkM1VJZG1NMHRadzZ2ZU00eEg5cnZFZWFHVngzc0tMTWhXUmxXQTRxLXNtY0R1dlRwbmdfTHRVMG56M05XMzR5N3FkNGhpMlFVVFR4aWNfOFJ4Y1dFYVI1UndVLUI4NlljNzBDc21teGMtUEpBMDZ1amswdzRwNFZKbGI4TVdvZXZOVVdJMXMwVjZZX3luZ09JcHVOZXhvUHA5M05sZEpkWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-06-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Caterpillar Says Startup Ripped Off Autonomy Tech Patents - Law360",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOGdvYU1HTllrVkxiamN5eWVNNWhPX01wUEhIVU1WdTVoaExOZXozWWVqR3VpOTByU0QxbDhuVGhnMFFuU3VOMlUxbUhHM0ZGVnFBck84UnkyNzFyZF9jOWxxb0duN3pNa2xoTjJTaFg3TlpkLXc3T3dib2Rfd1VkdzJjVFhJNjIwMk5aODhLTGxKSDAtbXQzS0dKbjN3UdIBVkFVX3lxTE4xY2JYR3dWOVVsSjMtQ0MwaXZpVk1Ga0FNdk1adzNuV1RXZm9qQXo1MlROa01DbUxHYzBzdE01cVh6RzYxTWM2d3dKMDJPOVBndndoUmd3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 396,
+    "dup_title": 240,
+    "too_old": 128,
+    "gate1_blocked": 1,
+    "gate2_blocked": 4,
+    "passed": 23,
+    "pass_rate": "14.7%",
+    "gate2_block_rate": "2.6%",
+    "gate2_samples": [
+      "Number of shareholders of Airtac International Group – TWSE:1590 - TradingView",
+      "What Is Illinois Tool Works Inc.'s (NYSE:ITW) Share Price Doing? - Yahoo Finance",
+      "Anna Llewellyn wins Caterpillar Poetry Prize - The Irish Times",
+      "Toxic caterpillars terrorise Berlin - The Berliner"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Parker、CAT相關動態：「Parker-Hannifin Corporation $PH Shares Acquired by Korea ...」。主要關注主題為產業通用、自動化資本支出、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Parker-Hannifin Corporation $PH Shares Acquired by Korea Investment CORP - Ma...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Precision Trading with Parker-hannifin Corporation (PH) Risk Zones - Stock Tr...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
