@@ -1,0 +1,140 @@
+{
+  "date": "2026-06-14",
+  "date_range": {
+    "start": "2026-06-08",
+    "end": "2026-06-14"
+  },
+  "generated_at": "2026-06-14T10:45:57.257545Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "caterpillar-2026-06-09-027",
+      "date": "2026-06-09",
+      "title": "Government Issues 'Do Not Touch' Warning Over Common Caterpillar - HuffPost UK",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 27,
+      "last_week": 41,
+      "week_over_week_change": "-34%",
+      "sentiment_this_week": 0.02
+    },
+    "industry_general": {
+      "this_week": 30,
+      "last_week": 48,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": -0.03
+    },
+    "automation_capex": {
+      "this_week": 14,
+      "last_week": 22,
+      "week_over_week_change": "-36%",
+      "sentiment_this_week": -0.07
+    }
+  },
+  "company_7d_summary": {
+    "abb": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "mitsubishi_electric": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 3
+    },
+    "makino": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "parker_hannifin": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 1
+    },
+    "caterpillar": {
+      "event_count": 10,
+      "sentiment_avg": -0.05,
+      "rank": 2
+    },
+    "delta": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "itw": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 145,
+        "last": 178,
+        "change_pct": -18.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-08",
+      "event_count": 24,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-09",
+      "event_count": 30,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-10",
+      "event_count": 35,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-11",
+      "event_count": 20,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-06-12",
+      "event_count": 23,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-06-13",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-08 ~ 2026-06-14）共 145 則事件，重點為「Government Issues 'Do Not Touch' Warning Over C...」。ITW情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "ITW",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Mitsubishi Electric",
+        "reason": "本週出現 6 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Parker",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

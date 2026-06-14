@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 239,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 2,
+  "gate2_fail": 5,
+  "passed": 20,
+  "gate2_samples": [
+    "Number of shareholders of Airtac International Group – TWSE:1590 - TradingView",
+    "TWSE Foreign Holding Weekly (Jun 12th): TSMC, MediaTek, Yageo, Quanta Computer, Delta Electronics - ",
+    "Healthcare of Ontario Pension Plan Trust Fund Increases Position in Illinois Tool Works Inc. $ITW - ",
+    "What Is Illinois Tool Works Inc.'s (NYSE:ITW) Share Price Doing? - Yahoo Finance",
+    "Anna Llewellyn wins Caterpillar Poetry Prize - The Irish Times"
+  ]
+}
