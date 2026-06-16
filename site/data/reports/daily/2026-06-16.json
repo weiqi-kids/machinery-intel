@@ -1,0 +1,255 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T12:47:37.878782Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thk-2026-06-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "New automation push, THK’s KR-RL LM Guide aims to shrink footprints - AD HOC NEWS",
+      "companies": [
+        "thk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOG10UU1QUl9CYWhuYzJoa1dJRkFteGk2ZkRfclQ3NVVmWEFzTEVSSHVRSUxmb0syN05ZY0MxQm9lUEJPX05Kc0FtMTlpMUlJYVZBVDk4Vm9FQ1lGUmY5MndDeWpYLW9Uck81c05ZSzEyODR0N3FWdV9fajBKclJiSkx2QTZKUWJmQmpPNld3cHphVncwM1BBdFRscllYUTVUS1NRMlhLZWRJVThUbnVQSFpzSnlEUEZXZTBpZkZxdElSekE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-06-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BR: Delta Electronics V2 - Yahoo",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44Si1zZmVicFRhUWNyR0hXbVNBQWFZMGM5UHVHYUd6dWY2Q3hzZ0MxYjZmNFh6b3RPU1dqandHWXZvRmROMV9zc0xCaXVPUFotamRwVUI3dm45QnN5LUxBQUo1MHFFR2hGV3VtR0JuVFJnS0dBSTZZUllaVjY?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-06-16-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric Europe launches browser-based production analytics app to simplify shopfloor visibility - Process and Control Today",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQejhibUdsMTg0bWlZanRXUmhsWGVxVTh6Uy1RaFVGdzdFdUtndms3cjB4TDh4VVl3M0JtcXVxLVQ3OHFhX3pmbl84TUhPbmphaTNXSzRSVUtNMC1qNkwtdlo3Qk5QXzRBenBnUXhFVG5tb29WMGRPNWlCZ2tOUnJ4djlBSWtnVEtiQjFnaWpZSE5TV09fdEYydEtkb2plSUV2U3dabF9DVURzYTA1WDkzYlA2QmhCMTNwS25MRUcwSWlUQ1JGRm04RUpyd1p1MjQy?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "parker_hannifin-2026-06-16-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin Corporation $PH Shares Sold by Arax Advisory Partners - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRlAzRDh6dzQ0TzdnMXRpLXNTQVdVbkxfcnRKVF95NldPSi1oaHc5WHY5Q201R1pPNml1ZklWZW5hQTBDS3BzVnlHUTZwc2J5ejBWdnVaY0JHVHBjZngzZlJtbm13YXN0bklfMzdrV0hfbG5wOC1nX25qd3Y2MnZkbHh1dlBPVXk0c255TzUxb3JaRWx3NXdjOHpYd1RxNkUwUGJvY3hHLVloWllyN3pZY3hlNHRNajYyd1dWWGdzUUpSdnFEa1ZlQg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-06-16-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lidl launches £6.99 caterpillar cake to rival Colin and Cuthbert – here's how to get one for free - Good Housekeeping",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFR5RWFfaTJvUEV6QXpWUElHZENkSUhOLVN6LVE5RGF1bERBaWE2UjBRektRM3dQRzltMEwxMFFkcHBqYjhiQ2pocENMLVdRZkw4V0N3aHdTSmNPbXVrS1V6S0hLZDF3QlRBRTV2M3dtLW9LUG5nY3ZwTjc2cHdLR3F6bTR2WUtZOU5DWk93?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "machine_tool_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 4
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "thk",
+        "count": 2
+      },
+      {
+        "id": "delta",
+        "count": 2
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "automation_capex",
+        "count": 5
+      },
+      {
+        "id": "machine_tool_orders",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 390,
+    "dup_title": 218,
+    "too_old": 139,
+    "gate1_blocked": 2,
+    "gate2_blocked": 6,
+    "passed": 25,
+    "pass_rate": "14.5%",
+    "gate2_block_rate": "3.5%",
+    "gate2_samples": [
+      "Liquid cooling fluid management: How to protect AI infrastructure",
+      "Energy in homes",
+      "What Is Illinois Tool Works Inc.'s (NYSE:ITW) Share Price Doing? - Yahoo Finance",
+      "Healthcare of Ontario Pension Plan Trust Fund Increases Position in Illinois Tool Works Inc. $ITW - ",
+      "Bernstein Initiates Coverage of Parker-Hannifin (PH) with a Bullish View - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為CAT、Parker、THK Co相關動態：「New automation push, THK’s KR-RL LM Guide aims to shrink ...」。主要關注主題為產業通用、財報、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "New automation push, THK’s KR-RL LM Guide aims to shrink footprints - AD HOC ...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "BR: Delta Electronics V2 - Yahoo（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

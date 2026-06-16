@@ -1,0 +1,16 @@
+{
+  "total_raw": 390,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 2,
+  "gate2_fail": 6,
+  "passed": 25,
+  "gate2_samples": [
+    "Liquid cooling fluid management: How to protect AI infrastructure",
+    "Energy in homes",
+    "What Is Illinois Tool Works Inc.'s (NYSE:ITW) Share Price Doing? - Yahoo Finance",
+    "Healthcare of Ontario Pension Plan Trust Fund Increases Position in Illinois Tool Works Inc. $ITW - ",
+    "Bernstein Initiates Coverage of Parker-Hannifin (PH) with a Bullish View - Yahoo Finance"
+  ]
+}
