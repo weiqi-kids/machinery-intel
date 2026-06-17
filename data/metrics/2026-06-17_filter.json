@@ -1,0 +1,16 @@
+{
+  "total_raw": 384,
+  "dup_title": 228,
+  "no_date": 0,
+  "too_old": 126,
+  "gate1_fail": 3,
+  "gate2_fail": 7,
+  "passed": 20,
+  "gate2_samples": [
+    "Energy in homes",
+    "Mitsubishi Electric Re-engineers Its DNA, Placing Innovation at Core of ESG - BriefGlance",
+    "What Is Illinois Tool Works Inc.'s (NYSE:ITW) Share Price Doing? - Yahoo Finance",
+    "Healthcare of Ontario Pension Plan Trust Fund Increases Position in Illinois Tool Works Inc. $ITW - ",
+    "Bernstein Initiates Coverage of Parker-Hannifin (PH) with a Bullish View - Yahoo Finance"
+  ]
+}
