@@ -1,0 +1,16 @@
+{
+  "total_raw": 389,
+  "dup_title": 228,
+  "no_date": 0,
+  "too_old": 126,
+  "gate1_fail": 3,
+  "gate2_fail": 7,
+  "passed": 25,
+  "gate2_samples": [
+    "Phillip Securities Downgrades Delta Electronics Thailand to Neutral from Accumulate; Price Target is",
+    "Mitsubishi Electric Re-engineers Its DNA, Placing Innovation at Core of ESG - BriefGlance",
+    "What Is Illinois Tool Works Inc.'s (NYSE:ITW) Share Price Doing? - Yahoo Finance",
+    "Bernstein Initiates Coverage of Parker-Hannifin (PH) with a Bullish View - Yahoo Finance",
+    "Why are we being warned about toxic caterpillars? - BBC"
+  ]
+}
