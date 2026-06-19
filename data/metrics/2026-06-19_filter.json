@@ -1,0 +1,16 @@
+{
+  "total_raw": 389,
+  "dup_title": 222,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 3,
+  "gate2_fail": 6,
+  "passed": 18,
+  "gate2_samples": [
+    "DG Hsu Visits Delta Electronics Chennai Office - ROC-Taiwan.org",
+    "Mitsubishi Electric Re-engineers Its DNA, Placing Innovation at Core of ESG - BriefGlance",
+    "Bernstein Initiates Coverage of Parker-Hannifin (PH) with a Bullish View - Yahoo Finance",
+    "Why are we being warned about toxic caterpillars? - BBC",
+    "Stinging caterpillar reports on the rise on Oahu - KHON2"
+  ]
+}

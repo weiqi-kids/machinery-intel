@@ -1,0 +1,238 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T12:00:35.320094Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-06-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric launches browser-based production analytics app to simplify shopfloor visibility - Process and Control Today",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOay1Ca1doWVNCUE1ldi1JTWpILWNsZFdPekpQeGgyQzUxck40Y2J3MFd0ekVvVHNPdGltWFhjbVBkRlZCZmZhY3hvREhBZzBnS045REowSGstZEplRk9wZTB4UFVNLVZNeWllRjNoNHFQeF8tRTRPc0hjQ2UwY3p0R2dCanJzX0pwSURuNUdVZ3pNWEFUbHJaVEJYUFNhbHlGckd3UVNGTzNIdUpDUllhMHh2Z2ViLWR1VlhJWVpzWWhtMnBPQzFJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itw-2026-06-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works Inc (ITW) Financial Health: Profitability & Balance Sheet Analysis - TradingKey",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96R3VLUXdibTRwcjNoU0NuS2s1WGN5UzNyRlRKWDk3U3UzRVFLeTlOdl9qRGNyclltb2ptbkFVeDFUNlg5MHFSUk1uVU82Nnp3eURFQ0JiSWpfelRrNUVCU0dtU0ZGX1o4QWFkWGxFMTBNaHdGSXBMXw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itw-2026-06-19-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works Inc (ITW) Dividends & Stock Splits: Historical Payouts and Event Timeline - TradingKey",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50T3VrYi1CZ2VMTFN1a3pvOUtDNzVPOUYxdmVScUJzNHhDaEJWSk1sdXBOeENxX2dneUdzb0w5ZmxRMnIwQjJEQlhaWFJKSlBQYTY2WGh4dEcyOFluSllMMEQ0N3pWaGYxZ1NsRkpqQ2t1ekJwd1FB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itw-2026-06-19-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works Inc (ITW) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnc18zZVJBZHZjUExCWjlTNzB3eTBWSEJYSjEtR3VYSjRMU2NoM0lJV1owMGtCQTNmOXFhLTlrUXZDOVdlLTBMbXV6Y1NyQWl6R3pQMlBXQThxVkxHZU9DcllYbXQ0VHM0dGtHZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itw-2026-06-19-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works Inc (ITW) Shareholder Structure: Major Shareholders & Institutional Holdings - TradingKey",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KVkw2MUQ4TFI0c0lBZnViSTVSODhNaElLUzhPZXpEUEdST0hQMzBWRWZyODBsV0owNTVjRlF3c0ItcDhYOFNySDBuOTM4RTFQUmVMbV9UQ0pUamdEbTB3NzNHeFk3UXJSdXdLVG8xVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "itw",
+        "count": 4
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "abb",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 389,
+    "dup_title": 222,
+    "too_old": 140,
+    "gate1_blocked": 3,
+    "gate2_blocked": 6,
+    "passed": 18,
+    "pass_rate": "10.8%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "DG Hsu Visits Delta Electronics Chennai Office - ROC-Taiwan.org",
+      "Mitsubishi Electric Re-engineers Its DNA, Placing Innovation at Core of ESG - BriefGlance",
+      "Bernstein Initiates Coverage of Parker-Hannifin (PH) with a Bullish View - Yahoo Finance",
+      "Why are we being warned about toxic caterpillars? - BBC",
+      "Stinging caterpillar reports on the rise on Oahu - KHON2"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為ITW、Parker、ABB相關動態：「Mitsubishi Electric launches browser-based production ana...」。主要關注主題為財報、產業通用、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mitsubishi Electric launches browser-based production analytics app to simpli...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Illinois Tool Works Inc (ITW) Financial Health: Profitability & Balance Sheet...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
