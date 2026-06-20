@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T12:00:34.565881+00:00",
+  "updated_at": "2026-06-20T10:31:03.347611+00:00",
   "companies": {
     "hiwin": {
       "name": "上銀科技",
@@ -154,9 +154,9 @@
         },
         {
           "holder": "Pacer Advisors, Inc.",
-          "shares": 6465,
+          "shares": 1907,
           "pct_held": 0.0,
-          "value": 502330500
+          "value": 148173900
         },
         {
           "holder": "Boston Common Asset Management, LLC",
@@ -206,25 +206,25 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 56861,
           "pct_held": 0.01,
-          "value": 15676578
+          "value": 15608344
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 559,
           "pct_held": 0.0,
-          "value": 154116
+          "value": 153445
         },
         {
           "holder": "Strategic Investment Solutions, Inc. /il                          ",
           "shares": 11,
           "pct_held": 0.0,
-          "value": 3032
+          "value": 3019
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 14277,
           "pct_held": 0.0,
-          "value": 3936169
+          "value": 3919036
         }
       ]
     },
@@ -237,19 +237,19 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 14345,
           "pct_held": 0.0,
-          "value": 1241129
+          "value": 1249449
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 42892,
           "pct_held": 0.0,
-          "value": 3711015
+          "value": 3735893
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 30800,
           "pct_held": 0.0,
-          "value": 2664815
+          "value": 2682679
         }
       ]
     },
@@ -329,25 +329,25 @@
           "holder": "Gamma Investing LLC",
           "shares": 202,
           "pct_held": 0.0,
-          "value": 58468
+          "value": 58428
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 28532,
           "pct_held": 0.0,
-          "value": 8258587
+          "value": 8252881
         },
         {
           "holder": "Albert D Mason Inc",
           "shares": 9476,
           "pct_held": 0.0,
-          "value": 2742828
+          "value": 2740933
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 10625,
           "pct_held": 0.0,
-          "value": 3075406
+          "value": 3073281
         }
       ]
     },
@@ -358,9 +358,9 @@
       "holders": [
         {
           "holder": "Pacer Advisors, Inc.",
-          "shares": 725696,
-          "pct_held": 0.03,
-          "value": 4391186496
+          "shares": 32936,
+          "pct_held": 0.0,
+          "value": 199295736
         },
         {
           "holder": "Boston Common Asset Management, LLC",
