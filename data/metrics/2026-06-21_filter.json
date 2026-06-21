@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 126,
+  "gate1_fail": 1,
+  "gate2_fail": 8,
+  "passed": 21,
+  "gate2_samples": [
+    "DG Hsu Visits Delta Electronics Chennai Office - ROC-Taiwan.org",
+    "Phillip Securities Downgrades Delta Electronics Thailand to Neutral from Accumulate; Price Target is",
+    "Mitsubishi Electric Re-engineers Its DNA, Placing Innovation at Core of ESG - BriefGlance",
+    "Bernstein Initiates Coverage of Parker-Hannifin (PH) with a Bullish View - Yahoo Finance",
+    "Stinging caterpillar reports on the rise on Oahu - KHON2"
+  ]
+}
