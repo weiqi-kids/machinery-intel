@@ -1,0 +1,16 @@
+{
+  "total_raw": 372,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 124,
+  "gate1_fail": 1,
+  "gate2_fail": 6,
+  "passed": 24,
+  "gate2_samples": [
+    "Phillip Securities Downgrades Delta Electronics Thailand to Neutral from Accumulate; Price Target is",
+    "The home of 2030: intelligent, electrified, and self-managing",
+    "Liquid cooling fluid management: How to protect AI infrastructure",
+    "What Illinois Tool Works (ITW)'s Margin Gains and Soft Organic Sales Mean For Shareholders - simplyw",
+    "Bernstein Initiates Coverage of Parker-Hannifin (PH) with a Bullish View - Yahoo Finance"
+  ]
+}
