@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 1,
+  "gate2_fail": 6,
+  "passed": 27,
+  "gate2_samples": [
+    "Phillip Securities Downgrades Delta Electronics Thailand to Neutral from Accumulate; Price Target is",
+    "The home of 2030: intelligent, electrified, and self-managing",
+    "Bernstein Initiates Coverage of Parker-Hannifin (PH) with a Bullish View - Yahoo Finance",
+    "Extraordinary Caterpillar documentary Berea: June 24 - bereaonline.com",
+    "Stinging caterpillar reports on the rise on Oahu - KHON2"
+  ]
+}

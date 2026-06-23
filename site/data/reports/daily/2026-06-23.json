@@ -1,0 +1,203 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T10:56:44.826518Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-06-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Whitehouse Machine Tools wins Mitsubishi Electric EDM agency - PES Media",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWmVLSEVmLTlhbGJnUlVEUG1NYVY1aVZrV1VOQjE0aUxVcnlHVG93UGx3Z04xekRzdkNEckxWa0lmRHhrZjU0LXVELU5kRUN2d3ZzWlVvNk1pbXFnLVBhajM2a0pMbzY1ZFRQM3k4QlM3QUNpbDdhM0ExNjd2WUF3X0FabzZ2ZzBuLTVVUnRB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mitsubishi_electric-2026-06-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corey Pavin 'Parking Gate' Commercial :30 | Mitsubishi Electric Cooling & Heating Pc Party Wales (lpGMc6O658) - Fathom Journal",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqT1dzX1RLZ0hHRWF0cXJjMEl2SkRrT0x5YkotVWpaU3JKVzdiSVNycWJKY0ZOY0N6VThmS2ZkUlliSmZDTFhzTVZBck9mX2ZHU1BkMW5pNHJSbzBwR3hlbVlDVW4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-06-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Caterpillar (CAT) Lands Key Role In Chevron Microsoft AI Data Center Build - Yahoo Finance",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYVJFa3o4Q0djTk56dThQdFFCb2VPWW84cGFpc2VyS014V3RvampCNnU2WTJTQzBpa1hjMnRhbk9KZ0lwekpfODdhdW9jZDhvb2x0aUFtTTV2RTdyblVSS2xLamRjeHNGNTdwWUVRQlZwTDJZcHl4YmRrMElwUzhVeG9Gdld3TnFQb2JMMkUyMFpCYTBkdWY1aFVR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-06-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Wells Fargo Maintains Caterpillar(CAT.US) With Buy Rating, Announces Target Price $1,155 - Moomoo",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUlNHRzAtLVA4S0wtLVZ5dmVaa3dGOFV0cXBJZ2NtMlRrYk9fbFRtckJ0UVJqVkJpTUtfR0hXUksxMkRGMVpuWE5MZ2V5NktjY3IyR3FzNEd4X2FFXzVQN192QXViSkVQdkM1VjVpS005UWhsbEtDZHk5a2U4ODJ4MU9GZTZiRWxIMFd0NGZOSXdiTkV2eWxtOHB2N1R4Y2ZkOFJueURNdXhNVm9TeFIySWRCTnE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-06-23-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Wells Fargo Adjusts Price Target on Caterpillar to $1,155 From $1,050, Maintains Overweight Rating - marketscreener.com",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSzcyOU9KbE1jXzBfeVktOTl3dmFDTlN3a215bGxRT0d5MG9mQVlLWW1ZckZ2dVBKWEdQUm1XbVRtUEtwVTdITEhGRHJzUmdSTFE5MVRXUW40WHE5TWZBVnZOdWVjSTVKbHJ5ZkNDeHZLYTVWVjJKaGQ5ajB0NG1fWldlSkROVWhLMTRHaTRXeVktNkVxMGFDTWw4blREdGJHNTBxVTh3YmVMTVlhRTVKbXZPaDRxa1c5T1R3V1hjUWJEVy1rLUhsRHdkVkZHTHV5cHA4UlNxaDR2ZzNEVmY0bUpB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 4
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 5
+      },
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 371,
+    "dup_title": 204,
+    "too_old": 133,
+    "gate1_blocked": 1,
+    "gate2_blocked": 6,
+    "passed": 27,
+    "pass_rate": "16.2%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "Phillip Securities Downgrades Delta Electronics Thailand to Neutral from Accumulate; Price Target is",
+      "The home of 2030: intelligent, electrified, and self-managing",
+      "Bernstein Initiates Coverage of Parker-Hannifin (PH) with a Bullish View - Yahoo Finance",
+      "Extraordinary Caterpillar documentary Berea: June 24 - bereaonline.com",
+      "Stinging caterpillar reports on the rise on Oahu - KHON2"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為CAT、Mitsubishi Electric相關動態：「Whitehouse Machine Tools wins Mitsubishi Electric EDM age...」。主要關注主題為自動化資本支出、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Whitehouse Machine Tools wins Mitsubishi Electric EDM agency - PES Media（自動化資本支出、產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Corey Pavin 'Parking Gate' Commercial :30 | Mitsubishi Electric Cooling & Hea...（自動化資本支出）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

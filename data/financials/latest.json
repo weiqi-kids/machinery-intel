@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T13:28:22.707393Z",
+  "updated_at": "2026-06-23T10:56:40.761953Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -109,17 +109,17 @@
       "name": "發那科",
       "ticker": "6954.T",
       "currency": "JPY",
-      "ar": 153062000000,
-      "ar_prev": 156437000000,
-      "ar_qoq": "-2%",
+      "ar": 170775000000,
+      "ar_prev": 153062000000,
+      "ar_qoq": "+12%",
       "ar_period": "QoQ",
-      "inventory": 292574000000,
-      "inv_prev": 306439000000,
-      "inv_qoq": "-5%",
+      "inventory": 292186000000,
+      "inv_prev": 292574000000,
+      "inv_qoq": "-0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-09-30"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "goodway",
@@ -262,17 +262,17 @@
       "name": "大隈",
       "ticker": "6103.T",
       "currency": "JPY",
-      "ar": 36633000000,
-      "ar_prev": 37878000000,
-      "ar_qoq": "-3%",
+      "ar": 45893000000,
+      "ar_prev": 36633000000,
+      "ar_qoq": "+25%",
       "ar_period": "QoQ",
-      "inventory": 89555000000,
-      "inv_prev": 85631000000,
-      "inv_qoq": "+5%",
+      "inventory": 82108000000,
+      "inv_prev": 89555000000,
+      "inv_qoq": "-8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2025-09-30"
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "parker_hannifin",
@@ -314,8 +314,8 @@
       "ticker": "SU.PA",
       "currency": "EUR",
       "ar": 7221000000,
-      "ar_prev": 8985000000,
-      "ar_qoq": "-20%",
+      "ar_prev": 7280000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
       "inventory": 5368000000,
       "inv_prev": 5866000000,
