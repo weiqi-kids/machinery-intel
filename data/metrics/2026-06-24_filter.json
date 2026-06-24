@@ -1,0 +1,13 @@
+{
+  "total_raw": 390,
+  "dup_title": 211,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 1,
+  "gate2_fail": 2,
+  "passed": 27,
+  "gate2_samples": [
+    "The home of 2030: intelligent, electrified, and self-managing",
+    "Stinging caterpillar reports on the rise on Oahu - KHON2"
+  ]
+}
