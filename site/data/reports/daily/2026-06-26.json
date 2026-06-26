@@ -1,0 +1,241 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T10:45:43.534260Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "caterpillar-2026-06-26-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Baird Adjusts Price Target on Caterpillar to $1,200 From $1,165, Maintains Outperform Rating - marketscreener.com",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcWdTT2FJZXBSUkNGSHZxbHZ2bEhBYld6b2dzZU5lZm5CcjZIdjNtTDQ2aTFyV2dlWm9QSVVtbUtmbHFZdUstdnZYRmNnNUFYQWxFLVVZeDBENmwxRGNJc2JhSmZTemFsMldHUFVTMmFCSUM2Y2VGWnVJNFJtRDc4eHFTbWxvd3F4LTIzbkh4NHFWU29PZ293aXMwT3FaUV8zZGFxSDFzQ1MzNGc5Q2RqY08xYms3U0ZDR0dDbVEzcVZqdElUQkd5eHZHdExFRmE4LXdaYjhzTVpEdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mitsubishi_electric-2026-06-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of Mitsubishi Electric Corp. – SWB:MIE1 - TradingView",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcndiQmgzZWVaWUlLd3dSUklsRGVXTjFOQVdVaDJaRFcyQ1BQSVEtQk94WHEyZXVtZS1pTkVMZElac2M4aTlfaGZnUjVlMDAtdVJzZHBkNC1tZlk4Y09TTWhpRDNad09EQmlmZVFOdnM1UktwZ0lhV2ZTbGJ1M2VuQlIwcHNsdjYwTm9LWk9XTUxQek5ubms1RkdvTXZyZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "dmg_mori-2026-06-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of DMG MORI Aktiengesellschaft – DUS:GIL - TradingView",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmFNczc0Mk9XVmV0b05XVW9Mdk5Bd051NUVzZ1NnU3JEQXZQdjNKMFhtMUtra0dhYU03Z0dJVDExTnplTThKelN4bThMRnE2Vkc5Z2NFdHNtNm1pQ0xqOERaalRreEVFNm14M1pxNE16d29JTGJiZDdidnhENUFXMjBuVU9DMEZJelVLOElBNklSdzhvSUJJRUNCWDU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itw-2026-06-26-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to sales forward of Illinois Tool Works Inc. – GETTEX:ILT - TradingView",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdVR4VUZsLXFkeUowQkxZU0c5S0d6ejNrVXNneW1FRUZGY3VGeHl2cnNIOFVEX0dVLXhZc3pDNlFmMk0ybFNKSXQ3VWY0dkFUT3Jhd0U4ZXY2QV85dTJjeDdlUi11Q3V4VjZKR3dBQlkxQ1FWZEtJY0YtVDZRU2NyeXdaTDdIMUNrSENFSEphdVRvemRhVV9nUkNqLVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-06-26-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin seen as strong industrial name, shares backed by fresh analyst targets - Ad-hoc-news.de",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdTQ1azkxNVBNRkxJcGx4Q1U3bFJFaHA4Qy1HVjJ5ODFwLXRlYTNBdEJsS1hJOTIwMmQyemFqTFd5V0tEb0tZeTBwa3ZsdTdHQ0gwN1NlSFBoN3JxMkNjaS1kYXltMk5RbDR4alAtQjQzOUFZbHVxQl9wcHhKRGhsWnZmS05OR1BkS3p3eENCUVd3b25EVmVYTDh1ak96cDZsZkNJOUdRRkFWbGYzaXlWdlZCMkw1RHEybzJsbWJENlJybzk2dUg0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 4
+      },
+      {
+        "id": "dmg_mori",
+        "count": 2
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      },
+      {
+        "id": "itw",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "automation_capex",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 389,
+    "dup_title": 218,
+    "too_old": 143,
+    "gate1_blocked": 0,
+    "gate2_blocked": 4,
+    "passed": 24,
+    "pass_rate": "14.0%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "Price to book forward of Delta Electronics (Thailand) Public Co. Ltd. – SET:DELTA - TradingView",
+      "The home of 2030: intelligent, electrified, and self-managing",
+      "Mitsubishi Electric Joins Publicly Solicited Project to Verify System for Identifying Greenhouse Gas",
+      "Is Parker Hannifin Corp (PH) Overvalued After 3.0% Rally? GF Val - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為CAT、DMG Mori、Mitsubishi Electric相關動態：「Baird Adjusts Price Target on Caterpillar to $1,200 From ...」。主要關注主題為產業通用、自動化資本支出、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Baird Adjusts Price Target on Caterpillar to $1,200 From $1,165, Maintains Ou...（自動化資本支出、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Price to earnings forward of Mitsubishi Electric Corp. – SWB:MIE1 - TradingView（自動化資本支出、財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

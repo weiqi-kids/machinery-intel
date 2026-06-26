@@ -1,0 +1,15 @@
+{
+  "total_raw": 389,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 0,
+  "gate2_fail": 4,
+  "passed": 24,
+  "gate2_samples": [
+    "Price to book forward of Delta Electronics (Thailand) Public Co. Ltd. – SET:DELTA - TradingView",
+    "The home of 2030: intelligent, electrified, and self-managing",
+    "Mitsubishi Electric Joins Publicly Solicited Project to Verify System for Identifying Greenhouse Gas",
+    "Is Parker Hannifin Corp (PH) Overvalued After 3.0% Rally? GF Val - GuruFocus"
+  ]
+}
