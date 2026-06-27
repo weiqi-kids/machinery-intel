@@ -1,0 +1,16 @@
+{
+  "total_raw": 386,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 1,
+  "gate2_fail": 5,
+  "passed": 34,
+  "gate2_samples": [
+    "Enterprise value to EBIT forward of Mitsubishi Electric Corp. – TSE:6503 - TradingView",
+    "Retief Goosen makes birdie on No. 17 at DICK'S Open - PGA Tour",
+    "Mitsubishi Electric Joins Publicly Solicited Project to Verify System for Identifying Greenhouse Gas",
+    "Parker-Hannifin Corporation Shs Unsponsored Brazilian Depositary Receipt Repr 0.25 Sh - TradingView",
+    "Is Parker Hannifin Corp (PH) Overvalued After 3.0% Rally? GF Val - GuruFocus"
+  ]
+}

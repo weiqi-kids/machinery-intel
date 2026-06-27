@@ -1,0 +1,207 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T09:58:17.464551Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-06-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric's Valuation May Be A Little Rich (MIELY) - Seeking Alpha",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGZLSGZyNjRoQ1UxUkN1YU04SzNXRzhuWUV3TnF5WDF5cXBEX280aEp2NzQybXBUZTlGZTZ0c3Nwc19rd282T3VseHllcUpWcGExWHc0eW5VdnFTbG1MVGItVmZwWVNxSWNYelg3NlFLSzkwRmdmb2NSbHhPM0dXXzIwdHBieXA0eWxMNDZBNjc4T28?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "parker_hannifin-2026-06-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker Hannifin Upgraded To Buy At Deutsche Bank Andrey Rublev (5Jq9IGYNr6) - Fathom Journal",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQaFZDUWRCd2xuZTJWU2FSOTBZWlRUcnBqT2IxajVIa2dRTWlSZ2RieGRLekQ3NGViRXlvZnVIZURtSWhWLWNPb0YyNV9wNExrZlFOVkV5T0cydGZ3QU1yZjcwUUhLMVpsb2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-06-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Very Hungry Caterpillar Show - Texas Public Radio | TPR",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVERELWNPRnZYdF9aamZJbWZkRnZKZGNCQ1BlakYyamFuQlpFb1Zkc0NiRDhjZEtfVUdJbF9rZjlEOGtUU1M1c1dRMjh2Vm1xclljdnM2R3dHT0JtSGJMRkRpbEtnbVEyRE1EeUxaMWhJVG1SMjZwMEZDRG1fVU1jdlVxdmpwektneGttNVVZMkUwY2tGMUVyb29ySkZPUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-06-27-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Hawaii Caterpillar That Burns Like Fiberglass - Beat of Hawaii",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUktIOFNTYzVpVUlTLThCY0tZTXFabUtyTjFKeUFPVE1STGVUdWQyVzQxamc4ajBjYVRrU0xiaE5RSERka3JVdDJmM195Q2prZndNSXp2Tjd1OWlEMUZFcmRNVW1QZF92WUJ4NmhYVGdESE5HSE5uUVFfMzhnY3NrMw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 386,
+    "dup_title": 214,
+    "too_old": 132,
+    "gate1_blocked": 1,
+    "gate2_blocked": 5,
+    "passed": 34,
+    "pass_rate": "19.8%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "Enterprise value to EBIT forward of Mitsubishi Electric Corp. – TSE:6503 - TradingView",
+      "Retief Goosen makes birdie on No. 17 at DICK'S Open - PGA Tour",
+      "Mitsubishi Electric Joins Publicly Solicited Project to Verify System for Identifying Greenhouse Gas",
+      "Parker-Hannifin Corporation Shs Unsponsored Brazilian Depositary Receipt Repr 0.25 Sh - TradingView",
+      "Is Parker Hannifin Corp (PH) Overvalued After 3.0% Rally? GF Val - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為CAT、Mitsubishi Electric、Parker相關動態：「Mitsubishi Electric's Valuation May Be A Little Rich (MIE...」。主要關注主題為財報、自動化資本支出、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mitsubishi Electric's Valuation May Be A Little Rich (MIELY) - Seeking Alpha（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Parker Hannifin Upgraded To Buy At Deutsche Bank Andrey Rublev (5Jq9IGYNr6) -...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

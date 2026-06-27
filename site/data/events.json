@@ -1,5 +1,88 @@
 [
   {
+    "id": "mitsubishi_electric-2026-06-27-001",
+    "date": "2026-06-27",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric's Valuation May Be A Little Rich (MIELY) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGZLSGZyNjRoQ1UxUkN1YU04SzNXRzhuWUV3TnF5WDF5cXBEX280aEp2NzQybXBUZTlGZTZ0c3Nwc19rd282T3VseHllcUpWcGExWHc0eW5VdnFTbG1MVGItVmZwWVNxSWNYelg3Nl",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGZLSGZyNjRoQ1UxUkN1YU04SzNXRzhuWUV3TnF5WDF5cXBEX280aEp2NzQybXBUZTlGZTZ0c3Nwc19rd282T3VseHllcUpWcGExWHc0eW5VdnFTbG1MVGItVmZwWVNxSWNYelg3NlFLSzkwRmdmb2NSbHhPM0dXXzIwdHBieXA0eWxMNDZBNjc4T28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-06-27-002",
+    "date": "2026-06-27",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin Upgraded To Buy At Deutsche Bank Andrey Rublev (5Jq9IGYNr6) - Fathom Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBQaFZDUWRCd2xuZTJWU2FSOTBZWlRUcnBqT2IxajVIa2dRTWlSZ2RieGRLekQ3NGViRXlvZnVIZURtSWhWLWNPb0YyNV9wNExrZlFOVkV5T0cydGZ3QU1yZjcwUUhLMVpsb2c?oc=5\" ",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQaFZDUWRCd2xuZTJWU2FSOTBZWlRUcnBqT2IxajVIa2dRTWlSZ2RieGRLekQ3NGViRXlvZnVIZURtSWhWLWNPb0YyNV9wNExrZlFOVkV5T0cydGZ3QU1yZjcwUUhLMVpsb2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-27-003",
+    "date": "2026-06-27",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Very Hungry Caterpillar Show - Texas Public Radio | TPR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQVERELWNPRnZYdF9aamZJbWZkRnZKZGNCQ1BlakYyamFuQlpFb1Zkc0NiRDhjZEtfVUdJbF9rZjlEOGtUU1M1c1dRMjh2Vm1xclljdnM2R3dHT0JtSGJMRkRpbEtnbVEyRE1EeUxaMW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVERELWNPRnZYdF9aamZJbWZkRnZKZGNCQ1BlakYyamFuQlpFb1Zkc0NiRDhjZEtfVUdJbF9rZjlEOGtUU1M1c1dRMjh2Vm1xclljdnM2R3dHT0JtSGJMRkRpbEtnbVEyRE1EeUxaMWhJVG1SMjZwMEZDRG1fVU1jdlVxdmpwektneGttNVVZMkUwY2tGMUVyb29ySkZPUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-27-004",
+    "date": "2026-06-27",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Hawaii Caterpillar That Burns Like Fiberglass - Beat of Hawaii",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUktIOFNTYzVpVUlTLThCY0tZTXFabUtyTjFKeUFPVE1STGVUdWQyVzQxamc4ajBjYVRrU0xiaE5RSERka3JVdDJmM195Q2prZndNSXp2Tjd1OWlEMUZFcmRNVW1QZF92WUJ4NmhYVG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUktIOFNTYzVpVUlTLThCY0tZTXFabUtyTjFKeUFPVE1STGVUdWQyVzQxamc4ajBjYVRrU0xiaE5RSERka3JVdDJmM195Q2prZndNSXp2Tjd1OWlEMUZFcmRNVW1QZF92WUJ4NmhYVGdESE5HSE5uUVFfMzhnY3NrMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-26-001",
     "date": "2026-06-26",
     "companies": [],
@@ -202,6 +285,346 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcWdTT2FJZXBSUkNGSHZxbHZ2bEhBYld6b2dzZU5lZm5CcjZIdjNtTDQ2aTFyV2dlWm9QSVVtbUtmbHFZdUstdnZYRmNnNUFYQWxFLVVZeDBENmwxRGNJc2JhSmZTemFsMldHUFVTMmFCSUM2Y2VGWnVJNFJtRDc4eHFTbWxvd3F4LTIzbkh4NHFWU29PZ293aXMwT3FaUV8zZGFxSDFzQ1MzNGc5Q2RqY08xYms3U0ZDR0dDbVEzcVZqdElUQkd5eHZHdExFRmE4LXdaYjhzTVpEdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hiwin-2026-06-26-011",
+    "date": "2026-06-26",
+    "companies": [
+      "hiwin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HIWIN Technologies Corp. Actuals & Estimates (TWSE:2049) - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxONlMxLU9CTDRqaXdtSEVsTVBjdFV4d1QyN1M1S0wzd0RtSGZXMXBxZmZiWVhFSVZTNnVVR19kZjNIa2RxT3RReEsycHdpZkNQVjZnMDVsT0YtUDBYdXh6M3puNmlBTlE0cG0xbURiTV",
+    "sources": [
+      {
+        "name": "hiwin",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONlMxLU9CTDRqaXdtSEVsTVBjdFV4d1QyN1M1S0wzd0RtSGZXMXBxZmZiWVhFSVZTNnVVR19kZjNIa2RxT3RReEsycHdpZkNQVjZnMDVsT0YtUDBYdXh6M3puNmlBTlE0cG0xbURiTVV1dUVuMFNacHlGblhYcF9DTlkxNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-012",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "HIWNF Forecast — Price Target — Prediction for 2027 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE14SENlalFWV3VPbHNxVW9FRTZtRDB3N3ZZb1dNM19ISnBzdkc5SGJ1UWVlbHlrYlRpV0RjUXlEcGpGRWZPTExMQ0NqS01CWXJld2JacTExbkpUSWhwUUhybTM3dC1idTNNd3FoTEt0Rj",
+    "sources": [
+      {
+        "name": "hiwin",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14SENlalFWV3VPbHNxVW9FRTZtRDB3N3ZZb1dNM19ISnBzdkc5SGJ1UWVlbHlrYlRpV0RjUXlEcGpGRWZPTExMQ0NqS01CWXJld2JacTExbkpUSWhwUUhybTM3dC1idTNNd3FoTEt0RjhITWp4clZF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "airtac-2026-06-26-013",
+    "date": "2026-06-26",
+    "companies": [
+      "airtac"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Airtac International Group Actuals & Estimates (TWSE:1590) - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPVWtEbWE0Y0lmMzV5NEN4SUpJRlNVQmR3VExFb043a1ZGbl9pNnlzTUprc2g2VzdpUndoYmNYeTVMczMzTnBQVjVNU2hfSzBjSEN2cUlWcFhLcmlBWGVmVmRxRmk0MVppM1BWMy1oUl",
+    "sources": [
+      {
+        "name": "airtac",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVWtEbWE0Y0lmMzV5NEN4SUpJRlNVQmR3VExFb043a1ZGbl9pNnlzTUprc2g2VzdpUndoYmNYeTVMczMzTnBQVjVNU2hfSzBjSEN2cUlWcFhLcmlBWGVmVmRxRmk0MVppM1BWMy1oUlBwXzlxT2hmVnJEVDlkb2pxcjMxVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "keyence-2026-06-26-014",
+    "date": "2026-06-26",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "KEYENCE PZ-G42N Photoelectric Sensor Switch - New In Box Factory Sealed - Santo André BIZ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1fYTdxN1RGa3MtVXlZekdKRDBRRHZ4ajlRSlNINmQ2bGYybnlrcUNQV0ZPai1pMVFBejNIeFlScWNYOC0wcDhhZkdBOEQzblU0ZUgtZVcwcXFKR2lmNEVyNlZOX1FMalFMS2JBTVgwMG",
+    "sources": [
+      {
+        "name": "keyence",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1fYTdxN1RGa3MtVXlZekdKRDBRRHZ4ajlRSlNINmQ2bGYybnlrcUNQV0ZPai1pMVFBejNIeFlScWNYOC0wcDhhZkdBOEQzblU0ZUgtZVcwcXFKR2lmNEVyNlZOX1FMalFMS2JBTVgwMG5OZ04xYndtbUhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-06-26-015",
+    "date": "2026-06-26",
+    "companies": [
+      "delta"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Enterprise value to EBIT forward of Delta Electronics (Thailand) Public Co. Ltd. – SET:DELTA - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2JtalJmWmlNWGlEZFhzMVJyak9ZakVFUWJITFhHNmRma1AyMklTTmVtbXBXbjVwNlcydHRCdG9JTmNkZlA5R0JaNFNjSURVdVJvTVl6S1IxY1NudU9WWTRnX1pBeURJNzBSeEFoQz",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2JtalJmWmlNWGlEZFhzMVJyak9ZakVFUWJITFhHNmRma1AyMklTTmVtbXBXbjVwNlcydHRCdG9JTmNkZlA5R0JaNFNjSURVdVJvTVl6S1IxY1NudU9WWTRnX1pBeURJNzBSeEFoQzJ2WDd4b05BWHlOYklqMTVBOGg2dXNoNmc3YlNYRjVYWVo1ejJ0V25ITF83dm1nc0ZRM28xeExicFg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-06-26-016",
+    "date": "2026-06-26",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics (Thailand) Public Co. Ltd. Actuals & Estimates (SET:DELTA) - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQek9KOFBzeXZOeWRJVTVFck5nbnI4bXFMdWZFUGF1M043RUh5Qy00TlQ3Y3VPNXdRRWVNWS1OYXY2MUpQOGxtZTRjUmM0OW5pWUJoY3lCUXFnUU5MOUlBczFFUFhxMzIxMENMTW1SZm",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQek9KOFBzeXZOeWRJVTVFck5nbnI4bXFMdWZFUGF1M043RUh5Qy00TlQ3Y3VPNXdRRWVNWS1OYXY2MUpQOGxtZTRjUmM0OW5pWUJoY3lCUXFnUU5MOUlBczFFUFhxMzIxMENMTW1SZmJ1X2diSkV4M2w5Mk93ZnJDZW51TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-017",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MDA Space Wins Role in Japan’s Next-Gen Military Communications Satellite - The Defense Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4wbnY4OThlcGswQmJhWVV1TEotTFVva05VQTZMbmQySTlzSl85NHd1bFRkVlprTUloU2FkbU9OdDdhaXpVdTU3d25LckgzdjV5c05uQzFTWkxMOGJtN1pwSVpiajJOMk9hbDFGUFBBTX",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wbnY4OThlcGswQmJhWVV1TEotTFVva05VQTZMbmQySTlzSl85NHd1bFRkVlprTUloU2FkbU9OdDdhaXpVdTU3d25LckgzdjV5c05uQzFTWkxMOGJtN1pwSVpiajJOMk9hbDFGUFBBTXp4UWMtUmfSAXtBVV95cUxOSHhseW5ycjUtaFRZS0Qyc09kWm5fdVdCcUQ3X1NNRy1XVHBJMy1EUV9LeVg2b19pdURJREtkUVNqWjRVV0FsYURBQXFESDZyanFFVC12dXpVdUxCRkY4UFF3Vndkd2NSckdkb2NNYlFkSTYtcjFodHJHcjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-06-26-018",
+    "date": "2026-06-26",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to EBITDA forward of DMG MORI CO., LTD. – TSE:6141 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQemZacnAtUWt1MUs5V0JQVjZ0OXJhOTd1aXg5ZWYwelBFMkhGRlFGRTB6UVdVZWJiVmVWaFdxRnMwQ1VZYUNaTEFpZ3VTaERQTW1aV1ZjVTNWRmNxS0JhWUViM3ZYRGZ2cjgtSXJDN3",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQemZacnAtUWt1MUs5V0JQVjZ0OXJhOTd1aXg5ZWYwelBFMkhGRlFGRTB6UVdVZWJiVmVWaFdxRnMwQ1VZYUNaTEFpZ3VTaERQTW1aV1ZjVTNWRmNxS0JhWUViM3ZYRGZ2cjgtSXJDN3NnVFhheXNRaHFFTWJSSUN5d2NLQzl3OVBpNTdIXy10eGVBZmh4UlJzaE5KOUpQQnNRc1E5MWxWM09TUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "goodway-2026-06-26-019",
+    "date": "2026-06-26",
+    "companies": [
+      "goodway"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of Goodway Machine Corp. – TWSE:1583 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSy1vY3pzY0k0bW5DZWROS2MwUTRITHVkeXM4cnh3djJ5ODgzNDdLRW81dTRNYWN2VjVqNDJuSDk5aXQyTV8yamhrUFp0c0tfWEFISzNTTkdZZmpJRkxLZEJCeVBsR2RIdDlQU2VQaG",
+    "sources": [
+      {
+        "name": "goodway",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSy1vY3pzY0k0bW5DZWROS2MwUTRITHVkeXM4cnh3djJ5ODgzNDdLRW81dTRNYWN2VjVqNDJuSDk5aXQyTV8yamhrUFp0c0tfWEFISzNTTkdZZmpJRkxLZEJCeVBsR2RIdDlQU2VQaGFDaVhFZTRaUzcxanRWTnNLOWNyR0tmdDhkVHBLVC1fMUJxNzV2ZmV6RDY3VzctT2VPWmNmVXBzVzRDZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-06-26-020",
+    "date": "2026-06-26",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of Illinois Tool Works Inc. – GETTEX:ILT - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWY3S0J0MGptczF1YmxJMG4yVms4eGV2MXd4UXExdkZ0b1MxbEloVUZXcVREWUtnOU5OT3pZNUIwVm4yT1RhLUJTUF9QQmhxUnVSd0FDNVFaYWtpYzRZSVA3WVB5TW5aaE5pcTNldX",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVWY3S0J0MGptczF1YmxJMG4yVms4eGV2MXd4UXExdkZ0b1MxbEloVUZXcVREWUtnOU5OT3pZNUIwVm4yT1RhLUJTUF9QQmhxUnVSd0FDNVFaYWtpYzRZSVA3WVB5TW5aaE5pcTNldXpvUXh3WGdSRC1WQ3hvN3BRVy1uanhWMTF6aFNDUFBjYzFTYnpodkZvazB5Sy0tQ1MxWlp2V2x6dWxGa1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-06-26-021",
+    "date": "2026-06-26",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why is Rep. Moskowitz Betting on Parker-Hannifin (PH) - Kavout | AI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ0pCOHZUdDJpb2RGZmZiR3RvdzdPMzFPRnZjZ2dmcDlVRnhHVk5lVVIxSTZyWTZGWVZHbkpzYkZzV0hyNDNoV1ZwS0JTNjJ4anVSWm5WVEYwYVdIU0U4WEQ2N0JvYUFtRmFxU2R6X0",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ0pCOHZUdDJpb2RGZmZiR3RvdzdPMzFPRnZjZ2dmcDlVRnhHVk5lVVIxSTZyWTZGWVZHbkpzYkZzV0hyNDNoV1ZwS0JTNjJ4anVSWm5WVEYwYVdIU0U4WEQ2N0JvYUFtRmFxU2R6X0pXTVBLQ0ZIVG9CX0tyZ0JOQ1RlUXZQbXc0bWxtU1V3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-26-022",
+    "date": "2026-06-26",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nasdaq Rises. Caterpillar and Goldman Are Dragging on the Dow. - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNUw5T2ZHR1NKVGVqNUlYN3MzdHU1ODc3RjJ1OTBjSWIyZWY2anYtZUZWcXdqNGQxdjR5ejVOSVRSRjQtanU0RGpkZGNKaFVDdlpLOHhwMlMySDdSTHhvSkhsRXA4NVVWZFpSQTc0V3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNUw5T2ZHR1NKVGVqNUlYN3MzdHU1ODc3RjJ1OTBjSWIyZWY2anYtZUZWcXdqNGQxdjR5ejVOSVRSRjQtanU0RGpkZGNKaFVDdlpLOHhwMlMySDdSTHhvSkhsRXA4NVVWZFpSQTc0V3dibG85ZGc1NFo1dzJoNUVVWnZKTWZzYjdtNXRkUHd0aEdPTzNGdXVyZ3FuR2NoOWFiMW9sWG1raXJOOHg3Y2dlYk9JdXhFRXdfcWpTd1EteXRfLXo5cEk4OG9XWHgwRFlOOW9wNkRDbDdwS2hLb0M4dHNFOUphRWJQQWdN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-26-023",
+    "date": "2026-06-26",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Inside Caterpillar’s Digital Transformation With Microsoft Dynamics 365 - Built In",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNQnExWThwSFpyTE5oOUhuWWUwallZSmUtNHREYVd5c0luQmduSUlabTJySGdMX3NpX2ZmWGJJcjhvcHdmUGhCVDlTZEJZVnhpSVhMMEhfOEV1SUczYlFfWk5ELU03VmI2ZmItX3JSVn",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQnExWThwSFpyTE5oOUhuWWUwallZSmUtNHREYVd5c0luQmduSUlabTJySGdMX3NpX2ZmWGJJcjhvcHdmUGhCVDlTZEJZVnhpSVhMMEhfOEV1SUczYlFfWk5ELU03VmI2ZmItX3JSVnRpQ3J2Z3E0SE95d0x3TmZlVXBYSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-26-024",
+    "date": "2026-06-26",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How CAT Stock Doubles Again To Reach $2,000 - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNVF9tZlBFNlRDZGwyQy1BRmhqNGdqM3c0V284R3NuMGF0aVp3dm4tZ1ZqTG5ndWNjcGdKNkI5VjZVSk9mcGxBZkZvVjYtRzNTcVJTTzBIYmN3eEdHMHk3RmNEem1ZVGFkdXJmVW1kWW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVF9tZlBFNlRDZGwyQy1BRmhqNGdqM3c0V284R3NuMGF0aVp3dm4tZ1ZqTG5ndWNjcGdKNkI5VjZVSk9mcGxBZkZvVjYtRzNTcVJTTzBIYmN3eEdHMHk3RmNEem1ZVGFkdXJmVW1kWWhfYndDYUVLdjBCMkpJRi1YNVBNZ0pGVjJHbjNKQmd6NHZCTlB3ZVozTl9Ednc2NjJ6cUVz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-26-025",
+    "date": "2026-06-26",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Inc (CAT) Stock Down 5.6% but Still Overvalued -- GF Score: 83/100 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOWmJKOW8zc0FKQ0c0Z0xXQ3JZUWxPdlZnUGtjTFdCUHBmUGlGUXVQcDdBNXpSVjI4cE9Td3dMRmJ5WTJXbnJDUDlRSlJUYkxadE1CSkpKQWpBRTNyZFZFeEI2dUI5LVE0WnI3MGZ3QU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWmJKOW8zc0FKQ0c0Z0xXQ3JZUWxPdlZnUGtjTFdCUHBmUGlGUXVQcDdBNXpSVjI4cE9Td3dMRmJ5WTJXbnJDUDlRSlJUYkxadE1CSkpKQWpBRTNyZFZFeEI2dUI5LVE0WnI3MGZ3QU5feGNsdkZTWWVYSVdiaklPVDBJeUpDWUpyQXFFMTc5R2NvWkxqbTB2Q0pvbGNuM2xSbTZZd2l3ZWhkSkZrS1JRQXlrbkVwajU3MHJlVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-026",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mouser Expands Industrial Automation Portfolio with New Manufacturer Additions to Support Next-Gen Systems - Robotics Tomorrow",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeHpVVWlfbEpmclJ5em82N2JjaTBKX3RZTTZqa3Z4eHZ2NzQ3dDlPZHpvNTh6QThXaDZGOUtwN2xoRUs0Sy1ubGpaNGVzTTNUQVRad1lIQ1F3LS15bUtKZEZxdTNTcnVCME0tUTdpOH",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeHpVVWlfbEpmclJ5em82N2JjaTBKX3RZTTZqa3Z4eHZ2NzQ3dDlPZHpvNTh6QThXaDZGOUtwN2xoRUs0Sy1ubGpaNGVzTTNUQVRad1lIQ1F3LS15bUtKZEZxdTNTcnVCME0tUTdpOHpUdnNCbWhEdl9MY3k4bkFhWXBQcThFWnVMS1FrbDM1Y29nVnYwWUo1ZG5pa2NTelR4VDFvT29UOHptbDdhLS1NUU02d1dnY01xbG4yblBLcGQxX0tNZlZyUjJ4YjdVSkVKX0ZYdzJvMmpWRjg3aGc5cFBrcks1VE1EX0VRSlBtYVc0Wmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-027",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Automation is Leaving the Factory Floor and Moving into the Back Office - Robotics & Automation News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXFDVjQ3TkpXV3A0dWFEeUFrZTNKcmcyUlJpY2pOWDRKZ3pDMF9IOUl5d25DQktyS3FlUHl4TkZGNGtrYlB1UHN3Wm9jaXhiSHF6RXRXejRqanZqSzEyMTJiOWtPbUJQTGo5SXYwWF",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXFDVjQ3TkpXV3A0dWFEeUFrZTNKcmcyUlJpY2pOWDRKZ3pDMF9IOUl5d25DQktyS3FlUHl4TkZGNGtrYlB1UHN3Wm9jaXhiSHF6RXRXejRqanZqSzEyMTJiOWtPbUJQTGo5SXYwWFNlNk0zSzJ0TERXQVIxQ3ZHTjNzVUpLWFBWMlBkVllXWTV3TllYMXE5UVQxUURhd0ZQS0tsRHFJQnhUc3ZiZmVYNGhhSTI1TmNfVlo0NUdlZFpMeUo1WTFZ?oc=5",
         "type": "rss"
       }
     ]
@@ -736,6 +1159,64 @@
     ]
   },
   {
+    "id": "unknown-2026-06-25-027",
+    "date": "2026-06-25",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "2049 Forecast — Price Target — Prediction for 2027 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE84MmtBUWl1b05rT2thcVp1Szh3NFpOWHhQeHdDRUV2UlNaSkNkRGwxaF9Da19wd0dCOWpUdkt3WmYybklyeW9kOHhZU21Ta2N0RUdjU0VCZWNRSTRvTTNjeDNpbEp1U01SU1lYbWtEYm",
+    "sources": [
+      {
+        "name": "hiwin",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84MmtBUWl1b05rT2thcVp1Szh3NFpOWHhQeHdDRUV2UlNaSkNkRGwxaF9Da19wd0dCOWpUdkt3WmYybklyeW9kOHhZU21Ta2N0RUdjU0VCZWNRSTRvTTNjeDNpbEp1U01SU1lYbWtEYmxnZkZCUllr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-25-028",
+    "date": "2026-06-25",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dow's 211-Point Rally Highlighted By Gains For Shares Of Caterpillar, UnitedHealth - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPNFBVd3hJR1FQejFJWWJrN3dqY0N6enloYk43bFI5MUlSeDFlZzNLck1lQWFOZmdnRlN3UXRsWjQ5cTRYSzdkVzlnUUlVdzdiMzVtSjdYejVfX1phV0E4eTVvbEd1ODgzb0pHaHpLMH",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNFBVd3hJR1FQejFJWWJrN3dqY0N6enloYk43bFI5MUlSeDFlZzNLck1lQWFOZmdnRlN3UXRsWjQ5cTRYSzdkVzlnUUlVdzdiMzVtSjdYejVfX1phV0E4eTVvbEd1ODgzb0pHaHpLMHdfRVRzdTM5SWxVckdZRi03ZmJyYmNBZjluSGRrWm5ZaUdHV1B6Y1JxQ2x3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-25-029",
+    "date": "2026-06-25",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Satake Corp. 130th Anniversary: Global Grain Processing Leader in 2026 - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDVZcmh1QThEVGd5RERKSk00Ry1GU3FDb2dlSi1DNGhZMUc1UEpnbi1IMmg5WHpaMWVPUjFDR0tNc0h2a2U2MnlmU1lzc3ZMeTRiMGFmZk5DVTlydkF6S2RqYTBENDBRR2pnYUtQeX",
+    "sources": [
+      {
+        "name": "google_news_machine_tools",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZDVZcmh1QThEVGd5RERKSk00Ry1GU3FDb2dlSi1DNGhZMUc1UEpnbi1IMmg5WHpaMWVPUjFDR0tNc0h2a2U2MnlmU1lzc3ZMeTRiMGFmZk5DVTlydkF6S2RqYTBENDBRR2pnYUtQeXpCSUJxUGRzcjN1Q0RkMDBhZWFfRjJubDd4d1FCWFBFaVlXMXp4NEw1czJRa20?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-24-001",
     "date": "2026-06-24",
     "companies": [],
@@ -1107,6 +1588,143 @@
     ]
   },
   {
+    "id": "unknown-2026-06-24-019",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "cnc_technology",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Electrical digital twins: Start small to turn power monitoring data into decisions",
+    "summary": "<p>Modern facilities generate more electrical data than ever before. Power meters, protective relays, smart breakers, and monitoring systems continuously produce information about how electrical infra",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/energy-management-energy-efficiency/2026/06/24/electrical-digital-twins-turning-data-into-decisions/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-020",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Your Electrical Enclosure Properly Mounted? Installation Decisions That Prevent Field Failures",
+    "summary": "<p>When electrical enclosures fail in the field, the root cause is not always inside the cabinet. Issues such as vibration, misalignment, or serving problems often originate from one simple decision: ",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/buildings/2026/06/24/is-your-electrical-enclosure-properly-mounted-installation-decisions-that-prevent-field-failures/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-021",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "From alarm overload to action: How AI is improving service performance today",
+    "summary": "<p>The challenge is no longer access to data Across industries, electrical systems are already more connected, instrumented, and increasingly supported by AI-powered services. Sensors, digital platfor",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/services/2026/06/24/from-alarm-overload-to-action-how-ai-is-improving-service-performance-today/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-022",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Advancing the Digital Energy Landscape Through Partnership‑Driven Innovation",
+    "summary": "<p>The energy landscape is undergoing a structural transformation. Electrification, digitalization, and AI are not only increasing energy demand, but they are also reshaping how energy systems are des",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/innovation/2026/06/24/advancing-digitized-energy-landscape-with-se-ventures/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-06-24-023",
+    "date": "2026-06-24",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin Corp. stock underperforms Wednesday when compared to competitors despite daily gains - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQzhFRmJWdTdNaTRvdi1Id2pDQ2c5RnA1Q1lkZHl6SWJWb3pZVW83dk04Yy1EZjVrY1BVMlBPdHFFbVdWZ1dtbDNEMW5ETzBpNVNROWVtdk0tanpUSEkzcnZ4UGdsSUpCVkt3Z3hFVG",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQzhFRmJWdTdNaTRvdi1Id2pDQ2c5RnA1Q1lkZHl6SWJWb3pZVW83dk04Yy1EZjVrY1BVMlBPdHFFbVdWZ1dtbDNEMW5ETzBpNVNROWVtdk0tanpUSEkzcnZ4UGdsSUpCVkt3Z3hFVG1vLUtNMDlGeDRyUU5LSGVEMkVHM0JDMEp2YkFwV1JBMlFxelRua3ZnOHhXUjhkRHByWXpjTjVScGtMSjBmVkp3b0FleFZ5LXM4ajJnZE8wNms5RldKT0lJRlJlc1JrUXBoTlpRbjNJT0pqVGtzSUFWZ2FFRTVkRlo0WUdyMU13d0dJazEwVkNzZW5GMFlNY05RUEluUDlLeXY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-06-24-024",
+    "date": "2026-06-24",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Has Caterpillar Stock Soared 184% in the Last 12 Months? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQM242SGxWQzBQMFJPb0UxZ0VvWGcwTllZYndYeGEta2Q0Q3JvYlExLW55X2RQNHZHS0ZNUUJHNjhsRVVTNmlGalQ5d1g5MGJHWFEwZ1dOUXNRWHlSNUpjbW9WWlRadExZZ1cxejZRSl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM242SGxWQzBQMFJPb0UxZ0VvWGcwTllZYndYeGEta2Q0Q3JvYlExLW55X2RQNHZHS0ZNUUJHNjhsRVVTNmlGalQ5d1g5MGJHWFEwZ1dOUXNRWHlSNUpjbW9WWlRadExZZ1cxejZRSlA5bzdXLTMzZDlLc0JfT2N6YU5mYmwzMnNKNDlJdnZiOTdGaXAybmNXSVRuRnhpQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-025",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SEER Robotics Factory Transformation Series - Part 3: Automation's Hardest Part - Forkliftaction",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdDRRRTU4WXhaOW9SM1hTdk5vYWtwaGJaOTR1YzlYNmhHR19vcFdXZ19QeXIzZDNqRTVUazBqVkxVbXFaaEg1S0I5S0pFaG9OMmo3cXVOcmdyNVlsaGhKQWEybGV4RUFMV3BFc0hUNW",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdDRRRTU4WXhaOW9SM1hTdk5vYWtwaGJaOTR1YzlYNmhHR19vcFdXZ19QeXIzZDNqRTVUazBqVkxVbXFaaEg1S0I5S0pFaG9OMmo3cXVOcmdyNVlsaGhKQWEybGV4RUFMV3BFc0hUNWxQazNaSGtyR3JncnVJcU41M19ieldJQ2JJdjJlLXNRRjZzSkt3SVpiOVZMbDdOY2FDQ09yWVdmRG1JcXZXRHJ4aVRCeU56U1VhdGRwLW12aGlwUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mitsubishi_electric-2026-06-23-001",
     "date": "2026-06-23",
     "companies": [
@@ -1464,6 +2082,25 @@
       {
         "name": "itw",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdFhzNFl5SEhDaFVDTjRhUUVtMlBXVjE3dEh4SVA0ejJxM3NRSEctdFNpSkZneW9DMzRrejRlVWJRbHlVbjg0cjd1d2JXOWxpUTZDdnJyQ0tWQ0xMOGpxVU5yV2hxOFI3SUhhOUlLaDRrZmhUNGJvMWtBRlE2b3FXeUpPTWNmZHRWOWFKSGpzMHBWVXR3cDdmRjdLSzMtbXpXZlVKVm9TUlUtMjA0Zm40Y2hKSUJTM2JMc1JMWV91ak16SWs5a0x3TWhhX1ltaEp6SHFmaHNJRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-019",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Rise of DC: Why the Future of Electrical Distribution Requires Action Now",
+    "summary": "<p>As AI infrastructure scales at an unprecedented pace, power distribution is no longer a background system — it is becoming a defining constraint. The question organizations now face is not if elect",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/innovation/2026/06/23/the-rise-of-dc-why-the-future-of-electrical-distribution-requires-action-now/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
         "type": "rss"
       }
     ]
@@ -2160,6 +2797,42 @@
       {
         "name": "itw",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3R1RkQwVHE1MDhyb19pX3dlMmxpeHlBaWVTSmRUWnB1eERqVXVacllLWS1zV25COE5xUWtsb3dzQV82SllCME41ZjNxMlQ4Qlg3MU1GOTB2T3R1ODVRMGdaSUNfWERpVkRhU1Bkek5DZDh6UEdlaFRIenFHZEFEVU9LakJCUU4xSUJfTjk5enBKUlFSNU9DSG1RdUkwbHVtaG1hTm1XQjVOZ1F2WnVjTkpyMFNmLVBhZENTRWNyZTBsc0JvWFRGR1ZuODVOeXFBZWlnazVn0gHbAUFVX3lxTE00ejhKMGF2Sm1KckFJaWZTV3BkNU9SQTIzMDZWSm5BLUZaaE9sSWtWNlBrck1oOFNoM2pReFlyRjc3aXdyRlF1U1l4Q29wd2Z2TFNEOFhaenNxUmNrNC1fRTVqUkNFUVFZdHpZSkQwRFhWaVdoUmduckFHSHVTZEhLWnQwRlJMeGRJOVNvSjc5RkJMQVlKR3NDNXFFbmQwT2NDemxWa1A3RUFLUXQ5TXlHWGt1ZVpTb0pLcmJOUEwwSVZsTWxOUlBjeGZNYkNOMnU2c1MzNUV0aUpHdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-06-22-035",
+    "date": "2026-06-22",
+    "companies": [
+      "abb"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Automate 2026 Day-by-Day: Kawasaki 8-DOF Premiere, ABB Physical AI Launch, Humanoid Forum - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWmMtNGlPSm1COXZHTnVrelpVQS1nem5tWWVVRUJNYmJoYXpqTnplVHpJQ0FLeC10RnByMnF4WURjM0RGM2tYalUxZ1hJaDVQT0xiSTNyT1V5ZC02dG5tRHhDdzItc0hxeFViT0ZkU1",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWmMtNGlPSm1COXZHTnVrelpVQS1nem5tWWVVRUJNYmJoYXpqTnplVHpJQ0FLeC10RnByMnF4WURjM0RGM2tYalUxZ1hJaDVQT0xiSTNyT1V5ZC02dG5tRHhDdzItc0hxeFViT0ZkU1BmNVdDWkJzc19xMjZRZ19lMXFGcVd2bnh5R193Qk9CSnhiSWk5cGZ3VFlDUE11QkpCdWJsTFdzNkxlSk9uNTMzNHl1bnJOZkdkUkg3VXczRExXcDMzUmotcnl4dTExMnlxZTlINw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-036",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Scaling AI faster with prefabricated AI pods, not headcount",
+    "summary": "<p>One of the biggest obstacles to building AI data centers involves people. While AI is often feared as a replacement for workers, the technology requires significant human effort to deploy. The prob",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/datacenter/2026/06/22/scaling-ai-faster-prefabricated-ai-pods-not-headcount/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
         "type": "rss"
       }
     ]
