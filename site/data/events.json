@@ -630,6 +630,25 @@
     ]
   },
   {
+    "id": "unknown-2026-06-26-028",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "reshoring_supply_chain",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why offsite management matters more than ever for refineries",
+    "summary": "<p>In recent months, risks that once felt distant have been translated into immediate operational challenges for the energy sector. Disruptions affecting critical points in the global energy system hi",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/industry/2026/06/26/why-offsite-management-matters-more-than-ever-for-refineries/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-06-25-001",
     "date": "2026-06-25",
     "companies": [
@@ -1217,6 +1236,25 @@
     ]
   },
   {
+    "id": "unknown-2026-06-25-030",
+    "date": "2026-06-25",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Modernization without disruption: The new mandate for utilities facing an aging grid",
+    "summary": "<p>Across the world, feeders, substations, and transformers are&#160;operating&#160;far beyond their intended lifespan. Many were never designed to support today’s levels of electrification, renewable",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/energy-management-energy-efficiency/2026/06/25/modernization-without-disruption-the-new-mandate-for-utilities-facing-an-aging-grid/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-24-001",
     "date": "2026-06-24",
     "companies": [],
@@ -1725,6 +1763,43 @@
     ]
   },
   {
+    "id": "unknown-2026-06-24-026",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is your electrical enclosure properly mounted? Installation decisions that prevent field failures",
+    "summary": "<p>When electrical enclosures fail in the field, the root cause is not always inside the cabinet. Issues such as vibration, misalignment, or serving problems often originate from one simple decision: ",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/buildings/2026/06/24/is-your-electrical-enclosure-properly-mounted-installation-decisions-that-prevent-field-failures/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-027",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Advancing the digital energy landscape through partnership‑driven innovation",
+    "summary": "<p>The energy landscape is undergoing a structural transformation. Electrification, digitalization, and AI are not only increasing energy demand, but they are also reshaping how energy systems are des",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/innovation/2026/06/24/advancing-digitized-energy-landscape-with-se-ventures/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mitsubishi_electric-2026-06-23-001",
     "date": "2026-06-23",
     "companies": [
@@ -2097,6 +2172,25 @@
     "impact": "neutral",
     "title": "The Rise of DC: Why the Future of Electrical Distribution Requires Action Now",
     "summary": "<p>As AI infrastructure scales at an unprecedented pace, power distribution is no longer a background system — it is becoming a defining constraint. The question organizations now face is not if elect",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/innovation/2026/06/23/the-rise-of-dc-why-the-future-of-electrical-distribution-requires-action-now/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-020",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The rise of DC: Why the future of electrical distribution requires action now",
+    "summary": "<p>As AI infrastructure scales at an unprecedented pace, power distribution is no longer a background system—it is becoming a defining constraint. The question organizations now face is not if electri",
     "sources": [
       {
         "name": "schneider",
