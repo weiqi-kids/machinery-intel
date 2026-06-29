@@ -1,0 +1,16 @@
+{
+  "total_raw": 388,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 0,
+  "gate2_fail": 7,
+  "passed": 34,
+  "gate2_samples": [
+    "HIWIN Technologies Corp. Actuals & Estimates (OTC:HIWNF) - TradingView",
+    "Price to book forward of Delta Electronics (Thailand) Public Co. Ltd. – SET:DELTA - TradingView",
+    "China restricts exports to Mitsubishi, Hitachi, Komatsu units - Nikkei Asia",
+    "Price to sales forward of Mitsubishi Electric Corp. – TSE:6503 - TradingView",
+    "Okuma (TSE:6103) Gains Valuation Attention, Is The Upside Already Priced In? - simplywall.st"
+  ]
+}
