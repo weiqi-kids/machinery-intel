@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T12:25:20.690295Z",
+  "updated_at": "2026-06-30T10:50:25.324429Z",
   "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -195,15 +195,15 @@
       "ticker": "6861.T",
       "currency": "JPY",
       "ar": 379590000000,
-      "ar_prev": 296014000000,
-      "ar_qoq": "+28%",
-      "ar_period": "QoQ",
+      "ar_prev": 320312000000,
+      "ar_qoq": "+19%",
+      "ar_period": "YoY",
       "inventory": 85273000000,
-      "inv_prev": 77406000000,
-      "inv_qoq": "+10%",
-      "inv_period": "QoQ",
+      "inv_prev": 77892000000,
+      "inv_qoq": "+9%",
+      "inv_period": "YoY",
       "inventory_applicable": true,
-      "alert": true,
+      "alert": false,
       "quarter_date": "2026-03-31"
     },
     {
@@ -314,8 +314,8 @@
       "ticker": "SU.PA",
       "currency": "EUR",
       "ar": 7221000000,
-      "ar_prev": 7280000000,
-      "ar_qoq": "-1%",
+      "ar_prev": 8985000000,
+      "ar_qoq": "-20%",
       "ar_period": "QoQ",
       "inventory": 5368000000,
       "inv_prev": 5866000000,

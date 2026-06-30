@@ -1,0 +1,234 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T10:50:29.216155Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "airtac-2026-06-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Enterprise value to revenue forward of Airtac International Group – TWSE:1590 - TradingView",
+      "companies": [
+        "airtac"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbEVRaHFXZjF5dVZZdVdwVU9tbldyOUd2LTIzRkx3cC16VUppVm45SC0zU1VxZUpwWFcyU1prUXgtRkRNM2F4MnU4TlJtdVo3WGxRbURfQzhZVHlDSHIzRGxBRDlaTDdQV2R2Z2tvOVBSVDFWTG8teXpSejh0Vm1VYVctMTNDUTdRa0lDWU02U1psUUZpcFJodG5kS3FOMzZocTI4aUp4cmw5Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "abb-2026-06-30-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABB, earnings calendar and analyst focus ahead of next results - AD HOC NEWS",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQWt4UVdlX3l1UjFTYWxsSnJrRXA4TlZkSjN1YXVsTjZ3d0xBaG5xRGgxcDBhM3ozQW5WMzN2UHBuWUVZUEQ5Mkhqb3BjS2Q1bXdrcExVYkd2ZGJDS3FTUXNDbnRmYXRvamJvVEQ5OTFJb2xhVEwyYUJPVmhKNkVjekRaZDE1YW1hN1hHMmViU0E2THJhMkFFd19CZjhPRVExazZSTWxxeGNOak91bU93ZFJsbUlBZWMwbGd5SA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-30-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Advanced System for Simultaneous, Long-duration, Multi-point Plasma Measurement Developed in Japan - Business Wire",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbmpHOC1kYVk1cVcxQlIzZkE3THBuekhFZ3lqVDZ1cWVRZlgzLVo5QjRDcmxyU3oxQVNpcU15dVpZQlEtMFA4UnQ1dW9yekpteVBJamYxQ3dFUF85SndmTkkta21HUk9LMkZCRTFVWVl4WllGVWRndEVKd2l6dHNYcHV6VVVTWnBnTnVOUC1hc0lZMGFycGFWeXVUMU5WNkpseXNtNmV5RzNzUkFfa1NUV09SbUVkTEhEc2tFelBCRWxybUltSVItMTVONndHbk5YUzhXNWJ3TjR5c2pMaXdlQ1ZpQ1daV1Vm?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-06-30-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric partners with JICA and Hankyu on Manila Rail Energy Project - MSN",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNQWN4OFZMcWh4TVhaUWZGWWpYNk9MMmRaYkpqOS01ZjBEOXhJR3hpX1NCTnVfaXNJTWJjWS0yN0wtNko1Zm05Ui1UV3lsbWNXRkRwZ3hNWGprdXNfcGpRd29iVG5rY0Z1V3ZPaHdsQ2NzNkxvaWNuLVpfVnpkYXRJeGVWWG9JenEzZFI0TUFjTDBTQ2RGZ0Z4LV9OSEg0SFYyT3F2OXgwS0pnMy04d1EtNXVPbnM0VFpJNm9ZeVdYZXZBSDF1MDlrOGx2Z3Z6M0JfSFdNTDR1YkFBNjFWdFZnZTdDLXNhMVN2WkowWmJNQnFBaHlDQ3ZpVURQS2I5d2x3NmNEdWhWaHFNR0hpSm1HYS00NHU2aFVyc2ZwUjR5eGtDaFpHQldtcktDbVZNd19vQnZpUFpockdwMkV6b05UUHVrSVl5aWZhcW5wOV96U0JJOEhDRkc5TkRlYm0yTEE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-30-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "- Cyprus Shipping News - Cyprus Shipping News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObi1nLTBLUXB0VkNFXzBxLXdXTFZvRUFoVVpmZ0V4azlwRVF3LWo4VFk5Rm5QN05aQjJKdEYtWWJ5M0pFYzdCWTRSSmlsLW56UXpJaXRaeVdrVE9rLVI4VF9mOWd5dHp1S3BucEtxOHNTdTBpQWRSWXZSMER2dEtjWkdDR2dUbDZvQmotbFlWbXVBMnZuS1duVE16Z2FkNEhWYTlsbzhOVGt5cmJxelFleFJzQ3lTN2RQenNxOEMtQ05jS1JPNzZwM3RQcm5EVFZWZ1hHekpUZlBLYVhRNkd5NXRtN1BNY0JZZjVxb2FEVG81dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "airtac",
+        "count": 1
+      },
+      {
+        "id": "abb",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      },
+      {
+        "id": "itw",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "automation_capex",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 387,
+    "dup_title": 232,
+    "too_old": 120,
+    "gate1_blocked": 0,
+    "gate2_blocked": 9,
+    "passed": 26,
+    "pass_rate": "16.8%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "HIWIN Technologies Corp. Actuals & Estimates (OTC:HIWNF) - TradingView",
+      "Delta Electronics Surges Nearly 9% After 30% Plunge as 510,000 Shareholders Buy the Dip - BigGo Fina",
+      "Enterprise value to EBIT forward of Mitsubishi Electric Corp. – TSE:6503 - TradingView",
+      "China restricts exports to Mitsubishi, Hitachi, Komatsu units - Nikkei Asia",
+      "Okuma (TSE:6103) Gains Valuation Attention, Is The Upside Already Priced In? - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為AirTAC International、ABB、Mitsubishi Electric相關動態：「Enterprise value to revenue forward of Airtac Internation...」。主要關注主題為產業通用、財報、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Enterprise value to revenue forward of Airtac International Group – TWSE:1590...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "ABB, earnings calendar and analyst focus ahead of next results - AD HOC NEWS（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
