@@ -1,0 +1,16 @@
+{
+  "total_raw": 387,
+  "dup_title": 225,
+  "no_date": 0,
+  "too_old": 122,
+  "gate1_fail": 1,
+  "gate2_fail": 9,
+  "passed": 30,
+  "gate2_samples": [
+    "HIWIN Technologies Corp. Actuals & Estimates (OTC:HIWNF) - TradingView",
+    "How the home of 2030 will learn from you",
+    "Belonging starts with being yourself",
+    "China restricts exports to Mitsubishi, Hitachi, Komatsu units - Nikkei Asia",
+    "Okuma (TSE:6103) Gains Valuation Attention, Is The Upside Already Priced In? - simplywall.st"
+  ]
+}
