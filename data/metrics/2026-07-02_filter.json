@@ -1,0 +1,16 @@
+{
+  "total_raw": 386,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 125,
+  "gate1_fail": 1,
+  "gate2_fail": 9,
+  "passed": 27,
+  "gate2_samples": [
+    "HIWIN Technologies Corp. Actuals & Estimates (OTC:HIWNF) - TradingView",
+    "Delta Electronics Surges Nearly 9% After 30% Plunge as 510,000 Shareholders Buy the Dip - finance.bi",
+    "How the home of 2030 will learn from you",
+    "Belonging starts with being yourself",
+    "Mitsubishi Electric Wholly Acquires Infostellar to Expand Ground Station Services for Satellite Oper"
+  ]
+}

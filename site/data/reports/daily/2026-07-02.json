@@ -1,0 +1,243 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:30:37.080727Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "airtac-2026-07-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Airtac International Group June Revenue +44.88% Y/Y At T$3.9 Billion - TradingView",
+      "companies": [
+        "airtac"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX2NBNG5tWTRFODZYX3BfcThYak5iZ0UwVDllTXdKcW0wWjdpS1U0LU11UUJuWG5fYWNiWS16SkZFa0RReDhzaVFjajJFYzZHaEljM2hSS3lwQVRaSFk3Q0p3clh4X1diLVMzS3MxbFl1ZkZPNFhId2ZHVVNCQzhfT2RwRl9RWlFUZU9tUDBFX1c3M2gwRmtSWFdCekRZMlEyRHhsdkE2WlRuWEdSVUNwc1ZGZkhHS3h5Z1ZqNG16Y0hSaklTTDU1WGwzY1dSMmZmRFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-07-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Thailand Advances Sustainable Growth Through Integrated Energy Solutions at Asia Sustainable Energy Week 2026 - PR Newswire APAC - PR Newswire Asia",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdC0tX1Bad1pFT210SXVyRVQ2LVZUV2NmZ3laR0paVFByb1ZKMEpfajFfcEdOenpDV3J4aUszQWRxcEhPLVhjdTgzTTdvTTBPMEZrSElHenN5UEltV0VNVGR3U3kwMmc4UHJPM1l2dWdRQ19QVEVhYlBRMm1FSkIxLXFWTGU4SjE1XzNBMmxxeDkzR3dnY2ZSR1pXV1lZMGxUaEQ5WUVRLW80U3JMYkpDalNjZHRLUzVzQl8xR1hyZmEwMC1GaU9fM3k3N0R6eEc1Vy0tWWR4TzNmQVVBN2hwVFRNdE9MZXhrTzJ2bjdYdXBNQlBBSVhETA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-07-02-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin highlights motion control strength as diversified demand supports growth - AD HOC NEWS",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZTRpYVZVNnk4QnBnVF9PeWRvNnVjeHdXdU9YOHJkN1RvbkYzTlVUcGRYWS1GaTNwNTVlckdwUmJKaEdLQm9Xd1dwZU8wWC1tdzFKRlZNNXh2dmtCVlhTb0FCMEs4MWphV2pmd1lFY0tGNEFqTnNHby1lNXJqRHEwVTIzQjJKTl9VT0c3YWt2TzRKT1dvVGVsNk1mQkpCQzVNRWNKNjAzWFV3cWxvUk52NG85NDZoQ2tvSnczcmRIQmtWNlFzdldVdW96QQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-07-02-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar (CAT) Faces A Valuation Test On Burry’s Short And Russell Top 50 Entry - simplywall.st",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPXzlOZ3l0OEVWa2NVVlB2WUJqZmNpMjJaRnpKWGpvaklJclJZU1A2MTNCblBVZkllMlljTU9iNURIcWNqRzUzMGVlWDNyQ1FPcV91ZWxFUDBQRXBSQk9HU2lGdXBoaGNRNnhsNlBDN3VnN1hmOFNkM1FtTV9IdzNJejYxOExvU09sNVliaHdkaUgyaThIQk5XTVMtdi1QbmVQRWJSbUE2LUw1aWI2b19oMU9JZjNTdFNaNDRTT1NBV2lkOXBnSGhsRi0xN1nSAdIBQVVfeXFMTm1ZQ29YWlRBLXQ0Qi1GUEhBdnE2WkJWMHdWcnJmSy1idE9naFZTUFBraUVNbGlKdF9qbmtGeHMxMXJNdTJDcTdCLUpNNW5IYXhqX2hpQXJjcGFtcnp3enM3Mmg1U2VPX3hyelVRVnpqT2RHYXJ1SWlHTThjcllXZUtDejhIcGJLc2txMWdndGtNaW9taHNHLVY3b1I2eGxOdGJ2ZzBfZG5EdW5CTDE0bURENmEwQjRMeUVReS1BNWEzQ2g0YkNxMzdFeGFVVEJqUU9B?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-07-02-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "KNBN-7 00 PM - 8 00 PM-New Caterpillar BLDG-2026-06-30 - InForum",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OYUZhWDBrRFZHZ0lqUVVYT2dYLW1yaTJlcGgxMzNuQ3hjeDBEZW1rVVIyQXNaZ0kxM3g3MGtQYV9vTDR6cjB3TjM3clRPR0U?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "airtac",
+        "count": 1
+      },
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "abb",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "automation_capex",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 386,
+    "dup_title": 224,
+    "too_old": 125,
+    "gate1_blocked": 1,
+    "gate2_blocked": 9,
+    "passed": 27,
+    "pass_rate": "16.7%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "HIWIN Technologies Corp. Actuals & Estimates (OTC:HIWNF) - TradingView",
+      "Delta Electronics Surges Nearly 9% After 30% Plunge as 510,000 Shareholders Buy the Dip - finance.bi",
+      "How the home of 2030 will learn from you",
+      "Belonging starts with being yourself",
+      "Mitsubishi Electric Wholly Acquires Infostellar to Expand Ground Station Services for Satellite Oper"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為CAT、AirTAC International、Delta Electronics相關動態：「Airtac International Group June Revenue +44.88% Y/Y At T$...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Airtac International Group June Revenue +44.88% Y/Y At T$3.9 Billion - Tradin...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Delta Thailand Advances Sustainable Growth Through Integrated Energy Solution...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
