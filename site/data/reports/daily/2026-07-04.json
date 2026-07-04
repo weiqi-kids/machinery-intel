@@ -1,0 +1,137 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T10:01:27.715552Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "parker_hannifin-2026-07-04-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin Corporation $PH Shares Sold by Moran Wealth Management LLC - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcktXS0gtWU5XMzQ2NU1rNW9kd3c0ekhRMmZSMF9ZdkFxMXhhNC1jV1ZJdW01TnB5VzhsQXF4Z3VJM0QzMU44c2ExMWJ4SXNzWDJodThZZG5VRE9PWHlJTFBuMVNrcU5HWk5jZjBHa29nZGViQ0d2UTlHVlpGNmVSWHB3Vmx0ZUtrSGVuQktmV08tV1NCQXBfQ3k1T1prRy1SbVVUMkdvTDJBZDN4ZEM1RzNSOXNqY2hpR3JUa3ROd3RCLTM3Qjh1b1lwbXl6ZGs?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itw-2026-07-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Illinois Tool Works steady as investors weigh the industrial cycle. - Ad-hoc-news.de",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORTNhbVJkR3RBSVVDLUxtd0VVZ0dlT3pRX1RBNGsxQnZQU1FYQXFGWnkxN0FfVTFjYUlQbW5LbDR0c1VHYlF5am5yRWhSMEFQY21HZTBZS05VcENldjJpZThJQW51Q0NndmNRV3EwRXBXSWtCRlNzblRvUm5kMDY3QUJ6ZXlyZnlTMWlHUzRwb2RxR2RmNUc5S3YzNEtOYW5VZDlCLXE4b3R1MHZqWFFrTHNOUlE3N180QUdPOTRBN3FpSE0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "itw",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 386,
+    "dup_title": 217,
+    "too_old": 134,
+    "gate1_blocked": 2,
+    "gate2_blocked": 14,
+    "passed": 19,
+    "pass_rate": "11.2%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "HIWIN Technologies Corp. Actuals & Estimates (OTC:HIWNF) - TradingView",
+      "Delta Electronics Surges Nearly 9% After 30% Plunge as 510,000 Shareholders Buy the Dip - finance.bi",
+      "How the home of 2030 will learn from you",
+      "Belonging starts with being yourself",
+      "Mitsubishi Electric acquires satellite ground station firm Infostellar - Data Center Dynamics"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為ITW、Parker相關動態：「Parker-Hannifin Corporation $PH Shares Sold by Moran Weal...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Parker-Hannifin Corporation $PH Shares Sold by Moran Wealth Management LLC - ...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Illinois Tool Works steady as investors weigh the industrial cycle. - Ad-hoc-...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

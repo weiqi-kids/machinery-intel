@@ -6,9 +6,9 @@
     "history_complete": true
   },
   "thk": {
-    "earliest": "2004-06-23",
+    "earliest": "2004-03-25",
     "latest": "2026-07-03",
-    "count": 5447
+    "count": 5511
   },
   "airtac": {
     "earliest": "2010-12-13",
@@ -17,74 +17,74 @@
     "history_complete": true
   },
   "keyence": {
-    "earliest": "2004-06-23",
+    "earliest": "2004-03-25",
     "latest": "2026-07-03",
-    "count": 5447
+    "count": 5511
   },
   "delta": {
-    "earliest": "2004-07-05",
+    "earliest": "2004-04-06",
     "latest": "2026-07-03",
-    "count": 5414
+    "count": 5478
   },
   "fanuc": {
-    "earliest": "2004-06-23",
+    "earliest": "2004-03-25",
     "latest": "2026-07-03",
-    "count": 5447
+    "count": 5511
   },
   "siemens": {
-    "earliest": "2004-06-17",
+    "earliest": "2004-03-19",
     "latest": "2026-07-03",
-    "count": 5609
+    "count": 5673
   },
   "abb": {
-    "earliest": "2004-06-17",
+    "earliest": "2004-03-19",
     "latest": "2026-07-03",
-    "count": 5562
+    "count": 5626
   },
   "rockwell": {
-    "earliest": "2004-06-21",
+    "earliest": "2004-03-23",
     "latest": "2026-07-02",
-    "count": 5544
+    "count": 5605
   },
   "schneider": {
-    "earliest": "2004-06-16",
+    "earliest": "2004-03-18",
     "latest": "2026-07-03",
-    "count": 5647
+    "count": 5711
   },
   "mitsubishi_electric": {
-    "earliest": "2004-06-23",
+    "earliest": "2004-03-25",
     "latest": "2026-07-03",
-    "count": 5447
+    "count": 5511
   },
   "dmg_mori": {
-    "earliest": "2004-06-23",
+    "earliest": "2004-03-25",
     "latest": "2026-07-03",
-    "count": 5447
+    "count": 5511
   },
   "okuma": {
-    "earliest": "2004-06-23",
+    "earliest": "2004-03-25",
     "latest": "2026-07-03",
-    "count": 5447
+    "count": 5511
   },
   "amada": {
-    "earliest": "2004-06-23",
+    "earliest": "2004-03-25",
     "latest": "2026-07-03",
-    "count": 5447
+    "count": 5511
   },
   "makino": {
-    "earliest": "2004-06-23",
+    "earliest": "2004-03-25",
     "latest": "2026-07-03",
-    "count": 5447
+    "count": 5511
   },
   "jtekt": {
-    "earliest": "2004-06-23",
+    "earliest": "2004-03-25",
     "latest": "2026-07-03",
-    "count": 5447
+    "count": 5511
   },
   "tongtai": {
-    "earliest": "2004-07-05",
+    "earliest": "2004-04-06",
     "latest": "2026-07-03",
-    "count": 5414
+    "count": 5478
   },
   "goodway": {
     "earliest": "2008-01-24",
@@ -93,24 +93,24 @@
     "history_complete": true
   },
   "itw": {
-    "earliest": "2004-06-21",
+    "earliest": "2004-03-23",
     "latest": "2026-07-02",
-    "count": 5544
+    "count": 5605
   },
   "lincoln_electric": {
-    "earliest": "2004-06-21",
+    "earliest": "2004-03-23",
     "latest": "2026-07-02",
-    "count": 5544
+    "count": 5605
   },
   "parker_hannifin": {
-    "earliest": "2004-06-21",
+    "earliest": "2004-03-23",
     "latest": "2026-07-02",
-    "count": 5544
+    "count": 5605
   },
   "caterpillar": {
-    "earliest": "2004-06-21",
+    "earliest": "2004-03-23",
     "latest": "2026-07-02",
-    "count": 5544
+    "count": 5605
   },
   "etf_robo_etf": {
     "earliest": "2013-10-22",

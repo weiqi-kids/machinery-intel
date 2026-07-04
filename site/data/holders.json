@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T10:28:32.325175+00:00",
+  "updated_at": "2026-07-04T10:01:26.968892+00:00",
   "companies": {
     "hiwin": {
       "name": "上銀科技",
@@ -206,25 +206,25 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 56861,
           "pct_held": 0.01,
-          "value": 16063232
+          "value": 16154210
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 559,
           "pct_held": 0.0,
-          "value": 157917
+          "value": 158811
         },
         {
           "holder": "Strategic Investment Solutions, Inc. /il                          ",
           "shares": 11,
           "pct_held": 0.0,
-          "value": 3107
+          "value": 3125
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 14277,
           "pct_held": 0.0,
-          "value": 4033252
+          "value": 4056095
         }
       ]
     },
@@ -237,19 +237,19 @@
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 14345,
           "pct_held": 0.0,
-          "value": 1241416
+          "value": 1253466
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 42892,
           "pct_held": 0.0,
-          "value": 3711873
+          "value": 3747902
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 30800,
           "pct_held": 0.0,
-          "value": 2665432
+          "value": 2691303
         }
       ]
     },
@@ -329,25 +329,25 @@
           "holder": "Gamma Investing LLC",
           "shares": 202,
           "pct_held": 0.0,
-          "value": 56549
+          "value": 56580
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 28532,
           "pct_held": 0.0,
-          "value": 7987533
+          "value": 7991813
         },
         {
           "holder": "Albert D Mason Inc",
           "shares": 9476,
           "pct_held": 0.0,
-          "value": 2652806
+          "value": 2654227
         },
         {
           "holder": "Pacer Advisors, Inc.",
           "shares": 10625,
           "pct_held": 0.0,
-          "value": 2974468
+          "value": 2976062
         }
       ]
     },
@@ -516,7 +516,7 @@
           "value": 1014846000
         },
         {
-          "holder": "iShares Trust-iShares Core MSCI Total International Stock ETF",
+          "holder": "Dimensional ETF Trust-Dimensional International Small Cap Value ETF",
           "shares": 43000,
           "pct_held": 0.17,
           "value": 659190000
