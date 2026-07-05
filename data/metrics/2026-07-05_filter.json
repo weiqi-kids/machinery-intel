@@ -1,0 +1,16 @@
+{
+  "total_raw": 387,
+  "dup_title": 216,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 2,
+  "gate2_fail": 14,
+  "passed": 26,
+  "gate2_samples": [
+    "HIWIN Technologies Corp. Actuals & Estimates (OTC:HIWNF) - TradingView",
+    "How the home of 2030 will learn from you",
+    "Belonging starts with being yourself",
+    "Mitsubishi Electric acquires satellite ground station firm Infostellar - Data Center Dynamics",
+    "Mitsubishi Electric Wholly Acquires Infostellar to Expand Ground Station Services for Satellite Oper"
+  ]
+}
