@@ -1,5 +1,245 @@
 [
   {
+    "id": "abb-2026-07-06-001",
+    "date": "2026-07-06",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB stock tracks its industrial base. Investors look to the Swiss automation group. - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeHAtSFBwbzdvcUlmc2lrZlNEUHZ3TDF6LVR6NDFwci1xd2RKdDk5b2tlTmhCek9ZQkZtcm9Xc0hQTWdkVE43RmdmZFhCWExJaFYwdEE4MTBkVWk2dTl2d2RDdUdtZW14dllkMmhzVF",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeHAtSFBwbzdvcUlmc2lrZlNEUHZ3TDF6LVR6NDFwci1xd2RKdDk5b2tlTmhCek9ZQkZtcm9Xc0hQTWdkVE43RmdmZFhCWExJaFYwdEE4MTBkVWk2dTl2d2RDdUdtZW14dllkMmhzVFVsOUhSOG4tQ0dTS2MtaG1MbGxOal8zR2JTU3R2LVFHSnRjVHZrYlV5RnlTeERRRUs3cWtBOHRqVDJtdkt5dHBIN2xqT1lIWnotRFROV2tKVzc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-07-06-002",
+    "date": "2026-07-06",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB outlines its role in electrification and automation. Investors look at the company’s long-term - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOOVR4SXJocHlBb2d2cENLRlNSRG5VUWJkTmpjUG1TanJCQ3F1b01EUkQ2b21sMEZtWEtQN2ZWblRfX3VyUXJMT2JfUHE4SndZaGh0eVhWeG9oR0JvNXVNSy1mX29rYm5seW5pbjg2Nk",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOVR4SXJocHlBb2d2cENLRlNSRG5VUWJkTmpjUG1TanJCQ3F1b01EUkQ2b21sMEZtWEtQN2ZWblRfX3VyUXJMT2JfUHE4SndZaGh0eVhWeG9oR0JvNXVNSy1mX29rYm5seW5pbjg2NkxNM0RJM3A1cEMtTDRob0RFMHJ4dVZmTTFIWVhHOTZhNWNYYlltTXlGaUhLbDhRdExKaWVNSXVrX0tmbC1PRUJKbDRBUzFCWlRYZktuUmgwQVpnbGNYTkdubU8tYVI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-07-06-003",
+    "date": "2026-07-06",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works balances industrial strength and steady cash flow - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPVnFKVG83ZzZtNl9vUW9Ka1dLbXl2UXhZbUNJM1lSRV9IbGNGNXRRbnhaM2p5Z1p3WTN3cTdpZ3JNUjExNm81VVM4Qlo1VHFPZ0FrYjNPRGV4blVwelkxb3lUYUJjdG1xbnhLSGM2dD",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVnFKVG83ZzZtNl9vUW9Ka1dLbXl2UXhZbUNJM1lSRV9IbGNGNXRRbnhaM2p5Z1p3WTN3cTdpZ3JNUjExNm81VVM4Qlo1VHFPZ0FrYjNPRGV4blVwelkxb3lUYUJjdG1xbnhLSGM2dDRPRDUwSHlGWGJTMTJmZzduMkdXMGJYWWFfT2RhcC1aWGt1RjA0Ym51NTRvbGlCdi1PYThMSU5hYXhPZjQ0ekEyc0xuTjJRczRHbFpOb2tPeDlVLWxGVWM4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-06-004",
+    "date": "2026-07-06",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Truist Raises its Price Target on Parker-Hannifin (PH) - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkduTlR3VjJVaThodnhWTG1GcTNyVmVHTndVLWJaYjliRGhUZEt6a2RteUtUT0h3RTVDSlgxQTZ1dnAxSGU0c0pTWlFsdDJLR0pIbE5GcnhpeGs0aFBRVzdJbVFFR1IxaGRsMEhaNW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkduTlR3VjJVaThodnhWTG1GcTNyVmVHTndVLWJaYjliRGhUZEt6a2RteUtUT0h3RTVDSlgxQTZ1dnAxSGU0c0pTWlFsdDJLR0pIbE5GcnhpeGs0aFBRVzdJbVFFR1IxaGRsMEhaNWpMLXJZVlNzMUtEMi1uZUZ0aGE5TkRxOWJuSU5BTHE0OWZZWWp5UWdCeDhod1hCWTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-06-005",
+    "date": "2026-07-06",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2 Reasons to Like PH (and 1 Not So Much) - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHhtM0hJb3RvTUNoNnFrZTBpc0k0TkhZVXJnMHh3YnBUZnZ0V0tMSWtNRmt6ckRwZHdOYlhrNHhzQW5oSzVNc2NvdnlGbTNrUU1qYVpyWExjal9JVkJGU2pyd3lpX053U3FzQ3VGVG",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSHhtM0hJb3RvTUNoNnFrZTBpc0k0TkhZVXJnMHh3YnBUZnZ0V0tMSWtNRmt6ckRwZHdOYlhrNHhzQW5oSzVNc2NvdnlGbTNrUU1qYVpyWExjal9JVkJGU2pyd3lpX053U3FzQ3VGVGwtY2RSZ3FMUDFNSFpjZnlEYk8xV25zTVNHRG1tUzJjZFVLZnJWbTVVSU1iVEo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-06-006",
+    "date": "2026-07-06",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Shares Acquired by Dividend Assets Capital LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZFlUX0N2WFdnZWtOVFlwUjQ2V3o3aGJjdGVLa1ZNSDZhWTRfXzg3V0luRGlaVUNnc1U2OVhKR2ptT1prRXlUa3FMU0ROTXZmSHdBSVVDanFVYUpRNGNYLVRJX0pDN3FLWWc1cS1KX1",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZFlUX0N2WFdnZWtOVFlwUjQ2V3o3aGJjdGVLa1ZNSDZhWTRfXzg3V0luRGlaVUNnc1U2OVhKR2ptT1prRXlUa3FMU0ROTXZmSHdBSVVDanFVYUpRNGNYLVRJX0pDN3FLWWc1cS1KX1k4VE5TQnJDMGhYSzJqdlo5NUZ5Mi1UaWFOMjg3Zno5dHpBbk5jUmkyMFlqOWp2SFZXcjBpbGRQYUJEMkJ6RmQwdGV6QkZORUN1SVdoX3NKNXZMUG9aeXBoUVpWSENqenJOUTVnZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-06-007",
+    "date": "2026-07-06",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Parker-Hannifin Corporation’s (PH) Motion-Control Layer Anchors Its Automation Exposure - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNelpRSmNxQjRWZDV1TlJXN1d0b29ZSkVqQTBSUzNjb1kyQlE2YXlLT29zcE9BYjlFWGx2YThDYnBSSGdRSmtyQUd4WTZJbFhDeUI2S2xXRGZBNnduMlp6dlNNZ1g5aHpkNG9LdUdXVW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNelpRSmNxQjRWZDV1TlJXN1d0b29ZSkVqQTBSUzNjb1kyQlE2YXlLT29zcE9BYjlFWGx2YThDYnBSSGdRSmtyQUd4WTZJbFhDeUI2S2xXRGZBNnduMlp6dlNNZ1g5aHpkNG9LdUdXVWpYQnU2TE9SVmNxajB2TjgzaWVyVVBmNm0xUFdCSGZJT1pEZndvaUFGeGZ5RzhhTDhnUUsza3RjOVg0ZEpRSmIybUlaSlp2Z3VaeFNsalZEQjZIeUQ3cjA5RUxlTEMtOUUxdHlsZtIB1AFBVV95cUxNelpRSmNxQjRWZDV1TlJXN1d0b29ZSkVqQTBSUzNjb1kyQlE2YXlLT29zcE9BYjlFWGx2YThDYnBSSGdRSmtyQUd4WTZJbFhDeUI2S2xXRGZBNnduMlp6dlNNZ1g5aHpkNG9LdUdXVWpYQnU2TE9SVmNxajB2TjgzaWVyVVBmNm0xUFdCSGZJT1pEZndvaUFGeGZ5RzhhTDhnUUsza3RjOVg0ZEpRSmIybUlaSlp2Z3VaeFNsalZEQjZIeUQ3cjA5RUxlTEMtOUUxdHlsZg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-06-008",
+    "date": "2026-07-06",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Parker-Hannifin Corporation’s (PH) Motion-Control Layer Anchors Its Automation Exposure - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSU5jN3FqZEFYZUdRNUdmQkNiWXN3aDdWQUxnVWdid3FCUXZ6QTBoQlV4NW9FcTJjOV9ZLXdYZEg3eDVWVUc1VzhhT1BFdHBPRXlNT1VHSjlCR2NGYzRUNUdJdmN0T0QyZkoyQjkyeW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSU5jN3FqZEFYZUdRNUdmQkNiWXN3aDdWQUxnVWdid3FCUXZ6QTBoQlV4NW9FcTJjOV9ZLXdYZEg3eDVWVUc1VzhhT1BFdHBPRXlNT1VHSjlCR2NGYzRUNUdJdmN0T0QyZkoyQjkyeWJ1eTZmT3BTZUp1RzlJU1FTTnZuV2ppY3NrRjlCRjJ1a1lwVG10M2d3Y3gtRUltVkVSVU80bA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-06-009",
+    "date": "2026-07-06",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker 3L Series proportional valves from Parker-Hannifin - compact control for tough hydraulic jobs - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWRoWTN2eWxfUUtKM1ZuLUctMFJ4eVAyYld2QlhXZ01JWng4U0V2UVYta29nNWthdmZBdXh4UmdydEVKSFpfTlNiak1oRjBiUWhOcUhVSzlJdGhSWjAxMER3aXctM3ZGWkRjakExZG",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWRoWTN2eWxfUUtKM1ZuLUctMFJ4eVAyYld2QlhXZ01JWng4U0V2UVYta29nNWthdmZBdXh4UmdydEVKSFpfTlNiak1oRjBiUWhOcUhVSzlJdGhSWjAxMER3aXctM3ZGWkRjakExZGM5WllzVGlOakdMR0NROVdUZWY4Yy1WdnFBeWFyT2k4U3FwR1JEdEo0bXZfLWJuekxYWmo0cHIyVm1qVnFHZWRYeHdhOWxQNXUtWWp5SnJIeVFfUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-06-010",
+    "date": "2026-07-06",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Launches $100 Million Texas Workforce Push For Advanced Manufacturing - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPa3JpZm9KY0FaQWNMbkIwRkljMVRackJ1Q3I3MWRIeDU0NkdpNU1tbnhZNXBZa09OWmJIbjM2N1RpRnZZbWt3UFZ1c2VIZmJPelVOS0lfZldqeDlSbjJkNXg1ZWRFR0NkeWN3RGUyYn",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa3JpZm9KY0FaQWNMbkIwRkljMVRackJ1Q3I3MWRIeDU0NkdpNU1tbnhZNXBZa09OWmJIbjM2N1RpRnZZbWt3UFZ1c2VIZmJPelVOS0lfZldqeDlSbjJkNXg1ZWRFR0NkeWN3RGUyYnJ2TExHQ2FWQ2U1TV9Tcm1QRGVGSGVsWHNSdXluWkRjUG1lODZFOEtEM0VnOW1FWERJVW1B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-06-011",
+    "date": "2026-07-06",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Irving-based Caterpillar Commits $5M to Texas Workforce Training - Dallas Innovates",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzBrdnFjMGpjb1BXRUNQYTV4R3hmSUsyd1dBU1l6Q3lVMnptaG05Z1p3RDBLWDE1N0hVMWprY3l1QzB5U3prYWVjNGJWNHRCSWdFdGUwNFZjNmZfOGx1ZTk0elQxanVTTktIYVdhck",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzBrdnFjMGpjb1BXRUNQYTV4R3hmSUsyd1dBU1l6Q3lVMnptaG05Z1p3RDBLWDE1N0hVMWprY3l1QzB5U3prYWVjNGJWNHRCSWdFdGUwNFZjNmZfOGx1ZTk0elQxanVTTktIYVdhck1QaE9raTZtSXQyREk5MjEtOU41RVd3ckFlTk9INjBJU0RfOF9kbHE4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-06-012",
+    "date": "2026-07-06",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "1993 Caterpillar 815B For Sale (88748351) from South Mountain Tractor [9155] in Tempe, AZ - Construction Equipment Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa195NGVhc0dXUmRyOE1EUEpMRkEya3VUZzFYYTNzVENCdlRJU2VzaVF4TVhZX1ZnOUppWHV5OU5TcGFLMFNGbzJXQVdZQ0picm1Kb1VhZ0drOUpaeTY1QmhNUVZRcVRfM2FlSmdjUk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa195NGVhc0dXUmRyOE1EUEpMRkEya3VUZzFYYTNzVENCdlRJU2VzaVF4TVhZX1ZnOUppWHV5OU5TcGFLMFNGbzJXQVdZQ0picm1Kb1VhZ0drOUpaeTY1QmhNUVZRcVRfM2FlSmdjUkUtSUk0dDVYS2U1MXZjY1UwNXJvVi1mc2thdUhocnRXNDd3bTEzZ19tdzA0a01tNGFCTXFJNWlHUld1dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "keyence-2026-07-05-001",
     "date": "2026-07-05",
     "companies": [
@@ -139,6 +379,64 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTUJJeXphelc2dFB2UDFPU0lVRFRGclNRSU5zWU1EcGRiZVkyQWNiamJYMExicWRiTDBnQXFEdUJBdFJZbzkzN0J4aVQxdjJpb2dPZ2luaHZMZURzT0N2TWpXelZWTGVjeGE0U0dZT1J5d2xKN0hQVVc5elY1YXRHVlJ5bUw1U1pJX01UUE9BQmxHRmhGdjJQaV9lTzJNNWlkQVZOalRITUhEMHJoMWltZkRRdFpqUXV3OGJJWU1uNGZOeGNmZk9TRnNpUlLSAdIBQVVfeXFMTTI3dDJkOXlDTXFPZlVPRlJWRnludkZweU1xSG1ILWk0OWxmajZ0SkJ6Z2FzU1ZfMnhWVkJjODlhQXZFZVd3WGtVTF95QkI0N05JYmRFQXVQT1dRamFtZ0lKR3psWHYyZVkzZDlpNko3RDhQZnZiekJSeFgwSWZWS3d0LUFfb0wxR1hrQjJ0SGFranVLX2RyZWx3M1FXcnI0QzZHRl9RZ185ZndHWlhOamhpWl92RU9QR2JhVTdxX24tejM0WFN0UVpDUkcwVUNMVlVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-05-008",
+    "date": "2026-07-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple Stock News Puts Consumer Electronics Shares In Focus For Premium Device Demand - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNSE1hM1dtY1hYYU9HRTBER0stWEFvV1RWTzBCanh6MWlaanJJVDJ6MXU3NHVzMG1DN3o5a3MwaVpuTXM4c3N6bi1mMy1kcDU5ZFgyR0tVX3VMYTdyWjBrNmJVb1FEY0FEWG1VY3dEdk",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSE1hM1dtY1hYYU9HRTBER0stWEFvV1RWTzBCanh6MWlaanJJVDJ6MXU3NHVzMG1DN3o5a3MwaVpuTXM4c3N6bi1mMy1kcDU5ZFgyR0tVX3VMYTdyWjBrNmJVb1FEY0FEWG1VY3dEdkR0OHdwTDIxY2lLZ2FsSWZpbFVfWUxwVENiVGNoem5GZktLMGdNMklQUjdoOXpqVmF6SGd3djJOOVpDOFRZbFdOSnM4SWItbDlXdjBZcTRocEZ0MXZsUlIySnVJMDMzMWvSAdQBQVVfeXFMT2tsSkpjcnhNeG1uVkpGN0ZYWnBUZ2ZzUjhLREVKRFNwOGVyejM3VXJYSFlyUGFUU3JPblB4VFlNdVB2U0VFcktnVmd3dHVaYlVBVl9QalU4dHJ6Nk9DSm9qa29ZWDZxOFpkanVRV2RBNUNaR0JDUjBrRGJ5YW92ZDNmNkM5enA1MlQtUUhXcU5GZk9vb1dxanZlYkhNUVZCckltYS1BT00wVTFwbEFsb21rcm9oNEVYblVoZ3lvZS0tT2tqR05oX0tIbzhmVGRMbjNwNFg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-05-009",
+    "date": "2026-07-05",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UK SEP policy setback; Caterpillar v Bobcat patent wars; Google combination trade secret case; AI at patent offices; IPBC Global photo highlights; plus much more - IAM Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxQSm4yR05QbGlOVXpDN3g1em0xM0hoZkhFY1BzeVdfWWxnZHdlMW16SDhjdjU0WFlzSTdVUlB0cEVfTU1zZmRSMS0ycUtBMklWYlZabUxSZFpsUkFFWkx1X0FFMmxMZTBxRHBjYjBTYW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQSm4yR05QbGlOVXpDN3g1em0xM0hoZkhFY1BzeVdfWWxnZHdlMW16SDhjdjU0WFlzSTdVUlB0cEVfTU1zZmRSMS0ycUtBMklWYlZabUxSZFpsUkFFWkx1X0FFMmxMZTBxRHBjYjBTYWVPQTVwT1hqLWJEbml6dDduNi1fZUJrZW4tS0gxcUItVWdsX3pKOXVwRXNwZS1tWHlNMFdwU1pkTXhVbTlfWlpVd1NGRG1Pb1F1bWp1SV94NjZvM1pwMk9XaXFjTV9xXzZFdjFzRXloZ2w2a3hrZm1LUUNHQlBuZ0wxWTJEaFVWVTZJa284cEhYbnVBVmtTNmVqNU9kUGl2RTBja1lqcGV4RDZGR25ORTFfVEE5R3drUUo1MXVYUGFWRGpDUUw3UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-05-010",
+    "date": "2026-07-05",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Indústrias Romi builds on manufacturing strength as investors eye long-term demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVFZlQ3ZmbF96dWRHcnZQOTNsRmtKaWlfbjdiU3BGaHAwaHhwSDRET0xoMjViUElWRzc1VVZmSGV5dTczY3VNcFBGaDJUN24tazZqQVVUWF8xVFZMci1OQmZ4NGN1enRYekdfX0VxcH",
+    "sources": [
+      {
+        "name": "google_news_machine_tools",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVFZlQ3ZmbF96dWRHcnZQOTNsRmtKaWlfbjdiU3BGaHAwaHhwSDRET0xoMjViUElWRzc1VVZmSGV5dTczY3VNcFBGaDJUN24tazZqQVVUWF8xVFZMci1OQmZ4NGN1enRYekdfX0VxcHpxVEFKNnI5VFRUVnk3STNCd1o1a1I5aGVMLVRnMGVGdFgtUnZaNlhyT0dVRnhnNG1MSUx1SGY2WUJwcWEzcVJGeWNmT09Td2ljbTJCdjlIcU5Cdw?oc=5",
         "type": "rss"
       }
     ]
@@ -453,6 +751,27 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Nb2FMdlpBUW1heVdMN0VVV2tReDl0NEVpenN6OGxMdnNZSzdRQlpsR3hCZV9OQThBcER0ZTdpaG9ET3BtWTluc3JTdDRUZXE0MzNEZm5tOHJwdWJMcEZwVDdqMWNlQ0ZfV2liekFyT1ZMa2I1dWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-07-04-016",
+    "date": "2026-07-04",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of DMG MORI Aktiengesellschaft – SWB:GIL - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnlHRHU2azdONEY5MHBzekQ3aUVTNHRQaUV3WHl0OUpNSjVDZFA4azMzd0M1LUltNlZwZFc0ejZLYnM2cU45Z0Voem84ekYyYnhybm9OelB0NXFaMEQzYlNudm16X2J0a1hVQzItR0",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnlHRHU2azdONEY5MHBzekQ3aUVTNHRQaUV3WHl0OUpNSjVDZFA4azMzd0M1LUltNlZwZFc0ejZLYnM2cU45Z0Voem84ekYyYnhybm9OelB0NXFaMEQzYlNudm16X2J0a1hVQzItR0ktdktXZjlJSHl2SHFQTWdsLWdWd0VsU3I1NHVLRzdaUU9xVWdtcEg0V2dPUXQ?oc=5",
         "type": "rss"
       }
     ]
@@ -797,6 +1116,28 @@
       {
         "name": "itw",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYlJjX01WbTRMcE5lYlFEVFcwQ09hdjV4WlF3WGhtRGoycEZNbXNhTUd2dmU3M1cwS0V6ZXplZXFEdXRwaWFLdzJ2eGRIc0ZNc3NjX19SY2RrZGVHTy1KOG5SakRWZkg2UzRFa01PcmQwZVVxNjNra2hXYnNEM2hVOWpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-07-03-018",
+    "date": "2026-07-03",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Mitsubishi Electric’s Fusion Diagnostics Breakthrough Could Be A Game Changer For Mitsubishi Electric (TSE:6503) - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaEdJODRuMUtTMnJuS1JnZ2lkRmlyVjBBWnZvTE1WV3FOQmRHdEpydXZsS2trOUtoellJbEFaekgtNFJEZ1FCSm8xRFVKVE5aNW1ZZTZyQUJ2MGxBTFBXUjF5ZldQQ18wMlh2V1lpcU",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaEdJODRuMUtTMnJuS1JnZ2lkRmlyVjBBWnZvTE1WV3FOQmRHdEpydXZsS2trOUtoellJbEFaekgtNFJEZ1FCSm8xRFVKVE5aNW1ZZTZyQUJ2MGxBTFBXUjF5ZldQQ18wMlh2V1lpcU5fdDg0azRKVTJKbnNmdUU1MDFTamhnVVBQNUM3Qmw2X050Z3NDUEloWUUxdDlsc0owaVJHdnJ4cVUybUxRQVlEVGV4WXZzYlRzajZQSGZyaFg0eFFpZi1hUklFbU5zaVJDWElGYktNcW1fX2Q0M0xrZk5jcHZYUdIB5gFBVV95cUxQaEdJODRuMUtTMnJuS1JnZ2lkRmlyVjBBWnZvTE1WV3FOQmRHdEpydXZsS2trOUtoellJbEFaekgtNFJEZ1FCSm8xRFVKVE5aNW1ZZTZyQUJ2MGxBTFBXUjF5ZldQQ18wMlh2V1lpcU5fdDg0azRKVTJKbnNmdUU1MDFTamhnVVBQNUM3Qmw2X050Z3NDUEloWUUxdDlsc0owaVJHdnJ4cVUybUxRQVlEVGV4WXZzYlRzajZQSGZyaFg0eFFpZi1hUklFbU5zaVJDWElGYktNcW1fX2Q0M0xrZk5jcHZYUQ?oc=5",
         "type": "rss"
       }
     ]
