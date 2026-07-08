@@ -1,0 +1,16 @@
+{
+  "total_raw": 390,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 2,
+  "gate2_fail": 9,
+  "passed": 40,
+  "gate2_samples": [
+    "Price to book forward of HIWIN Technologies Corp. – TWSE:2049 - TradingView",
+    "Reduce your business running costs with KNX",
+    "How intelligent switchgear is helping engineers move from reactive firefighting to predictive power ",
+    "How SMB’s can set and hit sustainability targets",
+    "Miguel Angel Jiménez makes two-putt birdie at Mitsubishi Electric Classic - PGA Tour"
+  ]
+}
