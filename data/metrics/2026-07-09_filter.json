@@ -1,0 +1,16 @@
+{
+  "total_raw": 392,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 2,
+  "gate2_fail": 7,
+  "passed": 52,
+  "gate2_samples": [
+    "Price to book forward of HIWIN Technologies Corp. – TWSE:2049 - TradingView",
+    "Reduce your business running costs with KNX",
+    "How intelligent switchgear is helping engineers move from reactive firefighting to predictive power ",
+    "Mitsubishi Electric Reached Agreement July 2 >6503.TO - Moomoo",
+    "Mitsubishi Electric acquires satellite ground station firm Infostellar - Data Center Dynamics"
+  ]
+}

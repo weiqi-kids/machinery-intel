@@ -1,0 +1,244 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T10:47:29.112141Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "caterpillar-2026-07-09-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "CAT Stock Heads For Second Weekly Loss: Is Caterpillar's AI Rally Fading? - Stocktwits",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb29sYl9Xc3pHUjlZMDRSY1YzeWRablFHUlFDejhNNlBaMjBhSEg5c0pSOUNuVzVhanJwQ2w0ZU9vSkJfMU9QcGgtNG8zRVZXa1V3d3otOVRkbjJqSlpuUHc2amhfYnQ3M0pQQVUyQ3c4OFZZRktib1VYckNBSk9KOHhOeEtYd0I1YTN5cVVqYlNLSVZtdGJ4dzlubU1uRkFlUWk5Z1cyUXRNZzBYeDJQa1NDMGhEclBjZWZ6N0pOcjBGbjhNS09EMlRvUkpSUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-07-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics 1H revenue up 41% as AI power, cooling demand accelerates - digitimes",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaGFjUEJaT0F6TlhsdGtnakpKNzhHZktXSnZpcXM4U3VBUHdJbUE5UHB3d2hPV19KdTJEbEhMcUpnb1c0d1JEWDZFZUZiM1JyNV83N0JoMXZYbHFVaGtjLWlWNk1VMUJZNEthZlBWTlA2bkRENjhHYnd4c01KSUxIY3F0OFAxQ3hkQVNOQ3VRZnAzZHRHOU5fN0ZHLU5RMkhqYk1sUGJn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "abb-2026-07-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABB Ltd highlights automation and electrification strength amid global demand - Ad-hoc-news.de",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZnRkOTRxMTZYSEQ1TEN6WEZqUlhPM0s2XzVpQ1d6YURiMTVSQ2RqTno0MjlER3ZQV1N3SzFqT3BEdnZnWlNsLUR1ZUFQS2xGQWdFNWFjNy1rWXZGNndZUEJqT2JBUWxIRFYxT29kcmFQOW5tMVE5cl9iUldXMDZhQlMxdmdyY2N4aURCYy1XT0ZocDBtNnh3Q0R2TTZpVk5yR0RVZ3pLWFRGdU02UDU3RExEN0NTc0FJWU1jU1hpV1JMem9yNzVBWg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itw-2026-07-09-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works (ITW) Nears Q2 Results, Is The Stock Undervalued? - simplywall.st",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONEM5aS1yZkk3ZGVBb25MUEVyZ3VIenl1ckk3NWpNRmpoeG9kdllPQzU1UG1zbnZXdm1ZSG1xcHhFNmFZWklpOEx3RmkyNE4tRmwzU1J6SjdQaUdSTWd2NWdfRXBYYVVOU0pDREZMNjFlSGdRc2tQaUtFalVuZnI4R19XLWxaSmdQVGxyMXV1WlF6clQyZzhlZk1ya0RGS3hOTGlPbm1XbnE2S0xEOFJZd0FoVmdNZDloSWR4Qm1rdGNxSzVDZkFMYlE0YTVkOGFZRGc3SmFUd9IB3AFBVV95cUxNdDBzTFAzUUtTUmVSMFg2TVR3TDIxQjVyYnlFTXZRUzd6ZnVxY2JENHptaUx6dVlHRmx6dmVwNUtyTUYzVnRtbXkySTNsU2V6STVfYV9uanJTNzNaR3ZuejZBNzFEc3MwSVFtR0hjOFZKM2s0aUhqcEZBZkd2RDE4amxuNU9UOENJdzZ0bGdNWjNpWDRBYXRHeWxQVVZfTVVLS0dFTEN1R2ZSQkk4X1FUUXNRS2xVeGVKVmVfejZSVmpjVF9RWTI0MVhlVkNWYVMwRDRWUXVHZzlxcnVM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itw-2026-07-09-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What Has Illinois Tool Works (NYSE:ITW) Investors Watching in S&P 500? - Kalkine Media",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVExmdW1YRlBjdmVKS3NmTU44ZUxFSWlaUVpvZVNldlM4a2FMQVdSUHF2d1RsNThLenkzdVBOV3pDaDJqeExSLU0wak9WemxRSjRkZUpfeWI4ZEQ1a1MtUTItb1NrUUNIWlVoSzBpU2h1MW15YS1ZclBHbHR3enBZTERZbldVUkQxYVh6T0ZJbXB2VklLbXdOeF9kR21pQkJ4N005X0QxWFdLS2dSTTNwMg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "itw",
+        "count": 4
+      },
+      {
+        "id": "caterpillar",
+        "count": 4
+      },
+      {
+        "id": "abb",
+        "count": 2
+      },
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "automation_capex",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 392,
+    "dup_title": 199,
+    "too_old": 132,
+    "gate1_blocked": 2,
+    "gate2_blocked": 7,
+    "passed": 52,
+    "pass_rate": "26.9%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "Price to book forward of HIWIN Technologies Corp. – TWSE:2049 - TradingView",
+      "Reduce your business running costs with KNX",
+      "How intelligent switchgear is helping engineers move from reactive firefighting to predictive power ",
+      "Mitsubishi Electric Reached Agreement July 2 >6503.TO - Moomoo",
+      "Mitsubishi Electric acquires satellite ground station firm Infostellar - Data Center Dynamics"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為ITW、CAT、ABB相關動態：「CAT Stock Heads For Second Weekly Loss: Is Caterpillar's ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "CAT Stock Heads For Second Weekly Loss: Is Caterpillar's AI Rally Fading? - S...（自動化資本支出、財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Delta Electronics 1H revenue up 41% as AI power, cooling demand accelerates -...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
