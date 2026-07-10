@@ -1,5 +1,63 @@
 [
   {
+    "id": "unknown-2026-07-10-001",
+    "date": "2026-07-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Top Dividend King Down 12% and Worth Loading Up On Now - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUWxULXJPcXFGQ29sREU2WGE2Q1dfQmFzWi1pQjgtQXNwa2NiRG5JYktlX0tCQ0hQVGxjS05SaGoyb3duZDFwdWhHMGVoeTQxaUE2elhtR0ExQjc1TUNLajNmczZVaS0zbDZGVjNCX2",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUWxULXJPcXFGQ29sREU2WGE2Q1dfQmFzWi1pQjgtQXNwa2NiRG5JYktlX0tCQ0hQVGxjS05SaGoyb3duZDFwdWhHMGVoeTQxaUE2elhtR0ExQjc1TUNLajNmczZVaS0zbDZGVjNCX24wQzdyM2tFM1NlOFZZVXZ0SkIwd0ZpM0hKNWhDSUZ0bGhhckJhQllZeU00YmM3V3Q4SERTMkZuXzFIakhfdDJUQXpxNVRQZEp2eTdDTWhQRnlBbmxkd1JNMnJTNWJpNUdwMmIteUJsVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-10-002",
+    "date": "2026-07-10",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sumitomo Mitsui Trust Group Inc. Sells 15,565 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY3RLSmJEQlA2UFMydHhUTV81b0NiSkl2ek84ZGQtTTlSaWJZSWJVTWRlRURCYUhXeG5GajZWckp2Mjd3TWt3ZEpSSk9INnFVZi1mYTZUNlk1dVBEenFCUXJuRTNJVFFIbloxb1FEYV",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY3RLSmJEQlA2UFMydHhUTV81b0NiSkl2ek84ZGQtTTlSaWJZSWJVTWRlRURCYUhXeG5GajZWckp2Mjd3TWt3ZEpSSk9INnFVZi1mYTZUNlk1dVBEenFCUXJuRTNJVFFIbloxb1FEYVZGcU9EaVZMMWNzSjJ5Tzlra3RWVXlBa1ZVa1I3Qm4wb2plSVZfd2VhcVVIYUNma3VNUGNZaVM1MWpVbUJ2bmd3QWJHYjAtbHh5dzFoMmtmZUJkMTlzMTY3M2JuTnVLNmZWa24xREdsSDRMTXpsdmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-10-003",
+    "date": "2026-07-10",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Acquires Skycatch To Strengthen AI-Powered Mining Technology Platform - Pulse 2.0",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPaDZyOTFPTHdSWUJZVWJ5TFVHaWQ0TEROaVVEZjhYdXQwazBGSURsc2w0eElZTGxZNE0yY0ltaUpqQ2FuR3VwUmktd2lHSnRDaUVFVHpJbDNYRzRRRktudVZyeUpxQk1kZlJZSThkb0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaDZyOTFPTHdSWUJZVWJ5TFVHaWQ0TEROaVVEZjhYdXQwazBGSURsc2w0eElZTGxZNE0yY0ltaUpqQ2FuR3VwUmktd2lHSnRDaUVFVHpJbDNYRzRRRktudVZyeUpxQk1kZlJZSThkb0R5dDJQY3RlNGhmRkw5ck0yYk1NblhUaW93NVVubTdNUVFLN1dTTENSNXkyRVJqZE8tZi1n0gGoAUFVX3lxTE1SMzNndWN6dGs5b0phNGlLNk9ETHAteUg4YVQyVEFqY3lxN1ZlcVdNY3lrZmdPZmM0R2xEZlNibVVxUWpGeXM0YU1GQUNPZ1FubHlKSFBpS3JyYmhOYkJaakdoNndkd2hnX1pwRWM3TFdVa2F4Y0d6WndoU0NyT2ZmT2JaaTFpNXpjeXZmUGgwMjlhTi13dmVfM1B6R25kdjByQ0QzRVpKSw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-07-09-001",
     "date": "2026-07-09",
     "companies": [
@@ -260,6 +318,312 @@
       {
         "name": "plant_engineering",
         "url": "https://www.plantengineering.com/expert-qa-plant-uptime-is-a-product-of-good-lubrication-practices/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-07-09-014",
+    "date": "2026-07-09",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "BR: Delta Electronics V2 - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE4zZXhzaGtva3dzbDU5NkFLb3hlV0dKYUd0Q05Xd3c5QUZ4cGlRWjVwSWlKcXBrQmx1TDlra2R4RFphcnpSNGxRcU00cjhvQzJZeWpfaldybkhNTjVFYWN5SWNXa3hGUjZ4XzNJOUJSTl",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zZXhzaGtva3dzbDU5NkFLb3hlV0dKYUd0Q05Xd3c5QUZ4cGlRWjVwSWlKcXBrQmx1TDlra2R4RFphcnpSNGxRcU00cjhvQzJZeWpfaldybkhNTjVFYWN5SWNXa3hGUjZ4XzNJOUJSTlc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-07-09-015",
+    "date": "2026-07-09",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI Ignites Surge: Delta Electronics June Revenue Tops NT$65.6 Billion, Lite-On Hits Nearly 8-Year High - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1LNVJsX0IzOHNxVmVJa2ZLVEdRMXd0R213R3A5X3pIOUpScjRRMUFpWUdtU3NuRVl1ZDZtMDV3SEFPeVdfTV8zY2IzV0xmSkRTUkFYNDRlTkkzcmdXQ01rQ0wyd0o2X1F6Z3YtZGMtdl",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LNVJsX0IzOHNxVmVJa2ZLVEdRMXd0R213R3A5X3pIOUpScjRRMUFpWUdtU3NuRVl1ZDZtMDV3SEFPeVdfTV8zY2IzV0xmSkRTUkFYNDRlTkkzcmdXQ01rQ0wyd0o2X1F6Z3YtZGMtdlQteHpjUEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-07-09-016",
+    "date": "2026-07-09",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Roche Turns To Industrial Robotics Partner ABB Robotics In Lab Automation Push - insights.citeline.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxObTZQS1VoVTJxZHNCRUhmdkFjTlUtLVZOZFkxeENyeEhMZXRRd284V0ZRZzJacTRKa0xTTDhzeEkzNWlLbTBCaWc0UnY1ZGtLZzBrWmFjcFlIc1NXNDF5NEtPekJ3VEFybU9FazBJbW",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObTZQS1VoVTJxZHNCRUhmdkFjTlUtLVZOZFkxeENyeEhMZXRRd284V0ZRZzJacTRKa0xTTDhzeEkzNWlLbTBCaWc0UnY1ZGtLZzBrWmFjcFlIc1NXNDF5NEtPekJ3VEFybU9FazBJbWcwNi1MaU0yWVVIdUdTTVBmaHlaeldjTmxteTZjQ183SkdZRERhYWdZSEV5Q3o2VHExZHY1MFRIS1Z3NmJiRGpoNFJORmo5eFFpSHVmMWhXWGVLNDBoR25RZlVjSkRhSVZrc2xpQXZwYXN3OWJkR3ZmMnMwY3lVYlRjVlZIaGhZaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-07-09-017",
+    "date": "2026-07-09",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB stock stays supported by electrification and automation demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUEVDYXJJTXhkSlNfekxtOUpoeUVsMS1NNlZPM0dmTEI2ZlpCcmVGVHI3OXpZMnNvQnBwck8wZHptbE1qaTFtTng0S3FDMkpSZ0RGRFNsNWMxd1hQbkhRYklNYkpIMTZIeS1HazJ6TU",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUEVDYXJJTXhkSlNfekxtOUpoeUVsMS1NNlZPM0dmTEI2ZlpCcmVGVHI3OXpZMnNvQnBwck8wZHptbE1qaTFtTng0S3FDMkpSZ0RGRFNsNWMxd1hQbkhRYklNYkpIMTZIeS1HazJ6TURVYkswRkhNcFdzUHRpTllLVVhGYkpOQ1Z4cnItLU9JWl91UGlIT0stcVZLWXZVbndZYTB4cG42UTlUZng4LUtNckRKcy11TExackEtYUJNWUpUQmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-07-09-018",
+    "date": "2026-07-09",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB India stock stays supported by automation demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQOFd5YjlodEN6QThvcFNielR2U3psOURSUkF5UklndDNXUGhFVXZoNThNWnpBRFdLSGwyZnpDa2dmOC1BZ05JUzlzdEJnWE93blNRX05Md01IVWRHdUxyekx0UWJlcmRWWFRqYkpZUl",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOFd5YjlodEN6QThvcFNielR2U3psOURSUkF5UklndDNXUGhFVXZoNThNWnpBRFdLSGwyZnpDa2dmOC1BZ05JUzlzdEJnWE93blNRX05Md01IVWRHdUxyekx0UWJlcmRWWFRqYkpZUlctVWFxZTdCcVdSOG5QQ3FiZnBTYVMxak90Wm5Sa3M2bTZpczRLWURoajkycVZ1NW4wNDNwNUJjZlNPYklROHI2RA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-07-09-019",
+    "date": "2026-07-09",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB outlines capital allocation priorities as automation demand grows - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0t3UUloajZBWF9RLVAyM2MtNXU4aUxHMk5rNXc5QUJ1bXhzYTZ0RWdHemNkRzVLR2pxYVgwcUFfUm5DNTdnLW9lajFyR0ZqNUxqb3E2bHNRYmpGZzlPeUdQMmliZWJJZHZMUFVTTH",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0t3UUloajZBWF9RLVAyM2MtNXU4aUxHMk5rNXc5QUJ1bXhzYTZ0RWdHemNkRzVLR2pxYVgwcUFfUm5DNTdnLW9lajFyR0ZqNUxqb3E2bHNRYmpGZzlPeUdQMmliZWJJZHZMUFVTTHJrVWd0M2pzclZJWTFpOUZxMFlEaWpRTlNnRnpJTVVQRG9vZ2E0eFZJbnFWVFZmYXgySjNheTR3Y2dxOTQyTkVfUldKTjduNnVqUE1ITWFrSFM2VDktRXR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-07-09-020",
+    "date": "2026-07-09",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Ltd highlights automation and electrification strength amid global demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZnRkOTRxMTZYSEQ1TEN6WEZqUlhPM0s2XzVpQ1d6YURiMTVSQ2RqTno0MjlER3ZQV1N3SzFqT3BEdnZnWlNsLUR1ZUFQS2xGQWdFNWFjNy1rWXZGNndZUEJqT2JBUWxIRFYxT29kcm",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZnRkOTRxMTZYSEQ1TEN6WEZqUlhPM0s2XzVpQ1d6YURiMTVSQ2RqTno0MjlER3ZQV1N3SzFqT3BEdnZnWlNsLUR1ZUFQS2xGQWdFNWFjNy1rWXZGNndZUEJqT2JBUWxIRFYxT29kcmFQOW5tMVE5cl9iUldXMDZhQlMxdmdyY2N4aURCYy1XT0ZocDBtNnh3Q0R2TTZpVk5yR0RVZ3pLWFRGdU02UDU3RExEN0NTc0FJWU1jU1hpV1JMem9yNzVBWg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-021",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ángel Cabrera makes birdie on No. 18 at Kaulig Companies Championship - PGA Tour",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQUE43bkJKRjNoejQwTnFLVUJrVlozb2x0ak1CdWtHMlByZF8yTTJOS2p6Tk5KQ2VPVG9LVS0xSmYxcFlOUDFBU3FYTkNNUURuejljMjllYnNSOVpWWVltN3daakVjN2loNFd6Vi1heE",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUE43bkJKRjNoejQwTnFLVUJrVlozb2x0ak1CdWtHMlByZF8yTTJOS2p6Tk5KQ2VPVG9LVS0xSmYxcFlOUDFBU3FYTkNNUURuejljMjllYnNSOVpWWVltN3daakVjN2loNFd6Vi1heEdIOTJkYmFzUnhxVGlZbERkY19CbmNra2wyMGZfZnJnT3ZkejV4UFdzTjZOakJTVmw3REc4ZDlOQU9iN3ZaWlg1SGd4MlFOQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-07-09-022",
+    "date": "2026-07-09",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Form S-3ASR ILLINOIS TOOL WORKS INC. For: 9 July By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY3FrTzk5RDJ4QVJaNGpWdG84WGh4bW95WkotTzVDX3NMakdBUnJEZ3RZdmVPZl9zOTBEemFrSWhrU1JScUlBb2JUd1ZnR3VFMjlqaElQQlBaY2JfWVQxUTVUUU1kODZNZU43dm5FeV",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY3FrTzk5RDJ4QVJaNGpWdG84WGh4bW95WkotTzVDX3NMakdBUnJEZ3RZdmVPZl9zOTBEemFrSWhrU1JScUlBb2JUd1ZnR3VFMjlqaElQQlBaY2JfWVQxUTVUUU1kODZNZU43dm5FeVZrMEVGTUE3b25tdkZ1SEloN2RaZlgtRFpPRDBFS1JPTlNmRlJwX2xXOThtR0ZXY04xWmkwb2xRZ1dsQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-09-023",
+    "date": "2026-07-09",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin (PH) Leaves Russell Index As Fair Value Stays In Focus - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPcHBhZm9DalFFVTdCblVPNFpaQkFkQm5xeEhqRnFVRlJiOVk1ZkN1ZEIxNWNRZEgwQjhkMXA0RUcxNGZGdnJqeU1iNE05bTk1RGp0cjg1b3NSRkRhVndyOFBnaUt6dFZDdkFSOGpaQ2",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcHBhZm9DalFFVTdCblVPNFpaQkFkQm5xeEhqRnFVRlJiOVk1ZkN1ZEIxNWNRZEgwQjhkMXA0RUcxNGZGdnJqeU1iNE05bTk1RGp0cjg1b3NSRkRhVndyOFBnaUt6dFZDdkFSOGpaQ2dEeUNldFlpR1pNNlZXRGNvQWdMdmx4NzItbWEzc0FYaldUMFF0cVp6UVhCc2lCZmFHcHFtcThZZ05GOUtLbnFBMEx2MzRxbjdYcGhsWml5RmRURDZKNUFJUFdfYW1PYlXSAdQBQVVfeXFMTzNaVm90VlhuNUZYcUdBVS1yZ2h3d0NQMUZkdWlReHJMd0NrdXhwY3hOVDRfRE1QcE5Sd1ZTWjFPdTgyNTdIeHhOaF8zcGZydVFOOGlHU0VsT3JTR2R6WXZJakNGZ0RpLU0tSWNCVjdaaUc0aER2WDNZVEIySTNHd0tvT04yelNoYWdBR1FnV0dVOThZN3M5elhyRzhvWC1WUUxSYl9VNWlPSVNPaFozcnNENnVMLVc5SGoxWGxQdFBmdmZFRmhYZGxrNGlCaWk1NUlTNzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-09-024",
+    "date": "2026-07-09",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Caterpillar Stock Gaining Thursday? - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZlpFclpnQjRycnZqZm9CcThjVWwyU1c0YlZyLUVDcmo2dVVWcW51dk5lQm5Gc2FlZjNtc012dXp1eFp5OC1qSjVTbjZHSGI1YWIxRkRLZW41cWN1X1A3YUxzY19XaVJWbHNjZDVUNF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZlpFclpnQjRycnZqZm9CcThjVWwyU1c0YlZyLUVDcmo2dVVWcW51dk5lQm5Gc2FlZjNtc012dXp1eFp5OC1qSjVTbjZHSGI1YWIxRkRLZW41cWN1X1A3YUxzY19XaVJWbHNjZDVUNFFBNGJPUjdDaGE0d08tVjRQNWk4OVB6WTUwUlpkbkJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-09-025",
+    "date": "2026-07-09",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar digs into new $34M HQ expansion in Las Colinas - The Real Deal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQMGl0TGkwczhzaWFSRklVVnNOcFJrUDBCSXZjSkhyNzYwb3ktdGVJN3llQThoNHJuSVFQVVB6Rk1WTVNmS2l5aW1uWGNGU29iLTZoNGdMWUhKMVp1ckxtMFk3ZGtJb242Vk5Pa1lOWm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMGl0TGkwczhzaWFSRklVVnNOcFJrUDBCSXZjSkhyNzYwb3ktdGVJN3llQThoNHJuSVFQVVB6Rk1WTVNmS2l5aW1uWGNGU29iLTZoNGdMWUhKMVp1ckxtMFk3ZGtJb242Vk5Pa1lOWmJyQzVMU09TVU93ZmZJNXk3bHZiMWIxYVJPd0hHN1ZXTjFtblE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-09-026",
+    "date": "2026-07-09",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOWEowb1BuUlcyU3VUdHhsdE1tQ3YxZmJpY2xKU1dENkNFMmN1MDZaaHpyN1NuZ1RBUVk5MjhJa0JWdDE0NGZ3dERhY0UyTklsMkF2X2NqeU5yZDFLVnVrMzZRNE1RSVBpb29yRDQ2c0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWEowb1BuUlcyU3VUdHhsdE1tQ3YxZmJpY2xKU1dENkNFMmN1MDZaaHpyN1NuZ1RBUVk5MjhJa0JWdDE0NGZ3dERhY0UyTklsMkF2X2NqeU5yZDFLVnVrMzZRNE1RSVBpb29yRDQ2c0oxR3RsTzBxVkw5c2EwOXFTZXJzVG1yNXhrOW9fdERNZmdhZEN2Z0xqTGE2bVNuQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-09-027",
+    "date": "2026-07-09",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Opinion | Caterpillar Moved From Illinois to Texas. Now What? - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOazdsUThlbnljMFdmZFBxQUZaSVMyLTJJV3FmRG5wTzU1T0ZDd1pLdW1DZzhBUjBkdklhZ1VYVmFUSzBMbXktS19FNDkwcmx3em9CM3JjNksxcE4yZ1YtVFBPT011Y0t6MFQ3cXhPS0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazdsUThlbnljMFdmZFBxQUZaSVMyLTJJV3FmRG5wTzU1T0ZDd1pLdW1DZzhBUjBkdklhZ1VYVmFUSzBMbXktS19FNDkwcmx3em9CM3JjNksxcE4yZ1YtVFBPT011Y0t6MFQ3cXhPS0JYSVc5YTJPc2pEc3pGZC12UENobGV6bVBVRkQ3dGcwTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-09-028",
+    "date": "2026-07-09",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3rd Circ. Hints At Reviving $100M Verdict Against Caterpillar - Law360",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQMk82b1puWWZyV3dSdTJiTmpxVG14TFl5Z0V2ckQ3Ti1UMjhCRG9xYk4wbVdvVTRSMERRN2EySTQ5dVVnY3ZFRGRJaEVkaW1sWXdZejQ4dnBMaWRZcHR1bjcyS2NpU0dwVk5ydDFHZ2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMk82b1puWWZyV3dSdTJiTmpxVG14TFl5Z0V2ckQ3Ti1UMjhCRG9xYk4wbVdvVTRSMERRN2EySTQ5dVVnY3ZFRGRJaEVkaW1sWXdZejQ4dnBMaWRZcHR1bjcyS2NpU0dwVk5ydDFHZ21VaXhPUjRKbDJwMEV4TngzdzhjV294U0F4OHdIWmRHa2ppMW1ERXNOMXZaY3c1VGU4S0HSAVZBVV95cUxOMHAzS0VvR0pFd1R1ZWJBSU80VnlUNS1GMklPNDJjdlh5ZnR4OWtUOTJhd3drd2J0UjF0aWhfMU9lSmE0Y0lpRGtXYTk4UWJ5Q2RwYnlZdw?oc=5",
         "type": "rss"
       }
     ]
@@ -930,6 +1294,89 @@
       {
         "name": "google_news_industrial_automation",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdDV2NFlhT1RwejA5Q2daWENaRWx1UVpTZ1BnX1pOTktEZ2V3b2U3QTQ5OWJIdldFZWIySFIySXBqUmRfRElxYlVZTDZiRlVKOS1XaXh3X3c2YnVfTHB6WEp0TDdYQ2RVTFV2eFpIN2VSRGxELUh0MTlkVE8zZ1dWeUptYXktYVRiRi1GTGxkSmdqSTJOOHB1Z0dwR1lseVBDUGY4djZiTnhROFJ4T3NqenRaV25zZEVWY1JPMjkyeGluRWp5VDBOU3d6TEo5Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thk-2026-07-08-034",
+    "date": "2026-07-08",
+    "companies": [
+      "thk"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "THK focuses on motion control technology as investors watch global demand - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPVUhsY1dsd2VtMUt0UnJKSzR1Uks0cTBmVTJnWnhfNjJlcFJDTDJsSnVDUWlCdzI0dzNZUm5TOS1RcF9VOTJCVENTbDA4MzlfUDd6MGx1cXJzTURUd0EtZlZBb29PWVlRM2w5V0pzeW",
+    "sources": [
+      {
+        "name": "thk",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVUhsY1dsd2VtMUt0UnJKSzR1Uks0cTBmVTJnWnhfNjJlcFJDTDJsSnVDUWlCdzI0dzNZUm5TOS1RcF9VOTJCVENTbDA4MzlfUDd6MGx1cXJzTURUd0EtZlZBb29PWVlRM2w5V0pzeWxBakQ4VDc3Qm8tZmNKcDNtX08ySllBbWZzak9YdFVDSGtWOFp6WnZjejZDYjhLQ3JPUjF6MVJkdzMtakZWd1hER2tlbk1SYXB5R0FTN3dKcTFsWW1LM1AwY2N6LTk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "keyence-2026-07-08-035",
+    "date": "2026-07-08",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Keyence strengthens its automation footprint as global demand for factory sensors grows - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFRkZXlzbkU2N0w5ZWtrLXdBWUoyc2dWb09nU2pLV0F3cDlZMGFCR1VIamlOY0Z4OU1wclo0TmRaUEUySGwwc3NCZEI4aFBsYUFjQm40djlJNjFBdkZtYzhJRHNMbTVSWV84TDFXOG",
+    "sources": [
+      {
+        "name": "keyence",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFRkZXlzbkU2N0w5ZWtrLXdBWUoyc2dWb09nU2pLV0F3cDlZMGFCR1VIamlOY0Z4OU1wclo0TmRaUEUySGwwc3NCZEI4aFBsYUFjQm40djlJNjFBdkZtYzhJRHNMbTVSWV84TDFXOGNGWVhBY0k3OGlYYTBMVmRPZVJJaVVyQktTd1oxZW56RGcyUWdjc29qaUU5RVpUaEo5OHlCUzA5RWNlTXY4cjN6eXVjSTJ0cVJUcWZwdUdJMEwzbFUxTXNpSlBBdzc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-07-08-036",
+    "date": "2026-07-08",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ITW Schedules Second Quarter 2026 Earnings Webcast - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOTmluNHg3UDNHVVZZN0NGcEsxU0lFVTJkbVJ0VS1pM05YUmdGRWhqWDVhd3FnaTZIWUZzRjJIVTFBcnVxR2Y2Y2dZSmVTQ2VkLWxyMGlRLTFHcUZOWU40Y0lwanlSRndDQkJvU1VMV2",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTmluNHg3UDNHVVZZN0NGcEsxU0lFVTJkbVJ0VS1pM05YUmdGRWhqWDVhd3FnaTZIWUZzRjJIVTFBcnVxR2Y2Y2dZSmVTQ2VkLWxyMGlRLTFHcUZOWU40Y0lwanlSRndDQkJvU1VMV25kc0dvb2ZqZ1lKSGtmdTU4bFhZcnE5WnUwdjB6U2d1RjRIbGNDYzVEZTRDRDJQcF9FMmVFOUl2QTh4MnItLThCWWZMck1uTFFrOHRmQTdSTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-08-037",
+    "date": "2026-07-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can Caterpillar's Skycatch Deal Boost Its Mining Tech Edge? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV9VVDRIYVpZYTN3QV9uXzF1OGZ3eW4za0V5WmktSVRmRW03YklFUmwyNTU4aFZmZXYySlFVNDJ6SFljWjFFRmxOM1I0Z2FPY0VGZEx4dmJ4TlZ1N3FPZWctMHItdDdHejhPQ2tZS2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV9VVDRIYVpZYTN3QV9uXzF1OGZ3eW4za0V5WmktSVRmRW03YklFUmwyNTU4aFZmZXYySlFVNDJ6SFljWjFFRmxOM1I0Z2FPY0VGZEx4dmJ4TlZ1N3FPZWctMHItdDdHejhPQ2tZS28wZW54eEY0U1ZsQU1pTHVIQUVYSTBidVRDMnhTMDlKN1pkNGFkamZfSkRpcVY2RzV3U1E?oc=5",
         "type": "rss"
       }
     ]
@@ -1664,6 +2111,90 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeVN2MkFZWm55QkE3QVFFaHFzOFpFYUJreEJMbUUxUjJ3UHlRcXlPcjZTbjZXY1FoUGhrSzQ5S2xrcGtfRkY1LW1YWHdvUFpWaERXdFpHZWJTU1hUaHQ1a0NVN0JYNWZVN2tmSFhGUHZ2aEZ6V0xIMTRoTDAyblphejNjN0x4dG1fQ0xwSlhqR1ZRcXJ4Z2YxMDByQnR1OThHSzZySEtZWkI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-07-07-037",
+    "date": "2026-07-07",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric to Transfer Part of its Shareholding in Mitsubishi Electric FA Industrial Products to Konecranes - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPbDc4N2thWU1iUm8yaVd4SzltQ2tZZVBHcWFWSzVRbFoyX1NLRGQ3WnBwZER3ZTdmWHl6UWg0aUxZSHUySFctM0pzaW1hZ0ZHX0tYbXVoeE1VX1Y4QTZaZ3VRLTVSekJvUlR0Qy1ael",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbDc4N2thWU1iUm8yaVd4SzltQ2tZZVBHcWFWSzVRbFoyX1NLRGQ3WnBwZER3ZTdmWHl6UWg0aUxZSHUySFctM0pzaW1hZ0ZHX0tYbXVoeE1VX1Y4QTZaZ3VRLTVSekJvUlR0Qy1aelN2SmRxdllvY1lHQlZzTEZSTjJuOVZGYkwxVktybkNzQllFUVRMY3E5YVM5RGtEbzBoam9SRDM4V3ctQ3BBMTgzSk91YlEyUFdROTdvUVFfelhzdVNhZ21mR2ZJU3RlVVg2LVRTWGNYeFk4NHlRLVVBTElXRndWNm5kWklLaUtWZGRRUXhiazdPOElRaFYzajVfQ2tJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-07-07-038",
+    "date": "2026-07-07",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Konecranes to acquire 70% stake in Mitsubishi Electric FA Industrial Products - hoistmagazine.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE45YThTWEpWd1dQWXB2aEtteTl6QWVnYmgydFktZ1lSNks1WlFqNURGckJuNmNUQXpFVlJwdGdXZnNLVGJTZENHSG5JaGdIMzVFOVZxbTRSSWNDWmo0SXA0Q180RFF0a25GNFB6NDVR?o",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45YThTWEpWd1dQWXB2aEtteTl6QWVnYmgydFktZ1lSNks1WlFqNURGckJuNmNUQXpFVlJwdGdXZnNLVGJTZENHSG5JaGdIMzVFOVZxbTRSSWNDWmo0SXA0Q180RFF0a25GNFB6NDVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-07-039",
+    "date": "2026-07-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Caterpillar expands mining technology capabilities with Skycatch acquisition - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlVSYWY5QVVLMzJmT2RpQnJIekVoMEkyT1FYUDRBcHRCSHpzWEU1WkFYbE1jeFhFZjMzc1hFNFp3WjljQmVhMkJzVXhLNzR4V1Q1RVBsczRLYUZidkJtaU41NkNQOURDQ0ZlSENQTT",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNlVSYWY5QVVLMzJmT2RpQnJIekVoMEkyT1FYUDRBcHRCSHpzWEU1WkFYbE1jeFhFZjMzc1hFNFp3WjljQmVhMkJzVXhLNzR4V1Q1RVBsczRLYUZidkJtaU41NkNQOURDQ0ZlSENQTThrUk1qSk05c2VvUFc5blZPdXhkbDhPbkhNNXJTdjUyVkRlRWUydW5xQXNIWXgza3FWdlMxRUNRbWZBX0VnMGJDRw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-07-040",
+    "date": "2026-07-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Caterpillar Expands Mining Technology Capabilities with Skycatch Acquisition - Caterpillar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTBsVEZrZU1IVlRyY3QzWGdSV0J6elVmX2tJczVYV2FrUlgtUnJweG41ZGFpQzR0WWUySVRGNjhDb1lmWlBwZjA1MXZTY3dHY2hVTG0zQXF4a3Jsby1SQWlwTERfdWtoUlMxa25RcW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTBsVEZrZU1IVlRyY3QzWGdSV0J6elVmX2tJczVYV2FrUlgtUnJweG41ZGFpQzR0WWUySVRGNjhDb1lmWlBwZjA1MXZTY3dHY2hVTG0zQXF4a3Jsby1SQWlwTERfdWtoUlMxa25RcWZidzMyZVg4Rnhpc2FnVTl2NDIzdEk3c2ZqRml4QV84eVhrNjJWN0l5NWZjeXJONDNYQVJQeA?oc=5",
         "type": "rss"
       }
     ]

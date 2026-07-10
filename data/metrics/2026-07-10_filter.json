@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 221,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 2,
+  "gate2_fail": 8,
+  "passed": 26,
+  "gate2_samples": [
+    "Price to book forward of HIWIN Technologies Corp. – TWSE:2049 - TradingView",
+    "Price to book forward of Delta Electronics, Inc. – TWSE:2308 - TradingView",
+    "Reduce your business running costs with KNX",
+    "Mitsubishi Electric Reached Agreement July 2 >6503.TO - Moomoo",
+    "Mitsubishi Electric Sustainable Heating & Cooling in Hospice - Healthcare Digital"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T10:46:11.930156Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Top Dividend King Down 12% and Worth Loading Up On Now - The Globe and Mail",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUWxULXJPcXFGQ29sREU2WGE2Q1dfQmFzWi1pQjgtQXNwa2NiRG5JYktlX0tCQ0hQVGxjS05SaGoyb3duZDFwdWhHMGVoeTQxaUE2elhtR0ExQjc1TUNLajNmczZVaS0zbDZGVjNCX24wQzdyM2tFM1NlOFZZVXZ0SkIwd0ZpM0hKNWhDSUZ0bGhhckJhQllZeU00YmM3V3Q4SERTMkZuXzFIakhfdDJUQXpxNVRQZEp2eTdDTWhQRnlBbmxkd1JNMnJTNWJpNUdwMmIteUJsVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-07-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar Acquires Skycatch To Strengthen AI-Powered Mining Technology Platform - Pulse 2.0",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaDZyOTFPTHdSWUJZVWJ5TFVHaWQ0TEROaVVEZjhYdXQwazBGSURsc2w0eElZTGxZNE0yY0ltaUpqQ2FuR3VwUmktd2lHSnRDaUVFVHpJbDNYRzRRRktudVZyeUpxQk1kZlJZSThkb0R5dDJQY3RlNGhmRkw5ck0yYk1NblhUaW93NVVubTdNUVFLN1dTTENSNXkyRVJqZE8tZi1n0gGoAUFVX3lxTE1SMzNndWN6dGs5b0phNGlLNk9ETHAteUg4YVQyVEFqY3lxN1ZlcVdNY3lrZmdPZmM0R2xEZlNibVVxUWpGeXM0YU1GQUNPZ1FubHlKSFBpS3JyYmhOYkJaakdoNndkd2hnX1pwRWM3TFdVa2F4Y0d6WndoU0NyT2ZmT2JaaTFpNXpjeXZmUGgwMjlhTi13dmVfM1B6R25kdjByQ0QzRVpKSw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-07-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sumitomo Mitsui Trust Group Inc. Sells 15,565 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY3RLSmJEQlA2UFMydHhUTV81b0NiSkl2ek84ZGQtTTlSaWJZSWJVTWRlRURCYUhXeG5GajZWckp2Mjd3TWt3ZEpSSk9INnFVZi1mYTZUNlk1dVBEenFCUXJuRTNJVFFIbloxb1FEYVZGcU9EaVZMMWNzSjJ5Tzlra3RWVXlBa1ZVa1I3Qm4wb2plSVZfd2VhcVVIYUNma3VNUGNZaVM1MWpVbUJ2bmd3QWJHYjAtbHh5dzFoMmtmZUJkMTlzMTY3M2JuTnVLNmZWa24xREdsSDRMTXpsdmc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 394,
+    "dup_title": 221,
+    "too_old": 137,
+    "gate1_blocked": 2,
+    "gate2_blocked": 8,
+    "passed": 26,
+    "pass_rate": "15.0%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "Price to book forward of HIWIN Technologies Corp. – TWSE:2049 - TradingView",
+      "Price to book forward of Delta Electronics, Inc. – TWSE:2308 - TradingView",
+      "Reduce your business running costs with KNX",
+      "Mitsubishi Electric Reached Agreement July 2 >6503.TO - Moomoo",
+      "Mitsubishi Electric Sustainable Heating & Cooling in Hospice - Healthcare Digital"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Parker、CAT相關動態：「Top Dividend King Down 12% and Worth Loading Up On Now - ...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Top Dividend King Down 12% and Worth Loading Up On Now - The Globe and Mail（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Caterpillar Acquires Skycatch To Strengthen AI-Powered Mining Technology Plat...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
