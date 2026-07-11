@@ -1,0 +1,155 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:19:17.164326Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itw-2026-07-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works (ITW) Files Debt Shelf, Is The Stock Already Fully Valued? - Yahoo Finance",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd1dMR3pyZ0RKQ2ZMU3NUdDVMNVpsbktHWEFmTlEyRW1zWEhHTDRWQ2tzZ19XaTF4UllZNXA0SHVmWTB3dFpUZmcwMUFaSGRwX2dHaVl0WW54V0NUdGY3OFhSU2N0bE9wbnkxWndPZ2FlRnF6NXVmV0FEdkxlcVYxOU5iQ0NvUlBQdEhOX1h6eFVONEVYUmkxcEd3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-07-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Caterpillar (CAT) Expensive Following AI Data Center Hype And Mining Deals? - simplywall.st",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDh5ZzEtTkRmTXAtMUFTTmdXQ1gyeDRJNjB1R2Y2MDUtMUxlSm4zMGw1WnZhN0sybldTSVdQMWwtQXJoQTNPajZfemFCUnkzdlBHenRWT2JqMzdOUFduS1NJTFZEUlVKTGs2Zm9EV0pUSzJwbHNXajEzWGxQdWs1cXBXbGhHajhoUUU3ZENINHJBNG9oS3lwMjNVQ2ZrY19DdzM3MUh4YTBCRVlFTzlBV1ZQaVNzdE9hbHhZeVp4R0VYR1ZTY1h4S1FsMUzSAdIBQVVfeXFMUHR2Y2lCQWRJbFhWT2U3ZDAyN1l4VnN1WHNXOGw4dGVvYkR6cnFqNmtUQWFweGUycVJkNHdsNlQ5Vkg1eDMxMzNGbXZFS1dLX05rbWR5QlEtSFFpZFdmblg0dGtEYlB3VnJFbWtGOTJLQVdqMldhaGZCczJPTVo5amVEbUVweXBpZGxRNWhEdnMySFB2eEhURDZuQVZfb3daM3EzMWFsWVkxa3JBMkJxQklkb2tHWGJCd1RZSUNiQ0dmUGNsZ3Rhd2Q0NTFCcVdJeVlB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "itw",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 392,
+    "dup_title": 211,
+    "too_old": 145,
+    "gate1_blocked": 0,
+    "gate2_blocked": 8,
+    "passed": 28,
+    "pass_rate": "15.5%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "Price to book forward of HIWIN Technologies Corp. – TWSE:2049 - TradingView",
+      "Price to book forward of Delta Electronics, Inc. – TWSE:2308 - TradingView",
+      "Reduce your business running costs with KNX",
+      "Mitsubishi Electric Reached Agreement July 2 >6503.TO - Moomoo",
+      "Illinois Tool Exhibits Strong Prospects Despite Persisting Headwinds - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為ITW、CAT相關動態：「Illinois Tool Works (ITW) Files Debt Shelf, Is The Stock ...」。主要關注主題為財報、產業通用、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Illinois Tool Works (ITW) Files Debt Shelf, Is The Stock Already Fully Valued...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is Caterpillar (CAT) Expensive Following AI Data Center Hype And Mining Deals...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

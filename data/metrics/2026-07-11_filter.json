@@ -1,0 +1,16 @@
+{
+  "total_raw": 392,
+  "dup_title": 211,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 0,
+  "gate2_fail": 8,
+  "passed": 28,
+  "gate2_samples": [
+    "Price to book forward of HIWIN Technologies Corp. – TWSE:2049 - TradingView",
+    "Price to book forward of Delta Electronics, Inc. – TWSE:2308 - TradingView",
+    "Reduce your business running costs with KNX",
+    "Mitsubishi Electric Reached Agreement July 2 >6503.TO - Moomoo",
+    "Illinois Tool Exhibits Strong Prospects Despite Persisting Headwinds - TradingView"
+  ]
+}

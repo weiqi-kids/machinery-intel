@@ -1,5 +1,48 @@
 [
   {
+    "id": "itw-2026-07-11-001",
+    "date": "2026-07-11",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (ITW) Files Debt Shelf, Is The Stock Already Fully Valued? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQd1dMR3pyZ0RKQ2ZMU3NUdDVMNVpsbktHWEFmTlEyRW1zWEhHTDRWQ2tzZ19XaTF4UllZNXA0SHVmWTB3dFpUZmcwMUFaSGRwX2dHaVl0WW54V0NUdGY3OFhSU2N0bE9wbnkxWndPZ2",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd1dMR3pyZ0RKQ2ZMU3NUdDVMNVpsbktHWEFmTlEyRW1zWEhHTDRWQ2tzZ19XaTF4UllZNXA0SHVmWTB3dFpUZmcwMUFaSGRwX2dHaVl0WW54V0NUdGY3OFhSU2N0bE9wbnkxWndPZ2FlRnF6NXVmV0FEdkxlcVYxOU5iQ0NvUlBQdEhOX1h6eFVONEVYUmkxcEd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-11-002",
+    "date": "2026-07-11",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Caterpillar (CAT) Expensive Following AI Data Center Hype And Mining Deals? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDh5ZzEtTkRmTXAtMUFTTmdXQ1gyeDRJNjB1R2Y2MDUtMUxlSm4zMGw1WnZhN0sybldTSVdQMWwtQXJoQTNPajZfemFCUnkzdlBHenRWT2JqMzdOUFduS1NJTFZEUlVKTGs2Zm9EV0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcDh5ZzEtTkRmTXAtMUFTTmdXQ1gyeDRJNjB1R2Y2MDUtMUxlSm4zMGw1WnZhN0sybldTSVdQMWwtQXJoQTNPajZfemFCUnkzdlBHenRWT2JqMzdOUFduS1NJTFZEUlVKTGs2Zm9EV0pUSzJwbHNXajEzWGxQdWs1cXBXbGhHajhoUUU3ZENINHJBNG9oS3lwMjNVQ2ZrY19DdzM3MUh4YTBCRVlFTzlBV1ZQaVNzdE9hbHhZeVp4R0VYR1ZTY1h4S1FsMUzSAdIBQVVfeXFMUHR2Y2lCQWRJbFhWT2U3ZDAyN1l4VnN1WHNXOGw4dGVvYkR6cnFqNmtUQWFweGUycVJkNHdsNlQ5Vkg1eDMxMzNGbXZFS1dLX05rbWR5QlEtSFFpZFdmblg0dGtEYlB3VnJFbWtGOTJLQVdqMldhaGZCczJPTVo5amVEbUVweXBpZGxRNWhEdnMySFB2eEhURDZuQVZfb3daM3EzMWFsWVkxa3JBMkJxQklkb2tHWGJCd1RZSUNiQ0dmUGNsZ3Rhd2Q0NTFCcVdJeVlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-10-001",
     "date": "2026-07-10",
     "companies": [],
@@ -53,6 +96,272 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaDZyOTFPTHdSWUJZVWJ5TFVHaWQ0TEROaVVEZjhYdXQwazBGSURsc2w0eElZTGxZNE0yY0ltaUpqQ2FuR3VwUmktd2lHSnRDaUVFVHpJbDNYRzRRRktudVZyeUpxQk1kZlJZSThkb0R5dDJQY3RlNGhmRkw5ck0yYk1NblhUaW93NVVubTdNUVFLN1dTTENSNXkyRVJqZE8tZi1n0gGoAUFVX3lxTE1SMzNndWN6dGs5b0phNGlLNk9ETHAteUg4YVQyVEFqY3lxN1ZlcVdNY3lrZmdPZmM0R2xEZlNibVVxUWpGeXM0YU1GQUNPZ1FubHlKSFBpS3JyYmhOYkJaakdoNndkd2hnX1pwRWM3TFdVa2F4Y0d6WndoU0NyT2ZmT2JaaTFpNXpjeXZmUGgwMjlhTi13dmVfM1B6R25kdjByQ0QzRVpKSw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-07-10-004",
+    "date": "2026-07-10",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI Power Demand Surge Drives Delta Electronics' Monthly Revenue Past NT$60 Billion Mark for First Time - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1pak1KUE4tLWFlZDdCSWpNaXdxRDNndUVMZzIwZWpOYlFrelRvZmQ4UmRDT25oNHlqYWdkQ1hWbzhiY29DcjdiVjFnTUc5cE5JZzFJa3NiN0ZVUl9HWEoxS21tQklIZjhUZVhFeU9XVz",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pak1KUE4tLWFlZDdCSWpNaXdxRDNndUVMZzIwZWpOYlFrelRvZmQ4UmRDT25oNHlqYWdkQ1hWbzhiY29DcjdiVjFnTUc5cE5JZzFJa3NiN0ZVUl9HWEoxS21tQklIZjhUZVhFeU9XVzcwTFA1SkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-07-10-005",
+    "date": "2026-07-10",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB stock reflects the group’s diversified industrial strength - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMFFEemFTM2xYNHJmOElCdXNtNXN1dE9xWmc3RzRVVEdfQmcxN1IxYWNrQkZsTjF5REc5VWppQmhrek1CaHlaUm5icUI5RjEzUVVmeUh5bkQ3QUFQS2tvM1RNWXYxRGZ5X1hGWW02RV",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMFFEemFTM2xYNHJmOElCdXNtNXN1dE9xWmc3RzRVVEdfQmcxN1IxYWNrQkZsTjF5REc5VWppQmhrek1CaHlaUm5icUI5RjEzUVVmeUh5bkQ3QUFQS2tvM1RNWXYxRGZ5X1hGWW02RVlNekV3eWhYRDNnVUJUWW9OdjhvSFBXRXBvTFFMNnAyeUlkWXJfY3ZOOHE3VFMzSDA3QWZRNlFnM3NxNGhRYlpqdXlXU0h6X1c2dzhZR1BB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-10-006",
+    "date": "2026-07-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hitachi Stock And 2 Japanese Industrial Tech Names Built For Lower Risk - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSUZEVkNVeFc1bHg1STVvVWlxOXpjMDY4RWlMUlhET3ZYNV9lM3lZMW4taXE4R0dOV1k0aFNKaDlrZ2Jod05UUGw3S3d6T3laTlFoWlFwSlJKb2Rqc1dEMndrU3J3MGtUOTRvdkZhWl",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSUZEVkNVeFc1bHg1STVvVWlxOXpjMDY4RWlMUlhET3ZYNV9lM3lZMW4taXE4R0dOV1k0aFNKaDlrZ2Jod05UUGw3S3d6T3laTlFoWlFwSlJKb2Rqc1dEMndrU3J3MGtUOTRvdkZhWlVCcks2WHNITW5OMURadFhFWkhUUVExM0FOSndJMDBMc3R5OVdJUEFUcmMxbF9KTGtyTW04bUdkMWZGR2JlSDA1RFJZRlp1cTJQT0pJUmV4T3VmSllwTWpTYmFMZGVRVlpTcWJmQzc3LXc2LW1kQkpDYtIB5gFBVV95cUxQNjVmX3g4SzBjUllqUkt2aFpUd19DOVlza0wxcS05X0t5VVZ2ZDlvdE1ndEtMOU1QSFozc0s3Tm5JOVNnbHVTSnJUc0k1ZTdmb3VYM0ZWcjM5aTNuMFg5T25EN3lfbTMzUDJYR1hENFFiZkxZRGdjd1d0cVRNOWpMS19zdklaZ3dNQXA1R1FmUGx2NWE3ZjFqakFkWmQ3T3dESkRKTXo5Z2pNQVVBZjlaNm5BdzVzdTZuVTU0QmcxN3RkT2NxTUtILW1aVjFXZ3pSaUlHbVcxSlg2RFZUZVZUdHZrcC1Fdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-07-10-007",
+    "date": "2026-07-10",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stock ownership change report: Koden Co. (50.01% → 91.42%), Mitsubishi Electric, etc. - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnctbGlsYzVFTHEwM3FIamlCb3RZc0NlaUt0RUMyY1BEMlVGRGdFY0RKVUdKLXlqWkRWSUtKUDFiMExZajZvWWVuUW1mZDZWZGVrc0h3ZWlVc1ByaFRITUdvOTJGR0VlZkNXWDRxTE",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRnctbGlsYzVFTHEwM3FIamlCb3RZc0NlaUt0RUMyY1BEMlVGRGdFY0RKVUdKLXlqWkRWSUtKUDFiMExZajZvWWVuUW1mZDZWZGVrc0h3ZWlVc1ByaFRITUdvOTJGR0VlZkNXWDRxTEFxNy1XeVBZSmdpd1Roc0dXS21rd2xKUS1vMFE2NXhYdWtnU2tkTWVz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-10-008",
+    "date": "2026-07-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Stock’s Loudest Signal Is The One It Stopped Sending - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOekNmSmpPX1I5Wmx6R3ZieWpqNXZrTzZSdHIyeU9IYTZHU3ZYdWNQWnJmOU83NS0xTllVZG12VWNEVmdpcnVkSUlmaUgxYjdYYmtQZGlVXzBXVFBwd3NMaGsyNlgtVzJCQ0Ytbmwzbm",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOekNmSmpPX1I5Wmx6R3ZieWpqNXZrTzZSdHIyeU9IYTZHU3ZYdWNQWnJmOU83NS0xTllVZG12VWNEVmdpcnVkSUlmaUgxYjdYYmtQZGlVXzBXVFBwd3NMaGsyNlgtVzJCQ0Ytbmwzbmh5MTNzcWthVjItRjhaeE5Gb0dMNDNoZjdiZUMyMjlsYXlFbW9YTnZfNDRTNGhxLVRnanBrdU9uNlB0Rk1vV0ExN255aTlGT2o5RlhERkgxS09uWmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-07-10-009",
+    "date": "2026-07-10",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Stock Returns to Its Buyback Price, but Earnings Math Sets a High Bar - TechStock²",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPbk5UZFYwdnVTbUpNTng3VmhMMjlkSExrZ3BOMFRudk9tTVc3bzl1MTFGX1hPM0U4YThEZ0VnMktEX2JCTDUycFp3V2N5YWNtTjBwNHNMWTluRnRGNFg0M3RqRXBKVVI4TVlESmlndG",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbk5UZFYwdnVTbUpNTng3VmhMMjlkSExrZ3BOMFRudk9tTVc3bzl1MTFGX1hPM0U4YThEZ0VnMktEX2JCTDUycFp3V2N5YWNtTjBwNHNMWTluRnRGNFg0M3RqRXBKVVI4TVlESmlndGtxczl4VFlfMjFYeWtEU05MY1dFOGVUVmlseFJtNG5CMUZuRlFzUk9BN3pSaWkwNjBvU0ZqdXdiakF3RThFN2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-07-10-010",
+    "date": "2026-07-10",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "ITW stock: New dividend king slowly forms a highly bullish pattern - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQV2pNTXZPMm5Va2ZnVmU4UElkaC14TzZaamVsMHlrRzVUUTJEdDdOZXhWVWlDUEJUMnE2Z2dxenYycHJ5YVB0bjdtSUo2TTRnOEZjbWlYcXVfZUp4M2pLRVBqc091YlQ1cTZTQlZ5Rm",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV2pNTXZPMm5Va2ZnVmU4UElkaC14TzZaamVsMHlrRzVUUTJEdDdOZXhWVWlDUEJUMnE2Z2dxenYycHJ5YVB0bjdtSUo2TTRnOEZjbWlYcXVfZUp4M2pLRVBqc091YlQ1cTZTQlZ5RmtxYVR1VUtaMUlNREdGUzVoeTktSTFUUVJGQ3gtOW56aV8yU2hZRlBZbUxPZDhTeklLRmhDdzU1Nm10Q0treW9XNmdVa3A5WlRuTEt5Z1NR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-10-011",
+    "date": "2026-07-10",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Goldman Sachs Adjusts Price Target on Parker-Hannifin to $1,071 From $1,070 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ244alVIX3R2TkpxeU9DOFpSTEpRRkhYc2YySlVLcHlWNjJ4RTRaYkE4SXBUaFJMOW5ZbGl6Z2w1RGk5RV9ySS1EbXhDLTRiQnFDM21UTklzMW9xZTh5X1FVS0NFTFFOa2UyMV9fbk",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ244alVIX3R2TkpxeU9DOFpSTEpRRkhYc2YySlVLcHlWNjJ4RTRaYkE4SXBUaFJMOW5ZbGl6Z2w1RGk5RV9ySS1EbXhDLTRiQnFDM21UTklzMW9xZTh5X1FVS0NFTFFOa2UyMV9fbkFmcWxBZHo4RXBOQTJJWXZCSjFWaVFodFhfOTdnc0RaaFc2X00zZXhmUUxiVVRtWTRRVk9fdHF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-10-012",
+    "date": "2026-07-10",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Shares Sold by Kestra Advisory Services LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ2dvSkNzcWtCU1E3SkV3SnVLN2JlTFRmVjJqZVpzUHZqblFTZldXY1BnUmtSc3ZtWmVnMHJiUXFKamlTNi1sOFhzeDdzeEgwVXFOdmlFZFhPY3J2VmxoaWJkYTFhSU5MNk1WVEl4Zj",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ2dvSkNzcWtCU1E3SkV3SnVLN2JlTFRmVjJqZVpzUHZqblFTZldXY1BnUmtSc3ZtWmVnMHJiUXFKamlTNi1sOFhzeDdzeEgwVXFOdmlFZFhPY3J2VmxoaWJkYTFhSU5MNk1WVEl4ZjRGd1c2Um0tbW9hTmp2c0w2NDFmUjBFYWhEeG12c19sLW15d3dhWjdJWWtUdENSZjVXUjQ4NGhSS2t0ck5Kck53REJhT1N4bG0xckJRZm16U3Y5enU4VTZ1S0hVSi1CQXgt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-10-013",
+    "date": "2026-07-10",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Caterpillar opens new Rapid City facility, expands virtual reality training used worldwide - KOTA Territory News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLVY1dXAyU2MxbVhXNFVLaGprTjBvS2p0dy1MR2F2aHM1R2p4bE9IcnB4WGptUmJFaHltUDZTQ05nOXB1VG9KdXlNdnJxUnZpaWhFNDJNQnBnU1pWd0xMTzJpeFBmS2xHY2FaVm1QZy",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLVY1dXAyU2MxbVhXNFVLaGprTjBvS2p0dy1MR2F2aHM1R2p4bE9IcnB4WGptUmJFaHltUDZTQ05nOXB1VG9KdXlNdnJxUnZpaWhFNDJNQnBnU1pWd0xMTzJpeFBmS2xHY2FaVm1QZy1qd2dRYnZuRmtnUF9NRnFIQ2FQUWg3aVlqTm9qc2EyQVdLdk5ZRDRfdzVkR3BDRDVMaVJuSnRRUjdfcGxpMTZpZnprMmNFeUdzRmdCM0hkYXViZ9IB1gFBVV95cUxObklUeWJEUndCN0pWTTE0bFZrSTRhUmkzNndWZE5jZ0dPLUdTenhXTWx3bk9wMVoyYVJOSHcwRTR0ZDFmMnlnMUZCa1RudzlTaE5ZU3J0dnNwc3JWSW42bWZ1ZVVUa1Zyb01UTXlhYUxudnBKZWlhMVJlVTNQMEcyakY1WHpFRGFqcDJxMnhOcEVqb1BkWmNiMFF3aFJZd3lQV2VhMmNoSkJTMVlKb3l2ckJkYTlDYjZTUnZmVGRvSzJZYnVORnRKN3RBb1NZbDVfMndSVzZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-10-014",
+    "date": "2026-07-10",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Calls of the Day: AbbVie, Caterpillar, Marriott, Lamar Advertising and PepsiCo - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2k3eGgtM3pHSzFjclR4VjQ2Qm9lTXBoWVl4cV9QMG1PeFljejdzN3JrM3VpWmZvZjVJSVNuWnRhM01EWXZSenpETjc4OGxVd0RqSjlob1lIX2hYMG02d3dVcU5na3YzU19kdWxFeG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2k3eGgtM3pHSzFjclR4VjQ2Qm9lTXBoWVl4cV9QMG1PeFljejdzN3JrM3VpWmZvZjVJSVNuWnRhM01EWXZSenpETjc4OGxVd0RqSjlob1lIX2hYMG02d3dVcU5na3YzU19kdWxFeGl0TWM0MGF2eXY5Z1BRSkp6YjhjUWRFaDhCUEZ3MUN5YXpvS1VtaWowckpRcnh3bHpDTDJ0R2o1Z3FrcGdUb1p6WHJDX0lXZHct?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-10-015",
+    "date": "2026-07-10",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The 'morbid' version of the Hungry Caterpillar - DVM360",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE81d01Xa1NiZ1otby14azg2OFFHckVPQV9LMWxLOHNkSklqZzBlbGc1aWdtc0dHa1VIeTIyN1dKQVRQdlBOQUVBSDJfamdaclpOazlHaEU1QXpCRnBLMVo0cUdnbGJJZlg4LThPT1BWME",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81d01Xa1NiZ1otby14azg2OFFHckVPQV9LMWxLOHNkSklqZzBlbGc1aWdtc0dHa1VIeTIyN1dKQVRQdlBOQUVBSDJfamdaclpOazlHaEU1QXpCRnBLMVo0cUdnbGJJZlg4LThPT1BWMEYyeF81RlEwR0pJY0x5Uk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-10-016",
+    "date": "2026-07-10",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "cnc_technology",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Excellence Pavilion Showcased AI, Robotics, and Smart Manufacturing Innovations from 23 Companies at Automate 2026 - Embedded Computing Design",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxORzl2UEJwbDJsOUNyZkFMbzEwSktpN2Jmc25HdGttbzM3cnZiZkxJNFZ6NTQwZEJhVUU1U1h0X2J2RGdDRGJJZ2o4SWkxSWNsejNON2pvd0dKVEhmeGU1Sm1oSmc4R3hta19yY0U3Sm",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxORzl2UEJwbDJsOUNyZkFMbzEwSktpN2Jmc25HdGttbzM3cnZiZkxJNFZ6NTQwZEJhVUU1U1h0X2J2RGdDRGJJZ2o4SWkxSWNsejNON2pvd0dKVEhmeGU1Sm1oSmc4R3hta19yY0U3SmMzV0lKN1N2alQyaUVOeUN5M2hSNm9Kd203QXhFUXdGQXVoT2JJcjJTSFRPN05jRE9nejRZYWdNc214ZlgxY25Cc0FYcU9xQUdSaXM2Nl9WNS1lT1doSHdIUnBSR0Q1TldKdFBkaE9jdGxfTjFrX09WaGdfcWM1WG43TmJaLWJ5QUd6dW00MjNEUFQ5dDZqdk9pNVZpOGZzQ01VNzdrcXU0Tjd6NzBteFlPMVcxaA?oc=5",
         "type": "rss"
       }
     ]
@@ -624,6 +933,47 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMk82b1puWWZyV3dSdTJiTmpxVG14TFl5Z0V2ckQ3Ti1UMjhCRG9xYk4wbVdvVTRSMERRN2EySTQ5dVVnY3ZFRGRJaEVkaW1sWXdZejQ4dnBMaWRZcHR1bjcyS2NpU0dwVk5ydDFHZ21VaXhPUjRKbDJwMEV4TngzdzhjV294U0F4OHdIWmRHa2ppMW1ERXNOMXZaY3c1VGU4S0HSAVZBVV95cUxOMHAzS0VvR0pFd1R1ZWJBSU80VnlUNS1GMklPNDJjdlh5ZnR4OWtUOTJhd3drd2J0UjF0aWhfMU9lSmE0Y0lpRGtXYTk4UWJ5Q2RwYnlZdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-07-09-029",
+    "date": "2026-07-09",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB outlines capital allocation priorities as automation demand grows - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0t3UUloajZBWF9RLVAyM2MtNXU4aUxHMk5rNXc5QUJ1bXhzYTZ0RWdHemNkRzVLR2pxYVgwcUFfUm5DNTdnLW9lajFyR0ZqNUxqb3E2bHNRYmpGZzlPeUdQMmliZWJJZHZMUFVTTH",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0t3UUloajZBWF9RLVAyM2MtNXU4aUxHMk5rNXc5QUJ1bXhzYTZ0RWdHemNkRzVLR2pxYVgwcUFfUm5DNTdnLW9lajFyR0ZqNUxqb3E2bHNRYmpGZzlPeUdQMmliZWJJZHZMUFVTTHJrVWd0M2pzclZJWTFpOUZxMFlEaWpRTlNnRnpJTVVQRG9vZ2E0eFZJbnFWVFZmYXgySjNheTR3Y2dxOTQyTkVfUldKTjduNnVqUE1ITWFrSFM2VDktRXR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-09-030",
+    "date": "2026-07-09",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Caterpillar (CAT) Still A Bargain Or Already Fully Priced? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQTmxXbGVweXBVNzNySXpieVJFSG5ac3hWWHo3ZDNHU05vMTdiRDFwWXNfMVpsXzdlYzJqQUlRQ2FrZjZIRzNsbDhKZ3ZWaFRxaUE5bEVuelpOUTFYTlBDX3U0T0x1ckkxUGxTbDFUQW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTmxXbGVweXBVNzNySXpieVJFSG5ac3hWWHo3ZDNHU05vMTdiRDFwWXNfMVpsXzdlYzJqQUlRQ2FrZjZIRzNsbDhKZ3ZWaFRxaUE5bEVuelpOUTFYTlBDX3U0T0x1ckkxUGxTbDFUQWhoUm9sT1dVU0U1X1pSTmFJeW93S0lWX0l4SkUyZkNVVUFhdm1ma0tJMHI4elVVeF9hbFdWOQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1377,6 +1727,48 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV9VVDRIYVpZYTN3QV9uXzF1OGZ3eW4za0V5WmktSVRmRW03YklFUmwyNTU4aFZmZXYySlFVNDJ6SFljWjFFRmxOM1I0Z2FPY0VGZEx4dmJ4TlZ1N3FPZWctMHItdDdHejhPQ2tZS28wZW54eEY0U1ZsQU1pTHVIQUVYSTBidVRDMnhTMDlKN1pkNGFkamZfSkRpcVY2RzV3U1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thk-2026-07-08-038",
+    "date": "2026-07-08",
+    "companies": [
+      "thk"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "THK focuses on motion control technology as investors watch global demand - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPVUhsY1dsd2VtMUt0UnJKSzR1Uks0cTBmVTJnWnhfNjJlcFJDTDJsSnVDUWlCdzI0dzNZUm5TOS1RcF9VOTJCVENTbDA4MzlfUDd6MGx1cXJzTURUd0EtZlZBb29PWVlRM2w5V0pzeW",
+    "sources": [
+      {
+        "name": "thk",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVUhsY1dsd2VtMUt0UnJKSzR1Uks0cTBmVTJnWnhfNjJlcFJDTDJsSnVDUWlCdzI0dzNZUm5TOS1RcF9VOTJCVENTbDA4MzlfUDd6MGx1cXJzTURUd0EtZlZBb29PWVlRM2w5V0pzeWxBakQ4VDc3Qm8tZmNKcDNtX08ySllBbWZzak9YdFVDSGtWOFp6WnZjejZDYjhLQ3JPUjF6MVJkdzMtakZWd1hER2tlbk1SYXB5R0FTN3dKcTFsWW1LM1AwY2N6LTk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "keyence-2026-07-08-039",
+    "date": "2026-07-08",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Keyence strengthens its automation footprint as global demand for factory sensors grows - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFRkZXlzbkU2N0w5ZWtrLXdBWUoyc2dWb09nU2pLV0F3cDlZMGFCR1VIamlOY0Z4OU1wclo0TmRaUEUySGwwc3NCZEI4aFBsYUFjQm40djlJNjFBdkZtYzhJRHNMbTVSWV84TDFXOG",
+    "sources": [
+      {
+        "name": "keyence",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFRkZXlzbkU2N0w5ZWtrLXdBWUoyc2dWb09nU2pLV0F3cDlZMGFCR1VIamlOY0Z4OU1wclo0TmRaUEUySGwwc3NCZEI4aFBsYUFjQm40djlJNjFBdkZtYzhJRHNMbTVSWV84TDFXOGNGWVhBY0k3OGlYYTBMVmRPZVJJaVVyQktTd1oxZW56RGcyUWdjc29qaUU5RVpUaEo5OHlCUzA5RWNlTXY4cjN6eXVjSTJ0cVJUcWZwdUdJMEwzbFUxTXNpSlBBdzc?oc=5",
         "type": "rss"
       }
     ]
@@ -2200,6 +2592,28 @@
     ]
   },
   {
+    "id": "keyence-2026-07-07-041",
+    "date": "2026-07-07",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Keyence VK-X3000 3D Laser Scanning Microscope - Precision surface analysis for US manufacturing - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNajFUWHl3NXhuTEl4Q1BnTUNYazF1TGxXamd1TDRfMjBsOTdueEluLXpJeDJwTVFZbGpqMkFVYzM5UnR1OUloQkRzQ3dIV25BVlZXWXk1N3czY3FORjY3YmtxUnV0RmJxSDJ6WGZRTD",
+    "sources": [
+      {
+        "name": "keyence",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNajFUWHl3NXhuTEl4Q1BnTUNYazF1TGxXamd1TDRfMjBsOTdueEluLXpJeDJwTVFZbGpqMkFVYzM5UnR1OUloQkRzQ3dIV25BVlZXWXk1N3czY3FORjY3YmtxUnV0RmJxSDJ6WGZRTDZmTG5BSHdMVjdTRzhvYlFzUlF6S3NUX1VjS0ktTl9sUDBzck4tak9tWmdGNHhyOE9Yd0xjNzRXYUR5cWhWZnF5dUFxNm5ZVTdIX1lpUTNvemh0aVR4ZmRjQXk0OA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "abb-2026-07-06-001",
     "date": "2026-07-06",
     "companies": [
@@ -2965,6 +3379,47 @@
     ]
   },
   {
+    "id": "keyence-2026-07-05-013",
+    "date": "2026-07-05",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Keyence IM-8000 Series from Keyence - automated dimension inspection for US plants - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxObDk2S2w5ajgyM1drRzhvbkwyWm5ZYkdVNEJ5aWxjMjRzVzB4RVAwSzBQaDFTMGdfemo5alhpbmQ4bnFNTWotUU5GaEtPMFhWU3dCYWl1M0gzc0cwWjB5cTVNdWM0TTA4WFJvMzdYYW",
+    "sources": [
+      {
+        "name": "keyence",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObDk2S2w5ajgyM1drRzhvbkwyWm5ZYkdVNEJ5aWxjMjRzVzB4RVAwSzBQaDFTMGdfemo5alhpbmQ4bnFNTWotUU5GaEtPMFhWU3dCYWl1M0gzc0cwWjB5cTVNdWM0TTA4WFJvMzdYYWEwbFN3OEFHQTZGWk03dHVQQjQyMi10ZWtsZnczOWhSeWlvaFhBWXZxR1UwQ3FCQWVuUjV2OUEwMVdSbmFIQzRXNkswQTk5MnZvSXprUFA1TDZkVU1hdmlCQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amada-2026-07-05-014",
+    "date": "2026-07-05",
+    "companies": [
+      "amada"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The ENSIS Series Turret Punch Press - Amada bets on classic sheet-metal precision - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQb2k1TmlrdXphU0pueHhwMjZLZkhpU2NETm4xblZ2MUxhaE1zdlBqNmU2ckYtc0M3SmFwQnBXS3BMcjVJdnRPeEw3eXJfdXJjcHo5a3hCUllzVmw3TlpzOEwyT0xSUlNVNkZpTWd1OH",
+    "sources": [
+      {
+        "name": "amada",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb2k1TmlrdXphU0pueHhwMjZLZkhpU2NETm4xblZ2MUxhaE1zdlBqNmU2ckYtc0M3SmFwQnBXS3BMcjVJdnRPeEw3eXJfdXJjcHo5a3hCUllzVmw3TlpzOEwyT0xSUlNVNkZpTWd1OHlUOHo5eHVoZW9ha0ZMUVB1TEZoRW4xMW9HQkhmX0FfRUtxbjFxdHFITEJ3N0g5aE5zaEhKbkFJT0RCaTFZQy0wMjl4WFpWd1VmQlR2Rm0zdzFUdzRQZFcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "itw-2026-07-04-001",
     "date": "2026-07-04",
     "companies": [
@@ -3420,6 +3875,136 @@
     ],
     "impact": "neutral",
     "title": "Okuma Corp adjusts to global machine tool demand. Investors track long-term strategy - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEhod0NETXdRNUVWSXBua0dwajI2VWdaajJSYzZMMDljckMydHNMT095WV9wdHYydmxvSFpfblRxV2JhbTBfR2Nfam0zVDFmRHJFR3FQcXRYSHJ3aGNjN1N6RlZvYndRajFHUTdadT",
+    "sources": [
+      {
+        "name": "okuma",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEhod0NETXdRNUVWSXBua0dwajI2VWdaajJSYzZMMDljckMydHNMT095WV9wdHYydmxvSFpfblRxV2JhbTBfR2Nfam0zVDFmRHJFR3FQcXRYSHJ3aGNjN1N6RlZvYndRajFHUTdadTgzdlotR01RS21OYmNucnZnMDlfUUZSTC1abjJHZWlMcjVpYTVXMGlUTEFqcXpvb2NRRk1zUjYxLVFYVTZGQkNWNUwxaUd4MXpVbFBPLW9KdUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hiwin-2026-07-04-023",
+    "date": "2026-07-04",
+    "companies": [
+      "hiwin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Hiwin Technologies outlines growth ambitions as automation demand expands - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQNjBwdmMtVHZKSHp3Z0tjZC1OLVZrcXhNTU12M1B5V0pLQWMtLW1WN0pHV0JZeTJtckkycFAtRUFxblMwRkRTWUd1cTdoOHVJdDZGaFIySWJ2c04ybno3NE1FVkxENS1mSFlOam00bm",
+    "sources": [
+      {
+        "name": "hiwin",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNjBwdmMtVHZKSHp3Z0tjZC1OLVZrcXhNTU12M1B5V0pLQWMtLW1WN0pHV0JZeTJtckkycFAtRUFxblMwRkRTWUd1cTdoOHVJdDZGaFIySWJ2c04ybno3NE1FVkxENS1mSFlOam00bmlwN25jQ3VGSnJTdnlxaU1tdHRwaDRuc1RGeEFobHdTU3pWdmlLVUFndTdtYVk2bThVN3F2VXMtLUZEckdhN2dZQlZlekpfT0luQmRtSmFCamlPWmRiQlozUHdIQXY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thk-2026-07-04-024",
+    "date": "2026-07-04",
+    "companies": [
+      "thk"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "THK Co Ltd outlines its motion systems role as investors weigh industrial demand - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVBCQmN0ZGFhTEZhVGdOYUNaQVZlVmNLNmtqdF9LcDJ4RHo2dlhUZ1kyN1dfcnVOQXdBUW9GbmsxN0dfMGdtMDhoVnZQcjJacWtRNnI4WG1DWWo5Mjc1VE9nZXJtRngxdDdxd0E0eX",
+    "sources": [
+      {
+        "name": "thk",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVBCQmN0ZGFhTEZhVGdOYUNaQVZlVmNLNmtqdF9LcDJ4RHo2dlhUZ1kyN1dfcnVOQXdBUW9GbmsxN0dfMGdtMDhoVnZQcjJacWtRNnI4WG1DWWo5Mjc1VE9nZXJtRngxdDdxd0E0eXRqQjVUSG9JbVlBSkhRSjJ0bzFkZWZRY0doYjdSSmpJTkNCN2hrYjNoMmZENFFvSFVzVkxzbWVKT2J0UHQ3LThBcWMtTEJ5akt5NVM2elZSMHlWTTlzRmxpUEhrSHk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thk-2026-07-04-025",
+    "date": "2026-07-04",
+    "companies": [
+      "thk"
+    ],
+    "topics": [
+      "cnc_technology",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "THK focuses on motion control technology as investors watch industrial demand - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2ZYR2Fidnk2a1hPbEstZy1iT09yVnR6RnhWanFPRmFPemR1bGpKdTVYQmhBU09rZUhsWVBhM1pvTV9CcnczS2RiQmNZeGN5SDIxQUUzdVlWT1NJR2xBaXBMWWlyMFZQZlV0VmdFUG",
+    "sources": [
+      {
+        "name": "thk",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ2ZYR2Fidnk2a1hPbEstZy1iT09yVnR6RnhWanFPRmFPemR1bGpKdTVYQmhBU09rZUhsWVBhM1pvTV9CcnczS2RiQmNZeGN5SDIxQUUzdVlWT1NJR2xBaXBMWWlyMFZQZlV0VmdFUGNORnB4QkkxWUxpWmNHMGctVU1xaFhGZHo4cGtKU19POVNkRHNYaTJSRE92UHhBRi1TTGR5WTFubXZTaFJoemxQM1dCWlhZR0xqeW1ja3IyMVpOU01waFFrdg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "keyence-2026-07-04-026",
+    "date": "2026-07-04",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Keyence balances global automation demand and valuation risk - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEZmX1REcXk1VFlqTF9wUi1vWV9PaGNnNFBIR2NHQmhsZFdUMmhpU3g4cHpNblh2Q2VGaHFPeEJYZHV3cF9BTUFkaXNvaEVzcjg4TlRxRXRqbFRSTnBDZkRrRzh3R0dPTmRwdzdGWT",
+    "sources": [
+      {
+        "name": "keyence",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEZmX1REcXk1VFlqTF9wUi1vWV9PaGNnNFBIR2NHQmhsZFdUMmhpU3g4cHpNblh2Q2VGaHFPeEJYZHV3cF9BTUFkaXNvaEVzcjg4TlRxRXRqbFRSTnBDZkRrRzh3R0dPTmRwdzdGWTZUeHJjbE1YSDAzdFUwWlFackN3M0t0LUZzTDh2VElZSk1DcTN5VVBiU3BQZGpDZzgyNVd4NTRJdjJkd0tiVHBoUnpHbnE3eHhPNWhF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "fanuc-2026-07-04-027",
+    "date": "2026-07-04",
+    "companies": [
+      "fanuc"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fanuc outlines long-term automation strategy as investors assess global demand - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPcDRZcjBsNlRFU2YwM3h6YWowQkMxaWw3NjE2anZHUVhBb09CSURFN2tHbmNtZlowSF9oV3FhQldiTFZDSWRIbEwwRkxHOG5MMTlsSjNRWHFwc3ZOSGFLUmxoX24tREJSVk5GTTd2R1",
+    "sources": [
+      {
+        "name": "fanuc",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcDRZcjBsNlRFU2YwM3h6YWowQkMxaWw3NjE2anZHUVhBb09CSURFN2tHbmNtZlowSF9oV3FhQldiTFZDSWRIbEwwRkxHOG5MMTlsSjNRWHFwc3ZOSGFLUmxoX24tREJSVk5GTTd2R1JXZDJkY2VwMnBDak8ydHVldXFTZ2NjTnJYUDlscTRuRkNNVnB0bnlsbXgySEdQdmxmbHZmbXczbjZxN2dreVNoWkQ3b05RYlBSbVpXWlhsMGlPNzV0SGVSUktn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "okuma-2026-07-04-028",
+    "date": "2026-07-04",
+    "companies": [
+      "okuma"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Okuma Corp adjusts to global machine tool demand. Investors track long-term strategy - ad-hoc-news.de",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEhod0NETXdRNUVWSXBua0dwajI2VWdaajJSYzZMMDljckMydHNMT095WV9wdHYydmxvSFpfblRxV2JhbTBfR2Nfam0zVDFmRHJFR3FQcXRYSHJ3aGNjN1N6RlZvYndRajFHUTdadT",
     "sources": [
       {
