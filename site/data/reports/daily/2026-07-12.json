@@ -1,0 +1,161 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T09:44:42.217830Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "abb-2026-07-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABB stock reflects the group’s global electrification and automation reach - ad-hoc-news.de",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZDBsV1ZWZ0tGWkM5TjlST1FWZ3pDcmc1QnI5Y1FIZmtiSmdHdEtyenAyUjdNSkFrQ0lweG9QaUJyeXFXUkJxMkdyUHJWUmllWlFibU12WDlBSFYtWkhZOThJc1pQcmdZNmctMV9UQ0QzTXFiZ09NZnVZbTd1T0Z0TmNWOVdEMzd0Q2JrQ1RyX3Ryd3lPd19aYXZkX2tqNTRFMnRGUC1iN3M0SkNzeDBkd18yWVk5SVl4c2xObDgydnJ3d3VSblE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itw-2026-07-12-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of Illinois Tool Works Inc. – SWB:ILT - TradingView",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTE9kaGQtaGM1X1BEYlJZTGRSUUs3UnFoZF9sQ0I5S2FKb3V5QWZiRG5Eb2I2NVhIMU5BM0V1YUk2M3lhMTBFTmwxbW1LbVhnRGdOZ081bzFBYzl2N3hici15VnlSZGl4NzhvbDNKM3ZSUkNYdFdhSFJSajUwWVdOcDREREYtNkdCeWx1OUxIZ0xzbVRDUkw1QkZrYl8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "abb-2026-07-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ABB stock reflects the group’s diversified automation and electrification profile - ad-hoc-news.de",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWkFLeGN1ajA4T1hXdWxGV1lsd3BNSnBfSVc0azFEVHhrR1NMSW1sbVl5akt2eHFiVndULUw2VnZKaEI4cHZ2NHhoNjdQNmp0bmFnenJXc3hlMVNaTEtaZXJsS1ZWTHI1SGc3d0FMY2FodWJ4dG02cy1zMGtRU19UYmpaWEhtS2U2WHBZR0pPUGl6UDc1LUdMNDVDU2RyNkZpVUJzTWZzbDM1VXJLNzRwT1NVSVo5Ym8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "abb",
+        "count": 2
+      },
+      {
+        "id": "itw",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 390,
+    "dup_title": 230,
+    "too_old": 140,
+    "gate1_blocked": 0,
+    "gate2_blocked": 8,
+    "passed": 12,
+    "pass_rate": "7.5%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "Price to book forward of HIWIN Technologies Corp. – TWSE:2049 - TradingView",
+      "Price to book forward of Delta Electronics, Inc. – TWSE:2308 - TradingView",
+      "Reduce your business running costs with KNX",
+      "Mitsubishi Electric Reached Agreement July 2 >6503.TO - Moomoo",
+      "Illinois Tool Exhibits Strong Prospects Despite Persisting Headwinds - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為ABB、ITW相關動態：「ABB stock reflects the group’s global electrification and...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ABB stock reflects the group’s global electrification and automation reach - ...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Price to earnings forward of Illinois Tool Works Inc. – SWB:ILT - TradingView（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
