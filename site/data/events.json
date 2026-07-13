@@ -1,5 +1,131 @@
 [
   {
+    "id": "hiwin-2026-07-13-001",
+    "date": "2026-07-13",
+    "companies": [
+      "hiwin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of HIWIN Technologies Corp. – TWSE:2049 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmpveGtTdW00aFFhMVp0Y1FnNURZeVpTQnRZZHdoUFlkNGZSTFFaVjl5ZUVIaEl1X0tqRldCZFhsdUkxNWxaU0UxaHZrMkJiXzdObWh3eHVTQWw4SnhEX0Zpb3RGek1uUml1SDBhbH",
+    "sources": [
+      {
+        "name": "hiwin",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmpveGtTdW00aFFhMVp0Y1FnNURZeVpTQnRZZHdoUFlkNGZSTFFaVjl5ZUVIaEl1X0tqRldCZFhsdUkxNWxaU0UxaHZrMkJiXzdObWh3eHVTQWw4SnhEX0Zpb3RGek1uUml1SDBhbHo0aXFEU1lNakxqOU1IanhBZ2wyYW5fd3pkRzZFQU1tQmo2QkJoTURCQmRwcUs0QzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-002",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI Infrastructure Stocks Riding TSMC Demand Investors Should Watch - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQTlhVVFaSHloVmEydTIxd3F4ajRPMmlKbnFkd3FXQ3dNY1hlMnZ4Ty1DMjZRN19SOElEaUpGMkM0RU1KRnFLU0pCamo5eW4zVmNaT1JXSm90bE5pbFJReTNkRlFTYlotUUdjaWYxbm",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQTlhVVFaSHloVmEydTIxd3F4ajRPMmlKbnFkd3FXQ3dNY1hlMnZ4Ty1DMjZRN19SOElEaUpGMkM0RU1KRnFLU0pCamo5eW4zVmNaT1JXSm90bE5pbFJReTNkRlFTYlotUUdjaWYxbmxKLTZrSzBWeEUwa3V3UTRZeDUxeXFuSFE0UUhpSXk2MTFKZF9WajlYemJLbU5jakM2aDRlTXhkeV9aR0xHcFdFeU80OHNpT0dybzF1OC1UcmVzem9zUjJ5dDdUd3VwY1QyOGRISGpIS0PSAdgBQVVfeXFMT0E5YVVRWkh5aFZhMnUyMXdxeGo0TzJpSm5xZHdxV0N3TWNYZTJ2eE8tQzI2UTdfUjhJRGlKRjJDNEVNSkZxS1NKQmpqOXluM1ZjWk9SV0pvdGxOaWxSUXkzZEZRU2JaLVFHY2lmMW5sSi02a0swVnhFMGt1d1E0WXg1MXlxbkhRNFFIaUl5NjExSmRfVmo5WHpiS21OY2pDNmg0ZU14ZHlfWkdMR3BXRXlPNDhzaU9Hcm8xdTgtVHJlc3pvc1IyeXQ3VHd1cGNUMjhkSEhqSEtD?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-07-13-003",
+    "date": "2026-07-13",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ABB stock holds steady as electrification and automation demand support long-term growth outlook - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOZU5LMENZMC02SjlwVzZ1SVRkSkREUjJPR1BWSDZIeDhRNXlxRlhUWU5FRHBvcHA1VXY0MmE2Y1BPNkZkSzZ0NXVEZDc4cU00UWNkM214QWk3eVVWa0FLdk9yOXMyOVYtUUF2Z2dhZ0",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZU5LMENZMC02SjlwVzZ1SVRkSkREUjJPR1BWSDZIeDhRNXlxRlhUWU5FRHBvcHA1VXY0MmE2Y1BPNkZkSzZ0NXVEZDc4cU00UWNkM214QWk3eVVWa0FLdk9yOXMyOVYtUUF2Z2dhZ0ZudkRVSXBLWGszVFJYRVhWVnlqdDBCcVh1aDB4U3BGWFVERDFlYV9TckdHQjdsaGVybVNtamI0U192dXBBb1JYR1J6VkFpU1Jma003bkxXNDVsSm9DMU1EcFJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-13-004",
+    "date": "2026-07-13",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Shares Sold by AMF Tjanstepension AB - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOOXJEUlRjZFE1YlUtdWVpT0dQdFlMeS0yT1dzSl9JMlNHSm8yU1RqX0FWZmN0TVEwVE9JNFJNVmVJV3pWWlJJNEIzX3JEM01mbW9wWEtQTVhYRVV6NWFoakpuSGFhcmE5XzBzZER0ZD",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOXJEUlRjZFE1YlUtdWVpT0dQdFlMeS0yT1dzSl9JMlNHSm8yU1RqX0FWZmN0TVEwVE9JNFJNVmVJV3pWWlJJNEIzX3JEM01mbW9wWEtQTVhYRVV6NWFoakpuSGFhcmE5XzBzZER0ZDZPbXNwMll5MERXMnIyemhRc3lHamZGY2VEWDFtbW84azRfR3pxZmo3QkFSczVWYUJCTUR1LWNBOEU1TTliWWQycGdIaG13T1NJQzgxU1F4OGxyWm9CUExF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-13-005",
+    "date": "2026-07-13",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Teachers Retirement System of The State of Kentucky Sells 9,889 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUmxSZjlxQ0ZyaTMzeXRxNEZlT2M4RVNDMzNseDd3bkViZHdDVXBOazR0NTJpaTJ5VHAwc0oxbEIzUmRfalRWRWl6OHJQS3d4bUhXc09HeVpZaWdRRkFCWk5rNlpQaV9vYkZzSjduNW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUmxSZjlxQ0ZyaTMzeXRxNEZlT2M4RVNDMzNseDd3bkViZHdDVXBOazR0NTJpaTJ5VHAwc0oxbEIzUmRfalRWRWl6OHJQS3d4bUhXc09HeVpZaWdRRkFCWk5rNlpQaV9vYkZzSjduNWdaeHJ5QzBlYjhHdDl1Z21BdE1GcU9rSnhhNUFzNkYzODdydkFmNzFHOGNnSmNEUU9VSmctR1owUnJRbjViU1NvaXFtWlIxWnBadHpYenB4LVo4ZDZJTENKaVpCalJ3anJKZzh6NVFNamIyR05mWjVMVlBrM2R3MGlQN1FtNXQ2N3RITEVOX3Zr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-13-006",
+    "date": "2026-07-13",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Five-Bt Protein Soybean Shows Strong Protection Against Major Caterpillar Pests - Farms.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdGU2dDB4REltejdCQ2RESlFyQmgyeEJEYUFPVHh2TWRPcWFRanFaSW9PZUlGbHlhN1dhR1dVeUh2c2padXV6VjVMZWVtUkIzaGJlZDJKbDRxdGwtX3BPWnF0TXRNLU13cG5QN29xQz",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdGU2dDB4REltejdCQ2RESlFyQmgyeEJEYUFPVHh2TWRPcWFRanFaSW9PZUlGbHlhN1dhR1dVeUh2c2padXV6VjVMZWVtUkIzaGJlZDJKbDRxdGwtX3BPWnF0TXRNLU13cG5QN29xQzBuT2pSX0RlRmxJZFJPLWlPLXhzc0dpZVZ2QUlIeWNpMkRzcXc3cUJyTWhtZTl0NWNMazJhZzJGZEtvZFNObVNITUwwNWEwLUZSOHJkLThSaGtad3dCX2dudllHOEdCa3pqMjZERWhiUjBkZDNrSWh1aFZVY1N3a2tOWE83ag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "abb-2026-07-12-001",
     "date": "2026-07-12",
     "companies": [
@@ -56,6 +182,148 @@
       {
         "name": "itw",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTE9kaGQtaGM1X1BEYlJZTGRSUUs3UnFoZF9sQ0I5S2FKb3V5QWZiRG5Eb2I2NVhIMU5BM0V1YUk2M3lhMTBFTmwxbW1LbVhnRGdOZ081bzFBYzl2N3hici15VnlSZGl4NzhvbDNKM3ZSUkNYdFdhSFJSajUwWVdOcDREREYtNkdCeWx1OUxIZ0xzbVRDUkw1QkZrYl8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-004",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "2308 Forecast — Price Target — Prediction for 2027 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB1VXdxQzNnc0w4a0xJSklXd3drb0NmRUt5MGloZW1IZHo1aldzQTRJTE8zbm5nQnJaOGlic3p6MWM4dmNFa3J0dXlaVDlGR3llT2NuYVlzTVJkQUZueE4zQXE2Z3p3eUhlTUZIYkY2WD",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1VXdxQzNnc0w4a0xJSklXd3drb0NmRUt5MGloZW1IZHo1aldzQTRJTE8zbm5nQnJaOGlic3p6MWM4dmNFa3J0dXlaVDlGR3llT2NuYVlzTVJkQUZueE4zQXE2Z3p3eUhlTUZIYkY2WDdjRlhkSlNr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-07-12-005",
+    "date": "2026-07-12",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ABB stock shows steady performance as electrification and automation demand support long-term growth - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0JlUXIzUVhhT2d2NDhnb01zdGdPaUxnZkl6OTZJS2hMZ0JHWGhUaDdwZjA3bTMxN09jRXpodlJnbHVVa2ExdGJmaHgxQkhKUDVFRzhjM2xNTnFfaDg3Y2Nqel9QTVZEVmpWdktIbG",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0JlUXIzUVhhT2d2NDhnb01zdGdPaUxnZkl6OTZJS2hMZ0JHWGhUaDdwZjA3bTMxN09jRXpodlJnbHVVa2ExdGJmaHgxQkhKUDVFRzhjM2xNTnFfaDg3Y2Nqel9QTVZEVmpWdktIbG92WGtXQ01BZXgzTm9IZDFTUjZhdXdHTUFQSzl4d0JMQ1Zhb05DTmZqODRiYVRtYjhSYktjVDJnVU1BM0VWcWZjU3hhM3dBUi1oMmNCd0NQWjlUaHZzY1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-12-006",
+    "date": "2026-07-12",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kornitzer Capital Management Inc. KS Has $4.93 Million Holdings in Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLTNCX0hBUE0zMVhDbzAxMVNrZ0RBMTRNRWJaVTV2RjVHbGhsYV9mcnpLVlRNZ3dCN254ZzFxLTJiRUlFaXRrZy1JQ3R5WWh4SnZRLUNOWWFjSVlPcE4tMVNHR2J4RlV5djdaaTd2bD",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLTNCX0hBUE0zMVhDbzAxMVNrZ0RBMTRNRWJaVTV2RjVHbGhsYV9mcnpLVlRNZ3dCN254ZzFxLTJiRUlFaXRrZy1JQ3R5WWh4SnZRLUNOWWFjSVlPcE4tMVNHR2J4RlV5djdaaTd2bDY3UzJDN2VEOVFlV05nbGpMLWsxdGF3NnVGeEE5X085eFppMDdGNHFWRkpJZlo4V0ZPb19LR192OVNWdDFVUlFOaFc0TkVsRThNTjhLUzg4bEZpVXRpNlVwWExZckJTRTE5dC1oZF9MeFZ1QVJzWFhPZTFySHdtaUkwdl9v?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-12-007",
+    "date": "2026-07-12",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Parker-Hannifin Corporation $PH Stake Increased by Fifth Third Bancorp - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWlTeUtVR0NhX2xBTElIbzhkTjNOV1Z0VVRKbjZNZEQ3SmhRVUJPbmMwSDlQWVB3SlZMUjY4bmZCNXpPeFRFUThSV0pWRUcxWTRMOUNCTHpSYVctYnBsQ0N5d2duVGw4RGIxenAwcj",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWlTeUtVR0NhX2xBTElIbzhkTjNOV1Z0VVRKbjZNZEQ3SmhRVUJPbmMwSDlQWVB3SlZMUjY4bmZCNXpPeFRFUThSV0pWRUcxWTRMOUNCTHpSYVctYnBsQ0N5d2duVGw4RGIxenAwcjN2RlgyM3ZONjdSWmJXSi1wQUFDcTRYMkx1Q3V4azBObG5nRFZTMlNoeXhFSF9oejRkbGF0QjBwbElVNDE1b1kxT1BQNzNnNy1EMThMNG9PbDlmdDlmLVhXWm13?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-12-008",
+    "date": "2026-07-12",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Shares Sold by Banyan Capital Management Inc. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbG9sX2FNbWlWZXZ0N3ZiM0ZySFZEV0tpcTJLQ0p2ZkVKVGR0T2o0RlhUYTdQZXF6WDJTbmd1bEFQZEpBNXBvWlZ2VHpwT2N3Q0NEd3QyM3NDZkJvcWpxWlVadWFILVhZcGNNR1FqVF",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbG9sX2FNbWlWZXZ0N3ZiM0ZySFZEV0tpcTJLQ0p2ZkVKVGR0T2o0RlhUYTdQZXF6WDJTbmd1bEFQZEpBNXBvWlZ2VHpwT2N3Q0NEd3QyM3NDZkJvcWpxWlVadWFILVhZcGNNR1FqVFRuT0o4NzFGaGxXY2lMTjFKWlVnUlk0V3BBUkwzSXdXOE1zcnRFMzlGUXR5VXhUNVpUMUtmZ3JyRW9vX0RyNVR3cy1nSm50T0xPQVBON0RKeFpDZFR4aVdOQjFsVEJJdkVRQkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-12-009",
+    "date": "2026-07-12",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar vs. Oshkosh: Which Industrials Stock Is a Better Buy in 2026? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxObVVxTGZGWS1sTG84SUlnYWRtdFZkdmZuaHNwY1NuZm9LMk1wUUhmdmpzM0FuUGhTVmIwb2kwWDhWdW4yS0E3WFV3ckFwUEtwNEZzQW9paDYwVHVRODk4V2FhVklPLThsemJVZUdtbk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObVVxTGZGWS1sTG84SUlnYWRtdFZkdmZuaHNwY1NuZm9LMk1wUUhmdmpzM0FuUGhTVmIwb2kwWDhWdW4yS0E3WFV3ckFwUEtwNEZzQW9paDYwVHVRODk4V2FhVklPLThsemJVZUdtbkJTQzN0RW1ZdXVNbHF1cDZSMW5oZzdLZzlUZHJMUGFCcVo0LW9RQmdKb1Y4T0lIeXdEMnpBWWlXZGNldHJqbU5jVlIwMmd6YlhNWVExaFdfdmg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-010",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Robotics in manufacturing: five shifts defining factory floors in mid-2026 - MarketScale",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXFBbFA1b1pfa25ibW1MWHpDQXgtVmZBYlM4M2lSUDduQ0RxT1I1a3BqOC14MklwNzk4SDZwS21vOFQ1VFl4SVIzNW81M3h4a3I1UHFwcm9BY0Nsd2kybXA3X0d1V043TU5Ld2MzRT",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXFBbFA1b1pfa25ibW1MWHpDQXgtVmZBYlM4M2lSUDduQ0RxT1I1a3BqOC14MklwNzk4SDZwS21vOFQ1VFl4SVIzNW81M3h4a3I1UHFwcm9BY0Nsd2kybXA3X0d1V043TU5Ld2MzRTlxOEZ0azVhaXNvcEtjMUIzZzVjb3FBeG9scDdIcmt1Rm5ib1duLXZZbHRGVjBDZmVLWXU4TU5UaFpObHNHUjJ4U1FQMkRqbU53a0p5RkVXamRFRlJJakE?oc=5",
         "type": "rss"
       }
     ]

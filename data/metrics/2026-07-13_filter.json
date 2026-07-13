@@ -1,0 +1,15 @@
+{
+  "total_raw": 391,
+  "dup_title": 231,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 1,
+  "gate2_fail": 4,
+  "passed": 13,
+  "gate2_samples": [
+    "Price to book forward of Delta Electronics, Inc. – TWSE:2308 - TradingView",
+    "Reduce your business running costs with KNX",
+    "9% Undervalued? Parker Hannifin (PH) After Its Russell 1000 Index Removal - Yahoo Finance",
+    "Candriam S.C.A. Raises Holdings in Parker-Hannifin Corporation $PH - MarketBeat"
+  ]
+}
