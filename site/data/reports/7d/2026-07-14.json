@@ -1,0 +1,146 @@
+{
+  "date": "2026-07-14",
+  "date_range": {
+    "start": "2026-07-08",
+    "end": "2026-07-14"
+  },
+  "generated_at": "2026-07-14T09:49:00.364438Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "caterpillar-2026-07-09-010",
+      "date": "2026-07-09",
+      "title": "CAT Stock Heads For Second Weekly Loss: Is Caterpillar's AI Rally Fading? - Stocktwits",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 27,
+      "last_week": 43,
+      "week_over_week_change": "-37%",
+      "sentiment_this_week": -0.06
+    },
+    "automation_capex": {
+      "this_week": 13,
+      "last_week": 16,
+      "week_over_week_change": "-19%",
+      "sentiment_this_week": -0.15
+    },
+    "earnings": {
+      "this_week": 23,
+      "last_week": 30,
+      "week_over_week_change": "-23%",
+      "sentiment_this_week": -0.06
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "abb": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 2
+    },
+    "mitsubishi_electric": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "parker_hannifin": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "caterpillar": {
+      "event_count": 9,
+      "sentiment_avg": -0.33,
+      "rank": 1
+    },
+    "delta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "itw": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "hiwin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 133,
+        "last": 201,
+        "change_pct": -33.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-08",
+      "event_count": 42,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-09",
+      "event_count": 32,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-07-10",
+      "event_count": 21,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-11",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-12",
+      "event_count": 11,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-07-13",
+      "event_count": 19,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-14",
+      "event_count": 2,
+      "sentiment_avg": -0.25
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-08 ~ 2026-07-14）共 133 則事件，重點為「CAT Stock Heads For Second Weekly Loss: Is Cate...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "CAT",
+        "reason": "本週情緒偏負面（-0.3），共 9 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "ABB",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Mitsubishi Electric",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

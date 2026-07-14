@@ -1,5 +1,44 @@
 [
   {
+    "id": "mitsubishi_electric-2026-07-14-001",
+    "date": "2026-07-14",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric to Transfer Majority Stake in FA Industrial Products Business to Konecranes - Machine Maker",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUDdXNnRoS19GbUVKOHpGdndqRWczdjd5dWh3SHp1VWpwSklKVVNyZEE0SURHSU5rUU1VVk1Mbm5VLXpOVWRURjBJV1E2V0ZpQU15M3hqSjhMY0tzT2xRMVFKVEIyaGRvTXgwX1N0Y1",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUDdXNnRoS19GbUVKOHpGdndqRWczdjd5dWh3SHp1VWpwSklKVVNyZEE0SURHSU5rUU1VVk1Mbm5VLXpOVWRURjBJV1E2V0ZpQU15M3hqSjhMY0tzT2xRMVFKVEIyaGRvTXgwX1N0Y1VHUnI4Wk1RYVgtNXFVOTdzQlB4d3QxeC1qSlJzQkdpLTBrNDZVRGJ6V010d014bW9xcEN5Q0JwNjhIeDJmOGVrOFZTRDQ5WVkzN244b2cwdTVVTHhNZk5LMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-002",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Expert Q&A: How compressed air system maintenance is changing, and how to react",
+    "summary": "<p>Industrial plants are redefining maintenance, reliability and digital modernization as they respond to workforce shortages, aging equipment, energy pressures and the growing need for smarter air co",
+    "sources": [
+      {
+        "name": "plant_engineering",
+        "url": "https://www.plantengineering.com/expert-qa-how-compressed-air-system-maintenance-is-changing-and-how-to-react/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hiwin-2026-07-13-001",
     "date": "2026-07-13",
     "companies": [
@@ -121,6 +160,273 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdGU2dDB4REltejdCQ2RESlFyQmgyeEJEYUFPVHh2TWRPcWFRanFaSW9PZUlGbHlhN1dhR1dVeUh2c2padXV6VjVMZWVtUkIzaGJlZDJKbDRxdGwtX3BPWnF0TXRNLU13cG5QN29xQzBuT2pSX0RlRmxJZFJPLWlPLXhzc0dpZVZ2QUlIeWNpMkRzcXc3cUJyTWhtZTl0NWNMazJhZzJGZEtvZFNObVNITUwwNWEwLUZSOHJkLThSaGtad3dCX2dudllHOEdCa3pqMjZERWhiUjBkZDNrSWh1aFZVY1N3a2tOWE83ag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hiwin-2026-07-13-007",
+    "date": "2026-07-13",
+    "companies": [
+      "hiwin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to EBIT forward of HIWIN TECHNOLOGIES CORP. – OTC:HIWNF - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPalhOV2NfUmI0cnlLNU54RWM2MTM4a2UtVWVub3YxQm96M0JfckFPTVVhSEJ3UllraWJVa2UzUkVxVFJDS0xvcjlqWWI3V3FMN2g0cnNMYmFDWThKUlprejlKWEFuMXZyTlppWkdiLW",
+    "sources": [
+      {
+        "name": "hiwin",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPalhOV2NfUmI0cnlLNU54RWM2MTM4a2UtVWVub3YxQm96M0JfckFPTVVhSEJ3UllraWJVa2UzUkVxVFJDS0xvcjlqWWI3V3FMN2g0cnNMYmFDWThKUlprejlKWEFuMXZyTlppWkdiLWZsalpWajlVTExrVzkzeGsyY2hlckVkR002aEVfOTBPMTYxQkd6Z0x3YnlGQXBhc0NvV0ZHTEhoRTk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-07-13-008",
+    "date": "2026-07-13",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ABB stock holds steady as electrification and automation drive long-term growth - Ad Hoc News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0c4NHFsZnZHU196cU40aTloTTNvX19hTXFlc1J4Tlh2RDI1LXg2NUY0YUd2V3d2NVlmWUlwMnhaeUxqZU1zSGw0emJLTjBQNUFCdmtrUHU3RVFoSXBIanMxV3MtY2doWG5CRU1SMk",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0c4NHFsZnZHU196cU40aTloTTNvX19hTXFlc1J4Tlh2RDI1LXg2NUY0YUd2V3d2NVlmWUlwMnhaeUxqZU1zSGw0emJLTjBQNUFCdmtrUHU3RVFoSXBIanMxV3MtY2doWG5CRU1SMk9uaXF3d1Q4Q0xWUVo5a01qVzNILUpfcHY5VDN6Z0JNcXNLcjlzWFRFRWJ1aWp1Tl9RbzdsR2ZkM1prZWdEakZKOXRBVzZjRjJIS3gzVF9xaEtOTTNoWS00bVk5QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-07-13-009",
+    "date": "2026-07-13",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ABB stock holds steady as electrification strategy supports long-term growth - Ad Hoc News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNNlRjcmQ4TmM1aXdTZWtjSWUtSGtHMDRQWk15dnFGNmc3X3RXdTY0bW0zcjJzaDdZeGEtWjZhSVhMRTdpMVY0c3JWQUNNYTU0cTFnRlA2VW1fa1Z3b3pCN3h5V096SnN1NnN2SW1Pan",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNlRjcmQ4TmM1aXdTZWtjSWUtSGtHMDRQWk15dnFGNmc3X3RXdTY0bW0zcjJzaDdZeGEtWjZhSVhMRTdpMVY0c3JWQUNNYTU0cTFnRlA2VW1fa1Z3b3pCN3h5V096SnN1NnN2SW1PanIxMFFZSGN4eC12S0R6SGJBY21MQ0ZFZGVaeTJVU0FKU2NOem9WV3huOHE1STR0QlYtdXE4ZDVsU3lUcVA2T3ZneGhLNUZVTjRyRGZXeXN0T2lXM0FBNUNr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-07-13-010",
+    "date": "2026-07-13",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "positive",
+    "title": "TCS and ABB expand 20-year partnership on network operations - Bisinfotech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONUVPaTNoZlI5RjFDWTVLTERZQjJvQjBpMF9MUUFaempPWll2Qkg1NWFrTkFLbnlCRGNJQkxkTXgyM2FseW12c1VFOHYyWGpwMWczUHp6TDhTeklpaFpkTlcwNW9EWHA2RDEzWk9SSm",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONUVPaTNoZlI5RjFDWTVLTERZQjJvQjBpMF9MUUFaempPWll2Qkg1NWFrTkFLbnlCRGNJQkxkTXgyM2FseW12c1VFOHYyWGpwMWczUHp6TDhTeklpaFpkTlcwNW9EWHA2RDEzWk9SSmpVVGlrVldqRUlXVVdiR0Rjc0NobUx3eU0xT09FS05TckQyUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-011",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "symbol__ Stock Quote Price and Forecast - CNN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GRkwtRkFJZjd2TXphV2JkRVdOZmF6REhta0U5TVZNOTZKNmY3T0hTX2twc3E5cHVJRGdZZ1N1b1NMTHBQdmxxMlFzcXo2cEk?oc=5\" target=\"_blank\">symbol__ Stock Quote",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GRkwtRkFJZjd2TXphV2JkRVdOZmF6REhta0U5TVZNOTZKNmY3T0hTX2twc3E5cHVJRGdZZ1N1b1NMTHBQdmxxMlFzcXo2cEk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-07-13-012",
+    "date": "2026-07-13",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (ITW) Analyst Prediction Sparks Optimism - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOLXZkWUdHYm16dDVLZHExZFJ1VjBkM2lUOFE5bEFYcGVIMzdnYzRXN29CamMyek54eVA5di1ySG16TUc5dHZqYlk2bU43OGUwYmRRZTVOQV9nNkZjOTVqaEpVR3BnZjRmNzBpTHBlQU",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXZkWUdHYm16dDVLZHExZFJ1VjBkM2lUOFE5bEFYcGVIMzdnYzRXN29CamMyek54eVA5di1ySG16TUc5dHZqYlk2bU43OGUwYmRRZTVOQV9nNkZjOTVqaEpVR3BnZjRmNzBpTHBlQU0yZ3RweGlfYTZQUVZOdzNQdmpyUkg5a056azFQZUJQaFVmM1lIbmFkMjk0SGwxdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-07-13-013",
+    "date": "2026-07-13",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "JPMorgan Adjusts Price Target on Illinois Tool Works to $310 From $295, Maintains Overweight Rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbEl1a2dRdnJKbWFOMy1xWmZQVDRKZUtMeU9GSFRmUjdRZGxDUFM1ckthYzA4azN4LTFlUXM5U1ZZYWxjTVFMaWlkel9HZHQ1MGtORGpWTWJzTFEtRjNGYTFlMzkySFJpY0JGTEU0ZX",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbEl1a2dRdnJKbWFOMy1xWmZQVDRKZUtMeU9GSFRmUjdRZGxDUFM1ckthYzA4azN4LTFlUXM5U1ZZYWxjTVFMaWlkel9HZHQ1MGtORGpWTWJzTFEtRjNGYTFlMzkySFJpY0JGTEU0ZXZVVk9XODlhX0dRajRDcHJTWVowbktOSkhWZXc0Ml81UFNyQWY2bTZwdHJCZTdickVDVkRIVC1fVnhXWkR3SUw1S2lsLVR3TG8tNldQMmVaMGhRVnpVNTNtVlowb2owQ096SnVQTXl1cndaMkpGSTUzaHpCRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-13-014",
+    "date": "2026-07-13",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Here's How Much You'd Have If You Invested $1000 in Parker-Hannifin a Decade Ago - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPdHI2TnlGMUlIZWZtalBBbVNNWEhjeE9oNHVlUVAwcWk3d0NkWjVKOGY1OGdvRTBTcmxIWkVtTzNCN3ExQkNPZkxLNlBqTjFzWWJqNEdjU3E0VUJGeTRnUDhueGZOZGR3UVl4ckh5Vl",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdHI2TnlGMUlIZWZtalBBbVNNWEhjeE9oNHVlUVAwcWk3d0NkWjVKOGY1OGdvRTBTcmxIWkVtTzNCN3ExQkNPZkxLNlBqTjFzWWJqNEdjU3E0VUJGeTRnUDhueGZOZGR3UVl4ckh5VlBzLW1VdHBCTGEzcklGY3cwMjBoMm5fd0NQa3Z0OHVrZ0xXTzdubzNuUUtB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-13-015",
+    "date": "2026-07-13",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "machine_tool_orders",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Oppenheimer raises Caterpillar stock price target on backlog strength - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxONXBfSEdiM1Q3STZ2M2lVSGJMQzFXLTI5WmdHZ1M0N3lKaDZqM19naXAzX0s1YjBxR21aUTVSQnl6cklVY3VkV3lWcDNQZXNTQkNoRHVvb1NLOW1BNkNrdlE0TmtrNFY1NTg0cXp4eH",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONXBfSEdiM1Q3STZ2M2lVSGJMQzFXLTI5WmdHZ1M0N3lKaDZqM19naXAzX0s1YjBxR21aUTVSQnl6cklVY3VkV3lWcDNQZXNTQkNoRHVvb1NLOW1BNkNrdlE0TmtrNFY1NTg0cXp4eHE5clFNWjFSY2ZhMTd1c3p4bkxSUlJOdlk4ODNObUl2dWM1SGxxRm02dnh4V0RXSGs4cXI1dDFjVjFHcHdNeHMxakJpdDBRNG9oc3RYOEpfWUJxWFdfN2tsSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-13-016",
+    "date": "2026-07-13",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Foundation To Give $2.3 Million to Smithsonian in Celebration of America’s 250th Anniversary - Smithsonian",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNR05SRUZ4T09LOERtMzNxY0NUUk9Cb2wtWlF3VEpxckZZNnVoMmRBcEUtQVhiQ3FJQ1Iwb1JCbkRFaHRKQjEzdEdiWkVRcWJNMGJMa3FLSl9ZTHR4T2VDdFlCamd0Vk5ubTlxcTJ2UE",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR05SRUZ4T09LOERtMzNxY0NUUk9Cb2wtWlF3VEpxckZZNnVoMmRBcEUtQVhiQ3FJQ1Iwb1JCbkRFaHRKQjEzdEdiWkVRcWJNMGJMa3FLSl9ZTHR4T2VDdFlCamd0Vk5ubTlxcTJ2UEp3ODJEb09zbW0waFh1cVMzWnMzOXd2OG5NdlN4cFA5VmJhU2dRZ01NYms5aGozdUxvNnBwZDlMV3JFMHQzcWJwQURHLWI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-13-017",
+    "date": "2026-07-13",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Bets On Recurring Revenue After 38% Construction Sales Surge - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPT0xNeHFGUG1kLS0zcGt1ZWVNdW5zRjVETXY0SkYxWmdXOXdhek9fdGs4RzEtbTB3aUMtR2I0bkROSUtBVjVpUWZwbUhFTTEzQktFMmNoRS1oRU42OTJPVTBjU2laQTZVaXdsdERkS2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT0xNeHFGUG1kLS0zcGt1ZWVNdW5zRjVETXY0SkYxWmdXOXdhek9fdGs4RzEtbTB3aUMtR2I0bkROSUtBVjVpUWZwbUhFTTEzQktFMmNoRS1oRU42OTJPVTBjU2laQTZVaXdsdERkS2JuUGVjZFRKREY5cTkzMkFhcVBhN3lsUG43SGF0a2tqNk1QSjBmQTd6SFdVWnZTQVIyT3BiaGdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-13-018",
+    "date": "2026-07-13",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Just Raised Its Revenue Forecast As AI Power Demand Surges - - Briefs Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWM19CWnRLTUowRF9IMGpWb0FXUS1KV1VmdElqLU5JUmc3S1lHR1hlTlZPQlF1eEdlcmdVbWQtSkVuREZmenMxWUlYM1pNQl9GOV8weA?oc=5\" target=\"_blank\">Caterpillar J",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWM19CWnRLTUowRF9IMGpWb0FXUS1KV1VmdElqLU5JUmc3S1lHR1hlTlZPQlF1eEdlcmdVbWQtSkVuREZmenMxWUlYM1pNQl9GOV8weA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-13-019",
+    "date": "2026-07-13",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar opens design facility in South Dakota - Pit & Quarry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVY0VnhJWUdwUVRoOE9yNTYxWmVmSUN5UWpibDFRcWl5SWdvVEV6bDdjb3VIVWtwbUk5bXlraWpmUnVMLUNjdHJfN0tUbVE3aGhtYlNXb0VKUnA0dDJ3TlBUUmV6bUZMUEVJc0ltS3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVY0VnhJWUdwUVRoOE9yNTYxWmVmSUN5UWpibDFRcWl5SWdvVEV6bDdjb3VIVWtwbUk5bXlraWpmUnVMLUNjdHJfN0tUbVE3aGhtYlNXb0VKUnA0dDJ3TlBUUmV6bUZMUEVJc0ltS3ZGRVVueWNnVktQNXA3TjFkaGVuZHRGdw?oc=5",
         "type": "rss"
       }
     ]
@@ -324,6 +630,25 @@
       {
         "name": "google_news_industrial_automation",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTXFBbFA1b1pfa25ibW1MWHpDQXgtVmZBYlM4M2lSUDduQ0RxT1I1a3BqOC14MklwNzk4SDZwS21vOFQ1VFl4SVIzNW81M3h4a3I1UHFwcm9BY0Nsd2kybXA3X0d1V043TU5Ld2MzRTlxOEZ0azVhaXNvcEtjMUIzZzVjb3FBeG9scDdIcmt1Rm5ib1duLXZZbHRGVjBDZmVLWXU4TU5UaFpObHNHUjJ4U1FQMkRqbU53a0p5RkVXamRFRlJJakE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-011",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Vacuum Saving Valve Market Growth Forecast to 2035 Amid Semiconductor and Automation Demand - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQkJQai0wSm4ybkNOUjRyOFNxaC03R3B5Rkc0NjA2R3FBVmdJSDBZUmtBUkY4OEZKZFVNNG1ZTVlZUzhrY2poeGJ3VHViTWFuNUlaUnFjZHFYcnhZcTBXaVV0WHU3dndaUFRVZWZSZG",
+    "sources": [
+      {
+        "name": "airtac",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQkJQai0wSm4ybkNOUjRyOFNxaC03R3B5Rkc0NjA2R3FBVmdJSDBZUmtBUkY4OEZKZFVNNG1ZTVlZUzhrY2poeGJ3VHViTWFuNUlaUnFjZHFYcnhZcTBXaVV0WHU3dndaUFRVZWZSZGRSTm1nOUE2WDNJRXdWQjlZQlhUMl9id2RMNmhhRWlzR2JiQk9lMVYxamM3X29EbE9lX0Z1d3lWRFJ2MmFmSC1qdXNKZVAxdHM5RVl1UW9HZGY3bjR1VVM5bGNVbktnOVdodFdQdTJLcUdkSmk3SlRyeHBpbFlwUlpYeVE?oc=5",
         "type": "rss"
       }
     ]
@@ -837,6 +1162,42 @@
       {
         "name": "parker_hannifin",
         "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYUlPdEc4N1A2Y3k5eDlneTY0OTlsdnZZMjlvY1NjLUZSUE5aY0hweFRFQUVacTNVcEhmTHRoWmgzckk2eVBVa2VVXy1WWFp5S09ublNfYzNxZ0tDRDRyOXVBTUM1Tngxb0xkRVNXbXZMeTlaZW04ZkZxdkVtcHdQeHZHUGlXTDlHZ0NoTHl5RXRMUzJtTTB1aGtzZnBSN2Myclk4d0ktWkE1WTFZamhlWEJGdDhOeTRUSkhWYy1fYkV2dDFScUZXYzhBQnBlR1U5UTl2S1IxRldWN1RzMzVoWGFNRzl3ZWRFQk90VDlFM3VUdnF4bGQ3dldqM3R1N3VNV0dMcQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-10-020",
+    "date": "2026-07-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why every panel needs a surge protective device and what contractors need to know",
+    "summary": "<p>A surge protective device (SPD) diverts current spikes to ground and clamps surge voltages before they reach connected equipment, protecting circuits downstream of the panel. The 2020 NEC (Article ",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/homes/2026/07/10/surge-protective-device-contractors/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-10-021",
+    "date": "2026-07-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Take Control of Your Energy Future – Reduce Cost & Eliminate Volatility Risk",
+    "summary": "<p>Energy is no longer just an operating expense to be tolerated. For public agencies, it has become a material and increasing budget risk that can quietly and quickly erode service levels, impact cap",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/energy-management-energy-efficiency/2026/07/10/take-control-of-your-energy-future-reduce-cost-eliminate-volatility-risk/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
         "type": "rss"
       }
     ]
@@ -1470,6 +1831,26 @@
       {
         "name": "itw",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWJWUENXcHp3bWFsdnJTb2pQQU05MkxUcGU5MW5uS19BTXBJU2R1SHBxNEY2YXpDaUtpbmJFVnkxWnRJd0NoYmh5OGVYWFpZdkwwTXVOejFDVmtQMndEWGZUa1ppaGYxczdteDNDS0dhdEVTLWNRRFZBY2h4XzRNUncyRV9XYVcwNUhWSkgtSTJnNkNGT2xHcHBoUzl0bUtMLUdiTllNWk9GYlh4ZDZUbUd5SlczM3FD?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "schneider-2026-07-09-032",
+    "date": "2026-07-09",
+    "companies": [
+      "schneider"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Schneider Electric releases free AI Factory ebook as a guide to answer questions and boost understanding",
+    "summary": "<p>The AI Factory: Data Centers at the Heart of the Action is Live! If you are like 99% of the people in our industry and full of questions about AI factories, I am happy to announce the release of a ",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/datacenter/2026/07/09/schneider-electric-releases-free-ai-factory-ebook-as-a-guide-to-answer-questions-and-boost-understanding/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
         "type": "rss"
       }
     ]
@@ -2265,6 +2646,67 @@
       {
         "name": "keyence",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFRkZXlzbkU2N0w5ZWtrLXdBWUoyc2dWb09nU2pLV0F3cDlZMGFCR1VIamlOY0Z4OU1wclo0TmRaUEUySGwwc3NCZEI4aFBsYUFjQm40djlJNjFBdkZtYzhJRHNMbTVSWV84TDFXOGNGWVhBY0k3OGlYYTBMVmRPZVJJaVVyQktTd1oxZW56RGcyUWdjc29qaUU5RVpUaEo5OHlCUzA5RWNlTXY4cjN6eXVjSTJ0cVJUcWZwdUdJMEwzbFUxTXNpSlBBdzc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thk-2026-07-08-040",
+    "date": "2026-07-08",
+    "companies": [
+      "thk"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "THK focuses on motion control technology as investors watch global demand - Ad Hoc News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPVUhsY1dsd2VtMUt0UnJKSzR1Uks0cTBmVTJnWnhfNjJlcFJDTDJsSnVDUWlCdzI0dzNZUm5TOS1RcF9VOTJCVENTbDA4MzlfUDd6MGx1cXJzTURUd0EtZlZBb29PWVlRM2w5V0pzeW",
+    "sources": [
+      {
+        "name": "thk",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVUhsY1dsd2VtMUt0UnJKSzR1Uks0cTBmVTJnWnhfNjJlcFJDTDJsSnVDUWlCdzI0dzNZUm5TOS1RcF9VOTJCVENTbDA4MzlfUDd6MGx1cXJzTURUd0EtZlZBb29PWVlRM2w5V0pzeWxBakQ4VDc3Qm8tZmNKcDNtX08ySllBbWZzak9YdFVDSGtWOFp6WnZjejZDYjhLQ3JPUjF6MVJkdzMtakZWd1hER2tlbk1SYXB5R0FTN3dKcTFsWW1LM1AwY2N6LTk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-041",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Right Angle Poppet Valves Market Growth Outlook to 2035 Amid Precision Manufacturing Demand - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXBJNkJIRlF0T3lHMlR0UGpQREE1dUpWNkVJZlRCZHdJeW9heVlPZDRyZTBvXzFDYkNwUGR2ZVg3aGgwak5qa3FGLTg5dFlDQ3ZLY3VtbEszbFJ6NGlKaXlOeWNLanB4TEYzOWpxcl",
+    "sources": [
+      {
+        "name": "airtac",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOXBJNkJIRlF0T3lHMlR0UGpQREE1dUpWNkVJZlRCZHdJeW9heVlPZDRyZTBvXzFDYkNwUGR2ZVg3aGgwak5qa3FGLTg5dFlDQ3ZLY3VtbEszbFJ6NGlKaXlOeWNLanB4TEYzOWpxclJyQ1loRHVPVWRTTDBHTzhpd3pOelpvMHpybGFma3BvQzNPTTJ5WWpHbEhNb082WlJqYUtZLXdkT1VuZ29Fc041ZjQtcmVhaXRfaDJJZmd5WGh6S19GaHRRNkF6N0dQUFFz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-042",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From grid to chip and chip to chiller: Enabling AI-driven semiconductor innovation",
+    "summary": "<p>Artificial Intelligence is redefining semiconductor competitiveness, but its success depends on something often overlooked: infrastructure. As AI workloads redefine power, cooling, and scalability ",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/infrastructure-and-grid/2026/07/08/from-grid-chip-and-chip-chiller-enabling-ai-semiconductor-innovation/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
         "type": "rss"
       }
     ]
@@ -3125,6 +3567,83 @@
       {
         "name": "parker_hannifin",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd29sRDVaSXEwSTlpNmpRanVUZkp1WTZ6U01GSHZSSkg0QzE2WHlndU4yaDZleXA0NjFKOWU1OWZuUTQ2RVgyS0tzYjdpQ1kzemNTMkNCeTItUlNfVDI2MHF6czF1a0FWaEg5TzJaR0R2cW00dl9zbExNVWdvZDZUUzVycW95ZFNzSVpKalB6WVVyc1ExMUlDN0dLR2UtRjBFU2pPaTNCLVlRS2h1cUQxUVF6MVl3LVBONWFpRUMyb3dCWC1fT2M0dEd6X3dqU2pyeGRLc3drYTJhbFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "keyence-2026-07-07-043",
+    "date": "2026-07-07",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Keyence VK-X3000 3D Laser Scanning Microscope - Precision surface analysis for US manufacturing - Ad Hoc News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNajFUWHl3NXhuTEl4Q1BnTUNYazF1TGxXamd1TDRfMjBsOTdueEluLXpJeDJwTVFZbGpqMkFVYzM5UnR1OUloQkRzQ3dIV25BVlZXWXk1N3czY3FORjY3YmtxUnV0RmJxSDJ6WGZRTD",
+    "sources": [
+      {
+        "name": "keyence",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNajFUWHl3NXhuTEl4Q1BnTUNYazF1TGxXamd1TDRfMjBsOTdueEluLXpJeDJwTVFZbGpqMkFVYzM5UnR1OUloQkRzQ3dIV25BVlZXWXk1N3czY3FORjY3YmtxUnV0RmJxSDJ6WGZRTDZmTG5BSHdMVjdTRzhvYlFzUlF6S3NUX1VjS0ktTl9sUDBzck4tak9tWmdGNHhyOE9Yd0xjNzRXYUR5cWhWZnF5dUFxNm5ZVTdIX1lpUTNvemh0aVR4ZmRjQXk0OA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-044",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What is intelligent motor management? | TeSys Tera",
+    "summary": "<p>Intelligent motor management uses real-time motor data and predictive diagnostics to reduce unplanned downtime, optimize performance, and enable remote monitoring across industrial and commercial f",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/industry/2026/07/07/intelligent-motor-management-tesys-tera/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-045",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "One portfolio, every building: Why the hardest assets matter most",
+    "summary": "<p>In the first post of this series, we talked about why data, not ambition, is the real constraint on global energy efficiency, and why portfolio-wide visibility is the foundation for meaningful prog",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/buildings/2026/07/07/one-portfolio-every-building-why-the-hardest-assets-matter-most/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-046",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Demystifying the types of AI: Industrial, Physical, Generative, and Agentic",
+    "summary": "<p>When generative AI went big after the release of ChatGPT in November of 2022, many people were under the impression that this artificial intelligence (AI) came out of nowhere. But generative AI can",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/datacenter/2026/07/07/demystifying-the-types-of-ai-industrial-physical-generative-and-agentic/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
         "type": "rss"
       }
     ]

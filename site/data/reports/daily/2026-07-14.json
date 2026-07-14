@@ -1,0 +1,129 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T09:49:00.159039Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-07-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mitsubishi Electric to Transfer Majority Stake in FA Industrial Products Business to Konecranes - Machine Maker",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUDdXNnRoS19GbUVKOHpGdndqRWczdjd5dWh3SHp1VWpwSklKVVNyZEE0SURHSU5rUU1VVk1Mbm5VLXpOVWRURjBJV1E2V0ZpQU15M3hqSjhMY0tzT2xRMVFKVEIyaGRvTXgwX1N0Y1VHUnI4Wk1RYVgtNXFVOTdzQlB4d3QxeC1qSlJzQkdpLTBrNDZVRGJ6V010d014bW9xcEN5Q0JwNjhIeDJmOGVrOFZTRDQ5WVkzN244b2cwdTVVTHhNZk5LMA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Expert Q&A: How compressed air system maintenance is changing, and how to react",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.plantengineering.com/expert-qa-how-compressed-air-system-maintenance-is-changing-and-how-to-react/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 392,
+    "dup_title": 204,
+    "too_old": 150,
+    "gate1_blocked": 2,
+    "gate2_blocked": 10,
+    "passed": 26,
+    "pass_rate": "13.8%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "Delta Chairman Cheng Ping's 700- Day Succession｜Industry｜2026-07-14｜web only - 天下雜誌",
+      "Price to book forward of Delta Electronics, Inc. – TWSE:2308 - TradingView",
+      "Reduce your business running costs with KNX",
+      "Could Mitsubishi Electric (TSE:6503) Become Japan’s Quiet Fusion Enabler In Next-Gen Energy Systems?",
+      "Mitsubishi Electric Expects Transaction to Be Completed Within Current Fiscal Year >6503.TO - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Mitsubishi Electric相關動態：「Mitsubishi Electric to Transfer Majority Stake in FA Indu...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Mitsubishi Electric to Transfer Majority Stake in FA Industrial Products Busi...（自動化資本支出、產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Expert Q&A: How compressed air system maintenance is changing, and how to react（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

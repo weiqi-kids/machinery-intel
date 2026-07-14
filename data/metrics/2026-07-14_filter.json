@@ -1,0 +1,16 @@
+{
+  "total_raw": 392,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 2,
+  "gate2_fail": 10,
+  "passed": 26,
+  "gate2_samples": [
+    "Delta Chairman Cheng Ping's 700- Day Succession｜Industry｜2026-07-14｜web only - 天下雜誌",
+    "Price to book forward of Delta Electronics, Inc. – TWSE:2308 - TradingView",
+    "Reduce your business running costs with KNX",
+    "Could Mitsubishi Electric (TSE:6503) Become Japan’s Quiet Fusion Enabler In Next-Gen Energy Systems?",
+    "Mitsubishi Electric Expects Transaction to Be Completed Within Current Fiscal Year >6503.TO - Moomoo"
+  ]
+}
