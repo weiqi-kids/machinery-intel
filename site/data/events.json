@@ -1,5 +1,26 @@
 [
   {
+    "id": "caterpillar-2026-07-15-001",
+    "date": "2026-07-15",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Launches $5 Million Texas Workforce Initiative - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNQlVKSjNET2NGSzdUc1JTSUlldjluMVo5TTZCWXBHQnZvOGYyV3NmdXJralhlNUVEdld3R1UtNUxMczFuZU5NMmxhVndydVduUGxJdThXZ0hfaXZvYV9KMmVzS0dHMzRtaTBmNU14ZD",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQlVKSjNET2NGSzdUc1JTSUlldjluMVo5TTZCWXBHQnZvOGYyV3NmdXJralhlNUVEdld3R1UtNUxMczFuZU5NMmxhVndydVduUGxJdThXZ0hfaXZvYV9KMmVzS0dHMzRtaTBmNU14ZDV6bGhSSnE4eGhTR1hDU09vSHJCTDBqQ3dfWmRlS05JWC1nRHRnSGc0eWE4UTZQWGxl?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mitsubishi_electric-2026-07-14-001",
     "date": "2026-07-14",
     "companies": [
@@ -34,6 +55,303 @@
       {
         "name": "plant_engineering",
         "url": "https://www.plantengineering.com/expert-qa-how-compressed-air-system-maintenance-is-changing-and-how-to-react/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hiwin-2026-07-14-003",
+    "date": "2026-07-14",
+    "companies": [
+      "hiwin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hiwin robots extend therapist reach amid rehab staff shortage - Healthcare Asia Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHptd1lSRVhUaDhYUUNzcnZEV3BjWWdxU0Z2ZmN2QWs2OE54VzJ6ZnZyQm5RZEY3dHJaamlCMHFFcEEzOVNROUtiU0dXNS1GazgxSDFaN2JRZl9PUFNab1gzeUhITFlQRmlzTEkyNX",
+    "sources": [
+      {
+        "name": "hiwin",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdHptd1lSRVhUaDhYUUNzcnZEV3BjWWdxU0Z2ZmN2QWs2OE54VzJ6ZnZyQm5RZEY3dHJaamlCMHFFcEEzOVNROUtiU0dXNS1GazgxSDFaN2JRZl9PUFNab1gzeUhITFlQRmlzTEkyNXVNSG9BR2puVUdzektOUE5GZU5OVkRlZTgyeGEzV2ZnNnVZWEg3T1hDRkJ5Q3NBOFpBSVFxaUdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-07-14-004",
+    "date": "2026-07-14",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics (Americas) and X LABS Sign Technology Partnership MOU to Power Next-Gen AI Data Centers - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRVc5T04zNFNmWjcyTGdSdUNlTDVydjRndVNaa0UwVnBWMjhGeGtkalRTQXN5MVo5aGtJSWt5Nm94QnplcllFT004ZlBmVmNxeVMxUEJhRG9YbktwdldjSTIyaHM3Qmt5dTZKWnhjRH",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRVc5T04zNFNmWjcyTGdSdUNlTDVydjRndVNaa0UwVnBWMjhGeGtkalRTQXN5MVo5aGtJSWt5Nm94QnplcllFT004ZlBmVmNxeVMxUEJhRG9YbktwdldjSTIyaHM3Qmt5dTZKWnhjRHo4Vm5rT3hUMkY1SW9vcUxKbThQbjJ6RWZmWnZEVUZpVjctRGxJYzhCaHdNb09KQ25iRHFYTy1YR1p5NzZMTmRQYnJOcW1qb21aaFZGeDlpcFN4bzhQRUpoRnRNS1l0aTNDcXhrZUhFTFpfQmVheGI5MnpYQUVHeWlZWkQ3Zk9MZllkdWZSQnFZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-07-14-005",
+    "date": "2026-07-14",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Thailand Recognized on CDP’s 2025 Supplier Engagement 'A' List for the Third Time - I-Connect007",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOMTBxZWpCdlk0Vlk4dzZvZF9HY1l6cjIwNldFNHBWUVNIaXhtbmUxbDVuLWVFbmwwX0J6enNwRlI3VFEtd2hxdUdTMnVDRW8yR1IwQUVRMlFVWXlyUlJ1blNQRDhmY0s2ZzFKcWVOeW",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMTBxZWpCdlk0Vlk4dzZvZF9HY1l6cjIwNldFNHBWUVNIaXhtbmUxbDVuLWVFbmwwX0J6enNwRlI3VFEtd2hxdUdTMnVDRW8yR1IwQUVRMlFVWXlyUlJ1blNQRDhmY0s2ZzFKcWVOeW9aZVRMWTVLM09pbnI3RTNUU0JIbEJubHNTU0JfT2ZwTDlTeE5JajZaUlNhVHBKNTZiazV3ZVJYVE1jN3FOM1lXRG9BZmUxQ0dyNEV2ZWstNFhiX0FXeV9fX3VMZDFycms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-07-14-006",
+    "date": "2026-07-14",
+    "companies": [
+      "delta"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Delta Cobots Win BIG SEE Product Design Award 2026 - Engineer Live",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQbTFleDNpcUt0MlZWbjgxbFJCZkdkbG5xcHhlNEtEdy1XR0otd0MtcXBCdVNJZEQtdTZ2d04wcWRWZXVtR09GSjB5dkpmMjNwMW5rUU1uSGhHdFdxeEdUOU1KZmJvMXBqeFRSZE5BUm",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbTFleDNpcUt0MlZWbjgxbFJCZkdkbG5xcHhlNEtEdy1XR0otd0MtcXBCdVNJZEQtdTZ2d04wcWRWZXVtR09GSjB5dkpmMjNwMW5rUU1uSGhHdFdxeEdUOU1KZmJvMXBqeFRSZE5BUmRrQi1Ea1hGSndyVGFqUmlUUHVB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-07-14-007",
+    "date": "2026-07-14",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric buys Dutch contracting groups APAC and Compac - Cooling Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3c1czR4cEtRN1pNYWp5ajBLNE9tQ0hETzAtVm0tRFlPUlVMUUNKMWRncGlHZ1pJZDhVSkFwZWxRQnhfTVBWNmlrWk1JVng3TmV3c2MtOE1kSE9SV21VakNZaHFJd1ZRTm9IajdUek",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ3c1czR4cEtRN1pNYWp5ajBLNE9tQ0hETzAtVm0tRFlPUlVMUUNKMWRncGlHZ1pJZDhVSkFwZWxRQnhfTVBWNmlrWk1JVng3TmV3c2MtOE1kSE9SV21VakNZaHFJd1ZRTm9IajdUekwydG9LcGFHaUUtQTZyN2NtY2otT1p3X0Z2NWlING9jYVVYVGFFUlVSRnVsMkpiQkRCVVhMQnRwUGM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-008",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi subsidiary's 500,000-square-foot lease puts a dent in city's industrial vacancy rate - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOTUlFdExYUVJZOGVTTk93elU3VzVsYkxKbXBDdjAxR1ZXSTdKd2s2SVhIaUdqNy1FOEJtYkdKMUIxTGZUOVk1blFWSGVwRFZJTlY4cTZza3dmVUhHMF9DMUd6VDFQVmV3MkZOMGFadm",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTUlFdExYUVJZOGVTTk93elU3VzVsYkxKbXBDdjAxR1ZXSTdKd2s2SVhIaUdqNy1FOEJtYkdKMUIxTGZUOVk1blFWSGVwRFZJTlY4cTZza3dmVUhHMF9DMUd6VDFQVmV3MkZOMGFadmtVMTBuQk91TWZrYXFrWF9RYnBJWXAzbzJ4REx6ZU1yTTBBazRRSjhCcG9fc255ampVeW1maXVINHJoU29WaFRF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-07-14-009",
+    "date": "2026-07-14",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Acquires HVAC Sales, Installation and Maintenance Companies of APAC and COMPAC Groups in Netherlands - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNR1o5MXRjYWtsZ1VoTTVUbTd2aUZPN1FTTzFYN0xVeVNfZVdDVTl6R2R5NXFLQ1FnTlpoNGpGbmdnZnA0VVBjMjZHcGdmSlZCeFpwRG82R0xNY1VEWVYtSWZYLS10emE0M1RPVmRwbm",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNR1o5MXRjYWtsZ1VoTTVUbTd2aUZPN1FTTzFYN0xVeVNfZVdDVTl6R2R5NXFLQ1FnTlpoNGpGbmdnZnA0VVBjMjZHcGdmSlZCeFpwRG82R0xNY1VEWVYtSWZYLS10emE0M1RPVmRwbmRtT2lnSGJ2ZWNweWQtdFdTM3V2T0gxd1JOZWRQWkVmSEdabkpab3Z2ekVYcWlTcm5Hd0loM3plWkJvX2dZdDVRVWZuazUtMU1ZNGQ0bmluZFA1ckt3RTIwMmQwQWZaQ3o4bEFEV05wUVFKejN4MnFod3BjY1RWMGpKMTFEbGhya0Zyc3BGWmI4U1RyaUtkMzNPVGFVMUt6TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-07-14-010",
+    "date": "2026-07-14",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric acquires Dutch APAC, COMPAC for Europe data centers - International Business Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3Y5TkY4UjRuMmtNQll1MHdOdXVqSWZwUU5jUlU4Q0VlYlhfMVVpZVJzRnpMT1lBSm1NWjZUdTFaUDVfS1N4TmQ0YXYtQ2pVNXEyQk5nWjF5NDFKY2U2c2dXMGM1YUtrbXhMTC1aRX",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3Y5TkY4UjRuMmtNQll1MHdOdXVqSWZwUU5jUlU4Q0VlYlhfMVVpZVJzRnpMT1lBSm1NWjZUdTFaUDVfS1N4TmQ0YXYtQ2pVNXEyQk5nWjF5NDFKY2U2c2dXMGM1YUtrbXhMTC1aRXBTUk1hcWtzQ0RuT1lHTWR6eFBMRWNRSkVDcGpHTFZGR0c0dlRVaVpDTzgybzM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-07-14-011",
+    "date": "2026-07-14",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Trane HVAC US Honors Diamond Contractor® Members on National HVAC Tech Day - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNSnQyV2cyVWhhRy1ad09pYUJQeFRsTFJLR0hQMnhlRFFRTmJGLU1jWm52ZDdPWWJTa3MxejZKNHY3ZEt5WXo0NjBBNmJMODRnOHlVMU1IajUwaE54OGh5YUIxNjBRUy1kM0hUZlNXeG",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSnQyV2cyVWhhRy1ad09pYUJQeFRsTFJLR0hQMnhlRFFRTmJGLU1jWm52ZDdPWWJTa3MxejZKNHY3ZEt5WXo0NjBBNmJMODRnOHlVMU1IajUwaE54OGh5YUIxNjBRUy1kM0hUZlNXeGdrczVLWUctQzBPQzNFM2pwQU1kYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-07-14-012",
+    "date": "2026-07-14",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Acquires HVAC Sales, Installation and Maintenance Companies of APAC and COMPAC Groups in Netherlands - 01net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb2x1X0J4YjBHNUU5c3hKcWZQRk1HRUtnUzN1SlIxdW5GWjVqSEpVOEFoa0dxaGhGZkJINlVVVFEyUHhxbmpuMzFEZVJUV2JhWHFtdmNhY1NEbVB0MHZ6MEZPaTBySjVOWWlCdFFKTj",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb2x1X0J4YjBHNUU5c3hKcWZQRk1HRUtnUzN1SlIxdW5GWjVqSEpVOEFoa0dxaGhGZkJINlVVVFEyUHhxbmpuMzFEZVJUV2JhWHFtdmNhY1NEbVB0MHZ6MEZPaTBySjVOWWlCdFFKTjNlNHBJWkhBM1hGOXlZd2gyTmgwemwyczh6Wkx6d3RQbW0xQklpVzVzMDhwclBnNU1sc1F2a2FqSXlmVjFyRDF4VmdyZkJtVktjZE52bzRNM3E5azhrU08zeEE4X19RR2xneTQ5NkMyQWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-07-14-013",
+    "date": "2026-07-14",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "DMG MORI Global One - Yachts and Yachting Online",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWlA0NkdHUXBsdkdxaVZVTDhTRHY0aGhVQUpITENacjBQSm55cXBLaFA1MFdnUWVzT2xYd3ZwVEFoSGRBdmZLNTR4TXE2dkJDMF9jTTJ6dW9mQQ?oc=5\" target=\"_blank\">DMG M",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWlA0NkdHUXBsdkdxaVZVTDhTRHY0aGhVQUpITENacjBQSm55cXBLaFA1MFdnUWVzT2xYd3ZwVEFoSGRBdmZLNTR4TXE2dkJDMF9jTTJ6dW9mQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-14-014",
+    "date": "2026-07-14",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stifel reiterates Hold on Parker-Hannifin stock at $1,000 target - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUWVHcHBsQ3JHVjh2d05zdnlxZHRzVVZJVTRpN05oYmg5ZkdtZkNqdHNKcDdnV1EyaWFkemZvTy1WR1N3VUdRdWxSZjJSUndXYzJKV0ljS0hURFdEUVk0X1RzWnpVcnhScTB6RV9CZj",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUWVHcHBsQ3JHVjh2d05zdnlxZHRzVVZJVTRpN05oYmg5ZkdtZkNqdHNKcDdnV1EyaWFkemZvTy1WR1N3VUdRdWxSZjJSUndXYzJKV0ljS0hURFdEUVk0X1RzWnpVcnhScTB6RV9CZjJSQTNOdFJqTUJEMDhMV1lDNlo3d3h3eGVWLVRfN3BwRHJKUnVOT29kVlRQZ2pWQlJZTjNPc3dnZHgyNHRWVDVFcHdQMWhXVzZlWFRUWkZkMFVfSTR2WGVCOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-14-015",
+    "date": "2026-07-14",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mattern Capital Management LLC Sells 2,664 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc1RGaXd5UWhlby1aQThwLS1Ea3FJdkNERjZ1V3puNGhvSThYaXVCakdNMFRHMjVJQldhdnMzS2w4OXRUUm1MV2ZFX2VRcFpCbUxHcGdaYUpLLUFPQWlLUUxfSFJOOWc4cVVRUGMwQk",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc1RGaXd5UWhlby1aQThwLS1Ea3FJdkNERjZ1V3puNGhvSThYaXVCakdNMFRHMjVJQldhdnMzS2w4OXRUUm1MV2ZFX2VRcFpCbUxHcGdaYUpLLUFPQWlLUUxfSFJOOWc4cVVRUGMwQkpZRHNjWm5WLWxqSjg4enpXbV92UXAyM1YwbUU0Ml9NcFFObUttVFNJalVRZ2E4dTRydDVkWjFldmZYMDl4cUYwSkhDRzRhb3dIZUNESmtxYzdENFhWTm04VDVoc0R3ZFdodzR3WGJfUTBYTlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-14-016",
+    "date": "2026-07-14",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "News | Caterpillar begins work on Dallas-area office building - CoStar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHZKTF93ajVJVm1RS1ZMbkdicjFtVFVSeEloaGNuVjBKdmFpVGc4S0E0bUdUMFY4TkdWeDlnNkp1SE5UQVYzSk5xQUNkdm81YlF1MWthQzFlT2p4QlFqeTMwYkdTUURtY1VxREJBM3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHZKTF93ajVJVm1RS1ZMbkdicjFtVFVSeEloaGNuVjBKdmFpVGc4S0E0bUdUMFY4TkdWeDlnNkp1SE5UQVYzSk5xQUNkdm81YlF1MWthQzFlT2p4QlFqeTMwYkdTUURtY1VxREJBM3NxYjdrOW5PYUN5T0NmOGJ6VkgzSkF1OGdOdWhQNzdFVmVkd3owVHFEUmVTMmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-14-017",
+    "date": "2026-07-14",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Power Plant Signal Hiding Inside Caterpillar Stock - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWhwV3hvU05pXzdLZVF2TFVoMm1rVkR6QVczbWMxUGlSS2thWjd5QXpQS2htWVFmQVlqLWhycVZOWi13aGdpTFQteVZrajVPdU1hSklKTHJVZzhrZ0w1WHBkTW5JT0JPamdUR2hhYk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWhwV3hvU05pXzdLZVF2TFVoMm1rVkR6QVczbWMxUGlSS2thWjd5QXpQS2htWVFmQVlqLWhycVZOWi13aGdpTFQteVZrajVPdU1hSklKTHJVZzhrZ0w1WHBkTW5JT0JPamdUR2hhYk1wdE90WHhPbG9UVkxlc3NscFgzelk1UUllZjIxMnRNQ2wzM2VxR0N6U3NSTXFLMWg5dVR4NTBGLW9nVDE5OTVXVHkzZVI?oc=5",
         "type": "rss"
       }
     ]
@@ -432,6 +750,48 @@
     ]
   },
   {
+    "id": "hiwin-2026-07-13-020",
+    "date": "2026-07-13",
+    "companies": [
+      "hiwin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of HIWIN TECHNOLOGIES CORP. – OTC:HIWNF - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxONEZWZURNT2FiV2QzNTBMa2I3NVFFSGtuSldoVGtXcm1WZGNVWE1WSTlGY0QyR2lYQTdhVmNkbVBQcDNEWGxnMnlQY2pnVmdUM2RDdFBzRENiTEJHRjBxTnhuTUVNRFUtVkE3T2pDa2",
+    "sources": [
+      {
+        "name": "hiwin",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONEZWZURNT2FiV2QzNTBMa2I3NVFFSGtuSldoVGtXcm1WZGNVWE1WSTlGY0QyR2lYQTdhVmNkbVBQcDNEWGxnMnlQY2pnVmdUM2RDdFBzRENiTEJHRjBxTnhuTUVNRFUtVkE3T2pDa25oZlFfVHpMam53THp2ek9QX3JfSV9zRk9PMXZtV2FTYTZ3SEVpVFdVWmEyZDcwSE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-13-021",
+    "date": "2026-07-13",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Foundation Supports Venezuela Earthquake Relief - Caterpillar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPaGNWQ0M1UGFKRDhUVmJBaXlQaFUzOXJHUG9MaTFkTXN3QUQwYmt5OU5ZanUyNFY5b1lveTBfbDBDNTJMMUNfaXNadWtNWkxvSHpfMThjdlFZZ1dfcHpONEc5V0ROeDVoZDhVbFRsME",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaGNWQ0M1UGFKRDhUVmJBaXlQaFUzOXJHUG9MaTFkTXN3QUQwYmt5OU5ZanUyNFY5b1lveTBfbDBDNTJMMUNfaXNadWtNWkxvSHpfMThjdlFZZ1dfcHpONEc5V0ROeDVoZDhVbFRsMEpuTkVGZjVJZjBnRFFXOVBUQmVMQ1lGMUJVUndVbXFyVjM0Y2k5X25mOUdXLUZhb1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "abb-2026-07-12-001",
     "date": "2026-07-12",
     "companies": [
@@ -777,6 +1137,26 @@
       {
         "name": "parker_hannifin",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNUR3SjNaYXFMTHVESDRYUFVKUmd0b3FEVmF2dm5Pd0lpOEt2cDFtdndyaDczZ0tjWnlJNVM2Z2U1aEFIa0lrTGdoOVFGb1hMX0pqT3Q3NkVXWWN4YzNHd3BkQ0o5RHhuYmZPc1Z2V1QwelRIVUN4a09XN3FkVTRtUG50MlVNWWpoZzE4aE1ndm1idTd1akRUVEgtMzd0OUhhM29QRGJ2UTE0aWVFaGVNbHNfVVYxa2Y4N3laRUxsTlk2MmNwdDBydlh5dTlndnhROXlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-007",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "World Light Duty Fluid Actuators - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZXFUaFFuWmQ5VTl1Wkhjd2VlV1ZhVFVNOENIOHdVaE5CN0xPWEl3eFp0LTc2VVhzUklxVVB3UzIxejZjaV9ITzZuNnVscGh2dGRNUHRoWF8xTlJlbE5TaVJtNWNlR21ySk1oRHJQQ1",
+    "sources": [
+      {
+        "name": "airtac",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZXFUaFFuWmQ5VTl1Wkhjd2VlV1ZhVFVNOENIOHdVaE5CN0xPWEl3eFp0LTc2VVhzUklxVVB3UzIxejZjaV9ITzZuNnVscGh2dGRNUHRoWF8xTlJlbE5TaVJtNWNlR21ySk1oRHJQQ1NiNG5uQllhSmc5VFVMZm0taV9jX0RZTTVIWm9SN1JYMUVGZVJ3OUtPNmswSnNfM1dpU19FR29OeFRyWW1xX2lNWkZvaHMtenlrS1Z6Zzk4bXBfXzhHM1pHUktlQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1198,6 +1578,28 @@
       {
         "name": "schneider",
         "url": "https://blog.se.com/energy-management-energy-efficiency/2026/07/10/take-control-of-your-energy-future-reduce-cost-eliminate-volatility-risk/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-07-10-022",
+    "date": "2026-07-10",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Robotics Launches Platform that Extends AI-Powered Visual Technology - Automation World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmNxWTljcEp6LThFaVZBXzlIQnFUYWpnVHM5MTE5dXk1V1FiNjdoMlNMYS1VS0VTd3lPSTZWR1N4VGFjeDRiVE9nYlBqckxDdmE3ck5oRHRnSnZOUFlYb0UyUjlCOTNRQ3V6cm9NQl",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmNxWTljcEp6LThFaVZBXzlIQnFUYWpnVHM5MTE5dXk1V1FiNjdoMlNMYS1VS0VTd3lPSTZWR1N4VGFjeDRiVE9nYlBqckxDdmE3ck5oRHRnSnZOUFlYb0UyUjlCOTNRQ3V6cm9NQlJkWDdHdlNubjZwcTNVQWh3aXRvNmw3VEVrM0hDWUVfd1BkWnFQQTJkeUY5WHkzMHQxSkg4VEUxRDBhYURaU21LQ2gzTHR2TWVxM2RQaFV4aWlJOWVGRThz?oc=5",
         "type": "rss"
       }
     ]
@@ -1851,6 +2253,24 @@
       {
         "name": "schneider",
         "url": "https://blog.se.com/datacenter/2026/07/09/schneider-electric-releases-free-ai-factory-ebook-as-a-guide-to-answer-questions-and-boost-understanding/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-033",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From Taiwan to Chicago: Award-Winning Technologies Spotlighted at Automate - Automation World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTFJ3RFZnaFVTbThDdTE5UFdoMzlXZWxpNHRfRXh4UHpQejRvenRDVTFmaDhiakxfWTdsWnh3bE90dGtrQWRoOWtWY1NrSFlLbERLY0NTUV9vNzRiMTRzRVR0MWJhT01LZk9haXRMZk",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTFJ3RFZnaFVTbThDdTE5UFdoMzlXZWxpNHRfRXh4UHpQejRvenRDVTFmaDhiakxfWTdsWnh3bE90dGtrQWRoOWtWY1NrSFlLbERLY0NTUV9vNzRiMTRzRVR0MWJhT01LZk9haXRMZkFQMGZoem80T2R2OVJYdVBKdE5VMkZLRlpacjB1SmpMSURILXluSXJFSzc3UXpNZEhtWkd2QnI5enI0ajlpSGlOX1VyQWNXUDBZNUpjZThsSkhCa0l4S1k4SWVlcDlySXM0NkZmOEZuNUJzRXlqWU9ic0hwX1lSUmdad1YtZUJpVWc?oc=5",
         "type": "rss"
       }
     ]

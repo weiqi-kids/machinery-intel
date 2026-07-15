@@ -1,0 +1,16 @@
+{
+  "total_raw": 392,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 3,
+  "gate2_fail": 10,
+  "passed": 21,
+  "gate2_samples": [
+    "Delta Chairman Cheng Ping's 700- Day Succession｜Industry｜2026-07-14｜web only - 天下雜誌",
+    "Mitsubishi Electric acquires Dutch APAC, COMPAC groups to expand data center HVAC portfolio - Indiat",
+    "Mitsubishi Electric acquires Dutch HVAC firms for data centers - Investing.com",
+    "Could Mitsubishi Electric (TSE:6503) Become Japan’s Quiet Fusion Enabler In Next-Gen Energy Systems?",
+    "DMG MORI Global One - Sail-World.com"
+  ]
+}
