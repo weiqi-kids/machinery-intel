@@ -1,5 +1,66 @@
 [
   {
+    "id": "dmg_mori-2026-07-16-001",
+    "date": "2026-07-16",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DMG Mori (6141) Q4 2024 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE14VHBpUDVFMVEyUVF3M0E1TldXSGxSOHpJYWtPVDMzYVlyNUJ1bHhpQXhLZ2M1ZWhIb3g0UmhnRnR4NzhDVUlPM3JJeDZtNTI1RU80QUhYZkFFMkFfeVJla1BGbUpnejJyZjZvVS1CdX",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14VHBpUDVFMVEyUVF3M0E1TldXSGxSOHpJYWtPVDMzYVlyNUJ1bHhpQXhLZ2M1ZWhIb3g0UmhnRnR4NzhDVUlPM3JJeDZtNTI1RU80QUhYZkFFMkFfeVJla1BGbUpnejJyZjZvVS1CdXg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-07-16-002",
+    "date": "2026-07-16",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DMG MORI : Invests in Noetra to Support the Development of Japan's AI Technologies - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQVmdyMVlnZFQ2TUxBZWM2YnJ0OEVTREFzZGtVTmlQUGljTDJuRm02ZlhZWHpfT0IzTjVUTHA2Rmd2X0RIQ2RmUGlPSlVrbjY1azVPV3RVNmRPOUdkS3VoWWlNaE56WmtUTEIzUVJRZ0",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVmdyMVlnZFQ2TUxBZWM2YnJ0OEVTREFzZGtVTmlQUGljTDJuRm02ZlhZWHpfT0IzTjVUTHA2Rmd2X0RIQ2RmUGlPSlVrbjY1azVPV3RVNmRPOUdkS3VoWWlNaE56WmtUTEIzUVJRZ0EybVE3REFkZ1dldG9IbWxPaGExZmx1UVNYTHlta01nRmxLUDFIb3ZHb3dyNVpfSHZyUml1X1BmWU9tWnpZNGJYdFlHZ1dKU19faGNzZGpwSXdzYi1RdkJLdlJGcUMtdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-16-003",
+    "date": "2026-07-16",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Ways to boost long-term facility performance with systems integrators",
+    "summary": "<p>Look at process-centric systems integration to prioritize core operational requirements that safeguard project budgets and long-term facility performance.</p>\n<p>The post <a href=\"https://www.plant",
+    "sources": [
+      {
+        "name": "plant_engineering",
+        "url": "https://www.plantengineering.com/ways-to-boost-long-term-facility-performance-with-systems-integrators/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "caterpillar-2026-07-15-001",
     "date": "2026-07-15",
     "companies": [
@@ -16,6 +77,354 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQlVKSjNET2NGSzdUc1JTSUlldjluMVo5TTZCWXBHQnZvOGYyV3NmdXJralhlNUVEdld3R1UtNUxMczFuZU5NMmxhVndydVduUGxJdThXZ0hfaXZvYV9KMmVzS0dHMzRtaTBmNU14ZDV6bGhSSnE4eGhTR1hDU09vSHJCTDBqQ3dfWmRlS05JWC1nRHRnSGc0eWE4UTZQWGxl?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-07-15-002",
+    "date": "2026-07-15",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics (Americas) and X LABS Sign Technology Partnership MOU to Power Next-Gen AI Data Centers - I-Connect007",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdG1ndEpDWEFRZmh0aW5UUEw0NWdhYVZhWkxUeXZjVDd3eDN1Y0R1dVQ2Q2d1Y2VVcHl6YlpOUXBHRFJRMlMyQVFNNHJKcE1Bcm53SkpsNHVnRHRUMWtzTWxyUWZsQVdKNzZ4TmFCOE",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdG1ndEpDWEFRZmh0aW5UUEw0NWdhYVZhWkxUeXZjVDd3eDN1Y0R1dVQ2Q2d1Y2VVcHl6YlpOUXBHRFJRMlMyQVFNNHJKcE1Bcm53SkpsNHVnRHRUMWtzTWxyUWZsQVdKNzZ4TmFCOEt1N0pIaHFQa3M5ZElNS2pUenlfMmNELTdJeDA3VDUydElPS0owMkZ4djVZTnROcHBUOG9LRGlSZFJpNDFSQmdzVjRZSU9Yd2JsaGxfUGp0VE44LThJNkZYa2Nqdl9vQm5SekFrQXdmRllqUUhPd2wtZWlsV3ZMQ3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-07-15-003",
+    "date": "2026-07-15",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta & X LABS sign AI data centre power partnership - datacenter.news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkc3TEYxRVc4VjFacGFzTFVZdktvd2VzZER5RHBZYVk5SmhnMUVhZGx0azBHVnhzZ0dWQ250WmdUUHRFY0g4M3dNcVpvN0VDbFk4VGFPWjlPQUlGZ1Fuckw0VlJ0VnY5ZHN2dklEVG",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkc3TEYxRVc4VjFacGFzTFVZdktvd2VzZER5RHBZYVk5SmhnMUVhZGx0azBHVnhzZ0dWQ250WmdUUHRFY0g4M3dNcVpvN0VDbFk4VGFPWjlPQUlGZ1Fuckw0VlJ0VnY5ZHN2dklEVGxsWVd3Z3JMVWNBMVVDV3RlUHFHUTd2eDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "schneider-2026-07-15-004",
+    "date": "2026-07-15",
+    "companies": [
+      "schneider"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Liquid cooling failures in AI data centers: Causes, risks, and prevention",
+    "summary": "<p>Author: David McGlocklin, Cooling Development/Sustaining Engineering Manager, Schneider Electric AI data center deployments are expensive, with individual racks costing $3 million or more. As AI da",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/datacenter/2026/07/15/liquid-cooling-failures-ai-data-centers-causes-risks-prevention/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-005",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Quiet Work That Builds Lasting Trust",
+    "summary": "<p>The most meaningful wins are often the ones customers never see, that&#8217;s the reality many Customer Satisfaction and Quality (CSQ) professionals experience every day. A possible issue is caught",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/supply-chain/2026/07/15/the-quiet-work-that-builds-lasting-trust/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-07-15-006",
+    "date": "2026-07-15",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric introduces MX Controller to simplify high-speed machine control and enable smarter manufacturing - Electronics360",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUENRQ1I3ZE00T2lnTXlsc29mSV9yNmZNM3YwVTlwdkZSM21hdFhkQV9aWnFZd05QUUlRNFQ3VUpQNExsaG90U0Qwcjhjbm0xazZrZzBDOGE0NjExZmYzbkdmR3lsOHZEWWw1REx1dS",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUENRQ1I3ZE00T2lnTXlsc29mSV9yNmZNM3YwVTlwdkZSM21hdFhkQV9aWnFZd05QUUlRNFQ3VUpQNExsaG90U0Qwcjhjbm0xazZrZzBDOGE0NjExZmYzbkdmR3lsOHZEWWw1REx1dS11NlB2NTl6dGUzNElkdDZHLUlCdk9GR21KajYtN3VSWWcyYUo0bE8xUXdRWXEwSmVfTkRrMWEtQmFCREtnX1FZRDgzeU1IaE9taDVUbVo3M25KNHR1LV92Z19STTZGb0dxaGx3Z0daOFEyUVFvbHpjUzBMckhBRVFKalM1TXNQOEVvNTR6XzZ6UWk4T0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-07-15-007",
+    "date": "2026-07-15",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Acquires HVAC Sales, Installation and Maintenance Companies Of APAC And COMPAC Groups In Netherlands - Pulse 2.0",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM1IxYllIcUNGbFg0SV9KSU9OTzNBVm13cE9nR1NXdEFncjIwNFhRTktYbzdYc3B1d21sN3JOQVNrbF9nMUIzejNKakE0M2NOaENBV0xoSjZibkMtX19zb2RLMEV4eWg5ajRELVhGbV",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQM1IxYllIcUNGbFg0SV9KSU9OTzNBVm13cE9nR1NXdEFncjIwNFhRTktYbzdYc3B1d21sN3JOQVNrbF9nMUIzejNKakE0M2NOaENBV0xoSjZibkMtX19zb2RLMEV4eWg5ajRELVhGbVI0VXZKeEo4QVliWEF3eE8tQ0xKRURnZGM3Z2VoaG5kSEVxY01zSTZxakd3SWZONFJoamlGMjVROE9kWDZUVnFOTjZ6bjNPQW1nX2FWS042Z0NOdGdEV1A4a2dDS3c4R1EzelJqbFZpcC1ESUHSAdsBQVVfeXFMUDNSMWJZSHFDRmxYNElfSklPTk8zQVZtd3BPZ0dTV3RBZ3IyMDRYUU5LWG83WHNwdXdtbDdyTkFTa2xfZzFCM3ozSmpBNDNjTmhDQVdMaEo2Ym5DLV9fc29kSzBFeHloOWo0RC1YRm1SNFV2SnhKOEFZYlhBd3hPLUNMSkVEZ2RjN2dlaGhuZEhFcWNNc0k2cWpHd0lmTjRSaGppRjI1UThPZFg2VFZxTk42em4zT0FtZ19hVktONmdDTnRnRFdQOGtnQ0t3OEdRM3pSamxWaXAtRElB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-07-15-008",
+    "date": "2026-07-15",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "DMG Mori (6141) Q3 2025 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5nRFo3RWVfMnEwd0dxMlQyczZMODhwMkVkRmk5LU0wcVN5WnVSbC0zTWFfcmZHcnNyQTFIMl9tWGZqTmNFazI2YXI5b1lWMEJ6bDRaeGlMb0NSMmpTckd0VzhiTDdjMFFZbUxrZzVYUX",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nRFo3RWVfMnEwd0dxMlQyczZMODhwMkVkRmk5LU0wcVN5WnVSbC0zTWFfcmZHcnNyQTFIMl9tWGZqTmNFazI2YXI5b1lWMEJ6bDRaeGlMb0NSMmpTckd0VzhiTDdjMFFZbUxrZzVYUXU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-07-15-009",
+    "date": "2026-07-15",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "DMG Mori (6141) Q1 2025 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNEFIclJ1U3ZnT2hTUjRyRmRnOHo2YUdRZDltXzhzUWl1d0JsTEpiVUlhVzNKYnRNVGRwMEg4NGI3M25UdmtYM0tLRUNqUTJQbFlvSDltU3BTbTI1bUZTYkNDTlgwT1VsWUpZUE1MdW",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zNEFIclJ1U3ZnT2hTUjRyRmRnOHo2YUdRZDltXzhzUWl1d0JsTEpiVUlhVzNKYnRNVGRwMEg4NGI3M25UdmtYM0tLRUNqUTJQbFlvSDltU3BTbTI1bUZTYkNDTlgwT1VsWUpZUE1MdWY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-07-15-010",
+    "date": "2026-07-15",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "DMG Mori (6141) Q3 2024 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE82Q25VcXlKZHJxQkVUcUVqWlF3RFhyQUVVZlNnTDhCdEx0ZkVySFRMSHNuRGpXaVVaYUJ2XzZZTFRlbUtqUHp2QWhZNnBjZlRrMGlSSHFfUlhTMF9nVWtTU0lwLUowQUJZdFgxUHNkWE",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82Q25VcXlKZHJxQkVUcUVqWlF3RFhyQUVVZlNnTDhCdEx0ZkVySFRMSHNuRGpXaVVaYUJ2XzZZTFRlbUtqUHp2QWhZNnBjZlRrMGlSSHFfUlhTMF9nVWtTU0lwLUowQUJZdFgxUHNkWEk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-011",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "XS282390914 Bond Coupon Profile — Rate & Payments - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5xUmFRSUVxQ2JKXzB5aFlNVzZmdlJoRDZOOTM4VE5NVUFOS3JlZk0tRFFERC00bFdkMHdBNFFWaG1tS3E1cjBZNm5WU1E3QWUzaWhQbkxFbVY4NThiYnpXdHF1ZDh0di0wRGEwblNfbn",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xUmFRSUVxQ2JKXzB5aFlNVzZmdlJoRDZOOTM4VE5NVUFOS3JlZk0tRFFERC00bFdkMHdBNFFWaG1tS3E1cjBZNm5WU1E3QWUzaWhQbkxFbVY4NThiYnpXdHF1ZDh0di0wRGEwblNfbnBhb1B6eXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-15-012",
+    "date": "2026-07-15",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "How Investors Are Reacting To Parker-Hannifin (PH) Dividend Hike And Upbeat Earnings Outlook - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOEcteldpMkFYLW03UXUxUVBhMzRaMl9aTVlqMmdfWVVybHVhYWE3OVV2TnZURnlsSjFtYUNRS2QwTWtTeWVFZHBaNTVjcm5ZN3E4X0JqYjlWYWdoS0g4cklhTnFfUDFwZ0lSY2lGNk",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOEcteldpMkFYLW03UXUxUVBhMzRaMl9aTVlqMmdfWVVybHVhYWE3OVV2TnZURnlsSjFtYUNRS2QwTWtTeWVFZHBaNTVjcm5ZN3E4X0JqYjlWYWdoS0g4cklhTnFfUDFwZ0lSY2lGNk9EZW45OE9rcGRNd3RkbTFuc1dNQ215VUVPSmNmT0pNMm1vUlVidXB2cTFJMmFLeEduNmhDTHpTcjdsY3I4Vllmdm5aVlI2cTNHaE9XNjJfbFVmQ2ZGcnBUU2pFbDNvakFPOEwyWjNR0gHWAUFVX3lxTE04Ry16V2kyQVgtbTdRdTFRUGEzNFoyX1pNWWoyZ19ZVXJsdWFhYTc5VXZOdlRGeWxKMW1hQ1FLZDBNa1N5ZUVkcFo1NWNyblk3cThfQmpiOVZhZ2hLSDhySWFOcV9QMXBnSVJjaUY2T0Rlbjk4T2twZE13dGRtMW5zV01DbXlVRU9KY2ZPSk0ybW9SVWJ1cHZxMUkyYUt4R242aENMelNyN2xjcjhWWWZ2blpWUjZxM0doT1c2Ml9sVWZDZkZycFRTakVsM29qQU84TDJaM1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-15-013",
+    "date": "2026-07-15",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sanctuary Advisors LLC Lowers Position in Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNZUk0Y1dqYy1KOFp3VnVJS19kQkU1SllpRXhzSEJBejFQeEFacTVYOU9ybUpsem9pZGVmODhkcWY2cVNUYkhocnZZZ0ZWTXlFYnNjald1YXBNQ3FCWUR2ZjEwY1F3bVIwM1ktR0dScl",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZUk0Y1dqYy1KOFp3VnVJS19kQkU1SllpRXhzSEJBejFQeEFacTVYOU9ybUpsem9pZGVmODhkcWY2cVNUYkhocnZZZ0ZWTXlFYnNjald1YXBNQ3FCWUR2ZjEwY1F3bVIwM1ktR0dSclprMUNaQ0FOSUhoVGt5MllpMkNNajVrYWI4QzdSQndNVmlOZDZ4aENZb1VaeWxqWGRzX1VibVd2NWlFZ0xsNTUxbTRJRnpsN3dBZ2h6M3A2b1o4ZWdDQndtc2lPdEI0Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-07-15-014",
+    "date": "2026-07-15",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (NYSE:PH) Operational Progress Keeps Shares In Focus - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOZDZzQ2JieTJ4alU5UHgxb052VF9lamttSW1GSGd3c2lfWkJiRGl2Uk0zb0o5ODFCRlZINFRoandzRGN5QVBDTWg2ZUV5OUNXSmhROFFxUE5qcy1rdlFwS3QyeFNNQ3RpTHpjUEdET0",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZDZzQ2JieTJ4alU5UHgxb052VF9lamttSW1GSGd3c2lfWkJiRGl2Uk0zb0o5ODFCRlZINFRoandzRGN5QVBDTWg2ZUV5OUNXSmhROFFxUE5qcy1rdlFwS3QyeFNNQ3RpTHpjUEdET0QzeUVWc0xyRlUwZFMzOC02YlpsbFh3ZHFlRWxqVlEzSTd3ekdOTGlJTkxMakNGVjZYeHFsRnN5U2Z0YnJHdTFqMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-15-015",
+    "date": "2026-07-15",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What to Expect From Caterpillar's Q2 2026 Earnings Report - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ0Jqc0E4MXpINXNfay0xVXYwUFU1d20zQ0tYRzg0bUJtQmRqNnhQLVNwNDJKRU9EUE5ZbWNBTnRVQVFQQXUyYmxXUzFHNFo1cVc3U0dmQnZObTd3Y2gwcHB1RWxBVnB3N3ExbUJwMW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ0Jqc0E4MXpINXNfay0xVXYwUFU1d20zQ0tYRzg0bUJtQmRqNnhQLVNwNDJKRU9EUE5ZbWNBTnRVQVFQQXUyYmxXUzFHNFo1cVc3U0dmQnZObTd3Y2gwcHB1RWxBVnB3N3ExbUJwMWNXb2xuZEZtamVmdGl3TWgzLXpEOFROQ3FWRVExYVVCY3pBTDh3a25kbTZxVU12M19mdkdV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-15-016",
+    "date": "2026-07-15",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNNDJMRXZDRDZfWlRGaE9ya1NxeWlqTnZqcVZVUFVoX3lJNWwySGRTMzZ4NDQtaG1fMlpsN3pyd1ZNb3AwcG15bnNDalBCa29SV1ZxclpBVjZWcE1fZ1JWYmxLb0hnd0VkYWlaVnFMYV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNDJMRXZDRDZfWlRGaE9ya1NxeWlqTnZqcVZVUFVoX3lJNWwySGRTMzZ4NDQtaG1fMlpsN3pyd1ZNb3AwcG15bnNDalBCa29SV1ZxclpBVjZWcE1fZ1JWYmxLb0hnd0VkYWlaVnFMYVFpaGtyMzVGUkd3aUUzSEw4UW9IV3dQQXVZbXlOSw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-07-15-017",
+    "date": "2026-07-15",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "JPMorgan and Wells Fargo Just Raised Caterpillar Targets. Here’s What Changed. - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVZfRmxxXzZ3SzE2eGU2SlhjQ0FBdEZGMUpsWHU5aU1IdVZaQUpJQXlCcGtkc0xZVGlJbjE3enZERkd5OWkyaHZqdG1Xa3NVV215OWF6dmdRVEt2SDF2NHc1c3lTNDkxSURXUVBTdG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVZfRmxxXzZ3SzE2eGU2SlhjQ0FBdEZGMUpsWHU5aU1IdVZaQUpJQXlCcGtkc0xZVGlJbjE3enZERkd5OWkyaHZqdG1Xa3NVV215OWF6dmdRVEt2SDF2NHc1c3lTNDkxSURXUVBTdGFtWDNRV052dWhCdG50WWNxWWdYUF9tdTk3QVlHTzlvZllUb2RELV9Ta1NNU055TzgtQVpJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-15-018",
+    "date": "2026-07-15",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vietnam, Singapore to develop automation, AI, robotics, green manufacturing in joint research center - TNGlobal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNMW1mdVdnZVZZakowSzJqbTRWT3pqTW1PQUlLOTUzVlJ2VjluODZxUmM1T1FGLTUxMkYyeWdaa3Uwbk9Bc3FEQWR5SlJxLXFYUWtmSER1RzFMdTVnc3ZIV09KLWF5UXRnM0FhdExMdV",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMW1mdVdnZVZZakowSzJqbTRWT3pqTW1PQUlLOTUzVlJ2VjluODZxUmM1T1FGLTUxMkYyeWdaa3Uwbk9Bc3FEQWR5SlJxLXFYUWtmSER1RzFMdTVnc3ZIV09KLWF5UXRnM0FhdExMdVVmMUNCLW0yYk5TbFduTEw0YVBodEY0UG1Ec21iSW5NOG9OQy01X1JRUERnMmZuV0dCb3hfY1pPTHJUUzg2bUp5czNDb3ZuTWNUUTU2aUQ3Sk1BcHdlXzhNS1l2NDU?oc=5",
         "type": "rss"
       }
     ]
@@ -352,6 +761,46 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWhwV3hvU05pXzdLZVF2TFVoMm1rVkR6QVczbWMxUGlSS2thWjd5QXpQS2htWVFmQVlqLWhycVZOWi13aGdpTFQteVZrajVPdU1hSklKTHJVZzhrZ0w1WHBkTW5JT0JPamdUR2hhYk1wdE90WHhPbG9UVkxlc3NscFgzelk1UUllZjIxMnRNQ2wzM2VxR0N6U3NSTXFLMWg5dVR4NTBGLW9nVDE5OTVXVHkzZVI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-07-14-018",
+    "date": "2026-07-14",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Thailand Recognized on CDP’s 2025 Supplier Engagement “A” List for the Third Time - markets.businessinsider.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWTB6ckJCeEJndFVYREJBY0M1WXVEak1NWTI2NWZ2dEJtdlkyUXFyUDRKcDFHY21xeE1memlkYzNTRWlrY0R5NENoRjk2eldtTHd2VGxuT19CM01NMjg2eE9qQ2ZWNUZoZXZnQXBOMG",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWTB6ckJCeEJndFVYREJBY0M1WXVEak1NWTI2NWZ2dEJtdlkyUXFyUDRKcDFHY21xeE1memlkYzNTRWlrY0R5NENoRjk2eldtTHd2VGxuT19CM01NMjg2eE9qQ2ZWNUZoZXZnQXBOMGtIVVpCSkJpeHpycWFhdk1Qa25pUkZuT3NjdzVGVXA0X2lpVGk2Wmdua0QyZnU3T2Y1TUFQc0dReWdyYXMwMnRiVEttaVF0TEFDZXpRcFV2WnBiYm5ReWFBdjBsREtSUmNvTG10SUpIVGNPYmpF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-019",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "World Mitsubishi IGBT Modules - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQNmJ5WmI5aENEWnVaUW1MM0h4NVU1SG03MXRKN0YyRjBLQWZEUlJydUV2dUJFNmlHbktnajBiU0hzVDZkeWJtMzIydXVWSHBaVm9zRE9VOTdRN3BEVjE3NWUzYldoNktqcE9BNy1BOH",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNmJ5WmI5aENEWnVaUW1MM0h4NVU1SG03MXRKN0YyRjBLQWZEUlJydUV2dUJFNmlHbktnajBiU0hzVDZkeWJtMzIydXVWSHBaVm9zRE9VOTdRN3BEVjE3NWUzYldoNktqcE9BNy1BOHhwSjBJenpQZEg3TTRJeEJqX3gtajZHb3gwWlFUTHRaZFhwRnB1LUJZUmpKSjE2OHJMSUhKUDNzaVJiVjhOd0JKMUlQdXJFYV9TWm9iaDcteUJ6TVRMZjZ1SkJ3?oc=5",
         "type": "rss"
       }
     ]
@@ -787,6 +1236,26 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaGNWQ0M1UGFKRDhUVmJBaXlQaFUzOXJHUG9MaTFkTXN3QUQwYmt5OU5ZanUyNFY5b1lveTBfbDBDNTJMMUNfaXNadWtNWkxvSHpfMThjdlFZZ1dfcHpONEc5V0ROeDVoZDhVbFRsMEpuTkVGZjVJZjBnRFFXOVBUQmVMQ1lGMUJVUndVbXFyVjM0Y2k5X25mOUdXLUZhb1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hiwin-2026-07-13-022",
+    "date": "2026-07-13",
+    "companies": [
+      "hiwin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to EBIT forward of HIWIN Technologies Corp. – TWSE:2049 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0hIU3FudE40UGE4OFNqYmlzMHY3b2FMeVZHUllJR05JMHBFclRjOENjaVNFd1l0dGl3eFc4LUd6UThjTHRTRzNfNE9BRkwyeUxoM1l2WUtuekFJdzNOeVhuSHJxUnFsaHVRcDVjSU",
+    "sources": [
+      {
+        "name": "hiwin",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT0hIU3FudE40UGE4OFNqYmlzMHY3b2FMeVZHUllJR05JMHBFclRjOENjaVNFd1l0dGl3eFc4LUd6UThjTHRTRzNfNE9BRkwyeUxoM1l2WUtuekFJdzNOeVhuSHJxUnFsaHVRcDVjSUotX1lVdzdGYVZYOGdjMFU1eGwzb1dpdk5pY3NHclpZZ0MxUTZaTjZQTk5jWS1fUmVTM29EcXVtTDU?oc=5",
         "type": "rss"
       }
     ]
@@ -1600,6 +2069,25 @@
       {
         "name": "abb",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmNxWTljcEp6LThFaVZBXzlIQnFUYWpnVHM5MTE5dXk1V1FiNjdoMlNMYS1VS0VTd3lPSTZWR1N4VGFjeDRiVE9nYlBqckxDdmE3ck5oRHRnSnZOUFlYb0UyUjlCOTNRQ3V6cm9NQlJkWDdHdlNubjZwcTNVQWh3aXRvNmw3VEVrM0hDWUVfd1BkWnFQQTJkeUY5WHkzMHQxSkg4VEUxRDBhYURaU21LQ2gzTHR2TWVxM2RQaFV4aWlJOWVGRThz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-10-023",
+    "date": "2026-07-10",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Stock's Loudest Signal Is The One It Stopped Sending - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPTUR2NDI0VzZsR3plb0NjSTRYNVJUNkVoRVNyQzFKd1k0OFlldXNTS0pxcGZqa1RVWXAwY2lzcTR2cWRrbkQ5eHhTYlhac3BGNFNUcGYya1Z3d1czVWZrOGdzS25DMm1JeU5TUFdMbD",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTUR2NDI0VzZsR3plb0NjSTRYNVJUNkVoRVNyQzFKd1k0OFlldXNTS0pxcGZqa1RVWXAwY2lzcTR2cWRrbkQ5eHhTYlhac3BGNFNUcGYya1Z3d1czVWZrOGdzS25DMm1JeU5TUFdMbDRPLVpTQ3cyb0dFclloeDBQMHpsOWI2REMzOUVDWFNuakYtUXZKYjVWX3NGcWtUakNuT2c?oc=5",
         "type": "rss"
       }
     ]

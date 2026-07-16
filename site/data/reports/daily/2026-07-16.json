@@ -1,0 +1,171 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T09:59:30.353815Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "dmg_mori-2026-07-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DMG Mori (6141) Q4 2024 earnings summary - Quartr",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14VHBpUDVFMVEyUVF3M0E1TldXSGxSOHpJYWtPVDMzYVlyNUJ1bHhpQXhLZ2M1ZWhIb3g0UmhnRnR4NzhDVUlPM3JJeDZtNTI1RU80QUhYZkFFMkFfeVJla1BGbUpnejJyZjZvVS1CdXg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "dmg_mori-2026-07-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DMG MORI : Invests in Noetra to Support the Development of Japan's AI Technologies - marketscreener.com",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVmdyMVlnZFQ2TUxBZWM2YnJ0OEVTREFzZGtVTmlQUGljTDJuRm02ZlhZWHpfT0IzTjVUTHA2Rmd2X0RIQ2RmUGlPSlVrbjY1azVPV3RVNmRPOUdkS3VoWWlNaE56WmtUTEIzUVJRZ0EybVE3REFkZ1dldG9IbWxPaGExZmx1UVNYTHlta01nRmxLUDFIb3ZHb3dyNVpfSHZyUml1X1BmWU9tWnpZNGJYdFlHZ1dKU19faGNzZGpwSXdzYi1RdkJLdlJGcUMtdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ways to boost long-term facility performance with systems integrators",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.plantengineering.com/ways-to-boost-long-term-facility-performance-with-systems-integrators/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "dmg_mori",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 393,
+    "dup_title": 207,
+    "too_old": 146,
+    "gate1_blocked": 5,
+    "gate2_blocked": 11,
+    "passed": 24,
+    "pass_rate": "12.9%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Delta Chairman Cheng Ping's 700- Day Succession｜Industry｜2026-07-14｜web only - 天下雜誌",
+      "Building a Career Before You Have All the Answers",
+      "Mitsubishi Electric charts a new form of digital transformation using Figma as a foundation for co-c",
+      "Mitsubishi Electric acquires Dutch APAC, COMPAC groups to expand data center HVAC portfolio - Indiat",
+      "Could Mitsubishi Electric (TSE:6503) Become Japan’s Quiet Fusion Enabler In Next-Gen Energy Systems?"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為DMG Mori相關動態：「DMG Mori (6141) Q4 2024 earnings summary - Quartr」。主要關注主題為財報、產業通用、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "DMG Mori (6141) Q4 2024 earnings summary - Quartr（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "DMG MORI : Invests in Noetra to Support the Development of Japan's AI Technol...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
