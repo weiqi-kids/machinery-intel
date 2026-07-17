@@ -1,0 +1,16 @@
+{
+  "total_raw": 392,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 6,
+  "gate2_fail": 11,
+  "passed": 48,
+  "gate2_samples": [
+    "Delta Chairman Cheng Ping's 700- Day Succession｜Industry｜2026-07-14｜web only - 天下雜誌",
+    "The hidden power infrastructure behind AI",
+    "Building a Career Before You Have All the Answers",
+    "Mitsubishi Electric charts a new form of digital transformation using Figma as a foundation for co-c",
+    "Mitsubishi Electric acquires Dutch HVAC firms for data centers - Investing.com"
+  ]
+}
