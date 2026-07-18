@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-18",
+  "total_events": 5,
+  "by_company": {
+    "delta": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "abb": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "parker_hannifin": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "caterpillar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "automation_capex": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "industry_general": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "earnings": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

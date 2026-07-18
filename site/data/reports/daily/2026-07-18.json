@@ -1,0 +1,234 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T09:17:19.623030Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "abb-2026-07-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABB stock trades steady as automation group highlights solid 2025 revenue and margin momentum - ad-hoc-news.de",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlNlQ19yOERXSEVqS1VZdGtMbVJFaXdJRXN2ejdKdFBETlJWdkJjR29fUlhCdE9WZDB0VGRWcHJTVm1wN2lfUm1KSjB5QkhzRzE4QzdmeHNTV3VlZF9YT0xoUkN3ZUpwZXBucy16TERnS0ZlSnNDVzRUZjF1T2RxX2FMWk1GdDJkNUpDM21USnotVktZS3F2eEoxdERRSzlWenBoNWp3RXFoQnJKZzNBcUF2dDBINHRMS0FCTWdKSzdjQXg5RnR5NUFfUGk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "parker_hannifin-2026-07-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "California Public Employees Retirement System Increases Position in Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTW1zTmdPd0FrR213VXlMTlZGc2ZZSlhCb3dVVjNxNG5tajlJNDRGa3V5bm1HSDdSM05zbkMtU0lLSGF1dGVnanBEWmVKaGpNTmNNSDc4bkVhZHY3OFZmQlhjQ2FvaVVhb1hxeTM1YXBRVS1wNm1YR2VjWV9Xc3hnVF9zSEZIOHY5cGdjb0NUazVXNTVUQk1mZVM3RWQ5d2pyZW5tSENDWkR0cmpXbVBFd3JkM3FncFR6ZnF4VXk3emZwWVdQNDhmakVYRTdMdUpOTExBU1Jya2JvNzFCTDlyZ2w1NDJMVi1WODk3VlJRbXA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-07-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Aware Super Pty Ltd as trustee of Aware Super Makes New $12.41 Million Investment in Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVjI4RU9JdlFVNEs4Q0NHcXYyUTdMQ3dkUktONGVRZE03TkE2ZDUyWGIwMG4zVnp0Y1loSTVBZXRURklQU0VKQmYtZ3FTOVBTaVFJM05SdkM5NUpLR0NxZUljMUZaM3RLRlhpRmQzcVluMXdDNXQ2S3UyMEJwbmNqVlNRa1FYY0t6UkUycVR4STZsSllZX0l5MEJrdXRBN1lGNFhhR1ZQeGd2UmdNWXoyeVYzSVlVdGVSVjNXRkw3bXJESVhTM1FCTzdjSktyYm9hanZUY2p4YlJQc3NGakZuT1lQTFdWbllUWjZ5a3F6VFhTSVZIcDZYMHVHN3FQaHRnbWoydA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-07-18-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is Caterpillar (CAT) Expensive Following Its Strong Run And Wide Moat Narrative? - simplywall.st",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdlYwVzRHaHhvcEJlODdOdjhHLXpCU1pGc0M3MjJHNnhaYVg1M3l0OVhPQlJBSnF5akhNV3ZTbENjVV9OSDh2SFpvaVNxOHlLT1Z2MEs3bWhPczdkbHVyX1hNTnlVRlU5LVI3NHZHYlpIV1lxQXZJa1BLeC1xbzN4U0t2ZjZOZFUwT0M0andCdFJ1bmg2a0liOE5BWmFrYm9vZkFHYjhPX0N2d3licFlzcU5xWEdrdmNwazU3RUdQZE5ibm05R0dpZ08yU2bSAdIBQVVfeXFMTlphbzVucFVIbGppczJ3YVF0SFlrUEE4VGVCNzFlVTJqc2xLR3B0N3d5VG1hS25WR0hMUjBNb0FJcHZENm5ZQ24yZllfX2Z2YkF3MktVWGluVzRnUTE0ckpBd0g1S3l5X2RCSFNHelR6bGNGQzdRRXd0M0hQdnRyVElmNUtscnAxN0pEeTRyeDNUc3l2VnBDTTJRNnE2VzJOMk9jcG9RbzU5X05KQ3BoVkREVDlBTVF2ejVaT3ltQzdIaXpXdTlUcVJaSnU5N3A4bHNn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "delta-2026-07-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Delta Electronics to expand manufacturing in Krishnagiri - DT Next",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOXy1IZExBMG5vd29BUW9PNlJ6MWM0X3R2TWpWc0FaUXNXTU1TaTZBOF95LTZLc0xNZXVxX2lFU24yYUlQc0k0NXB3cU45V3lvd0R4MHUxU05lX0hoRmZaT2lNeXNkUFB4Rmdjb1lZZnN6QnZyU0R3Ul9NeEh0czcwUGRMYjZWMmFKT1BidTVrU0Y2VTBCSmNV0gGkAUFVX3lxTFAyUjdFN0p3MHJLeGNXR2dyenBHWW43MUxkakYxSDZZcW44RTVLNjFoV1kwcVhXT3BHVy1MRnQ0U2doSW1vWVdCT3Y5dndYMUJ6YmR5Y1FwT1hRdlptdE1wV2VFY2QxV2hWenBQYzhGekhPVFhEd0hVR3ZaS2NZMV84bVFjOE1uOEtMeTNPN3dwMUNxaV9YN21LazZYTERZc2NtemRE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "abb",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 394,
+    "dup_title": 220,
+    "too_old": 130,
+    "gate1_blocked": 6,
+    "gate2_blocked": 9,
+    "passed": 29,
+    "pass_rate": "16.7%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Delta Chairman Cheng Ping's 700-Day Succession｜Industry｜2026-07-14｜web only - 天下雜誌",
+      "The hidden power infrastructure behind AI",
+      "Building a Career Before You Have All the Answers",
+      "Mitsubishi Electric acquires Dutch HVAC firms for data centers - Investing.com",
+      "Could Mitsubishi Electric (TSE:6503) Become Japan’s Quiet Fusion Enabler In Next-Gen Energy Systems?"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Parker、Delta Electronics、ABB相關動態：「ABB stock trades steady as automation group highlights so...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ABB stock trades steady as automation group highlights solid 2025 revenue and...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "California Public Employees Retirement System Increases Position in Parker-Ha...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 130,
+  "gate1_fail": 6,
+  "gate2_fail": 9,
+  "passed": 29,
+  "gate2_samples": [
+    "Delta Chairman Cheng Ping's 700-Day Succession｜Industry｜2026-07-14｜web only - 天下雜誌",
+    "The hidden power infrastructure behind AI",
+    "Building a Career Before You Have All the Answers",
+    "Mitsubishi Electric acquires Dutch HVAC firms for data centers - Investing.com",
+    "Could Mitsubishi Electric (TSE:6503) Become Japan’s Quiet Fusion Enabler In Next-Gen Energy Systems?"
+  ]
+}
