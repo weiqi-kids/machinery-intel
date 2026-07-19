@@ -1,0 +1,228 @@
+{
+  "date": "2026-07-19",
+  "generated_at": "2026-07-19T09:46:14.477629Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-07-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric eyes power-chip merger with Rohm and Toshiba - The Japan Times",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1hUMjFURnhDSkV2NlVuWmQ4RXZZbVQzcTNDekVCWWQtZUQyQnRfeC0wcXNFTjE2WGdQX1FDMXFyaXdpdnFSczBwdTZtRzhZWHNPeXlNeFFjazhoVTlGUFpsdlpFUTgzaTBmVmpLOFYxOEExWWRPVFJZRXY0ZWhwdGhSTnhOMWlNOEF5VFdybFlNbDM0SmRBZnZneENYcHcxamxSSDVNdWJMakpJcVFB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itw-2026-07-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works rated 'hold' due to high va... - Pluang",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQampYdW04QTNZZ3gtLW0yRGx0NERYTDlaU3VVaFdjYzNqVU1tVk9GQnZtSHZpRjZQbHFWZ1hfVF9VaUtKRkRXaE9uQ1lneE83VFlMcExja2pYWjRmY1RUbmdWNlI4Z1ZwQ2dLSXZXR3l5NWpfZlItdUYwVXJ4eUVOXzY2VTJlb2tXTTFIT0ZoejRuN2FlNVVj?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-07-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AIA Group Ltd Takes Position in Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObWE0M1NDZmNWR0F4TS1nT2R6T25KY1MyOElrU2FTSk9KNDZhMHhUcXN4aUVSYzQ3bS16UDlLSWU0d3NYOXQ3ZTI5RERBa2tIa3JrQXMyN3d0Sktyc2VncklWNlVNU1VBY0U5NFhVSzJ5M0hGblRMREhWNkVoY1ljdDhmdUlNczhaRHdubjFpRFhfamEtRWpDNTR1ajNhX2UzVGM3TVBTa0kwcGRydUtlZmtqOC1OZm9ZUXIyWW9LYkI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "parker_hannifin-2026-07-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Jennison Associates LLC Has $234.47 Million Stake in Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZmJldjFMMms1cXgwZmxfZmJKU0lUMmEtQUtQd3RXc19hUzNHcGVHOFFSY0EyNDg0azJjU0Q3Sk45alRJbjBrVmc4VUNqQzFkQzN1VFF2SmF1cEg1RGd3QV91c1FQWmxNQkszNXozRUNhZ0NCYmdBTUFuSS1sdXd4ZlFVZGxNekt0NGtkZ1FiV1U2WUYwWDFFTEV1WEI3M0tvclFpVXhuRWY1bDFxSUxsM1VGX2hrU3Zta2FhMlNSTFd2aFNyNjdsQzJWQTlYUmR3NDVOMzItR2RsZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-07-19-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Assetmark Inc. Has $26.96 Million Stock Position in Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM05zclEtRzlQZ1hQSUdPek9LbzYtY3ZqdUc2dTRqalFrWm5WVzItemxNdWpzRzI5S0oyQTVfSjFWTTE0R1FNRGNIdFM4SEVjSTROa01GRkY1cTloRFdpZlJnZ3I0ZnNPd2xQWnprWlRaTnRubGVWT1RWeTlsOF84MkEtOGxER015Z1hiWHZDZURUZEFEWXN3QW00QU9MRGhZQVdicTRwcVNnU3FSMVN5UWZiTmdWelk1aDVhVDVZc01hS1VkYTA3UVlTWUE0SGlDWWlkRTA2Yw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      },
+      {
+        "id": "itw",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 393,
+    "dup_title": 234,
+    "too_old": 127,
+    "gate1_blocked": 6,
+    "gate2_blocked": 11,
+    "passed": 15,
+    "pass_rate": "9.4%",
+    "gate2_block_rate": "6.9%",
+    "gate2_samples": [
+      "Delta Chairman Cheng Ping's 700-Day Succession｜Industry｜2026-07-14｜web only - 天下雜誌",
+      "The hidden power infrastructure behind AI",
+      "Building a Career Before You Have All the Answers",
+      "Mitsubishi Electric acquires Dutch HVAC firms for data centers - Investing.com",
+      "Mitsubishi Electric Leads \"Three-in-One\": Teams Up with Toshiba and ROHM to Integrate Power Chip Bus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Parker、Mitsubishi Electric、ITW相關動態：「Mitsubishi Electric eyes power-chip merger with Rohm and ...」。主要關注主題為財報、產業通用、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mitsubishi Electric eyes power-chip merger with Rohm and Toshiba - The Japan ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Illinois Tool Works rated 'hold' due to high va... - Pluang（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
