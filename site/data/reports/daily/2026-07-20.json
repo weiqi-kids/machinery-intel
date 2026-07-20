@@ -1,0 +1,237 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T10:42:56.700434Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-07-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics India, Tamil Nadu CM Explore AI & Clean Energy Opportunities - TimesTech",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeWRfdHJGa21FM0JITTdNM00wZVczTTNjSVlISlVNTmZwVEIzMDgyNWY0eVJ6VFlURXFkTWN4ZVhiR1VwaHczLUN4c3dTajRBQkZ6TnVBcnR0UzlROFQ3R0Rlcy1XN0xEWkFYUVRUSC1EOGFjS0ZVV2l3YVE3X3BMMlhrbEh2TndQZndfbXpCSjFremtSaHlCT0F1d1lDQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "abb-2026-07-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABB stock trades steady as automation demand supports recent earnings - ad-hoc-news.de",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV19Kem9jeGxVVGxDek1TNkk3ekN1Y2NFQ1k3UE9mXzNUQ3BrR3U0YUF3bnBaRWZsZ041UUVuNHRQWERQUDhjR0ZyQTgzTk13SUtJYkViMk5hS3haSXRucGhUQUd2VkFuTEtmUE83OUtiZGxERXcxaE1UaE1sNmVFSmU0WjJRdXZPSHdsZjRDdThBMzBRR05HWkJUQWVUVGh5bF9wZWxlZzh3NmxOOTkzUjRxS0FtZEZvSE1hQTFBZVJBaUtFWV9j?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-07-20-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Watch Mitsubishi Electric Eyes Power-Chip Merger - Bloomberg.com",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ19BVFh4bDdGX1RxY21tRk5qTU9IX1Y2cEFLZ2FyNjd1eXFhOFM4dUFvek9rX2pRekRJNDAtVVpyNXlFNXRYLTV1b2k4UkFpSmRPd09Jb1VjVGlQX1hSRml6QXVlNS1rXzlTNF9EeGIyQkdDV3BMeEZGMlZEQVJaUktvVllSNWxxWWJqTWhFRDE5MThQU0ZjREN3cXFITlJkcmFpazJIQndUOFJRR19fLTB4RDBGSjcwZmpZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-07-20-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar (NYSE:CAT) Posts Strong Volume in Dow Jones - Kalkine Media",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa3Zaakl1Z05jN0UxWHRraGFxYnRWVV9YU19uODRiLWJKUzB2ZzZYc2piaVNCd0NNc01NRElrQ2VhZDZ6LW1uSXRyWlRieTRsTXh5NVQzWGtDRU5sVlNCa2p4VWIyLTZLVnpHWjhfajN4V3ctRXNfRW5qTXY5X2k2NUtnZUY4RnpOV2JCM2F6Wm9pSXRZcUs5T3A3QjJYSDA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "abb-2026-07-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ABB stock trades near yearly high as electrification demand supports margins - ad-hoc-news.de",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNUVKUFJzUVZYV2gxWlQ5TEpZU25Ta05tSzExaXRqUWpLYzQtUEI1ZS1aUHlNS0FIV1Q5X1hsX0tIQlFiZ1hIMi1TWTExcnBlcjNQdmwtVi1leVpiMktIb3FyX0VkdzUxLUV1d005ekVqOTd5MUxGR1FCSkZKSE91LVJqSHJjcm1CcW1haFBpNDk4d21mX0JpVFE2ZllhMlNRcWdFREpmczdzcHpNM0poRWFqdk9zcTBRNVZ4UTlzbXdHMzFYZUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "abb",
+        "count": 2
+      },
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 392,
+    "dup_title": 235,
+    "too_old": 124,
+    "gate1_blocked": 8,
+    "gate2_blocked": 11,
+    "passed": 14,
+    "pass_rate": "8.9%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Delta Chairman Cheng Ping's 700-Day Succession｜Industry｜2026-07-14｜web only - 天下雜誌",
+      "The hidden power infrastructure behind AI",
+      "Building a Career Before You Have All the Answers",
+      "Mitsubishi Electric acquires Dutch HVAC firms for data centers - Investing.com",
+      "Mitsubishi Electric Leads \"Three-in-One\": Teams Up with Toshiba and ROHM to Integrate Power Chip Bus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為ABB、Delta Electronics、Mitsubishi Electric相關動態：「Delta Electronics India, Tamil Nadu CM Explore AI & Clean...」。主要關注主題為財報、產業通用、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Delta Electronics India, Tamil Nadu CM Explore AI & Clean Energy Opportunitie...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "ABB stock trades steady as automation demand supports recent earnings - ad-ho...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
