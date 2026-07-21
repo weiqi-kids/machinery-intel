@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:17:28.382200Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "abb-2026-07-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABB stock steadies as automation demand supports outlook after strong 2024 results - Ad-hoc-news.de",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdGdFZUNYUlRVNTE0dzdRVlY1SGFXOHN4Qko5ZTdZTHExVldXeWFRVjNKbzJReUNPVmdKR01aTTlVX3FzNGZTcUQ3MFhEY2tTSlZfbE53TDRTX3k1SFNtX3NacU9pTHlKM05PZ1FUYm9BM0JZVWdhd1hidlJWTUFQbEJNMGpUUndfbW9PZTkxbm1ISkg1R2phZ1d2WTZzNEFYVmZyS0J2SFc5b1I4VTE0bnpHbVZhcWYwcWswcC11R0EzM0dia1owNjk2al9aZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A1VFKW Bond Coupon Profile — Rate & Payments - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16UjRoNEVFY3dEOTdNVHdDbVdiREZhQk5NcVhIbktMcjlnRGN3U1dUMFdXOVNaNllEOHJvSWpZV3A3anJEVmxGaVJLS3EyQ2U0dlJZVkNPcDNhaENTSFBBVGxLLVNhblRSbXF3RnJn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-07-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "KBC Group NV Sells 6,074 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU2wzaTZCV0hQVTZUYTdyYkZ0bUFiY2tNUkJXUFpNUms2M1VsM2dZSWk4YmxmT0VjVmpLNzQwSkVlT3hrb0pxTEg5clRFQkRIWktvamw5MTFtQVIzNmhjT2ZLeHI1Y1JnYUNrMkFkeWpxVDFrTnNFMHZwcDNLSjQxeWFFS1A0N05tZWdNTUxOVEs0bi1oRmtTbE9LbFNISVhwQ3JrVnBuNzg5WjVuVl96M3duX1JhWWF0bVIyWGdJSDI5WlE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "parker_hannifin-2026-07-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Allspring Global Investments Holdings LLC Has $25.84 Million Stake in Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYlRtay1yVmNvTjJiZ2pXM2RvUmhxT0p5Z3labkFCMndNbW1SMFRZTDVBRS1XZHJlQTBXOGZIZGFmc1RLUVFzdWo1R2M2VlBYMTc4RTQzUkFYeTdaamppZG02RU5WSXRxLTJQQ3dxV2FXWkhrSkx4U0xkb3YzMzNmSF9PMzdDLWtGRGhsZDQtNVBlV0tjblN0ZUpRVXp0bWlGZk52NndrSXRLSGNhSGVMNTI4WTM4dTY3SjhjY01kYVlGWVdraUc2MUZDQ2dtZnR0Rmdya2RSYjZVeFN5U3RjWjlSQnVmU1VnZFNXODZCS2I?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-07-21-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar acquires Skycatch to improve its mining data analysis - CIProud.com",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSV9teHIzVXVQb1E0Z1FYcnF4cGdOR1AxQkRYZjRKYTd4WVRwUS1iUmRqNUtCRU1FNkt2M2JVaXBZV3NxX0pFSHY1UXIwa0ZsUkV6bHZmZV9RaVZfNXBBVndQdDFpZXNreWlpQWhPSk5OdXJneGxaVzhWdDctVFVnVVRrNzhmd1Z6Q015TS1hUzk3WjVC0gGaAUFVX3lxTE1iWWU4NVNFV01ONy1qQ2NDd3NFekZmZ0FqYUxRMkJtNVJqR2NUTFM3U19pMnpkVG5CS1h3ZmhwcEFieTlQVzgzSG9WTWtxLVdVc3JHMF92Vk1sVmhVR3FfTm5qUFZoSDlTTVFpOEp0REtxTmZxVnhvN2VlWFRvME53NmUtVEdEVnloSzdabnItVjIzeFJqaVBTOGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "abb",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 392,
+    "dup_title": 231,
+    "too_old": 127,
+    "gate1_blocked": 4,
+    "gate2_blocked": 13,
+    "passed": 17,
+    "pass_rate": "10.6%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "The hidden power infrastructure behind AI",
+      "Building a Career Before You Have All the Answers",
+      "Mitsubishi Electric Leads \"Three-in-One\": Teams Up with Toshiba and ROHM to Integrate Power Chip Bus",
+      "DMG MORI Global One - Sail-World.com",
+      "Illinois Tool Works rated Hold due to high valu... - Pluang"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Parker、ABB、CAT相關動態：「ABB stock steadies as automation demand supports outlook ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ABB stock steadies as automation demand supports outlook after strong 2024 re...（財報、展望、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "A1VFKW Bond Coupon Profile — Rate & Payments - TradingView（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

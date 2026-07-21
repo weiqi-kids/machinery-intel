@@ -1,0 +1,16 @@
+{
+  "total_raw": 392,
+  "dup_title": 231,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 4,
+  "gate2_fail": 13,
+  "passed": 17,
+  "gate2_samples": [
+    "The hidden power infrastructure behind AI",
+    "Building a Career Before You Have All the Answers",
+    "Mitsubishi Electric Leads \"Three-in-One\": Teams Up with Toshiba and ROHM to Integrate Power Chip Bus",
+    "DMG MORI Global One - Sail-World.com",
+    "Illinois Tool Works rated Hold due to high valu... - Pluang"
+  ]
+}
