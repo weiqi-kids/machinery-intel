@@ -1,0 +1,16 @@
+{
+  "total_raw": 392,
+  "dup_title": 210,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 4,
+  "gate2_fail": 8,
+  "passed": 42,
+  "gate2_samples": [
+    "The hidden power infrastructure behind AI",
+    "Building a Career Before You Have All the Answers",
+    "Mitsubishi Electric charts a new form of digital transformation using Figma as a foundation for co-c",
+    "Illinois Tool Works: Growth Continues, But I'd Hesitate To Buy Here - Seeking Alpha",
+    "Parker Hannifin secures complete victory in ITC investigation regarding corrosion-resistant coatings"
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T10:16:56.863351Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "airtac-2026-07-22-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Taiwanese pneumatic component maker Airtac sets quarterly revenue record - Taiwan News",
+      "companies": [
+        "airtac"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pQUdJT0phTE1hbGVwWVFJTzA5TjJGWnFlX0tfRGhjUHF1alY5V0Y3akdpal81dmVvZEpMUXpLSmg2dzUyNlhiUm40dDcySklsYTFtdDdPcXQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "abb-2026-07-22-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABB to modernise automation at Australian power station to improve operational performance and reliability - Process and Control Today",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYV9UOUMxY3ZwSVd6MFRjT2RHaXVfcDJvM0h0S3VITThmZXVtMnh2aEJ5aDBFcktWeElFR3g5VERsdG8zcWhuOHV4aDdLbUhkQU8tSURqUmI4NmZvcHJDWFprZ0lPd0Y1QnhHOFNUQjJWZVA4ZTBYRkJGaFhQRE8tNmdiSllUSGloZVpWRHloMVlLelk3UjhzdE1QNGZkRVVVeFlNVFcxSmN6M3d2czlRU0hBa3ZKMlRGdkZaUzJKQ1YycWR1UzJSUGFxcEg5Wms?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-07-22-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric, Sony to Form JV for AI Factory Automation - nippon.com",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORzVHVDJDd013Z1BwR1Z1Tkk0bTJMQ2d1OGQxLXVxa0t5REI2RlB3UzY1R1RSZTlnZElkbEt4MUN4SDJjTVZkN2dfcEtrdXo5bFZPcmkxVlhBNXhnQ2U5Y3dBb1g2Q3VoTEcyS3dyYXBfMTJzc0Zaa3REYUJXMXRXVWxybGVzaXB5eXB6aTAzbGIyc050MngzMkFENEhnRDlhLTVwUTZWOWNXQ0ktb2gxVnhNblA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-07-22-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sony and Mitsubishi Electric are putting AI inside the sensor itself to rewire factory automation - Startup Fortune",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd19Ua015TmZheHlUMWFOZnhNNWp6UzFkWU9Oa3paV3R5UnByZl9Uc2gxb2NpaDhndURvN2VOSktYekJfUVFraGN5UXJlWUdKRDUyekpGWjlrRGtveWxxUXJYOXBXdGk1Nm9abWxlemlSQjZvaGRNczNLQlY2ZU5zQ2ZoOE1FaHRyRmZkOXdJNG5Rel93VkF0d21fbEozeFQyR3hUNUo4QWpNNENqOXk5OExQWVJ0WTRkRlFOaDJGMXNfd1k?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mitsubishi_electric-2026-07-22-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric (MIELY) and Sony Launch Joint Venture for In - GuruFocus",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd3FKUlhRckVCNnkzQ1AzY3E5bkV5d3E5bzl3ZnJSbHZ3clJvN3hRME1TMzlRbjdhSmFNVUx0cE1qdHJOcFJfclJ5cGZ5aUd1dzFOdURwcXNYNHFfcWRURFhiMzdjYVc2dnh4dmdFT2N3eUFSV2tVTnNHNWM2WXJ2bGVMdGtCSnY1U3cydE9WTTI1b2F2dF9DdXJMTFkwQTlWUXg2di1zQmZublBfTG5tODg2T24yaWZEOWdjNw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cnc_technology": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 10
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 4
+      },
+      {
+        "id": "airtac",
+        "count": 1
+      },
+      {
+        "id": "abb",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "automation_capex",
+        "count": 9
+      },
+      {
+        "id": "cnc_technology",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 392,
+    "dup_title": 210,
+    "too_old": 128,
+    "gate1_blocked": 4,
+    "gate2_blocked": 8,
+    "passed": 42,
+    "pass_rate": "23.1%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "The hidden power infrastructure behind AI",
+      "Building a Career Before You Have All the Answers",
+      "Mitsubishi Electric charts a new form of digital transformation using Figma as a foundation for co-c",
+      "Illinois Tool Works: Growth Continues, But I'd Hesitate To Buy Here - Seeking Alpha",
+      "Parker Hannifin secures complete victory in ITC investigation regarding corrosion-resistant coatings"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Mitsubishi Electric、Parker、AirTAC International相關動態：「Taiwanese pneumatic component maker Airtac sets quarterly...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Taiwanese pneumatic component maker Airtac sets quarterly revenue record - Ta...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "ABB to modernise automation at Australian power station to improve operationa...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

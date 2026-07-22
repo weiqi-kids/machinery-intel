@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-22",
+  "total_events": 18,
+  "by_company": {
+    "airtac": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "abb": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "mitsubishi_electric": {
+      "count": 10,
+      "sentiment_avg": 0.0
+    },
+    "parker_hannifin": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 11,
+      "sentiment_avg": 0.14
+    },
+    "industry_general": {
+      "count": 17,
+      "sentiment_avg": 0.09
+    },
+    "automation_capex": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "cnc_technology": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
