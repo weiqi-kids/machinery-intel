@@ -1,0 +1,16 @@
+{
+  "total_raw": 392,
+  "dup_title": 219,
+  "no_date": 0,
+  "too_old": 129,
+  "gate1_fail": 5,
+  "gate2_fail": 6,
+  "passed": 33,
+  "gate2_samples": [
+    "The hidden power infrastructure behind AI",
+    "Illinois Tool Works: Growth Continues, But I'd Hesitate To Buy Here - Seeking Alpha",
+    "Parker Hannifin secures complete victory in ITC investigation regarding corrosion-resistant coatings",
+    "Hsbc Holdings PLC Raises Holdings in Parker-Hannifin Corporation $PH - MarketBeat",
+    "Caterpillar embarks on renovations after purchasing property in Texas - Peoria Journal Star"
+  ]
+}

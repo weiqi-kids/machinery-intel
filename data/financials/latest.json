@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T10:16:52.262418Z",
+  "updated_at": "2026-07-23T10:13:10.648077Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -143,17 +143,17 @@
       "name": "上銀",
       "ticker": "2049.TW",
       "currency": "TWD",
-      "ar": 3887293000,
-      "ar_prev": 3349360000,
-      "ar_qoq": "+16%",
+      "ar": 3910963000,
+      "ar_prev": 3887293000,
+      "ar_qoq": "+1%",
       "ar_period": "QoQ",
-      "inventory": 7093796000,
-      "inv_prev": 7536033000,
-      "inv_qoq": "-6%",
+      "inventory": 7240181000,
+      "inv_prev": 7093796000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "itw",
@@ -314,8 +314,8 @@
       "ticker": "SU.PA",
       "currency": "EUR",
       "ar": 7221000000,
-      "ar_prev": 8985000000,
-      "ar_qoq": "-20%",
+      "ar_prev": 7280000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
       "inventory": 5368000000,
       "inv_prev": 5866000000,
