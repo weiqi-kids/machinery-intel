@@ -1,0 +1,16 @@
+{
+  "total_raw": 392,
+  "dup_title": 230,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 4,
+  "gate2_fail": 6,
+  "passed": 19,
+  "gate2_samples": [
+    "Delta buys Fremont site to boost Silicon Valley push - datacenter.news",
+    "Illinois Tool Works: Growth Continues, But I'd Hesitate To Buy Here - Seeking Alpha",
+    "Parker Hannifin secures complete victory in ITC investigation regarding corrosion-resistant coatings",
+    "Andra AP fonden Grows Position in Parker-Hannifin Corporation $PH - MarketBeat",
+    "Caterpillar acquires AI Mining company - CIProud.com"
+  ]
+}
