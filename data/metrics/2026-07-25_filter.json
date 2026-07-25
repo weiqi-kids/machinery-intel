@@ -1,0 +1,16 @@
+{
+  "total_raw": 391,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 2,
+  "gate2_fail": 5,
+  "passed": 29,
+  "gate2_samples": [
+    "Delta buys Fremont site to boost Silicon Valley push - datacenter.news",
+    "Illinois Tool Works: Growth Continues, But I'd Hesitate To Buy Here - Seeking Alpha",
+    "Parker Hannifin secures complete victory in ITC investigation regarding corrosion-resistant coatings",
+    "\"It will slowly consume their host from the inside-out, leaving only the essential organs, to keep t",
+    "Caterpillar embarks on renovations after purchasing property in Texas - Peoria Journal Star"
+  ]
+}
