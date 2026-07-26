@@ -1,0 +1,16 @@
+{
+  "total_raw": 391,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 2,
+  "gate2_fail": 6,
+  "passed": 29,
+  "gate2_samples": [
+    "Delta buys Fremont site to boost Silicon Valley push - datacenter.news",
+    "Enterprise value to EBITDA forward of DMG MORI Aktiengesellschaft – BX:GIL - TradingView",
+    "Andra AP fonden Reduces Position in Illinois Tool Works Inc. $ITW - MarketBeat",
+    "Parker Hannifin secures complete victory in ITC investigation regarding corrosion-resistant coatings",
+    "Caterpillar embarks on renovations after purchasing property in Texas - Peoria Journal Star"
+  ]
+}

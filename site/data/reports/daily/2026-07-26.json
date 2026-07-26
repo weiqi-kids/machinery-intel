@@ -1,0 +1,234 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T09:52:40.015582Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "abb-2026-07-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABB stock holds firm as electrification orders support growth - AD HOC NEWS",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUy12MmNvYkZrMVlUYXFMZkRxb3hha1B4VmYtSVdKeG81cy0zZVBOQ21EMFY4aVFCUHhkZGNMenFCaEprNVBkaFl0bnY2aHRhakNWSWlfOVd6ZnlLcWphbm9fNGFHQTBycEU3NjVPSGpVZ3M3dVJBTThsQ2EtRVgwQzJtcE93YVhoVWd5Mk5kZ2g5QVhJOHFBY0NTeG9FQUFFbEtoMGFGSmdGWW9WQVk3UnRtQTU2SXhHOEFQYg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itw-2026-07-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works Inc. $ITW Shares Bought by Cetera Investment Advisers - MarketBeat",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWlg2dzhfT1MtNE5EUkxaa2dxZjRVMFZENXZHajdyOW42UldZMUcyeExBT2l2SWlaZElJYjBjblJ2RmdaTE5tUHEwbUFIcjk5TS1WSFI3YVgzZDZCcWZyaHBxUXJfYmJUWWxadi1ZdjFDRWtRX0NRRUYtZHpqYmw2aE9EZFJKNTlBQU05Zjl3SGswR1RJMEJDWU5TVDJlU1JKYjlFcFR2YnRBSFd3ZjItNmpuQWw1aFNKVnh0M08zeUROUFQ4amJwZmdVcTg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itw-2026-07-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Did ITW’s (ITW) Q2 Earnings Setup Just Reframe Its Operational Playbook Versus M&A Ambitions? - simplywall.st",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR0J1dkltOWpyS0k2UzNIWEQybzRnUmFWeTBFTzRfLVZWcHRWYzNvNm5INkJBUGJOTElQTk9hNS05Zk9PSWVuR3dKWHNWLTJYaDRhQlU2eDFGTEhUQTFiZjRrR0E2UUVqTWtyOWs5NGQ5eUNWWk9ROVlBNFRGWlZlR1p0ak10REJBRExNbTN0OHdsX3lNRmdXbXB0QnJJaTk1STIzTFRIblRXek9EZF9PZWxqTkNwaVN1cGMwMnB5bnRfQ3NYWkctTktjdHV2QW1QcTYxR3dXNUQxb0nSAdsBQVVfeXFMTkdCdXZJbTlqcktJNlMzSFhEMm80Z1JhVnkwRU80Xy1WVnB0VmMzbzZuSDZCQVBiTkxJUE5PYTUtOWZPT0llbkd3SlhzVi0yWGg0YUJVNngxRkxIVEExYmY0a0dBNlFFak1rcjlrOTRkOXlDVlpPUTlZQTRURlpWZUdadGpNdERCQURMTW0zdDh3bF95TUZnV21wdEJySWk5NUkyM0xUSG5UV3pPRGRfT2Vsak5DcGlTdXBjMDJweW50X0NzWFpHLU5LY3R1dkFtUHE2MUd3VzVEMW9J?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itw-2026-07-26-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Morningstar Investment Management LLC Decreases Holdings in Illinois Tool Works Inc. $ITW - MarketBeat",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaDMyUko5V0lmVGwyV2dMQ3A3SENaMVMyMDhtclYyMFJTUDhJamFxcl9VX2Rlb3RzOXZ4OFBaUUV5cXc0SmFQd0p3a003NmRRZlpXNlp1MzJla3BQenNUUVNiUE81dDRTQzFDY3ZvcGZCbk9YRTlENjkxZWZyVUlVMnBBUFRtdmNjaGxvVWM5YlhZVjF5RWxESEVSSklCc0NoSUhaNDlVOUF0N1BQTUgzY2pHRG9ub2QwUGFnZzZwbEpnMExDWU9td3gwVDBocWVtazhiM2dBdnlyWFBRdG0wVDFR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-07-26-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin Corporation $PH Shares Sold by Healthcare of Ontario Pension Plan Trust Fund - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONlI5bGVJdzB0U2NCRDlOVTM4OVdLOHJvZ3FmNDcxY1JXa2lXUDNqWk1yMGhadlA5X1ZUdnE2bTM0S3Y1RkJRb19yZm5zd1JhamM5aDVMOVJ4VkgxV2xxMWZlV3NZSjl5Q215OFdGemJLV1BmN2xsb0pQbUFfai1uYmREYXBTVk1LMnlPNTllX0NWMjA0R3NDS3FUaUp3OW9UeUN4NjVseHNrOUtHeU55M3RlNDlzc2NrQ0lZS3g3S3I5bWM0eDNaMzJlZmlUMS1GQml3RjA4cExfVm9NNkhHMXBIQjQwQlk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "itw",
+        "count": 4
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "abb",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 391,
+    "dup_title": 217,
+    "too_old": 137,
+    "gate1_blocked": 2,
+    "gate2_blocked": 6,
+    "passed": 29,
+    "pass_rate": "16.7%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Delta buys Fremont site to boost Silicon Valley push - datacenter.news",
+      "Enterprise value to EBITDA forward of DMG MORI Aktiengesellschaft – BX:GIL - TradingView",
+      "Andra AP fonden Reduces Position in Illinois Tool Works Inc. $ITW - MarketBeat",
+      "Parker Hannifin secures complete victory in ITC investigation regarding corrosion-resistant coatings",
+      "Caterpillar embarks on renovations after purchasing property in Texas - Peoria Journal Star"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為ITW、Parker、ABB相關動態：「ABB stock holds firm as electrification orders support gr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ABB stock holds firm as electrification orders support growth - AD HOC NEWS（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Illinois Tool Works Inc. $ITW Shares Bought by Cetera Investment Advisers - M...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
