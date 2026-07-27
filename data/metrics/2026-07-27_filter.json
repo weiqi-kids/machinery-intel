@@ -1,0 +1,16 @@
+{
+  "total_raw": 392,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 2,
+  "gate2_fail": 6,
+  "passed": 23,
+  "gate2_samples": [
+    "Delta buys Fremont site to boost Silicon Valley push - datacenter.news",
+    "Enterprise value to EBITDA forward of DMG MORI Aktiengesellschaft – BX:GIL - TradingView",
+    "Parker Hannifin secures complete victory in ITC investigation regarding corrosion-resistant coatings",
+    "Lombard Odier Asset Management Switzerland SA Buys New Position in Parker-Hannifin Corporation $PH -",
+    "\"It will slowly consume their host from the inside-out, leaving only the essential organs, to keep t"
+  ]
+}
