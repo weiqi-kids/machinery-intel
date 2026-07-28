@@ -1,0 +1,275 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T10:26:54.185609Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "airtac-2026-07-28-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AirTAC International Group: 2Q26 saw 25% revenue growth and 49% profit growth, with 2026 guidance raised above 20% - TradingView",
+      "companies": [
+        "airtac"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOd0R6dnI5Um53cXE3VEZuYURmWExicU5ybmlqS3FpeS1iZzlRMWRROVRyU1FaY090a0hnSWlKbnNiQVB5Rk1SUmdSVVY4S3paVFpEVzlvWVVMekJ3V3VNRzBuMjlsNW9zODl6ZUJBU2ZaZDRQeUkybnBRVEJ3Q2FZN2V6VkpINXpjdnBHWFFxUDZGU18zMmFiQWFVSWswTlZQckViY1oyYlNNUGh1eW5FM1dmSWJ6NWNjQ3NuZkczTW0zbTlHNXczZjFQdGZ1VDducE00TG55ZlFfVTlyak4yWk0yTnhkOTVPbWxndkZjUHUwUjAtMGlLWW9hMVFvRjdlcE9LNEdLMk5KWW5EdmZZUnlIOUo5YVQ0OUQyUW8xZ3hKdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "airtac-2026-07-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings call transcript: AirTAC lifts 2026 outlook after strong Q2 growth - Investing.com",
+      "companies": [
+        "airtac"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRGN2Wmd2aW5aNzZOUlU0a0dCMXdCRThLUXBYQnU3OVJfTlVzNkxOeE1EaUllYk5tRTNsMTNwazFKTXNNVTVCemN0WC05UFRKSkJEd3VfcEVscFRudDVaeGFhREVSbXRVbmtfWGk4X21jOEZOQUMyREtYdkhEVnU2MEZxSXQ4VWVVcHpGZlFFelJVNERPX3BILVMzWkNKUmNSX1VWeWFSQm9qSERCaV9iTUV4MUJua3V5Yi0xRnd5d1pGY2YxbGEydQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "delta-2026-07-28-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics Expands Malaysia Footprint with New Johor Bahru Office and AI Infrastructure Forum in Kuala Lumpur - PR Newswire",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZGtTZ2M5czl5b2VTMjBIdWVDMWlXZ3U4RHV1dzE0ZmJTNFBZb2JsWk9HbWJVa0M4WFZTMVNUMXlOMHNGYWVqY0lkRmdQbnRRSEU3VGhzYU14Sm5wSDRaMExUa3JFZ3k4SlZqSFJsM3JXaDlBUWdYeHlaOUU5YlRmQ2VJdm1DU2ZYZVdjOWc0UGRFSjM5d3NyU0VPVks3R1N6dEFOSEFOQ2d1aEdQYlZGSVp5TUlmRkN4WElVSW9kQ3RranpJNmtzeWpxWkV3MmNCcVVxRUNqOEx5SGlfV3I3Z0c2aWJYbGNZMTBrS2JkXzFNaVYyMFhnZHEwU3VTSjFmb0xpc2s1bTI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-07-28-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "World Rugby and Mitsubishi Electric Europe extend partnership as WXV Global Series enters new era - World Rugby",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSXhFaUtQTEcyS0Q1QkZXSXp0M0NfR1VDNnFwZmFfS3NMVkhLd3pibGYyODhIMjN2bk9GY3o5TkxzLThIbGczdlhDM2lNZE04YlRQVWNObnlTNlNTZHpuNlpZX25CSk1pOG5HZHNmdTVjZE9VUUdCRzd3aWk5b3Y3NFYwWmNVdVkweEQzM0Q0aWNLdlV0WFBldmdKbUx0clFkNDVKVnhvTkJBNkQxZ1BKZnhkWncxT0xvZ3FLdWxuSzZGWG9pT3dWSHY2SDZNRmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mitsubishi_electric-2026-07-28-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Exclusive: Array Labs Raises $21M Led by Mitsubishi Electric - Tectonic Defense",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkMyMlF0TGZ6MHp5LTJIMkxQeGxNdlZpM2N4ckIyMF81MExYdExyR1pzaXlTMVlfN1Q2azBZT2tqYWdqQ1FDbDR1MEw5cDBBc1J4cWxWMUlRZEw1UDJJc19DbDA0djJTYi1IZ1B3bGZxby1DYmtiSmFXbGNyTFVZdGRCUFlhS0xINk1oYkJNUlk2Z29DR3c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "reshoring_supply_chain": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 6
+      },
+      {
+        "id": "caterpillar",
+        "count": 4
+      },
+      {
+        "id": "itw",
+        "count": 3
+      },
+      {
+        "id": "airtac",
+        "count": 2
+      },
+      {
+        "id": "delta",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "reshoring_supply_chain",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 388,
+    "dup_title": 201,
+    "too_old": 136,
+    "gate1_blocked": 2,
+    "gate2_blocked": 8,
+    "passed": 41,
+    "pass_rate": "21.9%",
+    "gate2_block_rate": "4.3%",
+    "gate2_samples": [
+      "Delta buys Fremont site to boost Silicon Valley push - datacenter.news",
+      "Enterprise value to EBITDA forward of DMG MORI Aktiengesellschaft – BX:GIL - TradingView",
+      "Parker-Hannifin: Valuation Dictates This One As Being A Hold (Rating Downgrade) - Seeking Alpha",
+      "Parker Hannifin secures complete victory in ITC investigation regarding corrosion-resistant coatings",
+      "Lombard Odier Asset Management Switzerland SA Buys New Position in Parker-Hannifin Corporation $PH -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Mitsubishi Electric、CAT、ITW相關動態：「AirTAC International Group: 2Q26 saw 25% revenue growth a...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AirTAC International Group: 2Q26 saw 25% revenue growth and 49% profit growth...（自動化資本支出、財報、展望、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Earnings call transcript: AirTAC lifts 2026 outlook after strong Q2 growth - ...（財報、展望、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "回流與供應鏈話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
