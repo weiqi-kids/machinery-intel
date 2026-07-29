@@ -1,0 +1,16 @@
+{
+  "total_raw": 393,
+  "dup_title": 191,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 2,
+  "gate2_fail": 10,
+  "passed": 58,
+  "gate2_samples": [
+    "Delta Electronics: Divergent Near-Term And Long-Run Prospects (Rating Upgrade) (DLEGF) - Seeking Alp",
+    "Delta buys Fremont site to boost Silicon Valley push - datacenter.news",
+    "This summer, don’t just install solar. Optimize it.",
+    "Enterprise value to EBITDA forward of DMG MORI Aktiengesellschaft – BX:GIL - TradingView",
+    "Parker-Hannifin: Valuation Dictates This One As Being A Hold (Rating Downgrade) - Seeking Alpha"
+  ]
+}
