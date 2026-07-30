@@ -1,0 +1,243 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T10:14:19.364490Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-07-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric to build IT cooling facility in Ohio - capacityglobal.com",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRTgtcUZVYmlIQldETkpHNHJZT19Ub2hRSlltazdnNkwyTVU5ZEMzWXIxQjhHaU1uNWM2MEZDUzJxdFQzQUtKYXJaejlTUnFBMHFCVHo1SUFodzVLQU8zTVZZb3Q2MWxlSmxiTVN2cFJyd2t1bThvVWRSaTQwM0JocmU5Y0QxSmFzbURvcTdzZzZnTVk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mitsubishi_electric-2026-07-30-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric to Establish Manufacturing Facility for IT Cooling Equipment in Ohio, U.S.A. - Business Wire",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOSjhPRUV6bFl0NmxmRzItdlE4QThRaGNtVTlqWjZQRDJLc05EWXRWdnMyVHpvTGZINVA3d1dOYU1MR0VMbDR1U3V4MXRsTVVXSVF3WjF1X1pHT2E5eUFJMEZkN3FoSHRiV0VMaTQ2ZmJtWGNxcWhOamhaT2ZSUjZJOFU4cXdLZ1RhcVFsR3VPZmVQczlnWXBBWjNFTnRoanhvVk4wVGlBSThkSkdQTm9SRERTazlrQWhvaVliWDhQMDNiX3lWZW9FR1RiWEdrb1o1NnhvSHIzTWlyS3oxUGs0S0hSMGpmYWtmZHJ3VGppT1NCN052YVJISFZ5RE12M1NjV3dJbmpkTmFkeHFhcEo3bXd6RGc4VnI1MmdUekxfWTA3MGxMdkJiWGlUVzRBR05jUmh3U01rMzdGb1JSUjU0T3hLQlVIMGdOUkpJWXMzMzYyR2RPR3d0dmFnandZazFad3NQQjNwZlU2bWxVeWhaM2MtTHNsaU00a200R0FGOVFGTTZZbmZaSk5jY0lySVFBdmprT2pZNWFZNm1IYVkxTExOSTlWV2hhVElOTHVjajZwQU9yR2Juc0ZKSmZHUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-07-30-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Array Labs, Mitsubishi Electric Making Space-Based AMTI For Asia - Aviation Week",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNUdPOEJZR1hUVzd0UXRETDl6dldBUnk0Q3JsSlo3V1UySjVTX2ZlMnlpbGg1VHlkWEFMdmJLWExfaHFwY0lieGxNcmlpRjNVTFotdDZaLWFHR2pOVlhzazl1LVBPVnUtdy13bVZWd3NoNmp0aTRUdExDVXNfWFliTnFwY0cxenRaeWRTb1pRNmg4YTRzMlRLSm1fSWFrQVdyWVlv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "parker_hannifin-2026-07-30-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kentucky Retirement Systems Grows Stock Position in Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVUMyUUkwRS1XZFluSW9yeDVPUEM3Y3k1OE1kZFU4cWdGNnRhZzBQTm5FcENZeVd3Z2E1cEVIWXNkelcyODJOXzVUZXNfdmdYQmYzdkNUelN2Q2ZpQjBIcjVLWGpFZER5Nk5tNXI4TG1RSGc3Z2VuMERhNHVweFdoOG51RHFMVnNSUE42cWEyMUtWWWZ4VnRGbHNncVV3UkRmcWF6WWphWkVkcFdmcW9Fa3VnSjNRQnlZNVJ2QjhTLVQ2MkJnak5FZkc1c2hoQUtzU2tXYUJibkdDaGc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-07-30-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Amundi Purchases 166,962 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOS0tTWZYLTdHZ0ZsZlBFMUZScXl5OHplZHh5VEVtU2NYMGdwdTFYZzFSR18yMzJ5QlN0akZGaEJOTVJHeS1oUEg1OTJwOWxZU215WkZhVlRQc3pZbXFFOHpEczZHd3g2ZzJGNlBSUWtoa2IwSE5Kc3FnME1kVHQ1UFFReXhPXzJVTmVubFJ5MzZrTURDR0FEeUN1Wm5jdVlySjVZN2xWWTloSkx6cnM1YnFKUVJ2OGc5ME93Ym81bVJjY0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 4
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "dmg_mori",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 9
+      },
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 393,
+    "dup_title": 198,
+    "too_old": 137,
+    "gate1_blocked": 2,
+    "gate2_blocked": 6,
+    "passed": 50,
+    "pass_rate": "25.6%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Delta Electronics: Divergent Near-Term And Long-Run Prospects (Rating Upgrade) (DLEGF) - Seeking Alp",
+      "This summer, don’t just install solar. Optimize it.",
+      "Enterprise value to EBITDA forward of DMG MORI Aktiengesellschaft – BX:GIL - TradingView",
+      "Okuma America Corporation to Exhibit at IMTS 2026 with Comprehensive Lineup - PR Newswire Canada",
+      "Parker-Hannifin: Valuation Dictates This One As Being A Hold (Rating Downgrade) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Mitsubishi Electric、Parker、CAT相關動態：「Mitsubishi Electric to build IT cooling facility in Ohio ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Mitsubishi Electric to build IT cooling facility in Ohio - capacityglobal.com（自動化資本支出、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Mitsubishi Electric to Establish Manufacturing Facility for IT Cooling Equipm...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

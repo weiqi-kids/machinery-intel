@@ -1,0 +1,16 @@
+{
+  "total_raw": 393,
+  "dup_title": 198,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 2,
+  "gate2_fail": 6,
+  "passed": 50,
+  "gate2_samples": [
+    "Delta Electronics: Divergent Near-Term And Long-Run Prospects (Rating Upgrade) (DLEGF) - Seeking Alp",
+    "This summer, don’t just install solar. Optimize it.",
+    "Enterprise value to EBITDA forward of DMG MORI Aktiengesellschaft – BX:GIL - TradingView",
+    "Okuma America Corporation to Exhibit at IMTS 2026 with Comprehensive Lineup - PR Newswire Canada",
+    "Parker-Hannifin: Valuation Dictates This One As Being A Hold (Rating Downgrade) - Seeking Alpha"
+  ]
+}
