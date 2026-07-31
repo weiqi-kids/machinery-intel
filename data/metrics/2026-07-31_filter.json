@@ -1,0 +1,16 @@
+{
+  "total_raw": 392,
+  "dup_title": 188,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 2,
+  "gate2_fail": 10,
+  "passed": 40,
+  "gate2_samples": [
+    "Delta Continues to Ride the Boom in AI Data Center Buildout - Morningstar",
+    "Delta Electronics: Divergent Near-Term And Long-Run Prospects (Rating Upgrade) (DLEGF) - Seeking Alp",
+    "This summer, don’t just install solar. Optimize it.",
+    "Mitsubishi Electric to Support Earthquake Relief in Kumamoto - WBOC TV",
+    "Enterprise value to EBITDA forward of DMG MORI Aktiengesellschaft – BX:GIL - TradingView"
+  ]
+}

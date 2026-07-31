@@ -1,0 +1,254 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T10:29:42.363690Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-07-31-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics eyes HVDC shipments in 4Q26, scale-up in 2027 - digitimes",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZVA0d3dVTXVvZHZLVHFlekRkRmpfS285ajE5TGd6XzhVazh0TkFXZmJsTDNrRzg0SGZRcThNaUxodEs2aWloSUMySG93ZzB2TTdYNkhSR0ozYjF0aXlpSW5iQjMyZzgyLVlBV1NXcngzMDRUS3FKdmU4Ym1IQjBhSEVsbHhxaFRIQkt5czVQZkRnRGpwNlB6cEpYWWo?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-07-31-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics raises AI revenue outlook as data center demand strengthens - Taiwan News",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UMXAxWS1VenZtWDc0TDFhWGZBVGVZcG9oaE5KRnpPd18tWUVVbE53aHBrdEl5Y2FVdnVhalEzak03ckxMbkxqU1VIWWFScEk1NllOMXBreXI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "delta-2026-07-31-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics raises 2026 capex to NT$70B, sees AI-related sales topping 25% of total - digitimes",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWmpPVElLRUNDTnFwSC1HZVNqU2p3a0JCQm9DRnk2NEs4cWFSMjh2c2ZHYzhTcGsxYU93RVRkckFLVlQ2N1RlQUFJemVGMV9tU1djbzdtS2VkR2tZNUlBZUNsTlg2ekxoY3EzZk5yYTluT0wtQmZBbmU0VWliSGh5M2lCQjhQaTF0N3VNVXpvZ3BKLWF3MkVTRVR3amVqaFl3NkFZOTJB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-07-31-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TABLE-Mitsubishi Electric -Q1 group results (IFRS) - TradingView",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbUhmcW5SVVVBSWVCVVJSb0Q5dGpudlg3MzdCRDU0TmNBcjlJYVlNRmg3Z3o3M3hHd1BpZ0NvRXpqZ3dnRTl4blBjREhmUUFoZm4wSnRiZUVhSzloWUVucXdOeGtmR1RhckdsNXZuT0FYZTlzVmxrR1ZrRmQ1VGRIaU9fSzR3ZTVVVWtZOFFySFVnTTg1eTRuTlR1NUtmc2Y5MnB2TEhVLTktX2d2RnpiNUhwaHc2dDRyZUplT3NjdUk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mitsubishi_electric-2026-07-31-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "World Rugby and Mitsubishi Electric Expand Global Partnership for WXV Series - Ministry of Sport",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUFh1aDl2ck02RmtLVXVjQXAyX2l6ZHBsMXJMeW85YU5zSTJtdkJRTDBPcjlobFNEM1JCWmpzMnNScGlsRFBlVDA2RDMxMGZKWDl0cHJSN1BwNlVWUXROdWlWbkY5bUlRcmlkcnNDUzBoVW40cUgxZjVZREF3TU1MYllVZmoxQktVLU5qNWNsTWd1UXNQR2NQMXlCZjhjcXRxcTJzQ2tvMHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 8
+      },
+      {
+        "id": "delta",
+        "count": 3
+      },
+      {
+        "id": "itw",
+        "count": 2
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "automation_capex",
+        "count": 7
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 392,
+    "dup_title": 188,
+    "too_old": 152,
+    "gate1_blocked": 2,
+    "gate2_blocked": 10,
+    "passed": 40,
+    "pass_rate": "19.6%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Delta Continues to Ride the Boom in AI Data Center Buildout - Morningstar",
+      "Delta Electronics: Divergent Near-Term And Long-Run Prospects (Rating Upgrade) (DLEGF) - Seeking Alp",
+      "This summer, don’t just install solar. Optimize it.",
+      "Mitsubishi Electric to Support Earthquake Relief in Kumamoto - WBOC TV",
+      "Enterprise value to EBITDA forward of DMG MORI Aktiengesellschaft – BX:GIL - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Mitsubishi Electric、Delta Electronics、ITW相關動態：「Delta Electronics eyes HVDC shipments in 4Q26, scale-up i...」。主要關注主題為財報、產業通用、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Delta Electronics eyes HVDC shipments in 4Q26, scale-up in 2027 - digitimes（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Delta Electronics raises AI revenue outlook as data center demand strengthens...（財報、展望、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
