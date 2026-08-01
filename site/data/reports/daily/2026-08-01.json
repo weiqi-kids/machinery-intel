@@ -1,0 +1,208 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T09:50:45.664982Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "dmg_mori-2026-08-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DMG MORI Aktiengesellschaft Revenue Breakdown – XETR:GIL - TradingView",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ubFM2MmktS3lLWmpMV3NxMGVfWERUanZIdk9PeWFwZkFpSkVOaWtBUEZCdWFMa1VZa1JEMjlmTG9DWXFpQ3U5b0FmU21pLWJZM21MZjQ5d0NmLUJZSC16UXQxbTN4LXlmMktTTUpWY0lyc3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Millions of Dollars Flowed into the “Angara” Rocket: Schemes for Supplying Industrial Equipment to Russia Uncovered - Root-Nation.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDhHNEZNaDhNT3RXMFlvVHdFQ2F2YTJENlJ5VzljU1hLYVJiQTk2aEhBZFhZWHpJNDRIc2lvMTRjZFhEVmxwbG9KRDNiSDc5dGhVZnpoZENHLWczbnJVQnRCZV9FV051R2lKN2l3R2c2U2g4RUx3SlA3ekZ0VnJqTy16cXpfQ1JCdjRRcGpfNnZwTU1ieHNsY3RxVkdUTl8x?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itw-2026-08-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Compass Capital Management Inc. Sells 17,978 Shares of Illinois Tool Works Inc. $ITW - MarketBeat",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN1NqUjBIQVBMUW1FT1N1SWF3UlZ4NTRCU0hOdFZjOE84bnF5VnJEUndKZXhpVmt5czNrcG5TQ1g5NkVVYk5PMHo4V29fMlNKWFF2enE5bGlFYXFjY2hWM082cWN6WVFmbnVaMlJtdzB1R184cHdMNkJOUXFSZy1ZaWpGcV9VOXVnNUpKMTBSMWQ2WUxEaFRTTVVfX0sxNVlPSjlCZHBsTE1Xa09ET0tSRVZKZzZoMFlFb0NEeWNobzdkUkF1Vzl5U0hWbG4xNDY2eFl1Qkd6Nkc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itw-2026-08-01-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Edgestream Partners L.P. Lowers Stock Position in Illinois Tool Works Inc. $ITW - MarketBeat",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN0hCdjBhLTNfdUVMS1p0cEVrRGlBNEtHZ2tEZkxuRUl1VjNpb0dQOFZLcUQzcVVTTHYtaFJuamhQa0VGVWhrZ0cxR01YZE9FQ2YwNDM1YVZIZ0UyVHFWWDFNVE45c1oxMlFIdGxLMUpMUXpJUW9oWFdRN1pnMUtlY0NZLU56alVnTlBZWGl1eVBJRVVNUXBpUmwxMXFZOC1uekxiTDlEMmszOEMzVTdFX2NUYTJiVzZzeG5fSW0weDFfSFUyNjJfVTVQdGEzUlpzQ1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itw-2026-08-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of America Corp DE Boosts Holdings in Illinois Tool Works Inc. $ITW - MarketBeat",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTUFmWHFTSXM0SkxvV0dvSFdBUWNBX25xOXNiYWxHRm5WdkV0TjNHLW90VkI1Mkh6YmdHeW13bEswaUFDVnQyUWVZX3pLSkhpTzJheEw3VHJDU1BNREpYbGFvQmMwaGJNbUFtZ2J4RjNWa2hnZVJhZWdlMjR6Y21jZjFzV1JGNkNzOEpSbG9OalpqaDduWnJjSW1QWVNxOFo4cHAxVjA5T3gwRTQ5QXNXLXMyd0xpNE1QOHJhakxEbUNzd3JXVllyVks3NA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "itw",
+        "count": 3
+      },
+      {
+        "id": "dmg_mori",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 391,
+    "dup_title": 206,
+    "too_old": 145,
+    "gate1_blocked": 2,
+    "gate2_blocked": 7,
+    "passed": 31,
+    "pass_rate": "16.8%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "Delta Continues to Ride the Boom in AI Data Center Buildout - Morningstar",
+      "Delta Electronics: Divergent Near-Term And Long-Run Prospects (Rating Upgrade) (DLEGF) - Seeking Alp",
+      "Mitsubishi Electric to Support Earthquake Relief in Kumamoto - WBOC TV",
+      "Enterprise value to EBITDA forward of DMG MORI Aktiengesellschaft – BX:GIL - TradingView",
+      "Vestor Capital LLC Boosts Holdings in Illinois Tool Works Inc. $ITW - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為ITW、DMG Mori相關動態：「DMG MORI Aktiengesellschaft Revenue Breakdown – XETR:GIL ...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "DMG MORI Aktiengesellschaft Revenue Breakdown – XETR:GIL - TradingView（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Millions of Dollars Flowed into the “Angara” Rocket: Schemes for Supplying In...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

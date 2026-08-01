@@ -1,0 +1,16 @@
+{
+  "total_raw": 391,
+  "dup_title": 206,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 2,
+  "gate2_fail": 7,
+  "passed": 31,
+  "gate2_samples": [
+    "Delta Continues to Ride the Boom in AI Data Center Buildout - Morningstar",
+    "Delta Electronics: Divergent Near-Term And Long-Run Prospects (Rating Upgrade) (DLEGF) - Seeking Alp",
+    "Mitsubishi Electric to Support Earthquake Relief in Kumamoto - WBOC TV",
+    "Enterprise value to EBITDA forward of DMG MORI Aktiengesellschaft – BX:GIL - TradingView",
+    "Vestor Capital LLC Boosts Holdings in Illinois Tool Works Inc. $ITW - MarketBeat"
+  ]
+}
