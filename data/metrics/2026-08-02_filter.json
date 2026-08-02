@@ -1,0 +1,16 @@
+{
+  "total_raw": 391,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 2,
+  "gate2_fail": 5,
+  "passed": 20,
+  "gate2_samples": [
+    "Delta Continues to Ride the Boom in AI Data Center Buildout - Morningstar",
+    "Delta Electronics: Divergent Near-Term And Long-Run Prospects (Rating Upgrade) (DLEGF) - Seeking Alp",
+    "Mitsubishi Electric to Support Earthquake Relief in Kumamoto - WBOC TV",
+    "Caterpillar Sues Bluelight Over Autonomy Kits for Rollers, Articulated Trucks - Equipment World",
+    "Rusty Wallace Named Grand Marshal of the Caterpillar Jackpine Gypsies Short Track - Cycle News"
+  ]
+}
