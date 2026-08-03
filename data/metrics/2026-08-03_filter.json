@@ -1,0 +1,16 @@
+{
+  "total_raw": 390,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 2,
+  "gate2_fail": 6,
+  "passed": 38,
+  "gate2_samples": [
+    "Delta Continues to Ride the Boom in AI Data Center Buildout - Morningstar",
+    "Delta Electronics: Divergent Near-Term And Long-Run Prospects (Rating Upgrade) (DLEGF) - Seeking Alp",
+    "Mitsubishi Electric - JobsOhio",
+    "Mitsubishi Electric to Support Earthquake Relief in Kumamoto - wboc.com",
+    "Vestor Capital LLC Boosts Holdings in Illinois Tool Works Inc. $ITW - marketbeat.com"
+  ]
+}
