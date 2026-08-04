@@ -1,0 +1,255 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T10:28:10.648657Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-08-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric’s ME Innovation Fund Invests in JIJ, Startup Using Quantum Computers to Develop Mathematical Optimization Middleware - Business Wire",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQeEx1dEpZNm9iQlVuZnYyT2dPaEt2eFBfdzV0ZDF3a0ZSM1VTZzNkdEdpVS1lYjU4YlJGWHBra2RJb0Z5eGYzT0hOXzROWjhOUkVVQlNrY0tmSE5XbzRuZEUzYUUySVF2UEp5SmVyQ29qM0JTZ0YyX2V1cE5VVW9OZ0hodHk4MXBPb05GN2ZyT0Jmdy0waVNKRV9ybnZsQlBEVzktNXZQNkFXSFFaVld3MjJnYWpKUF8xcE1mSlh0T2c5bEx0U0h3ZlZVSUw4ZGwtdnNxY0lub3hLYXlzenlsQUd2M0x2T1dmQVAwSWNZMWRwbDM3bVNBTldzeTExU1BEblJ2VVk0VHNsVGZsQXQyUzFSYm5jMk5ubm5Z?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "dmg_mori-2026-08-04-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DMG Mori: Strong H1 2026 growth led to upward revisions in full-year forecasts and robust order momentum - TradingView",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQYVVCTXlndE93VERjdHZQMkhWYm5lQ0tQTElMU0k1WEVWV2N0ZEZaM0hRbHdZeG5rY2Rwb1NFLUJGQU51NnVZUzYwSXhLNFJ4XzQ0dkpQcVU0WEVUdXZsSkJhZVVQVVJaWjd0OTlFNzRkVDNrWldNNlVXbTVzOHBVZDUtSS0zQUp1NVRKOEpuRlQ0S01td042TEJUbmVfN2VJR2x0ZmVYb1VHamJXZkdvQUh5Q1FjR0tjeGJzdUFiaFd5cHJEdG5LZnlSbG93ZnVyZWd2NzRTRFBxc2g2TnA3XzUyTmVZeG0tYU16cnJVQ21lNHZ0Q3phUjRUZm1wNDhZS2FZVlFXeVRoUlk1bVY3cEFJT24?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-04-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Grain Machine - [Used] Hwa Sung Bender 6T4000 - 다아라",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56aE9DMmdMTHQ3SDc3bUlOb2dHaWl5bmc5M3RINUNua1RlUUVLT29IcWlvaWNPbVk5RjRrZDVtaGlWdktVallyVUZmVnVURVlwNkVrM3EtNnhtRHhSNWZ6OXNzNUdsbU9KSXNkNjF0elU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tongtai-2026-08-04-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Enterprise value to revenue forward of Tongtai Machine & Tool Co., Ltd – TWSE:4526 - TradingView",
+      "companies": [
+        "tongtai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeG9oX1p5cWxKOHREeHlxdFRFUlpXM0Q0YjNyc1lYZGlqMUJNTG05c2Z2SDktUUdfN2M0dVJFS1lEQXVQVE51VkJHMFlRVU5sRGJIYklRU3YyYm1sV0JpMTYzcWNqUXZibTR2MHIxODcyWDVNSzlpZ1dRRVJDNUJpRUVFSDNTYXJCMUNUbHRNejd3eXJCUUNpemNGelN0QnNoN1kxdm5sYXdLdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itw-2026-08-04-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works’s Q2 Earnings Call: Our Top 5 Analyst Questions - StockStory",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORTdvU0ZvdWRlSENfWFpTb0kxcDVnNUQxN05ZV0hLVnh0X0NZMk9mM3VFbnRRZUdqcXY1azJQbGdHSUoxVHdQbEZjcGpQS2tTeWhyRHhjT2ctM0RFckxwX3prQTVnek9xUjJ6MDR5ZDJtYmc1MUdJSThtYWtoRHl0R1JGRnByQ2FCZTZwR19fWUs5eThVeDh0VndkcjdZbkFXQUxCSGlZRWZ6LXEycHZVYlQzVlY5U1owVlpfWDRuSXUwcVU0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 2
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "dmg_mori",
+        "count": 1
+      },
+      {
+        "id": "tongtai",
+        "count": 1
+      },
+      {
+        "id": "itw",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 391,
+    "dup_title": 218,
+    "too_old": 137,
+    "gate1_blocked": 1,
+    "gate2_blocked": 7,
+    "passed": 28,
+    "pass_rate": "16.2%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "Delta's move into HVDC signals a shift in AI data-center power - digitimes",
+      "Delta Continues to Ride the Boom in AI Data Center Buildout - Morningstar",
+      "Delta Electronics: Divergent Near-Term And Long-Run Prospects (Rating Upgrade) (DLEGF) - Seeking Alp",
+      "Mitsubishi Electric to Support Earthquake Relief in Kumamoto - Business Wire",
+      "Vestor Capital LLC Boosts Holdings in Illinois Tool Works Inc. $ITW - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Mitsubishi Electric、CAT、DMG Mori相關動態：「Mitsubishi Electric’s ME Innovation Fund Invests in JIJ, ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Mitsubishi Electric’s ME Innovation Fund Invests in JIJ, Startup Using Quantu...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "DMG Mori: Strong H1 2026 growth led to upward revisions in full-year forecast...（財報、展望、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2026-08-04",
+  "total_events": 10,
+  "by_company": {
+    "mitsubishi_electric": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "dmg_mori": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "tongtai": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "itw": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "parker_hannifin": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "caterpillar": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "by_topic": {
+    "automation_capex": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "industry_general": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

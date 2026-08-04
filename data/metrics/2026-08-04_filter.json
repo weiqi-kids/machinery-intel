@@ -1,0 +1,16 @@
+{
+  "total_raw": 391,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 1,
+  "gate2_fail": 7,
+  "passed": 28,
+  "gate2_samples": [
+    "Delta's move into HVDC signals a shift in AI data-center power - digitimes",
+    "Delta Continues to Ride the Boom in AI Data Center Buildout - Morningstar",
+    "Delta Electronics: Divergent Near-Term And Long-Run Prospects (Rating Upgrade) (DLEGF) - Seeking Alp",
+    "Mitsubishi Electric to Support Earthquake Relief in Kumamoto - Business Wire",
+    "Vestor Capital LLC Boosts Holdings in Illinois Tool Works Inc. $ITW - MarketBeat"
+  ]
+}
