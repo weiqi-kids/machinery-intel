@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T10:26:26.134194Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "airtac-2026-08-05-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Airtac July Revenue Nears NT$4 Billion, Hits Record High for the Period; Sees Strong Demand Through 2027 - finance.biggo.com",
+      "companies": [
+        "airtac"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lNXJmdWxseUd4NU45c2lfcXJ4TmloOEtvRHNnMk5tYU5Na3NxRVdybkRMRWRHWjJ1eWhTa2ZaT0ZZR0lUbHNQUDl3SzM4SG01UlJWcjF3dDdNRkF4ZzR0eGI5UXBKQ0NUSUhrV1hMMDFremx1aVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mitsubishi_electric-2026-08-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric to Launch “Global Career Passport,” A Groupwide Internal Career Recruitment Program - Business Wire",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTE1CamVPbXRtekZLeXBYSXdRWE9EU09zTUJDWWF4Vi10a0NjTGlLS3lMRFJSemhpOTRFSTJDMlZUYXNHOFpuMjhpRTBXRWwtWVN3MnkzLUtwNVd1clAyZ2Zyemg1TlRxQzZ4YXBDT01hUFIyczR5R250Zlo1VzBuZ0pEbjNJNDhwUDJtaW9JN2p5cXpyMzZ1TTJELVVxYmNWdHQzQmhRVXN2NE9pZ2NyajF3blQ2ZHVBM2c5VGhiRFgxZVVybmhKNXZYb2lHOTd3ZjBRWHVSWVNKMlpOY3NpUkJ4MGsxWnZvZzVIMTdR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-08-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric, Daikin expand US production to meet data center cooling demand - digitimes",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTGRrb0ZaeTl2V0hpUXZvNG1OSlhTRzBaWVZyTGVEODdwNEFhVHFPNFN0MUg0VzJMQmZTXzlyeEU2bVViQmQzdU40dkRDVWNfb1o1MHc3aG1tekk1T0FnaGlYQ21Bc21sVDRaSkVDSjJaaUhoZEhhVmVreFhYR1plQWdaVUp6aTlLTHJLMzQ0cWM4X1lWMW1leWw4SFdudVpvNDhHb1hSZXlqZVZQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-08-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric Corporation Just Beat Revenue Estimates By 8.0% - simplywall.st",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZDVDT0VRUkRKcTEzNmJDMHVRZmZiUHVKU3ZwbWRRaENYU0J0d0ViT0xLYUJqWTF1NnQtZkU5UlZXajVyMFVXNmVHc2NWUTlldlAwSTBZc2lQQjdsZjk5YnJoSzlhd0R2MVZScTU5MlJrRnVNMllKMDFkM1lOalN1SlNjQS1URURIOXFxeHVad0steUw4MFBEZnRvNk9EaE5WVkJYMURQNEp3eHJ2RGQ0c0VuZHROcTlBb01OTTFQZ21BVWc0Q01UM1BCbTd1T0hWOWFVMGVNQ3QzOU9XTlFCYk94RmPSAeQBQVVfeXFMUGQ1Q09FUVJESnExMzZiQzB1UWZmYlB1SlN2cG1kUWhDWFNCdHdFYk9MS2FCalkxdTZ0LWZFOVJWV2o1cjBVVzZlR3NjVlE5ZXZQMEkwWXNpUEI3bGY5OWJyaEs5YXdEdjFWUnE1OTJSa0Z1TTJZSjAxZDNZTmpTdUpTY0EtVEVESDlxcXh1WndLLXlMODBQRGZ0bzZPRGhOVlZCWDFEUDRKd3hydkRkNHNFbmR0TnE5QW9NTk0xUGdtQVVnNENNVDNQQm03dU9IVjlhVTBlTUN0MzlPV05RQmJPeEZj?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mitsubishi_electric-2026-08-05-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric’s New S-EIV-X Uses Remote Data to Optimize Energy Saving for Railway Operators - Business Wire",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNHZKVEp6VDBvWWpYbjhfY0pRWmRpc21hbWhjZUo2azRiMEU3UVhEM1NHaHBqQXRHOEQxWXJiRmxWX1hvd2J6R1Q4OGpxcHMxckhTV3FfUXk2c2RZQVNVYWZFa2VPc0JOYXRJNkVYdzFRN2NSTmNlbEYtbFMya3FnSTZxQXhDZGtRM1ZsUGg0Q0lNbm14MmdldzlNRUdqcVJGZk9UMXhQYkFuTEJ5RWlCOFZ3YjhETUJmTHYxODI5QjVZbTZZcENlcGo0SEFlMEtqNWtPZlNNZVRVbHE3T2FxQjNjZ05yVFRZVXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 4
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "airtac",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "automation_capex",
+        "count": 6
+      },
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 391,
+    "dup_title": 194,
+    "too_old": 138,
+    "gate1_blocked": 0,
+    "gate2_blocked": 9,
+    "passed": 50,
+    "pass_rate": "25.4%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "Delta's move into HVDC signals a shift in AI data-center power - digitimes",
+      "Delta Continues to Ride the Boom in AI Data Center Buildout - Morningstar",
+      "How reference designs help HVAC OEMs reduce cost and risk in data center cooling systems",
+      "Mitsubishi Electric Backs Quantum Optimization Startup JIJ via ¥5B CVC Fund - International Business",
+      "Mitsubishi Electric to Support Earthquake Relief in Kumamoto - Business Wire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Mitsubishi Electric、Parker、CAT相關動態：「Airtac July Revenue Nears NT$4 Billion, Hits Record High ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Airtac July Revenue Nears NT$4 Billion, Hits Record High for the Period; Sees...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Mitsubishi Electric to Launch “Global Career Passport,” A Groupwide Internal ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

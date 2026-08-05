@@ -1,0 +1,16 @@
+{
+  "total_raw": 391,
+  "dup_title": 194,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 0,
+  "gate2_fail": 9,
+  "passed": 50,
+  "gate2_samples": [
+    "Delta's move into HVDC signals a shift in AI data-center power - digitimes",
+    "Delta Continues to Ride the Boom in AI Data Center Buildout - Morningstar",
+    "How reference designs help HVAC OEMs reduce cost and risk in data center cooling systems",
+    "Mitsubishi Electric Backs Quantum Optimization Startup JIJ via ¥5B CVC Fund - International Business",
+    "Mitsubishi Electric to Support Earthquake Relief in Kumamoto - Business Wire"
+  ]
+}
