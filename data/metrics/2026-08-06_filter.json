@@ -1,0 +1,16 @@
+{
+  "total_raw": 391,
+  "dup_title": 210,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 2,
+  "gate2_fail": 9,
+  "passed": 33,
+  "gate2_samples": [
+    "Delta's move into HVDC signals a shift in AI data-center power - digitimes",
+    "Delta Continues to Ride the Boom in AI Data Center Buildout - Morningstar",
+    "How reference designs help HVAC OEMs reduce cost and risk in data center cooling systems",
+    "Mitsubishi Electric Backs Quantum Optimization Startup JIJ via ¥5B CVC Fund - International Business",
+    "Does DMG Mori’s (TSE:6141) H1 2026 Call Quietly Reframe Its Long-Term Strategic Priorities? - simply"
+  ]
+}
