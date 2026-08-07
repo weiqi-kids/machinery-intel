@@ -1,0 +1,16 @@
+{
+  "total_raw": 393,
+  "dup_title": 194,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 2,
+  "gate2_fail": 8,
+  "passed": 36,
+  "gate2_samples": [
+    "Parker Reports Record Fiscal 2026 Fourth Quarter and Full Year Results",
+    "Delta's move into HVDC signals a shift in AI data-center power - digitimes",
+    "Delta Continues to Ride the Boom in AI Data Center Buildout - Morningstar",
+    "How reference designs help HVAC OEMs reduce cost and risk in data center cooling systems",
+    "Mitsubishi Electric Backs Quantum Optimization Startup JIJ via ¥5B CVC Fund - International Business"
+  ]
+}

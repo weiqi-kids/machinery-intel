@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T10:29:43.179937Z",
+  "updated_at": "2026-08-07T08:47:21.988945Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "台達電",
       "ticker": "2308.TW",
       "currency": "TWD",
-      "ar": 119233912000,
-      "ar_prev": 89765857000,
-      "ar_qoq": "+33%",
+      "ar": 126874481000,
+      "ar_prev": 119233912000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 101478308000,
-      "inv_prev": 81529671000,
-      "inv_qoq": "+24%",
+      "inventory": 119107625000,
+      "inv_prev": 101478308000,
+      "inv_qoq": "+17%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "dmg_mori",
@@ -126,17 +126,17 @@
       "name": "程泰",
       "ticker": "1583.TW",
       "currency": "TWD",
-      "ar": 894512000,
-      "ar_prev": 972585000,
-      "ar_qoq": "-8%",
+      "ar": 893344000,
+      "ar_prev": 894512000,
+      "ar_qoq": "-0%",
       "ar_period": "QoQ",
-      "inventory": 3474855000,
-      "inv_prev": 3476854000,
-      "inv_qoq": "-0%",
+      "inventory": 3424110000,
+      "inv_prev": 3474855000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "hiwin",
@@ -364,17 +364,17 @@
       "name": "東台",
       "ticker": "4526.TW",
       "currency": "TWD",
-      "ar": 1758471000,
-      "ar_prev": 1846390000,
-      "ar_qoq": "-5%",
+      "ar": 1650706000,
+      "ar_prev": 1758471000,
+      "ar_qoq": "-6%",
       "ar_period": "QoQ",
-      "inventory": 4024867000,
-      "inv_prev": 4153882000,
-      "inv_qoq": "-3%",
+      "inventory": 4257391000,
+      "inv_prev": 4024867000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     }
   ]
 }
