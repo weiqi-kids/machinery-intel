@@ -49,8 +49,8 @@
   },
   "rockwell": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-06",
-    "count": 6688,
+    "latest": "2026-08-07",
+    "count": 6689,
     "history_complete": true
   },
   "schneider": {
@@ -109,32 +109,32 @@
   },
   "itw": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-06",
-    "count": 6688,
+    "latest": "2026-08-07",
+    "count": 6689,
     "history_complete": true
   },
   "lincoln_electric": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-06",
-    "count": 6688,
+    "latest": "2026-08-07",
+    "count": 6689,
     "history_complete": true
   },
   "parker_hannifin": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-06",
-    "count": 6688,
+    "latest": "2026-08-07",
+    "count": 6689,
     "history_complete": true
   },
   "caterpillar": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-06",
-    "count": 6688,
+    "latest": "2026-08-07",
+    "count": 6689,
     "history_complete": true
   },
   "etf_robo_etf": {
     "earliest": "2013-10-22",
-    "latest": "2026-08-06",
-    "count": 3216,
+    "latest": "2026-08-07",
+    "count": 3217,
     "history_complete": true
   }
 }

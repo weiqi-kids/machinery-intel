@@ -1,0 +1,209 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:29:30.629427Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "parker_hannifin-2026-08-08-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Parker Hannifin (PH) Stock Price Trails Record Sales As Margins Tighten - simplywall.st",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTTBWMTRleEVjR0lhOGVSY3M4ckRIWUxaSk4xTFZrOHNGZ0lLTDZpMWFRSjRVS1FuQk1ENWlTaE9kNEJOY0NzUEdSdlJSaVd5eTZ2bEZLVzVJSjZ6OGFkOFg4UGlhLXZKaFU4dzFnbUVOdTVKRGFvOFZ3aHZ4dEctZjhYaDg1QVh1RC1MNGI5SmxoOU1QUHV5aEJzQThpdkZOZ05UXzFZbUpYY1ZLYlBNczlzVUZXQ0xJYXlpZTFESFlzd1JvYjRjYTI3eHE4LUx4UjJOYllR0gHWAUFVX3lxTE1NMFYxNGV4RWNHSWE4ZVJjczhyREhZTFpKTjFMVms4c0ZnSUtMNmkxYVFKNFVLUW5CTUQ1aVNoT2Q0Qk5jQ3NQR1J2UlJpV3l5NnZsRktXNUlKNno4YWQ4WDhQaWEtdkpoVTh3MWdtRU51NUpEYW84Vndodnh0Ry1mOFhoODVBWHVELUw0YjlKbGg5TVBQdXloQnNBOGl2Rk5nTlRfMVltSlhjVktiUE1zOXNVRldDTElheWllMURIWXN3Um9iNGNhMjd4cTgtTHhSMk5iWVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "dmg_mori-2026-08-08-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DMG Mori Co., Ltd. 2026 Q2 - Results - Earnings Call Presentation (OTCMKTS:MRSKF) 2026-08-07 - Seeking Alpha",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUElFYVJZeFhIczlVQXV1VzVKekZWY2NYSERMUEZIblNodVNQdzVuSGI1ek1xdmpOMUxBRmVQVzBWd1ZGNFF3OGVZQ2tqQVUzeGltdXp4VDZhREVLRGN6NlYwTDktNlFaMTdNVmpBT3pTYW11T0NiR0RhNEFXTEpMNXY5TzM3RWhwNjZkSVNiUHYyM3UzNWVpNERva3hmRG5h?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-08-08-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Community Trust & Investment Co. Sells 1,090 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUzVoUmJONm1sazZOcXVQZVpLTzRzek1rUmhIczZqY2JiWUhodWtnQ0Nua0p3SEU5YW5xbjNwWm94NTR5dkVTcTlFMEZFeDRaazBSUTdfbHkxMlpRRHM0Q1BmREdxaEZQQmJ0VmZ1T3VzS3lISExkbzYwVVRoRmtZVDFDMG5RbkhQcU82TXJaWG5OU3MtMVdHT29GZlVOdmU0VHdMWXU4WjdvOF9qZjYydDRIaXQwc3czWmFEQ3dFWFdScTBrTFp3YWdwb09HcmFJTUtvOFo2a3hydw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-08-08-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Critical Minerals: How Data Centres are Boosting Caterpillar - Mining Digital",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1JqTmNoUjFneXphdS0zXzRpRmNTTkppa2VRY2tmWEFWQ1VmR2RMTXFFNExJZldJZzQzTndnTGkwSU9FeUluU1JMRndnS0lELWNPM0VlWWkxbTBCckluN2dYX3F6MzFWcW8waDVkOE9VQkk0VEk4UlVXdS1DTUVIUjhNOGM3alRSV2NyYThoZU1aRUNk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "dmg_mori",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 393,
+    "dup_title": 192,
+    "too_old": 153,
+    "gate1_blocked": 2,
+    "gate2_blocked": 9,
+    "passed": 37,
+    "pass_rate": "18.4%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "Parker Reports Record Fiscal 2026 Fourth Quarter and Full Year Results",
+      "Delta's move into HVDC signals a shift in AI data-center power - digitimes",
+      "Mitsubishi Electric Backs Quantum Optimization Startup JIJ via ¥5B CVC Fund - International Business",
+      "Where Does DMG Mori (TSE:6141) Valuation Sit After Strong H1 2026 Results? - simplywall.st",
+      "Does DMG Mori’s (TSE:6141) H1 2026 Call Quietly Reframe Its Long-Term Strategic Priorities? - simply"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Parker、DMG Mori、CAT相關動態：「Parker Hannifin (PH) Stock Price Trails Record Sales As M...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Parker Hannifin (PH) Stock Price Trails Record Sales As Margins Tighten - sim...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "DMG Mori Co., Ltd. 2026 Q2 - Results - Earnings Call Presentation (OTCMKTS:MR...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

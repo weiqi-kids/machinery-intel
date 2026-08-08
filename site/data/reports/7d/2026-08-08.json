@@ -1,0 +1,157 @@
+{
+  "date": "2026-08-08",
+  "date_range": {
+    "start": "2026-08-02",
+    "end": "2026-08-08"
+  },
+  "generated_at": "2026-08-08T08:29:30.740781Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "dmg_mori-2026-08-04-018",
+      "date": "2026-08-04",
+      "title": "【DMG Mori (6141.T) FY2026 Q2 Earnings Call】Orders Hit Record ¥335.2 Billion for a Half-Year, Full-Year Guidance Raised — Aerospace, Defense, and Semiconductor Mega-Deals Drive Recovery - finance.biggo.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 33,
+      "last_week": 61,
+      "week_over_week_change": "-46%",
+      "sentiment_this_week": 0.14
+    },
+    "automation_capex": {
+      "this_week": 18,
+      "last_week": 43,
+      "week_over_week_change": "-58%",
+      "sentiment_this_week": 0.05
+    },
+    "industry_general": {
+      "this_week": 24,
+      "last_week": 68,
+      "week_over_week_change": "-65%",
+      "sentiment_this_week": 0.11
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.5
+    },
+    "cnc_technology": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "delta": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 5
+    },
+    "mitsubishi_electric": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "parker_hannifin": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 3
+    },
+    "caterpillar": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 1
+    },
+    "dmg_mori": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 4
+    },
+    "tongtai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "itw": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "airtac": {
+      "event_count": 1,
+      "sentiment_avg": 0.75,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 188,
+        "last": 294,
+        "change_pct": -36.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-02",
+      "event_count": 12,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-03",
+      "event_count": 27,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-04",
+      "event_count": 66,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-08-05",
+      "event_count": 31,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-08-06",
+      "event_count": 30,
+      "sentiment_avg": 0.18
+    },
+    {
+      "date": "2026-08-07",
+      "event_count": 18,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-08-08",
+      "event_count": 4,
+      "sentiment_avg": 0.25
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-02 ~ 2026-08-08）共 188 則事件，重點為「【DMG Mori (6141.T) FY2026 Q2 Earnings Call】Orde...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Mitsubishi Electric",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Parker",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "CAT",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
