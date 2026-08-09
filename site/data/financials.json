@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T08:29:26.072226Z",
+  "updated_at": "2026-08-09T08:31:31.016903Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "卡特彼勒",
       "ticker": "CAT",
       "currency": "USD",
-      "ar": 21890000000,
-      "ar_prev": 21569000000,
-      "ar_qoq": "+1%",
+      "ar": 24032000000,
+      "ar_prev": 21890000000,
+      "ar_qoq": "+10%",
       "ar_period": "QoQ",
-      "inventory": 19626000000,
-      "inv_prev": 18135000000,
-      "inv_qoq": "+8%",
+      "inventory": 20627000000,
+      "inv_prev": 19626000000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "delta",
@@ -160,17 +160,17 @@
       "name": "Illinois Tool Works",
       "ticker": "ITW",
       "currency": "USD",
-      "ar": 3380000000,
-      "ar_prev": 3227000000,
+      "ar": 3564000000,
+      "ar_prev": 3380000000,
       "ar_qoq": "+5%",
       "ar_period": "QoQ",
-      "inventory": 1726000000,
-      "inv_prev": 1659000000,
-      "inv_qoq": "+4%",
+      "inventory": 1756000000,
+      "inv_prev": 1726000000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "jtekt",

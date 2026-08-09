@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:31:35.096011Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-08-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thailand Short Interest Weekly (Aug 7th): Delta Electronics, SCC, Gulf Energy Development, CP ALL - Smartkarma",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZVVCaVN4anN1X0pVc1pscnBES09kZGlSckoyakdxTzd3cDE5dkN3ampKYjVsSEY5M0ZNQXRWWUY4RmJHVHBxV1ZvclpyWXlUN1NHUEdya3BtZjA4OW1SMlpSSjlMODF6cEFQUTAyV2VTa01qenRCZ3o1RUMzVmg2d3M0Q1JQSGN1SjNJRmxqQ0JlZ1p4aHdrOFVKdnI1MEtiZGdjeGxCUy1WWFNtem1UNFAwSmdYVmY1dVliOUctbTZTOVMyQ0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "parker_hannifin-2026-08-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin Q4 Earnings Call Highlights - finance.yahoo.com",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNazNrOE9yckduaDZadTRSLVM5X0pldWxiSFl2aFdWaVFaT2Q1Ung1UWJfS2FJTXBXRlgwRDJMSm1ORERKYzFlSUlZTFNTSFVDUWc2REFpZWNIZ3ZudHloYXE5NHBndGtvTnpJeUlJUEF5SGprUlQyMGRaY3EtOVgwUms2eGRHYmtOQWFCbnJpZDY3TTJVS2FlWExqQS04dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-08-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin (NYSE:PH) Posts Earnings Results, Beats Expectations By $0.98 EPS - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZFdkTmlWeEFLaHRSczlQV0Z6WVB2aHliaUpUb0N0dHdCb0NhRXlDV3dlWmpLa1FUU2FmUXhOT2ppdzh1ZFJiVnl4MElLdHVyQUxDbFNyc3ZqaTVSTnFDbXhQYld1cE5OVDBjWEliUU9wczFmcmJ6eVB6VTlHSmU1MVFTNDdmQnRzWklqbUlMa0ZOamw0TXlfOVktRUM1ZW9NRldZUE44alRDWHJHVjdFM0VEMFo1T2IzQzNhd3JtNzZ6MHczYlhwbg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-08-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mitsubishi Electric to Buy Poland’s MEDCOM in Full - International Business Times",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OTGhJX2NWclg2aEY0ZXI0QmpWay01YVhETERDMzJVVFZ2M3M2OWJGeW8zMXBPM1ppX1JDdkdudW8wNkpkZDh1S201YS1vTlFrZnlWMEEyUkwwTkt0d3VTaDZfR1lVcnhFX3hJVzB5cU9VWC05cnNVcnk1T0VBdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 395,
+    "dup_title": 200,
+    "too_old": 153,
+    "gate1_blocked": 2,
+    "gate2_blocked": 6,
+    "passed": 34,
+    "pass_rate": "17.4%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Parker Reports Record Fiscal 2026 Fourth Quarter and Full Year Results",
+      "Delta's move into HVDC signals a shift in AI data-center power - digitimes",
+      "Mitsubishi Electric Backs Quantum Optimization Startup JIJ via ¥5B CVC Fund - International Business",
+      "Where Does DMG Mori (TSE:6141) Valuation Sit After Strong H1 2026 Results? - simplywall.st",
+      "Does DMG Mori’s (TSE:6141) H1 2026 Call Quietly Reframe Its Long-Term Strategic Priorities? - simply"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Parker、Delta Electronics、Mitsubishi Electric相關動態：「Thailand Short Interest Weekly (Aug 7th): Delta Electroni...」。主要關注主題為財報、自動化資本支出、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Thailand Short Interest Weekly (Aug 7th): Delta Electronics, SCC, Gulf Energy...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Parker-Hannifin Q4 Earnings Call Highlights - finance.yahoo.com（自動化資本支出、財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
