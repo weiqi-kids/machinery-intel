@@ -1,0 +1,12 @@
+{
+  "total_raw": 34,
+  "dup_title": 18,
+  "no_date": 0,
+  "too_old": 14,
+  "gate1_fail": 1,
+  "gate2_fail": 1,
+  "passed": 0,
+  "gate2_samples": [
+    "Parker Reports Record Fiscal 2026 Fourth Quarter and Full Year Results"
+  ]
+}

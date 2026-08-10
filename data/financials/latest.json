@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:31:31.016903Z",
+  "updated_at": "2026-08-10T09:10:51.821769Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -347,17 +347,17 @@
       "name": "THK",
       "ticker": "6481.T",
       "currency": "JPY",
-      "ar": 63528000000,
-      "ar_prev": 80813000000,
-      "ar_qoq": "-21%",
+      "ar": 74236000000,
+      "ar_prev": 63528000000,
+      "ar_qoq": "+17%",
       "ar_period": "QoQ",
-      "inventory": 65177000000,
-      "inv_prev": 86908000000,
-      "inv_qoq": "-25%",
+      "inventory": 70452000000,
+      "inv_prev": 65177000000,
+      "inv_qoq": "+8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "tongtai",
