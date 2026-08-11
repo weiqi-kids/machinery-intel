@@ -1,0 +1,252 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T08:44:43.536038Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-08-11-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Delta Electronics July Revenue Hits NT$67.07 Billion, Up 47.7% YoY, Setting Another Record High - finance.biggo.com",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xcEdwM05sVzdXWTZEcXl3WDdkZ3dGaGk5eUptbmJiLTlXSmtvT0VVZDYxLUZLb0laUzJxd0UxZjJ0Sk5iLTd1SU9zQ1ZpMlNaZ2xIZl9jU2U0U1hnTUdzQ3FXVjhhVC1ab3JlY1FoQ1BDUGp0dGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-08-11-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar Inc. $CAT Stock Position Lifted by Bay Colony Advisory Group Inc d b a Bay Colony Advisors - MarketBeat",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNR29BTldqTTJQbGNUb0pHQzZLVjBfVjZXcHJvN2Q2Y0QtcUpabjBZaURWSlJXMlp2XzU2NGdFUlB6RDA0ZG5zUm5XVVZpYkFCeTBfNWpsY2VCdnUtY1BvY0NQOTBfOUg3R292dlZnRVF1U1BuQkxqYVhGNzVBbTlTQlZ0b2VfbF9KQWhKdjhqdG5hY01FN1Z3UWphMGd4ekFCSHV3SEtIVExIcWhQU0dpQXg2ZkxId1ZJUC11TjF1NnZqeFpFWHVEdjc1NlpHU0QxOHhGRzdWUENWSXk3YjRFRllfRXY2T1VJb3BaYVBkTWM4RTA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-08-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mitsubishi Electric CNC Reduces Cycle Time, Extends Tool Life - mmsonline.com",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cnc_technology",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ2NfdGNXbTl4QWxyaUhYMTlTMkRHTGFQZFRBOXJLQVVkZUhXSnpyZGEzUjlmMjhIMm5zMWxGQUZ6UEc3NG5HLS1wb0ZkT1JQZzhETlV0OG1lQUlhRUJVXzVDUjFIdU10TXBIXzg3TE5UQ050VFpvUUJWUFh5cERfLVZqN3c5OTFKckhaNzZLazkwTVRLQXNiMmoyYw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CNC Turning Centers Market Size, Forecasts Report 2026-2035 - Global Market Insights Inc.",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cnc_technology",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8yS3NpZ3ZlMjYtNVBQbE5nOXZWRkViOFVJVWhuNWF3VDJUaWFnSkpKQWE0bzVkSjNvRG1xMklDbzAyOFhfc2VPcTlLenRsWVlSZGwtZktkdVNFeVlsQnJFSTREZGNDMnZGV2xtam42UzlpXzNKbUhmb0JJMA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-11-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Improve safety and hazard protection, based on expert advice",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.plantengineering.com/improve-safety-and-hazard-protection-based-on-expert-advice/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "cnc_technology": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "cnc_technology",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 393,
+    "dup_title": 204,
+    "too_old": 146,
+    "gate1_blocked": 2,
+    "gate2_blocked": 5,
+    "passed": 36,
+    "pass_rate": "19.0%",
+    "gate2_block_rate": "2.6%",
+    "gate2_samples": [
+      "Parker Reports Record Fiscal 2026 Fourth Quarter and Full Year Results",
+      "Delta Electronics' Sales Soar 48% in July - marketscreener.com",
+      "Where Does DMG Mori (TSE:6141) Valuation Sit After Strong H1 2026 Results? - simplywall.st",
+      "Caterpillar Pledges $10M in Workforce Funding to Illinois as Part of $100M Initiative - Equipment Wo",
+      "Forest tent caterpillar damage rising as DNR eyes potential 2027 outbreak - KAXE"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Delta Electronics、Mitsubishi Electric、CAT相關動態：「Delta Electronics July Revenue Hits NT$67.07 Billion, Up ...」。主要關注主題為產業通用、財報、CNC 技術，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Delta Electronics July Revenue Hits NT$67.07 Billion, Up 47.7% YoY, Setting A...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Caterpillar Inc. $CAT Stock Position Lifted by Bay Colony Advisory Group Inc ...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

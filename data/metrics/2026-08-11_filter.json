@@ -1,0 +1,16 @@
+{
+  "total_raw": 393,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 2,
+  "gate2_fail": 5,
+  "passed": 36,
+  "gate2_samples": [
+    "Parker Reports Record Fiscal 2026 Fourth Quarter and Full Year Results",
+    "Delta Electronics' Sales Soar 48% in July - marketscreener.com",
+    "Where Does DMG Mori (TSE:6141) Valuation Sit After Strong H1 2026 Results? - simplywall.st",
+    "Caterpillar Pledges $10M in Workforce Funding to Illinois as Part of $100M Initiative - Equipment Wo",
+    "Forest tent caterpillar damage rising as DNR eyes potential 2027 outbreak - KAXE"
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T09:10:51.821769Z",
-  "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
+  "updated_at": "2026-08-11T08:44:39.278094Z",
+  "quarter": "2026-03-31, 2026-06-30",
   "companies": [
     {
       "id": "abb",
@@ -92,17 +92,17 @@
       "name": "德馬吉森精機",
       "ticker": "6141.T",
       "currency": "JPY",
-      "ar": 80729000000,
-      "ar_prev": 62957000000,
-      "ar_qoq": "+28%",
+      "ar": 76830000000,
+      "ar_prev": 80729000000,
+      "ar_qoq": "-5%",
       "ar_period": "QoQ",
-      "inventory": 201821000000,
-      "inv_prev": 192153000000,
-      "inv_qoq": "+5%",
+      "inventory": 216781000000,
+      "inv_prev": 201821000000,
+      "inv_qoq": "+7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "fanuc",
@@ -330,17 +330,17 @@
       "name": "西門子",
       "ticker": "SIE.DE",
       "currency": "EUR",
-      "ar": 17535000000,
-      "ar_prev": 16881000000,
-      "ar_qoq": "+4%",
+      "ar": 17975000000,
+      "ar_prev": 17535000000,
+      "ar_qoq": "+3%",
       "ar_period": "QoQ",
-      "inventory": 11499000000,
-      "inv_prev": 11100000000,
-      "inv_qoq": "+4%",
+      "inventory": 11879000000,
+      "inv_prev": 11499000000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "thk",
