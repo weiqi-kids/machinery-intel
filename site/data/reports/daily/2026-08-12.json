@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T09:03:07.420309Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "caterpillar-2026-08-12-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Caterpillar (CAT) Could Be 13% Undervalued As Record Quarter Lifts Guidance - simplywall.st",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRlZYTFhYUm9NSjMya0VzV1czNk9ScHluemJVelhIcWRINHJGZlZmVURMZ0h5QXZHTFpacXQ4QlZFYkcydEF0RHFtOE85Qy15YWRFbFRDQk8xdU9zcEFNdHVEZUMtU1JCRzdxVHZXaVlIZDA3cVIxSzN2cnNYdVgxT1c4eFpLempicGtVVVpzNjJvVTlFQmZZQkRieVZfdVpCRldMbmlXbmVvaDZyUTE3TnROcUdZejVqVHBUZmJYTVozNC00b05kSXhvVjfSAdIBQVVfeXFMTS11M3UxYmE3WTg4bzF5RVRDb0VzaVlXbFRSRmxYTHkxclktb3lZbkdQNXhRZlo5OUtRTDhZVGFXM3JDdU9PNjdEanpwNUhmWXRyV0FyUDRkX0NvQzR1SHpCZEdTV3Z6RjAwbWczRU1JSUpZSXplWEpERmhESFBwa0FHX01tOV9vV1hlNjdzTk5oTGI5NXBGV0VaNDdqMVFJMWpwdnpkNmFGdTFBdzlDdzg0ZmdhZUNORzdac2hZZ01nSXgyRUhxeVdPWF9RVjJTN0tR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-08-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar Inc. $CAT Shares Sold by Diversified Management Inc. - MarketBeat",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGN4RUNJLUdGenVKdVd2VmVuX3hIZTdZN3lYekdKaTlrRHl0c3M2VGNMaFk3VTVqc21OSDNqM01DNUhURnUxNjV3SVgwY0tYbThxR1pQUnpkYjZFMldBd2NRTFFudE93aExickUxU0l6X0RROEFiTXp0VXJxVjZlRjNnRUpsb3p2dkotY2YxQ3liLXV3ajFlUTExc2Q2ZEJEMmhVc3FTQk1BVEpwU2E5MVIwQkVFV1JpelJKdHhkNA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 393,
+    "dup_title": 208,
+    "too_old": 154,
+    "gate1_blocked": 3,
+    "gate2_blocked": 8,
+    "passed": 20,
+    "pass_rate": "10.8%",
+    "gate2_block_rate": "4.3%",
+    "gate2_samples": [
+      "Parker Reports Record Fiscal 2026 Fourth Quarter and Full Year Results",
+      "Delta Electronics' Sales Soar 48% in July - marketscreener.com",
+      "Mitsubishi Electric gears up satellite output with Japan rocket's success - Nikkei Asia",
+      "Where Does DMG Mori (TSE:6141) Valuation Sit After Strong H1 2026 Results? - simplywall.st",
+      "Illinois Tool Works Prices $1.50 Billion Senior Notes Due 2029 At 4.650% Coupon - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為CAT相關動態：「Caterpillar (CAT) Could Be 13% Undervalued As Record Quar...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Caterpillar (CAT) Could Be 13% Undervalued As Record Quarter Lifts Guidance -...（財報、展望、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Caterpillar Inc. $CAT Shares Sold by Diversified Management Inc. - MarketBeat（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

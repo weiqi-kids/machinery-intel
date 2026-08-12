@@ -1,0 +1,29 @@
+{
+  "date": "2026-08-12",
+  "total_events": 2,
+  "by_company": {
+    "caterpillar": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "industry_general": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

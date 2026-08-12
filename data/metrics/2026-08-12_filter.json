@@ -1,0 +1,16 @@
+{
+  "total_raw": 393,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 3,
+  "gate2_fail": 8,
+  "passed": 20,
+  "gate2_samples": [
+    "Parker Reports Record Fiscal 2026 Fourth Quarter and Full Year Results",
+    "Delta Electronics' Sales Soar 48% in July - marketscreener.com",
+    "Mitsubishi Electric gears up satellite output with Japan rocket's success - Nikkei Asia",
+    "Where Does DMG Mori (TSE:6141) Valuation Sit After Strong H1 2026 Results? - simplywall.st",
+    "Illinois Tool Works Prices $1.50 Billion Senior Notes Due 2029 At 4.650% Coupon - TradingView"
+  ]
+}
