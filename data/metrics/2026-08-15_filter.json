@@ -1,0 +1,16 @@
+{
+  "total_raw": 397,
+  "dup_title": 203,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 1,
+  "gate2_fail": 9,
+  "passed": 33,
+  "gate2_samples": [
+    "Delta Electronics' Sales Soar 48% in July - marketscreener.com",
+    "Mitsubishi Electric Trane HVAC US Highlights First-Half 2026 Progress Across Leadership, Innovation,",
+    "Mitsubishi Electric gears up satellite output with Japan rocket's success - Nikkei Asia",
+    "Illinois Tool Works Prices $1.50 Billion Senior Notes Due 2029 At 4.650% Coupon - TradingView",
+    "Diversified Trust Co. Trims Position in Parker-Hannifin Corporation $PH - MarketBeat"
+  ]
+}
