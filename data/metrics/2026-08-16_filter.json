@@ -1,0 +1,16 @@
+{
+  "total_raw": 396,
+  "dup_title": 215,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 1,
+  "gate2_fail": 7,
+  "passed": 23,
+  "gate2_samples": [
+    "Delta Electronics' Sales Soar 48% in July - marketscreener.com",
+    "Mitsubishi Electric Trane HVAC US Highlights First-Half 2026 Progress Across Leadership, Innovation,",
+    "Mitsubishi Electric gears up satellite output with Japan rocket's success - Nikkei Asia",
+    "DMG Mori to Raise 50 Billion Yen Via Share Offering - marketscreener.com",
+    "Brokers Suggest Investing in Caterpillar (CAT): Read This Before Placing a Bet - Yahoo Finance"
+  ]
+}
