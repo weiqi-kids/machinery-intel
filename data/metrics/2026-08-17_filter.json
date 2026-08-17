@@ -1,0 +1,16 @@
+{
+  "total_raw": 393,
+  "dup_title": 210,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 1,
+  "gate2_fail": 9,
+  "passed": 16,
+  "gate2_samples": [
+    "Mitsui & Co. and Mitsubishi Electric Benchmark Approximate and Logical QFT on Quantinuum Helios - qu",
+    "Mitsubishi Electric Trane HVAC US Highlights First-Half 2026 Progress Across Leadership, Innovation,",
+    "Mitsubishi Electric gears up satellite output with Japan rocket's success - Nikkei Asia",
+    "DMG Mori to Raise 50 Billion Yen Via Share Offering - marketscreener.com",
+    "Barden Capital Management Inc. Takes Position in Parker-Hannifin Corporation $PH - MarketBeat"
+  ]
+}

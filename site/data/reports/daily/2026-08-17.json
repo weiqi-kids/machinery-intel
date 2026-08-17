@@ -1,0 +1,157 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T08:33:09.192247Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "parker_hannifin-2026-08-17-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Flputnam Investment Management Co. Makes New $15.73 Million Investment in Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS2RVQ2czWWtHMWthQnBpNHFOcFY4bW1nN0toZU50RFhsaXBJOVZubEtUQUZFemR5ZFVUZWVHUFRsazFDSHNWd0JMWE9jSW9td21hNHZaYW5wbC1Tam52VTBlcGJ6QVZhT3d2MjdfMWFyRnkybmhxVE5vZzdwSUxUSm5mLWhwMWJIcWZ4LXR6dU5UU3FtcTIwVkhucFhDVEhRRGVOU3RqUXNiRDN1eFd5QzEyYTNjZEhWWVpwSVluLWdlTXFVbGpZS2JzQmRQUGM3MDh4M09HUWNLRG5mcTJSUFNtQ1pKZlllQngxUVd1ZkNIYkwz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "parker_hannifin-2026-08-17-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "22,937 Shares in Parker-Hannifin Corporation $PH Acquired by Diamond Hill Capital Management LLC Investment Advisor - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVF9RSEp5QURoZmlja2sweF9ZVVZhdkRsVVdTMUdobWs2Uk5rbHdxYV9qVU1JWXBZeGhNSlpoWHJ2cURCTDROUWtkZElUdG9QQ3N2Y2c0Y0NMWExHVkNhNndGTnM4SE9VSDdoNE1KQUFEWEtFQnU0REJrc2gwTzZrY294TU1UWTIyd2FISGQzWXJfT0tTTHFKbEtTUWQ4V29icEZ5eXdqU3Z2Q2hrbXdBVF8xbV9iSDlsR2dSYXFtbkFsdmxVU0t3alRidzNMNHUtb1JHU3V6ZTQ3WTVLYXNMYnRQd0VnZ0YwczVVWDZaUmV0eERnaGUxVFptMUdPRFZrRS1pdg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-08-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Global Retirement Partners LLC Buys New Shares in Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVkxhNmM1UGZ2WmVUbU1FTmxFQXRUX2ZaUzJNQTlGTzBIRmEzRXRLNnJlTTVkaGU1VmJEbVo2V1c2QWFmWTNoaE8zNWJNdzJwX01DM2t1c2x0Snl0ZkJvMjlaZF9CckV4MENaSjU2dVozNlg5VUx6T2lOYnoxUWtNRkowTkV6WHNKTUFUS2E3TzVqWTRsajhZRWdyNjhhX3g5dnF4UjZfNTd4dlRLdVlGSmkxYThROU9ENzhDcWdaek4zQUpFOVEzbUpVYVhqWDZ2QVlWbDVrVDk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 393,
+    "dup_title": 210,
+    "too_old": 157,
+    "gate1_blocked": 1,
+    "gate2_blocked": 9,
+    "passed": 16,
+    "pass_rate": "8.7%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Mitsui & Co. and Mitsubishi Electric Benchmark Approximate and Logical QFT on Quantinuum Helios - qu",
+      "Mitsubishi Electric Trane HVAC US Highlights First-Half 2026 Progress Across Leadership, Innovation,",
+      "Mitsubishi Electric gears up satellite output with Japan rocket's success - Nikkei Asia",
+      "DMG Mori to Raise 50 Billion Yen Via Share Offering - marketscreener.com",
+      "Barden Capital Management Inc. Takes Position in Parker-Hannifin Corporation $PH - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Parker相關動態：「Flputnam Investment Management Co. Makes New $15.73 Milli...」。主要關注主題為財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Flputnam Investment Management Co. Makes New $15.73 Million Investment in Par...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "22,937 Shares in Parker-Hannifin Corporation $PH Acquired by Diamond Hill Cap...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
