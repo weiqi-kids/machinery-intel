@@ -1,0 +1,16 @@
+{
+  "total_raw": 393,
+  "dup_title": 194,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 0,
+  "gate2_fail": 6,
+  "passed": 38,
+  "gate2_samples": [
+    "Closed-loop cooling data center strategies for the new wave of U.S. state water rules",
+    "Mitsubishi Electric Trane HVAC US Highlights First-Half 2026 Progress Across Leadership, Innovation,",
+    "DMG Mori to Raise 50 Billion Yen Via Share Offering - marketscreener.com",
+    "B & T Capital Management DBA Alpha Capital Management Acquires New Holdings in Parker-Hannifin Corpo",
+    "Brokers Suggest Investing in Caterpillar (CAT): Read This Before Placing a Bet - Yahoo Finance"
+  ]
+}
