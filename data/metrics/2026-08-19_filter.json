@@ -1,0 +1,14 @@
+{
+  "total_raw": 393,
+  "dup_title": 203,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 1,
+  "gate2_fail": 3,
+  "passed": 37,
+  "gate2_samples": [
+    "Aljian Capital Management LLC Invests $1.98 Million in Illinois Tool Works Inc. $ITW - MarketBeat",
+    "Parker’s New Ulm location to close - - New Ulm Journal",
+    "Brokers Suggest Investing in Caterpillar (CAT): Read This Before Placing a Bet - Yahoo Finance"
+  ]
+}

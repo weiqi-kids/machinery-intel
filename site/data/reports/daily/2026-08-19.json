@@ -1,0 +1,221 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:26:04.606316Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Australia, Japan Test First Joint Laser Weapon as Mitsubishi Plans $70M Production Plant - SOFX",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaHpJUk9ZYVRyMHk3blBjZGoyM1lFc2FKYmJFOXJsdG00MjZNb3NuekEzc21vbm91Q3Q5MXM3OG05YkFrVllBbEdDQVNJSlk4YzNLbjdYX0hLSEEtWjhWbWlzRTZHNkJYNjFNVU5CTThpNjRNWHZlR1FZVlBhd1lzb21ZOW96THBNaWJIZWEycmZ4SEZyN202cGlrS0JIbVRUMEpseWw3Mmk4WEVz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Australia and Japan test high-energy laser - Asian Military Review",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXBmUVpCdUtVQ0pmR2tOM0lTWXVsQnhUTnI3aXBTY0d3MmFLMkNXRnh4em5Vd0dsdFhKbGpGT3l1TjZtVmJfQS1EU0RTNDdLMk05QkpSenlNekN6ZnZrSVNJT1VyTkluZWxXTDA0ZEktRmR3WUl4REZQb3NDMXgtRmQ2SVkydm1rb0FJSWlHNUhnVWFuS0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itw-2026-08-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Bank AG Makes New Investment in Illinois Tool Works Inc. $ITW - MarketBeat",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS09Cdnpndm9BVjVEOGZGd3NvVHIybEh5a2FrM3Q0STBCQ0hqUjlFWkpWdUFrREpqOGs2OFh6ZmNIeTJKQkpkOHRwc3RQUnFVbThnYnVwbFRRYTQ4ZDRXZkFUaFcybFIxRmhXLTBBMElrQ3ZfSGxFYm5TX3BnRXkteHBQU3k3aUVoTV96amdjaFlnYkhodWtnU2h5aUVfMlR1MjlXdGtjdnV3UzVzZFlFVGxyVjIyVEhOZDl4aGRCd2p5VV8wNkRVZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itw-2026-08-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Illinois Tool Works (ITW) Cheap Following Its Bond Sale, Dividend Rise, And Buyback? - simplywall.st",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRGFmSW1vaExUOUd5OS1HTkIyc3RVVVdzZFVhRkZqT1lERzlGVTRaYU5SekZNbUNpaEZONlhRX2RXMGZnbEtYeWtiLVFNN3NBbmM2VTZ4MC1IRXFKQmc0OEJqTzNCQmtYSVVhMUpZZTVVejZqQ01BM2xZbWREVERFaHZ5TTdzU3E0NXRXbGNDQU5pN0EwRUpLWWJBUkd3Ml9WLXQyRFA2bkUyNUVabmdaclJ2RFR1VmRrVU5NamRiYVlTYlZRNXNnWnMtYU5qcElxSl92QlMyb9IB3AFBVV95cUxPaVRZMTJJcUlBYVY2TUpDeEN0ZlR3WE9lUmxJcVR5cUNnaHBqT3dLVFRFdG9CMnlrMXZIUDh0dmZMUnBudzg4V0VfVVZYLWFsUmRFcmx6aDE4WTVlckZwNUhVa0p4c1p1WWhnSkF5c2UwRTNHaEVTeHkyNnZmUy1PQklEaUt5WUhONGlwUDJHQzludVhRdjZFcVJ1dGxHMjI2bFphdHZJRE5wdXc1RU9zZVFobHNvREtCZFF6QlBPRWo2UmhHOHhFbFBQbFhfYkYzT1JIdENHaEdvRndu?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-08-19-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Parker Hannifin Completes $9B Filtration Group Deal - Industrial Distribution",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQXN1TEdQNm9TY2hPX0NoOVROclF6S3B0bkpMQlRESU04bkVkOFV1SzBSN1lWUjNQWk1pc0NlTm1PNnVya0hCTkZ6Y29oMTBOSEhIRm5abzNkWmpobG0tSExKeVZfMTFNeEhkME8tQVJXNnFENzRyeTAyZXVIZ2xhTG1TQjZqOUl5STZjRkkwaUo3bkR3cVhlZ2lnYnJsWEFkb1Y0UnZ6Um5Kcktmdnc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "itw",
+        "count": 2
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 393,
+    "dup_title": 203,
+    "too_old": 149,
+    "gate1_blocked": 1,
+    "gate2_blocked": 3,
+    "passed": 37,
+    "pass_rate": "19.5%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Aljian Capital Management LLC Invests $1.98 Million in Illinois Tool Works Inc. $ITW - MarketBeat",
+      "Parker’s New Ulm location to close - - New Ulm Journal",
+      "Brokers Suggest Investing in Caterpillar (CAT): Read This Before Placing a Bet - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為ITW、Parker、CAT相關動態：「Australia, Japan Test First Joint Laser Weapon as Mitsubi...」。主要關注主題為產業通用、財報、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Australia, Japan Test First Joint Laser Weapon as Mitsubishi Plans $70M Produ...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Australia and Japan test high-energy laser - Asian Military Review（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
