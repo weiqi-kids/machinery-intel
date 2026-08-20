@@ -1,0 +1,16 @@
+{
+  "total_raw": 393,
+  "dup_title": 190,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 2,
+  "gate2_fail": 5,
+  "passed": 41,
+  "gate2_samples": [
+    "Mitsubishi Electric Corporation - Agree To Wholly Acquire Pci Energy Solutions - TradingView",
+    "Aljian Capital Management LLC Invests $1.98 Million in Illinois Tool Works Inc. $ITW - MarketBeat",
+    "Parker’s New Ulm location to close - - New Ulm Journal",
+    "The Zacks Analyst Blog Highlights Walt Disney, Parker-Hannifin and Occidental Petroleum - Yahoo Fina",
+    "The Zacks Analyst Blog Highlights Visa, Lam Research, Caterpillar, Q.E.P and Altigen - Yahoo Finance"
+  ]
+}

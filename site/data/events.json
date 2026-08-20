@@ -1,5 +1,170 @@
 [
   {
+    "id": "delta-2026-08-20-001",
+    "date": "2026-08-20",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Delta expands AI automation push into robotics, semiconductors, machinery - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMUF4TzFtNkdLUTEyVHktSnVsOGhZMVlYcEZCeWZucWJublAtaGhQMGs5QUtmN3A1eDI1YVBCVEUteWU3elJmbS16dUtsT1p5QnVoZUhUUlQyRkNjMmZfeDk5WnBzRWFNNHlMR3JlQk",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMUF4TzFtNkdLUTEyVHktSnVsOGhZMVlYcEZCeWZucWJublAtaGhQMGs5QUtmN3A1eDI1YVBCVEUteWU3elJmbS16dUtsT1p5QnVoZUhUUlQyRkNjMmZfeDk5WnBzRWFNNHlMR3JlQkJwdTVxUm1YQ29hZnpqUmVuRnhQUGJlS2hOaFlIU29SbWpvRTJiVTJrV2dKc3ZCVTR6RzlDVEJlWUFIWENCOVlPakswSzcySE91a2paX0xLenRGUkV1bWw5cUtWd3VOajlocWw2TEVCV21HS2V5aGVQLVUxdlpGTXgwV1RUTFpR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-08-20-002",
+    "date": "2026-08-20",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Taiwan's Delta Electronics expands into humanoid robot market - Taiwan News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zQnlJeVNxN3cwSS14ajUwdGUzSzlqQTdCVmppUTJPV1Y2TU9BZ1VpNXp2UUJpLUNKcGFjQ05nQ0RKYzhrVUNiOEtyZ0RCNzVZVGx1UTlUUDg?oc=5\" target=\"_blank\">Taiwan's",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zQnlJeVNxN3cwSS14ajUwdGUzSzlqQTdCVmppUTJPV1Y2TU9BZ1VpNXp2UUJpLUNKcGFjQ05nQ0RKYzhrVUNiOEtyZ0RCNzVZVGx1UTlUUDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-20-003",
+    "date": "2026-08-20",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Agrees to Wholly Acquire PCI Energy Solutions - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVdoWDdfbnUydmJ4Zmo3Nl9SZVlpWDJEMVBiRWRTVTMtZ29XLVlmamg5cmJLQmtXX200YnM0S0pVbHRqdEFPaGY1X0tNQ1l4c01ucEdINnU4WmZpOGJHZTBKYkRBY2RGWnY4Z2QtTU",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVdoWDdfbnUydmJ4Zmo3Nl9SZVlpWDJEMVBiRWRTVTMtZ29XLVlmamg5cmJLQmtXX200YnM0S0pVbHRqdEFPaGY1X0tNQ1l4c01ucEdINnU4WmZpOGJHZTBKYkRBY2RGWnY4Z2QtTUlFaFZpbExvSkpkU0gwY3hVZzRSc2F2Y2hKeEdGM3RFZ0U5WnRa?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-20-004",
+    "date": "2026-08-20",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric to Acquire US Energy Software Provider for $1.4 Billion - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOdm9Qd1RGS2lldFFQRGdDclNaOW9HenB0MUM4a21uSG43dWtFa1JwcGhkdzQ0d09ucnFzT3VkeVVON1gtOXlSVE50TTMzbFd6TkZiT3pSeE1SNGhncUI4T1JlNlBxVWFubXBxTFVqaF",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdm9Qd1RGS2lldFFQRGdDclNaOW9HenB0MUM4a21uSG43dWtFa1JwcGhkdzQ0d09ucnFzT3VkeVVON1gtOXlSVE50TTMzbFd6TkZiT3pSeE1SNGhncUI4T1JlNlBxVWFubXBxTFVqaFFkM3Z4TGcySzl6QlU1a21IbEJxMlFPNWpyTmxlWVNCVFRDSG5ISDNVYWE1QUpHbENWUWxjb2pmV3d4OG8tT1l2TGVsSXFIQ1R4b1pkRXpKWnF2Z0l3ZHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-20-005",
+    "date": "2026-08-20",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Danske Bank A S Purchases New Shares in Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNM2p6dFdRNFVCd3pZNVlBRDdxRnJUQW9ocW1YWlgzeERDbk9mald6Yk1nWFVDeXBXY2FtalRGRG1PY1ZXOGY5cUU2YkUzZGZFUndPdUFGcDlERGd0UzJpY2oxc3RuRmk1alZYRVdyTW",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM2p6dFdRNFVCd3pZNVlBRDdxRnJUQW9ocW1YWlgzeERDbk9mald6Yk1nWFVDeXBXY2FtalRGRG1PY1ZXOGY5cUU2YkUzZGZFUndPdUFGcDlERGd0UzJpY2oxc3RuRmk1alZYRVdyTW95aGU2MWM5OW9McVdZQll3TlB5c1g0QXI5WVZ1aDA4dExxYmdTSXB2cmtXdm1MNmNOWUgyTGRMU1hNSEJNamtzTWxBY3h0SnRHVnJPZzNyZTFoakpjcTdF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-20-006",
+    "date": "2026-08-20",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foster & Motley Inc. Acquires Shares of 3,662 Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQT1VJXzNidGJCV0FHT3BRVHBjaTl2ckxHcVZGcGo1TzZUaTZINURXRzl1OGhnWnUzZkhmZ0hBYmhucld5akM3T3BTWkVsVlNsU3RkRC1MRFlURUhZM0tPdjJJY0tLdy1mT1R1OVJ4cG",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT1VJXzNidGJCV0FHT3BRVHBjaTl2ckxHcVZGcGo1TzZUaTZINURXRzl1OGhnWnUzZkhmZ0hBYmhucld5akM3T3BTWkVsVlNsU3RkRC1MRFlURUhZM0tPdjJJY0tLdy1mT1R1OVJ4cGFseDNMSWNlX181MktkcDNIMnpVWWtBY3kyUlpGeTY4SzZXNk5lTUdkQkprQVBvOXlqTDU0MTVEWVNLRzFDTG1MUnlMdUFNWHBkb2NMODdYX3NjcEZaUl9Ya0xR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-20-007",
+    "date": "2026-08-20",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Diversify Advisory Services LLC Buys Shares of 1,084 Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcUdVVWRTSnFkTTVjUmw5cFY0V2h2VGlqQkF0YzdZY2IyNFV6OXZMOHhPVzJxNjlXUkJFNS1MMVFIQWQ2eXhLNklwVEJ4bWZ0SG13ODl6cVVtVFBSdFJSS2x3ZTd5c2pXNE1VSlJXZ3",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcUdVVWRTSnFkTTVjUmw5cFY0V2h2VGlqQkF0YzdZY2IyNFV6OXZMOHhPVzJxNjlXUkJFNS1MMVFIQWQ2eXhLNklwVEJ4bWZ0SG13ODl6cVVtVFBSdFJSS2x3ZTd5c2pXNE1VSlJXZ3dwbXpQTEdsbldHS3VISVRnTURaZ19QZklxTzEtaVlQVVNjVE5HaFhXejZ1dlF5NUxtUHR5QzR6RWtmXzNkOEZ0d3JWLWVXdHRya2kyZ3ZsMDMxbWQwWUVhNHA5ZlRxVU9wdzg4WmJhTHBzQ2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-20-008",
+    "date": "2026-08-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Diesel Engines Meet the AI Boom: Inside Caterpillar and Cummins’ Record Quarters - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3ExXzFqRENkZlZ5RzRWZk1QLXpOTkg1d3hmTlBNeGpwTFM2dVFPLUVrbnNhMkZPTWZ2YWRuUzhlVnNCSElvbmVoMUdMTWpUcmRqQ213c0Vyd09MYzlsaVJjdVpuVW1HRXpLeFpKQl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3ExXzFqRENkZlZ5RzRWZk1QLXpOTkg1d3hmTlBNeGpwTFM2dVFPLUVrbnNhMkZPTWZ2YWRuUzhlVnNCSElvbmVoMUdMTWpUcmRqQ213c0Vyd09MYzlsaVJjdVpuVW1HRXpLeFpKQlpySTdKcHJ1ZU85THN5TkEzSVlzeFc0TVJYc1l0SUhVeXg0TGpTZVdJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-19-001",
     "date": "2026-08-19",
     "companies": [],
@@ -134,6 +299,372 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3pUY2l0cUVrSFloWXZlSmJ6YlVBVEJqSlI4bEJmMXFmdHl3VUxhZWE1WTBrV3FNRE91QzJjM2I1c2x4aW83b0RKQldHakZseHBSNlNmLXVqNFdJbTAzNDRqM2ZKZUNfa01lRnRwNlJEb3BqU1ljdEJJTVhfWDdCU055N0V6eXoyS1pjb3ltVGY0ZVJxcHg3a2hvU29fSnhEcXVJcE9JV1pWVWhaZUZIZ3FSVVBOMDJCQXVWYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-08-19-008",
+    "date": "2026-08-19",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "cnc_technology",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Showcases Embodied AI Dual-Arm Robot Platform and AI-Enhanced Production Line Digital Twin at Automation Taipei 2026 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNRERGWF9ZTVJvNDFmandlbWhBNzJZLTFLQ00tcHZKLVVCMWNrQnotcTRwZU9vZ2dhdVBrY1RpeEZtRDBsekhZSHkwTDdFMUZoM1dZM2U3QkJ1eWF3MlFBYU9jbUlxQXE0QkIxc3k0MW",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRERGWF9ZTVJvNDFmandlbWhBNzJZLTFLQ00tcHZKLVVCMWNrQnotcTRwZU9vZ2dhdVBrY1RpeEZtRDBsekhZSHkwTDdFMUZoM1dZM2U3QkJ1eWF3MlFBYU9jbUlxQXE0QkIxc3k0MWg3Yll4LW5reDlJMlEtU2ZYcFMxazU4TXpiaTlRSXQtVmZaQlNDMFJzdmJnVHU0eWRvNm5TWC1kUlFHZzRTREhBRTFpMHVsZEduYWpJcUR0cWI2X3FTcWxGWF9Ua28tLV9fRm55YTYzWWRGd2tFVUo0MHhLNHU5aHZkS2ducF9LVGhEZWVvYjAxYW00ekpKa3Nva2t1bXNLbEMwY0RIRlNpXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-19-009",
+    "date": "2026-08-19",
+    "companies": [
+      "itw"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Illinois Tool Works closes $1.5B senior notes offering - Dealroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmh6dmQzRGtpbTFreHF4clBERkNhVFBnNVNXWGhQeHdSaWttUXBFdUpFc1hVenFjRlI2Y2JLT3lreE1pOWdQU19lalZiVDFKR1NiVkgyTV9vd0hVcWMxVGtKbENtc05MbTh2N1M5UF",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmh6dmQzRGtpbTFreHF4clBERkNhVFBnNVNXWGhQeHdSaWttUXBFdUpFc1hVenFjRlI2Y2JLT3lreE1pOWdQU19lalZiVDFKR1NiVkgyTV9vd0hVcWMxVGtKbENtc05MbTh2N1M5UFJndFBGbUthblo4OEN3NVZDaHRqR01nUUlvOEtnb3ZWTGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-19-010",
+    "date": "2026-08-19",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (NYSE: ITW) holder plans 2026 stock sale - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZFF0ZkNrand6MDhWcXd1dngxWUdLbDhoT3ZXd0xLcS1VRzViTldWWW1SREk5Z3dZZjFVeHlWNWxnWXRLMEk4eUtuZ09JcTFwclVNY3FYVnlvWG5BWlVRRHh1ekdPT0JBTVh6MzZkZk",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZFF0ZkNrand6MDhWcXd1dngxWUdLbDhoT3ZXd0xLcS1VRzViTldWWW1SREk5Z3dZZjFVeHlWNWxnWXRLMEk4eUtuZ09JcTFwclVNY3FYVnlvWG5BWlVRRHh1ekdPT0JBTVh6MzZkZk92T0FIeVBwdVZ1dzNIalp2WXNaS0R1UGh2N1ozei1uTHZoN0V0WEFpQjhtVnpxSUN5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-19-011",
+    "date": "2026-08-19",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Meeder Advisory Services Inc. Takes $2.13 Million Position in Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR2Etc2pJTnBDV2dLOWV3MEJ1aTdKN2tldVdyXzJUSmN2QnRialJnaHpvUDJuTUZfaXhVeW9rbkJWX0NlVXlLbEZQYVJjYkNsNF95SzR2VWFuMTUxLWRpOTR1WUthWGpReFJyTmJ5dX",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR2Etc2pJTnBDV2dLOWV3MEJ1aTdKN2tldVdyXzJUSmN2QnRialJnaHpvUDJuTUZfaXhVeW9rbkJWX0NlVXlLbEZQYVJjYkNsNF95SzR2VWFuMTUxLWRpOTR1WUthWGpReFJyTmJ5dXYxWWFjbVBWUm9UbHRZVlBUWXR6TjZwUnJ0eWx5UTg1dlB0TWNUeF9RUU9RaWRrckVWdUZOVUxLU0l4dV9kRWY1LWR2ZERHaFVmbnc4VFFCVW5uTjNqNTIxZDdVeHBpcDBKWjgtaXpsdG5nU1U1RmFTUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-19-012",
+    "date": "2026-08-19",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wealthfront Advisers LLC Takes Position in Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQc1pjcTgxUkU4dUk1cXhZaUItR05iOTNUMklSTWYyT0Y2TllrS1E4YzkwNHRuRmdUajFTdk1nWERFNGtGclBSQjVKMWp5Ukx2eG8yb2pDNlBCM1J5WTRQOV95SFJrX1EzMkJyNmdIUG",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc1pjcTgxUkU4dUk1cXhZaUItR05iOTNUMklSTWYyT0Y2TllrS1E4YzkwNHRuRmdUajFTdk1nWERFNGtGclBSQjVKMWp5Ukx2eG8yb2pDNlBCM1J5WTRQOV95SFJrX1EzMkJyNmdIUGJfVkk5QllUYTktZmE3Z3hla2V5UkVyNlpjTm5rdEVkelgzUTNsSUQ4SldmSDltcF9BT250a2dncGlaeTF2S3JIekROZmV1RF9xazByUTYzVnpPU0VyX3dXVm0yWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-19-013",
+    "date": "2026-08-19",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fidelity National Financial Inc. Acquires New Shares in Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS0lzS0I4cmxSbHM2THFKaUUtNFFOTDhBV1dIOFRNRWdvcjl2bjBoeFZvUDNVc2d2TlhKdk03cWdFSzRNV3ZpXzl3V0t4UFkyLW5LRVlDV25YNTNoQW9ydEJaNmo3eGp4c1ZTOWFZMF",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS0lzS0I4cmxSbHM2THFKaUUtNFFOTDhBV1dIOFRNRWdvcjl2bjBoeFZvUDNVc2d2TlhKdk03cWdFSzRNV3ZpXzl3V0t4UFkyLW5LRVlDV25YNTNoQW9ydEJaNmo3eGp4c1ZTOWFZMFowM1RtaU1HOFU3QUlTYjlvN3lrV24yR2VMTFV3dDhQVTA0RUJOQm01VF9SVnhNaUhXX3RyWGZoWmY3WnJqelJXb2FkLWdEeXlUWTBsOW4xclhsTGJOV1hoeGlQb3doUzhaeUs3NEFQT1pfemM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-19-014",
+    "date": "2026-08-19",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (NYSE: PH) exec sells shares, gifts 95 more - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQXzdzMVYtbjVIVmtyUzNSUGJ4NTlkQVo2dkhzVVFpNkpMSVJUYlFXVzBVaUJCUzZSRE9FajhVOEFISG53d3gtWWFlZjlZaVRRT3dPVlZ6XzVfbHdac3A4RjFhYkwxaVNLRjlmNUpjX3",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQXzdzMVYtbjVIVmtyUzNSUGJ4NTlkQVo2dkhzVVFpNkpMSVJUYlFXVzBVaUJCUzZSRE9FajhVOEFISG53d3gtWWFlZjlZaVRRT3dPVlZ6XzVfbHdac3A4RjFhYkwxaVNLRjlmNUpjX3BiUWN1elFEdXdBR1I1X01HZzhRbTFfcTJwdXdiMHBxbjdDNWZOanFHOUd5ZEx4ZGpORVAzOHdqZHZmbDEtOUZHZG93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-19-015",
+    "date": "2026-08-19",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "6,165 Shares in Parker-Hannifin Corporation $PH Bought by Meeder Advisory Services Inc. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTndHNG1DeTVYQm56NXRLWTNjdGIyYllaY0tyV3dpQnZSSWJvSHdacE8yQmN5WjBadUZ5VDM1UEMwQ05pdS1oNlR0UUc5clVCakl1dktFczB4OU94Nl9zbHhmMEJVemJWLXl5RGdzOG",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTndHNG1DeTVYQm56NXRLWTNjdGIyYllaY0tyV3dpQnZSSWJvSHdacE8yQmN5WjBadUZ5VDM1UEMwQ05pdS1oNlR0UUc5clVCakl1dktFczB4OU94Nl9zbHhmMEJVemJWLXl5RGdzOGF3alZnZU9jc3QxdGZUcVhuMFJWVXpiUUFNZXAzZk1LdGdpM3B3eGFwa1NYRlVhQmtxWUExUXRuWGFfYmdndnZsVE9NMFdZV3J2VUJxZkFLSXFDcXROU1Rwbk1HWE9DR2FpTE9OUkFaMlJTYjFoVWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-19-016",
+    "date": "2026-08-19",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Trust Co. of Vermont Invests $1.73 Million in Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQalVwUUlFbXduSUxWZElzUXBmdlNlQjl3TkJlMmFMMERZLXVpaFRLWm93ZUx3bGw0bzJUQW95NGtpQjVqVzJPaGI2d29Jc1Q5bkhrRFNZVWNYQzVZeWFCWks5YkhMNWZtZEZ5dGVzWl",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQalVwUUlFbXduSUxWZElzUXBmdlNlQjl3TkJlMmFMMERZLXVpaFRLWm93ZUx3bGw0bzJUQW95NGtpQjVqVzJPaGI2d29Jc1Q5bkhrRFNZVWNYQzVZeWFCWks5YkhMNWZtZEZ5dGVzWlBKLVFnc2RVNFN1c3AzVnV6c1VkbG1NTEZvMmd6cHpIUm5pTHRENUV6RTJubjUtZXZBWFM0X00wSENWb3c5X0ZvZ1Nxc01jSmJrd2VBMnd5UXVUYXd5b18wRW5JU1dyN1U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-19-017",
+    "date": "2026-08-19",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "15,110 Shares in Parker-Hannifin Corporation $PH Acquired by Wealthfront Advisers LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNamFqejR3UE5iUDlNY1R0alo0NWdURG5LeVlONDh2ZVhNQ19XTm5PQ1A2a0RHRzdqTl80eWJlV2tIY2dWSGFBZEdXYVVPZHh4cUFaTlZWdVpwM2gzU1h4Um1TVVF3VXpMREFyejAtWF",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNamFqejR3UE5iUDlNY1R0alo0NWdURG5LeVlONDh2ZVhNQ19XTm5PQ1A2a0RHRzdqTl80eWJlV2tIY2dWSGFBZEdXYVVPZHh4cUFaTlZWdVpwM2gzU1h4Um1TVVF3VXpMREFyejAtWFhoNUNzNXZYX1NUR0R4T0FRVEhjU2FkTGdyYW9qUWFreGdsWkZaMHZlc1dDM1BwUV84OXExMWoyQ0U1ckhBUFlDWHdHTlFiWHcxc0haWnRyU3M5T3NXWnp2ZFJfZmJvbk5wRVg3RGhPaHpndHoy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-19-018",
+    "date": "2026-08-19",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The caterpillar crawl - MV Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE01aUt4VG9xa0RrRllfRjQ3ZXBmRkwteTFwaGlocFVzWjgtMk12cG5lX2RwZVI5LTlLWFFEN242MXk2bC1VR0sxbU12VlBqUGxSdVlIcm5YT0hiX1hscm1WaUNfRFpxUHFJ?oc=5\" tar",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01aUt4VG9xa0RrRllfRjQ3ZXBmRkwteTFwaGlocFVzWjgtMk12cG5lX2RwZVI5LTlLWFFEN242MXk2bC1VR0sxbU12VlBqUGxSdVlIcm5YT0hiX1hscm1WaUNfRFpxUHFJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-19-019",
+    "date": "2026-08-19",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Caterpillar Stock A Power Play Or A Capacity Trap? - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEZ5VDhiS3U2MVAxdlJfMjlFZGIzRnl1bFpLakVvMjNfbzdZZVYzeEhwT2puOHdzdGR1QXlsTTZrWHdZd2xKT2hQQjVPNXJMSExlREp4NjhPQUR5M2F1LVhmYUFDVUk5QlhxcHpBbV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeEZ5VDhiS3U2MVAxdlJfMjlFZGIzRnl1bFpLakVvMjNfbzdZZVYzeEhwT2puOHdzdGR1QXlsTTZrWHdZd2xKT2hQQjVPNXJMSExlREp4NjhPQUR5M2F1LVhmYUFDVUk5QlhxcHpBbV85dW0xcEgwWDNpSmFLNDZUUEVfOG1HcVFlaEt1c2pubWh2SWU3T3JLODAyYm5WNFFqQkxXRU1xRmYxblc3em9fQlJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-19-020",
+    "date": "2026-08-19",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AFT Singles Crown Within Reach at Caterpillar Peoria TT - Roadracing World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1RuV0NhaFpGMnhHUVZsQ01obnJlakJ3bDhaUjV3bzFUUmVQRnNpWTNheU1ZQ01EbXFFTm4zY3J6ZVNnNUZ2REZzTmZVYlRBbm5RcGI4SDhNMzZndVBjcC1zRG9McVBSSUpWRU5GUU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1RuV0NhaFpGMnhHUVZsQ01obnJlakJ3bDhaUjV3bzFUUmVQRnNpWTNheU1ZQ01EbXFFTm4zY3J6ZVNnNUZ2REZzTmZVYlRBbm5RcGI4SDhNMzZndVBjcC1zRG9McVBSSUpWRU5GUUsyNExIRkRFWWVpbk5NdzBtVm1PLXlwLWQxTlQ3SGl3TGhSV2lEZGpqbQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-19-021",
+    "date": "2026-08-19",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Caterpillar expands workforce initiative to Arkansas with US$3M allocation - Canadian Mining Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDJnYW5PZzZNdEhQSVNYUjU1aTRpQlhNekkxRUl3aUJRUTdnZ2g2ZFBhRFIzTGh4Zll5eEVGTFl1a2laR2ppbjJ6MnBlYmJzc25xNk9SQVJVNC1mLUd3bUdlRWtvcm1PWWM4SzZHa3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDJnYW5PZzZNdEhQSVNYUjU1aTRpQlhNekkxRUl3aUJRUTdnZ2g2ZFBhRFIzTGh4Zll5eEVGTFl1a2laR2ppbjJ6MnBlYmJzc25xNk9SQVJVNC1mLUd3bUdlRWtvcm1PWWM4SzZHa3Zvc1VOa3JwZDFRcUs3M1ZSUUtvTk1xSklYcWZuMFN0WmhHaXpaQ0JtR055Q0hSeG1rV1JVeWZ2eDN5WEJ0NDk2aWRZVHNHXzR1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-19-022",
+    "date": "2026-08-19",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Caterpillar (CAT) Is Facing Fresh Pressure From AI Data Center Regulation - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxObFFXUFotQjRPWm1BMlBDNWZJelQ0bUtfM3RwQWRaWmZ1VkZ3bVZ1RnJSZTl3TWhXX3VEWElLY3ZjMC1SRlNqeTV3RmNPRTRSVndQb0kyb0QxaXh1cFlFbzd0c3RJVm5UT2s5T2RBOG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObFFXUFotQjRPWm1BMlBDNWZJelQ0bUtfM3RwQWRaWmZ1VkZ3bVZ1RnJSZTl3TWhXX3VEWElLY3ZjMC1SRlNqeTV3RmNPRTRSVndQb0kyb0QxaXh1cFlFbzd0c3RJVm5UT2s5T2RBOGlUY09rQ2MwLUthNHJldWNhQ3VjXzZyT2xoVGo1cUpfbjZXUm43cXRRMUR1cnpQSVUyYzBEdk5VTE5JQV9nN0s5aGRVeDJqeFpmdTQxa1diajU5S3pPN19vYk9xMzDSAdIBQVVfeXFMUHlqZ1NTLUZnbFdzVVNXMVZnZE9RN1pBZDNGUTZkb1c3U211VmNHRmtKZmxRdFZscFItZnhlVTJGOTFNdE5VU0xoUGV6X2FyVHpvV0p0OVFnT3BnM3RUc0Q2MXNPTy05aGVsMnFTLWZwNE5nODdmM1JPYVFpMURRNldFckk4N2g0RWRIR2ZuVE5FRzhTN1FsUlhPdk1zWmxNcjh5a1hMYnBnTDlNRzNuSWdMQnd5bjJTb1ZGTFNuMkhHYzJvNW0yRXc0eHI0Mk55QXFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-023",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Multi-Million-Dollar Kentucky mining equipment auction set for Sept. 15 - The Lane Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHpHNURURFJtOGEtSzAzUVhGZVZ6TEdwNVNEVkVPVVJZQjJuWDY1NlNBVUhlLXNXa0NuaGxUSjI4WU82WERCeEc2ZkRySVlEYVhBUVNUSzZnRVhUZUZVMW1mR2llZ0h4RTh2OWtBM3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHpHNURURFJtOGEtSzAzUVhGZVZ6TEdwNVNEVkVPVVJZQjJuWDY1NlNBVUhlLXNXa0NuaGxUSjI4WU82WERCeEc2ZkRySVlEYVhBUVNUSzZnRVhUZUZVMW1mR2llZ0h4RTh2OWtBM3UwajlNb203MzR1WXJJTUV3X1dsbEFUUFMtbE00VTVnaThPTjlfam1JRzU1QnRMUWxKUHhLNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-19-024",
+    "date": "2026-08-19",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Two Very Different Destinations Priced Into Caterpillar Stock - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNM1ZIcXlPaWpSYXhZNGlueEJTQTVBM0g2U2JjTkpmenBoZzRMOHFKN3BUNjFnQVNBMGIyRWlwTFVRRDNrWkdLUVVrbHJzUzZFelVFM2hGYVBKOXZaQ2J4TFkwZ0wwWWNjZXNYdWN3S3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM1ZIcXlPaWpSYXhZNGlueEJTQTVBM0g2U2JjTkpmenBoZzRMOHFKN3BUNjFnQVNBMGIyRWlwTFVRRDNrWkdLUVVrbHJzUzZFelVFM2hGYVBKOXZaQ2J4TFkwZ0wwWWNjZXNYdWN3S3Z3ZWpWeFhUUTBLQjFfaXVkdE5xMjFDOUNqQjgxNDNKaWs1N0ZLSWdOc3NGdVJ2OWVoQmo1WTVPWk1ydnN0TGlyMEY2dG8tcHVQWmtWbUtCTzc3LVFDTkJSbVFuVGJtMGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-19-025",
+    "date": "2026-08-19",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar's ultraclass 995 wheel loader delivered by Barloworld to Barrick's Luwana copper mine - International Mining",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV3kyT2VlNTdVUEVmNWQ5TnVER0VleHhwVWsydkFyM3N2cnpGRm14bFZOTmVVb2xHMkwwZzRncHhfVGFQSWVVWEQ3V2Y3N0RfZDhRZW5PQ0l1QnZnZFNITWpWZnY5emJ0R19yQ1MzcF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV3kyT2VlNTdVUEVmNWQ5TnVER0VleHhwVWsydkFyM3N2cnpGRm14bFZOTmVVb2xHMkwwZzRncHhfVGFQSWVVWEQ3V2Y3N0RfZDhRZW5PQ0l1QnZnZFNITWpWZnY5emJ0R19yQ1MzcFdfNWRjWWdlT2pfak5FcEFCREtnZGVCSmozbTBNRGpPRmk4UkJTVC1FVnM4Y1dTVmNEa2NIajdTMHB2S2hWenR0RGZudFFmb1A1VWtIOE9JUklSb3FVRzF6Nw?oc=5",
         "type": "rss"
       }
     ]
@@ -799,6 +1330,228 @@
     ]
   },
   {
+    "id": "unknown-2026-08-18-034",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The most valuable building metrics never appear on the utility bill",
+    "summary": "<p>Ask many building owners which number they watch most closely, and they’ll point to the utility bill. That focus is understandable: buildings account for around 30% of global energy demand. The bil",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/buildings/2026/08/18/the-most-valuable-building-metrics-never-appear-on-the-utility-bill/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-18-035",
+    "date": "2026-08-18",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "positive",
+    "title": "Mitsubishi Electric Trane expands US HVAC portfolio with low-GWP systems - refindustry.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOeEpLLVhLalFwMDEtWllFX0VxREdBRU1GVndhV0FaQVRUS1ExYTlnS3lnZnVLSG8zelNIbzl3Vy1IT21XQTZtVlRkSUhKMTVvQTFrdXVGX2NRNXdqazY3b2RaVVIzczNpYzhJN3pBaV",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeEpLLVhLalFwMDEtWllFX0VxREdBRU1GVndhV0FaQVRUS1ExYTlnS3lnZnVLSG8zelNIbzl3Vy1IT21XQTZtVlRkSUhKMTVvQTFrdXVGX2NRNXdqazY3b2RaVVIzczNpYzhJN3pBaVJ3SURtZEpkaXRTbWkzLXluendvbmtFQzJ5TjNFY0ZUNVZxSkRsU0Nnc2l3MzRfRE9URVBLRA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-18-036",
+    "date": "2026-08-18",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "14,499 Shares in Illinois Tool Works Inc. $ITW Acquired by Occidental Asset Management LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbGx6VkE0YnJONUxPaEtJWFlyMmJ2ZUYtTW5Yem5UTWR0V2hTbE9oNEZDYzRVWVFQV2ZWNDZjS1V6MnhZWFJESXRsVzRqSHJoXzdYZFgzM2VMMG9hZmFHeVhSaldEZzJTOGExU25iZ0",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbGx6VkE0YnJONUxPaEtJWFlyMmJ2ZUYtTW5Yem5UTWR0V2hTbE9oNEZDYzRVWVFQV2ZWNDZjS1V6MnhZWFJESXRsVzRqSHJoXzdYZFgzM2VMMG9hZmFHeVhSaldEZzJTOGExU25iZ0FMZlBPdHVNZ0hlWGFxOWdGWjQ4TEZvaFFrLTdUZzdsNDJpcnNOazVxR3NVUVo0ckVWaWZtTEI3TFpiVUY0RHVyQ3g3UzBUQkgwQ3lSSVNKRko0Nzhxa3F0cklCaUEzTnJIb1VXZHZGMUFhUWFnOGw0dWR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-18-037",
+    "date": "2026-08-18",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trust Co. of Vermont Buys Shares of 39,339 Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdFZ2UHpZUU1HUTVnaTBrMDdoXzhjSDQxeDgxMWVjM3dxUGdxaHg3eld5R1ZIR1lQd1JHQU1iVTVuMk9kUHdfRlliS0Jnd1FwcHM1YnY4MDZGdUE1M0FDN1FxVVhpVmplQS00TWFUZl",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdFZ2UHpZUU1HUTVnaTBrMDdoXzhjSDQxeDgxMWVjM3dxUGdxaHg3eld5R1ZIR1lQd1JHQU1iVTVuMk9kUHdfRlliS0Jnd1FwcHM1YnY4MDZGdUE1M0FDN1FxVVhpVmplQS00TWFUZldYQUtxZDdTLXFiOHkzeG1MVnQ1aGJJeTdtRWdoSWk1ZEdCNG5sUnpYTlFIWXRyOGt0UnlWTGJXTDFaT1V1bzlld3drVUp1YUJCbnlILWh2ZmFxNXc5MFVvUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-18-038",
+    "date": "2026-08-18",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "161,171 Shares in Illinois Tool Works Inc. $ITW Purchased by Grandfield & Dodd LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaDZfMDRyVEtXWm9vNVVYeGxvVDBTejV5Qk04clhRRW5kNjdJa3NfemF4Y1IxbDVySGItTGlwcnhIRW9LclVnNnZDQThvRUpkVTVFY1VXeHhsSWRPMnJLd2MxX1JKOTJwc1ZXSHliSF",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaDZfMDRyVEtXWm9vNVVYeGxvVDBTejV5Qk04clhRRW5kNjdJa3NfemF4Y1IxbDVySGItTGlwcnhIRW9LclVnNnZDQThvRUpkVTVFY1VXeHhsSWRPMnJLd2MxX1JKOTJwc1ZXSHliSFZhN1BfNW44U2FTVER5RUxxVnd2U09BaEJPaWVqWHk4NDliWnJtZTFiVkFyeS1HUVpEdlJBZ21lR2ZXSmFKR2hxZGlEWEp4MmljRDh4amtaUHF6cHo5d190aDgxbXFraXVJTGV3aw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-18-039",
+    "date": "2026-08-18",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "BlackRock Inc. Takes $6.30 Billion Position in Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxORnFRYjBTcU1FamtNOVRncWIwVktVOF9aOUtwbmpiVFJlbHNpNjRNV2Rwdk1OS2RyRTBqc3h0N0V0MkRvRUJnSzhxSFg4bHo1dGIyQktyUVFZOHNHaU9rTU8yV3dud1hoWV9lTmYyaF",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORnFRYjBTcU1FamtNOVRncWIwVktVOF9aOUtwbmpiVFJlbHNpNjRNV2Rwdk1OS2RyRTBqc3h0N0V0MkRvRUJnSzhxSFg4bHo1dGIyQktyUVFZOHNHaU9rTU8yV3dud1hoWV9lTmYyaFkyVW14ZkVjMTFpNHdMaUNscDBxVVhxdWk0UHhIQkJjVkJ2dFV1ZE1pVHJyVjVhUFlEMGZoNGtoQ0dGVXUtMHQzNXVTcnR6UDJNbTBRYlVkRS1LR1NCenFwc2MyRnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-18-040",
+    "date": "2026-08-18",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (NYSE:ITW) Stock Sold Rep. Richard McCormick - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNZEpDanNTMkRWYU4wSnItcjZhbWdDVGNGYnZZXzlxT1JiZEhSOWlkdHE4VzVUNlhmVEVJY0tfM1U3MmVxTnVGaE9xZWhmRF8zYnM0WExHSGhaSnBoNXFma3lJTDZ4M1lyTEh2TW5XNj",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZEpDanNTMkRWYU4wSnItcjZhbWdDVGNGYnZZXzlxT1JiZEhSOWlkdHE4VzVUNlhmVEVJY0tfM1U3MmVxTnVGaE9xZWhmRF8zYnM0WExHSGhaSnBoNXFma3lJTDZ4M1lyTEh2TW5XNjdRWUxiY200Z1NFZEJHbWFUdUVmLTRJb2FGeEpScDlpcS1vTVNEcWEtY3V0MU91eUtKMXhvSmctSXYyT19UWExTTW1PdDU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-18-041",
+    "date": "2026-08-18",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Inc. (NYSE:ITW) Given Consensus Rating of \"Reduce\" by Brokerages - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPRkdxOVkweV93VUwxeUY0aFBXWm1EVV9wcmpKcFdyTk5aZTd5bWVTenN5YUYtSmhIQmc3ZWJUU0xHV19XRDlkdFQycEZwN0RHbHluQXJQNWROdmhxOXpvQnVCbGdOWW15aV9Ma2hjbW",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRkdxOVkweV93VUwxeUY0aFBXWm1EVV9wcmpKcFdyTk5aZTd5bWVTenN5YUYtSmhIQmc3ZWJUU0xHV19XRDlkdFQycEZwN0RHbHluQXJQNWROdmhxOXpvQnVCbGdOWW15aV9Ma2hjbW1XLWRha3dJOEQ4NllBNXl0dUhPekQxZE5sZWQ4bk1hOEtsRHFBU1hlX1NXaGZMNTUtbFc0TlhwR1VTZWYyR3JHNUUzOGVaMTRoWXRZX2JEZEZQdmoyRlQ2X2t6NzU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-18-042",
+    "date": "2026-08-18",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Citizens Financial Group Inc. RI Invests $2.21 Million in Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTW5RUUZrYmQ4dFJ5ZGRfdTlzRVp5MWxlc3F4Zm9hVmhiYjExZGk2YUdBcEFJSTdjNG5HOVA2NkVrdlRSRkQyN2hnNjFEMGFvLXd4UW5jZ1BKa3k5YTNHVkg1S0pwQVQxRmFQc0Yzan",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTW5RUUZrYmQ4dFJ5ZGRfdTlzRVp5MWxlc3F4Zm9hVmhiYjExZGk2YUdBcEFJSTdjNG5HOVA2NkVrdlRSRkQyN2hnNjFEMGFvLXd4UW5jZ1BKa3k5YTNHVkg1S0pwQVQxRmFQc0YzanMzanh5UFhIc1Rub3JZWW15d19KZlVPYTBiVFlBcGRNTmlScXlxclFleDNfSzZXY1lvZ3BqT2ZGLTg4NXZNcVA3QWZvczNqOGVPbHgxcjFJaV9vTHFTUjdVT1U1ZzN6YTk3c05fdTJBTllYNnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-18-043",
+    "date": "2026-08-18",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Here's How Much a $1000 Investment in Parker-Hannifin Made 10 Years Ago Would Be Worth Today - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFJFYUhfSVZTeWZaOHMwb1ZkQVF3WEJidnhCbkZYdE1mUTVGNXVNQTdoVURadm04eWpKSVQ2dk1HdnkwbG5rMENRYm1fTm5PcGJQYnM3RlRtclBCczVCWjJ6RTFsbnhBU01XcW1vSV",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFJFYUhfSVZTeWZaOHMwb1ZkQVF3WEJidnhCbkZYdE1mUTVGNXVNQTdoVURadm04eWpKSVQ2dk1HdnkwbG5rMENRYm1fTm5PcGJQYnM3RlRtclBCczVCWjJ6RTFsbnhBU01XcW1vSVZUOHFsODgyeW9fMmszWlBRdlBaaVYxbW1kX1BPTkY1LXVqbW5ENlRkd0RseHBjNjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-18-044",
+    "date": "2026-08-18",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar announces $3 million workforce initiative - talkbusiness.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPMldDR3ptUlJxNEU0TWIycFdpVjZWdVNLMjh1SE4yVWUwdTBTdGI2Z1B3Sk5IU01QQTdhQ3hSdmhRVTItSW5rMGI0X2Rob2Mxd1g4X0pLS0ZNR0dPbzQ0dmNxQnhDVjA1OWIxc2NpV2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMldDR3ptUlJxNEU0TWIycFdpVjZWdVNLMjh1SE4yVWUwdTBTdGI2Z1B3Sk5IU01QQTdhQ3hSdmhRVTItSW5rMGI0X2Rob2Mxd1g4X0pLS0ZNR0dPbzQ0dmNxQnhDVjA1OWIxc2NpV2JJODZBOWJzSzQ0THZsWFdnWm10R3YtdkF3RmU0ZUhyOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "parker_hannifin-2026-08-17-001",
     "date": "2026-08-17",
     "companies": [
@@ -1394,6 +2147,46 @@
     ]
   },
   {
+    "id": "delta-2026-08-17-030",
+    "date": "2026-08-17",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Building brand value on a solid foundation - Delta Electronics Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aTU82U2ZoYVNteEZCNXVEdEh6Q1l1NktaSk1CMHRfdERmYllJNW5lM2FxNlVsMGRFekkzemsxY2twejRSc3lTczNYVlBZbVY3VDB1MTJIZnRBUlFEZFhlc2tn?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aTU82U2ZoYVNteEZCNXVEdEh6Q1l1NktaSk1CMHRfdERmYllJNW5lM2FxNlVsMGRFekkzemsxY2twejRSc3lTczNYVlBZbVY3VDB1MTJIZnRBUlFEZFhlc2tn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-08-17-031",
+    "date": "2026-08-17",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta wins “20-year Industry Achievements Award of the New Century” - Delta Electronics Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfc19SaXJXcmt6MXRaa0V6R3ZrYlpoRUNsYy1KVHk5TFVvNnU1Z0pRWDZZWEtKZDA3UTk3SmN3c0pKMHo0d01KNHRUaUNrS3JaWUJKYmZFOHdvT1JjSWlfd3ZqNA?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfc19SaXJXcmt6MXRaa0V6R3ZrYlpoRUNsYy1KVHk5TFVvNnU1Z0pRWDZZWEtKZDA3UTk3SmN3c0pKMHo0d01KNHRUaUNrS3JaWUJKYmZFOHdvT1JjSWlfd3ZqNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mitsubishi_electric-2026-08-16-001",
     "date": "2026-08-16",
     "companies": [
@@ -1635,6 +2428,26 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwNEdoQmpYRURRX3VwSU9Zd3BSa1V1SjAxaG9TYTJfWFptXzFqWGNMbjlOSEsxeFQ4UXlBSUtEN0M2REE4elZnUHNDQU1DRGxJcUd3ZWhfSmRteEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-16-013",
+    "date": "2026-08-16",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Clearstead Trust LLC Makes New $1.36 Million Investment in Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb3h4NTdMbTAzWG9TSlcwbmZlMnlwVmdjd0pGeVViZGl3VVM2OVpIbWlNWGJVT01FRXVoZHhKX24wUHlaYTdGcjV0S2FVY2lhY2hyNXhVNWJ3ODFQZDcwSlNKZVNrN1VtWWlRbmNXc1",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb3h4NTdMbTAzWG9TSlcwbmZlMnlwVmdjd0pGeVViZGl3VVM2OVpIbWlNWGJVT01FRXVoZHhKX24wUHlaYTdGcjV0S2FVY2lhY2hyNXhVNWJ3ODFQZDcwSlNKZVNrN1VtWWlRbmNXc1hjaENGLWY1RklFcmVsN0RlMWRvRjVGQXlqa3pSUDBRR0YwYVdiVGhrbDRkNmRMQlpDWHlKUHFpZEo1eHE0ZXNqVm5FdW1IUGtrc1laLVphS1JwRTlqMmxDUHBFc0N5VkZvZTBYd00tZFdBWHdsMlE?oc=5",
         "type": "rss"
       }
     ]
@@ -2656,6 +3469,25 @@
       {
         "name": "parker_hannifin",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTnZnX0ZYX2F3X19JU3BEUkNscDNBMl90VFlyRl9vaVpycldURUlUZ1lPTG1wTHNaTENscU1wSXNnYTRXbGxMV1NKamNwWThLX0FWaGF4RjhnTWNkUWdBaXpMM2JKaTlGZGEwbDNmaEFIY1l0NHR6ZDV1bzJaNVhjNnFMTWp1Q0NKUWNSaXREeUhUR0NFUFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-031",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "cnc_technology",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "CNC Machine Tools Market | Global Industry Analysis 2035 - Global Growth Insights",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxON24zeElDS1IzR3dBVlJvRUwzUExvbWh5aWd0Unh4R0NPZDdmMVdPRmNJOTd4N0FQUlBhWmJlQzM3X3Y3c2tXMC01WXlNSzYta2RaUU1Sc3BlTW5LdVFuU2dmYTI2WHZYSnQzeENmcW",
+    "sources": [
+      {
+        "name": "google_news_machine_tools",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON24zeElDS1IzR3dBVlJvRUwzUExvbWh5aWd0Unh4R0NPZDdmMVdPRmNJOTd4N0FQUlBhWmJlQzM3X3Y3c2tXMC01WXlNSzYta2RaUU1Sc3BlTW5LdVFuU2dmYTI2WHZYSnQzeENmcWtPX3c5LTctQlJieVN6d0ZIWDYyS0RVU0tGRGww?oc=5",
         "type": "rss"
       }
     ]
