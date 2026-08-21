@@ -1,0 +1,228 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T08:28:49.646381Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-08-21-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Mitsubishi Electric to Acquire U.S. Software Firm for Record 220 Billion Yen - News On Japan",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiWXg1M2prQjFlOFFrM09zeGp6TTlPT0VmOVRhRjZiRGJiX2JiX1ZLQTJSUU4xR3otTWdSTjJ3WmNwbVBLcHZFMFdBZ1RjQ211OXJGdg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "airtac-2026-08-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AirTAC International Group: Global pneumatic automation leader with strong growth, high margins, and ambitious expansion plans - TradingView",
+      "companies": [
+        "airtac"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOSWF3ZlA3MklKeVhNekluM2lqWlBrUGJkcUhfRjlSaFB2Z1dWR0NrMFlLWHUteG5COFAtMGRHdFN4MG1kTWtVY3RZX0tHb1NqTGdqOTBzeDJKV21HRWc2S05NVG43M0ZqSjN0aDMwVmhBVlg0OWo4Wk00a2hJSVJhNjRWdmYxbkxTZzJGOFowWFFMeDdJMG1GWndQcW0ycHFYVVR3V2UxdlFvWDg5MVBHUTBwMG1xYUNERkdVRlBvZ2x2QVZ1VlhMXzRJajR6ZFFwX0JmWXM1enVNVnV1c21vdDVuUlFoQzhtYThod1l1YjhMQ29LdVZQMDY2Z1JubWVULXdkU2J4NmhISVpqZG5FX0djWnh2US02bUdkcWROUXBwYkl6NmdIY1dtdWVDXzQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-08-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin Maintains Quarterly Dividend at $2/Share; Payable Sept. 11 to Holders as of Aug. 31 - marketscreener.com",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVFFNZFIzRFNyUkNRMkdPNFF4c1k1TE1iaUZkMVhpbU9TTTJMS2VuT1paM1hyNHJGZWpVcGh3NjhqZjQ4LXg5VnUzNExGazcybFQweU52Qm5XSjhwNUsxZUV2aU1iLUdyMERlenNXX2tfVHhMVnBRbG5MTE8zMENKWUJNMkFYTTJKejNhTTdQaThsSDBhQWJsWUJ0bnlfVm50cEstMWZYcGJzdUdsakZhc0RNMDJSZ0M2YnBlb1czVFc2OW5XTlJHWnE0cVpCcW1XUE5LLTBOeHNVUE5rMXlfa3J3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "parker_hannifin-2026-08-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Parker-Hannifin Corporation $PH Shares Bought by Allworth Financial LP - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUdiQVVlM28zT1l4UWdySmtQdEZpcWdKODZQa21aT3pmNUY3YTItMGtsTjJwaGZCNHk3SzFpUGdfQWlHNFlxZ0FDRENjbTVIUThSMGh0TEJfUWRCd1dVUHpHRHJQNWlPNkN3clhGcE44cWZZNGRNdi1zRWRPcHpBSnk1SklNTmRidUhHRkZoamxNMGRlRzZvVnJKcGw3RWh6VXpFYW1vUFBnZVBwQUdkcmo2RE0zRmItenAyOXJMRHNMVHNsRWF6dkVn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-08-21-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of New York Mellon Corp Acquires New Shares in Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUlcwOWhJT1FMZHFWdTY2U1NzZU5lYl9lMmV1QmNsLWJDVC1jQVNEVkJ1cEt2MkpWaW9HQ0VMZm9rXzdnaXp1SXRTaWUzS1UxMHdjcjM0ckdSR19PNFkwT1FBYnB6SVFJejJkcGI1SWZHa0tZdTdxYUVodG54a0pjTVJwMTNQaU92U3l2bTFKY0xQeXBIazFoRGk4R2tBWFowU0hwRGNsRGxyVVVzQWt1OWg1X3Vud1lGYnd2SFlYamZmRlJLRU95TzlEcDA2N1RweFh3Z25KcDVSbWs?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "airtac",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 395,
+    "dup_title": 213,
+    "too_old": 140,
+    "gate1_blocked": 2,
+    "gate2_blocked": 12,
+    "passed": 28,
+    "pass_rate": "15.4%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "Mitsubishi Electric to Acquire PCI Energy Solutions for $1.4 Billion - International Business Times",
+      "Mitsubishi Electric Agrees To Acquire PCI Energy For $1.4B - Law360",
+      "PCI Energy Solutions to Join Mitsubishi Electric, Reinforcing Long-Term Commitment to Customers, Emp",
+      "Mitsubishi Electric to Acquire PCI Energy Solutions - nippon.com",
+      "Mitsubishi Electric Corporation - Agree To Wholly Acquire Pci Energy Solutions - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Parker、AirTAC International、Mitsubishi Electric相關動態：「Mitsubishi Electric to Acquire U.S. Software Firm for Rec...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Mitsubishi Electric to Acquire U.S. Software Firm for Record 220 Billion Yen ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "AirTAC International Group: Global pneumatic automation leader with strong gr...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

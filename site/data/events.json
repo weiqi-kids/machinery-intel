@@ -1,5 +1,108 @@
 [
   {
+    "id": "airtac-2026-08-21-001",
+    "date": "2026-08-21",
+    "companies": [
+      "airtac"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AirTAC International Group: Global pneumatic automation leader with strong growth, high margins, and ambitious expansion plans - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxOSWF3ZlA3MklKeVhNekluM2lqWlBrUGJkcUhfRjlSaFB2Z1dWR0NrMFlLWHUteG5COFAtMGRHdFN4MG1kTWtVY3RZX0tHb1NqTGdqOTBzeDJKV21HRWc2S05NVG43M0ZqSjN0aDMwVm",
+    "sources": [
+      {
+        "name": "airtac",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOSWF3ZlA3MklKeVhNekluM2lqWlBrUGJkcUhfRjlSaFB2Z1dWR0NrMFlLWHUteG5COFAtMGRHdFN4MG1kTWtVY3RZX0tHb1NqTGdqOTBzeDJKV21HRWc2S05NVG43M0ZqSjN0aDMwVmhBVlg0OWo4Wk00a2hJSVJhNjRWdmYxbkxTZzJGOFowWFFMeDdJMG1GWndQcW0ycHFYVVR3V2UxdlFvWDg5MVBHUTBwMG1xYUNERkdVRlBvZ2x2QVZ1VlhMXzRJajR6ZFFwX0JmWXM1enVNVnV1c21vdDVuUlFoQzhtYThod1l1YjhMQ29LdVZQMDY2Z1JubWVULXdkU2J4NmhISVpqZG5FX0djWnh2US02bUdkcWROUXBwYkl6NmdIY1dtdWVDXzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-21-002",
+    "date": "2026-08-21",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Mitsubishi Electric to Acquire U.S. Software Firm for Record 220 Billion Yen - News On Japan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiWXg1M2prQjFlOFFrM09zeGp6TTlPT0VmOVRhRjZiRGJiX2JiX1ZLQTJSUU4xR3otTWdSTjJ3WmNwbVBLcHZFMFdBZ1RjQ211OXJGdg?oc=5\" target=\"_blank\">Mitsubishi El",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiWXg1M2prQjFlOFFrM09zeGp6TTlPT0VmOVRhRjZiRGJiX2JiX1ZLQTJSUU4xR3otTWdSTjJ3WmNwbVBLcHZFMFdBZ1RjQ211OXJGdg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-21-003",
+    "date": "2026-08-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Shares Bought by Allworth Financial LP - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUdiQVVlM28zT1l4UWdySmtQdEZpcWdKODZQa21aT3pmNUY3YTItMGtsTjJwaGZCNHk3SzFpUGdfQWlHNFlxZ0FDRENjbTVIUThSMGh0TEJfUWRCd1dVUHpHRHJQNWlPNkN3clhGcE",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUdiQVVlM28zT1l4UWdySmtQdEZpcWdKODZQa21aT3pmNUY3YTItMGtsTjJwaGZCNHk3SzFpUGdfQWlHNFlxZ0FDRENjbTVIUThSMGh0TEJfUWRCd1dVUHpHRHJQNWlPNkN3clhGcE44cWZZNGRNdi1zRWRPcHpBSnk1SklNTmRidUhHRkZoamxNMGRlRzZvVnJKcGw3RWh6VXpFYW1vUFBnZVBwQUdkcmo2RE0zRmItenAyOXJMRHNMVHNsRWF6dkVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-21-004",
+    "date": "2026-08-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Maintains Quarterly Dividend at $2/Share; Payable Sept. 11 to Holders as of Aug. 31 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVFFNZFIzRFNyUkNRMkdPNFF4c1k1TE1iaUZkMVhpbU9TTTJMS2VuT1paM1hyNHJGZWpVcGh3NjhqZjQ4LXg5VnUzNExGazcybFQweU52Qm5XSjhwNUsxZUV2aU1iLUdyMERlenNXX2",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVFFNZFIzRFNyUkNRMkdPNFF4c1k1TE1iaUZkMVhpbU9TTTJMS2VuT1paM1hyNHJGZWpVcGh3NjhqZjQ4LXg5VnUzNExGazcybFQweU52Qm5XSjhwNUsxZUV2aU1iLUdyMERlenNXX2tfVHhMVnBRbG5MTE8zMENKWUJNMkFYTTJKejNhTTdQaThsSDBhQWJsWUJ0bnlfVm50cEstMWZYcGJzdUdsakZhc0RNMDJSZ0M2YnBlb1czVFc2OW5XTlJHWnE0cVpCcW1XUE5LLTBOeHNVUE5rMXlfa3J3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-21-005",
+    "date": "2026-08-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bank of New York Mellon Corp Acquires New Shares in Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUlcwOWhJT1FMZHFWdTY2U1NzZU5lYl9lMmV1QmNsLWJDVC1jQVNEVkJ1cEt2MkpWaW9HQ0VMZm9rXzdnaXp1SXRTaWUzS1UxMHdjcjM0ckdSR19PNFkwT1FBYnB6SVFJejJkcGI1SW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUlcwOWhJT1FMZHFWdTY2U1NzZU5lYl9lMmV1QmNsLWJDVC1jQVNEVkJ1cEt2MkpWaW9HQ0VMZm9rXzdnaXp1SXRTaWUzS1UxMHdjcjM0ckdSR19PNFkwT1FBYnB6SVFJejJkcGI1SWZHa0tZdTdxYUVodG54a0pjTVJwMTNQaU92U3l2bTFKY0xQeXBIazFoRGk4R2tBWFowU0hwRGNsRGxyVVVzQWt1OWg1X3Vud1lGYnd2SFlYamZmRlJLRU95TzlEcDA2N1RweFh3Z25KcDVSbWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-08-20-001",
     "date": "2026-08-20",
     "companies": [
@@ -160,6 +263,442 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3ExXzFqRENkZlZ5RzRWZk1QLXpOTkg1d3hmTlBNeGpwTFM2dVFPLUVrbnNhMkZPTWZ2YWRuUzhlVnNCSElvbmVoMUdMTWpUcmRqQ213c0Vyd09MYzlsaVJjdVpuVW1HRXpLeFpKQlpySTdKcHJ1ZU85THN5TkEzSVlzeFc0TVJYc1l0SUhVeXg0TGpTZVdJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-20-009",
+    "date": "2026-08-20",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Parker Declares Quarterly Cash Dividend",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "delta-2026-08-20-010",
+    "date": "2026-08-20",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Delta debuts AI dual-arm cobot solution - Taipei Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE42N3J0MXBQOUpmQ2dYUnNhTmJHRmRWcmsyb1pwOTZrRjRueHhtQXcweDV3WHZyVE51djdZSmxmU2x2cWlyZ01DajlseUFTQ1NiUTVybExDeFJYc085SnlwVmhGZTk4RlhNSm9WNHMwRF",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42N3J0MXBQOUpmQ2dYUnNhTmJHRmRWcmsyb1pwOTZrRjRueHhtQXcweDV3WHZyVE51djdZSmxmU2x2cWlyZ01DajlseUFTQ1NiUTVybExDeFJYc085SnlwVmhGZTk4RlhNSm9WNHMwRFlzVUxkbFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-20-011",
+    "date": "2026-08-20",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PCI Energy Solutions to be acquired by Mitsubishi Electric Corporation - Norman Transcript",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZGo5ZDZDM21Fc21QNTY3UUpJMzRPelpMNUwzT0pyT2FkR25zT3J1bzhRRjVaUFJ3RkRsUlM4R2NWdFZ2UHkwMGhMUjBRRUFTR0ZYRWVCcVdRdUVGNEJ4cm5GZ2VJUFRlZlZVMzd0Vm",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZGo5ZDZDM21Fc21QNTY3UUpJMzRPelpMNUwzT0pyT2FkR25zT3J1bzhRRjVaUFJ3RkRsUlM4R2NWdFZ2UHkwMGhMUjBRRUFTR0ZYRWVCcVdRdUVGNEJ4cm5GZ2VJUFRlZlZVMzd0VmZUaDc2cHU0ZTB4Ymw0MEZGVXBsejZ2a2ZKLUR3cFU5dXlvOC1lY2ZwRjJ5SzBJQ1ZyQzhHUWliSklweUliR254Y0pmN2ZKQ3VlbzM0Q25UTVBvWmNDTDdJal9TSVpBY0JKbzFKNTRNQkpMdnVnYVNBUkVDcjY4QVdhU3J1Zkhodw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-20-012",
+    "date": "2026-08-20",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric to acquire US energy software company for $1.4bn - Nikkei Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQX0pyR2UxUzVPelJqMU1VRTVlMHEzM3lwM1k5dVRaWVkzYWVKbTU1Z2xGYmJHMks2UDZhVWlwOW9BUERPQ3lvWmZwd3lFdnJvbVc0eUFUWjRYYWpRbEZ5cDVXcTRhRFVNOGVKdEplT1",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX0pyR2UxUzVPelJqMU1VRTVlMHEzM3lwM1k5dVRaWVkzYWVKbTU1Z2xGYmJHMks2UDZhVWlwOW9BUERPQ3lvWmZwd3lFdnJvbVc0eUFUWjRYYWpRbEZ5cDVXcTRhRFVNOGVKdEplT1RITEJ6V0loWnNfcUxSdV9xT2ZWcFB1Tl92WGlXbEZmakx5ekR3WWcwQ1cxZ09jQ29Sbzk5SUVoVVRwbi1EZGFYc24yR1BGQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-20-013",
+    "date": "2026-08-20",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Agrees to Wholly Acquire PCI Energy Solutions - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMVViZURVdkxMXzg5UXNCRURtTkJpS2p0blFCSmNkcWpZX1lwdW1BY1hlM19NcTVlZjFmZjRwd3NPZkd2a3I5ZmtHN2ZEVHZUdFNnNEZnNmE4SW1RbVhzelhva1c4TUU3SGpCamdCQ1",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMVViZURVdkxMXzg5UXNCRURtTkJpS2p0blFCSmNkcWpZX1lwdW1BY1hlM19NcTVlZjFmZjRwd3NPZkd2a3I5ZmtHN2ZEVHZUdFNnNEZnNmE4SW1RbVhzelhva1c4TUU3SGpCamdCQ1BMd0lGT2Q1SlJkMkI0MUxHdlU4LXMwNlFEdmdKOVdQMTFCSVZhdG5zckNCbXhVUkk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-20-014",
+    "date": "2026-08-20",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric to buy US energy software provider PCI for USD 1.4bn - Renewables Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSUNNdzhaVW5KVXczT3BHQWllMFN2eXBWQjJabXlrdEpwaGlMMFJsSjlFVEx5bWtQMGl1eTF5bDhjVG1PNDJZMjVsVFl4aGhQN0FnTnZjMnozS2pWT3lHWkhWZ1hsc3liMlQxM3dxem",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSUNNdzhaVW5KVXczT3BHQWllMFN2eXBWQjJabXlrdEpwaGlMMFJsSjlFVEx5bWtQMGl1eTF5bDhjVG1PNDJZMjVsVFl4aGhQN0FnTnZjMnozS2pWT3lHWkhWZ1hsc3liMlQxM3dxemRjaXAtUWpwTUlsUHE0SnYzQ21rSEo2Rnc1Uk1PLWU3Z3N0QUthWDRVdy1kRWo1elZndnhmejlRZFpid0pESmpHNmhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-20-015",
+    "date": "2026-08-20",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric to Acquire PCI Energy in $1.4B Bet on American Power Grids - USA Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQT012RGs4a0czTW5GSzdCdmtYX1hrbzc4aU5aZkM2dnpKMlNObzZEWU5CQ1oxazctVUxyLWJwUjlNeTVWWFM2c3hxRldxSFQ3V3VTMFF5Mkt5bFduOXVHNGVRWFR0aVVmX2hIZmQtNS",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT012RGs4a0czTW5GSzdCdmtYX1hrbzc4aU5aZkM2dnpKMlNObzZEWU5CQ1oxazctVUxyLWJwUjlNeTVWWFM2c3hxRldxSFQ3V3VTMFF5Mkt5bFduOXVHNGVRWFR0aVVmX2hIZmQtNS1IbG9oWHpyX0xQRVBjeUJjbmpzeUNXbkxYWngwMHVaekNhTDE3ZTFRLU1lV1ZVUEZ2WGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-20-016",
+    "date": "2026-08-20",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "positive",
+    "title": "Mitsubishi Electric targets global smart energy growth with PCI deal - Nation Thailand",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyZXc2UXh2R2t1d3RKb1VTdEZIUmV2MnJZWjlBMEQwRkhsV2RaU2oxTVVtUXBiYUtIWnNmX2NMOVN1Y1pGMVFYd253QmhQVmlsNk1ZekxvcDVycllSRzZr?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyZXc2UXh2R2t1d3RKb1VTdEZIUmV2MnJZWjlBMEQwRkhsV2RaU2oxTVVtUXBiYUtIWnNmX2NMOVN1Y1pGMVFYd253QmhQVmlsNk1ZekxvcDVycllSRzZr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-20-017",
+    "date": "2026-08-20",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric to buy energy software firm PCI for $1.4B - Dealroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOREtwNElnajlWSUcxaDl4UG10UjBlOXkzZHNTNTZCRTlsRWZkZlZMN01xUkR1Z1dwZVlrS3lscVJWSWpwVGlsdlE4ZjBsbVhmY3RJZHpWUU92akJKRlRIazBzTXMwNERNVDhrNWhVMn",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOREtwNElnajlWSUcxaDl4UG10UjBlOXkzZHNTNTZCRTlsRWZkZlZMN01xUkR1Z1dwZVlrS3lscVJWSWpwVGlsdlE4ZjBsbVhmY3RJZHpWUU92akJKRlRIazBzTXMwNERNVDhrNWhVMnJuVDc4Um9ObjRXRHZtZDVrQWNUMkVib0ZFOENoNTFsQlJ1eHdraUx5MTdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-20-018",
+    "date": "2026-08-20",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Japan's Mitsubishi Electric to buy US PCI Energy Solutions for $1.4bn - MLex",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRS0poeFNXT0s0SGZldTA2RDFEOWJQLVN0ZkZENFFZZkxBQ0dLbDlOZEktUTRzWnJPZ3Ridjk0OGZYdEdoSFNTVk1obUNuVnBmQ3hsamVhTFQ4QdIBWkFVX3lxTFBRS0poeFNXT0s0SG",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRS0poeFNXT0s0SGZldTA2RDFEOWJQLVN0ZkZENFFZZkxBQ0dLbDlOZEktUTRzWnJPZ3Ridjk0OGZYdEdoSFNTVk1obUNuVnBmQ3hsamVhTFQ4QdIBWkFVX3lxTFBRS0poeFNXT0s0SGZldTA2RDFEOWJQLVN0ZkZENFFZZkxBQ0dLbDlOZEktUTRzWnJPZ3Ridjk0OGZYdEdoSFNTVk1obUNuVnBmQ3hsamVhTFQ4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-20-019",
+    "date": "2026-08-20",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric to Acquire U.S. Energy Management Software Firm for ¥220 Billion - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1XMVFZRlNsSU9jSzhIbklfM0xicXFFNzVXaWNweDBaamFUUlNxeUJkZ1dSN2h0QlZYRHZRTVJhLVlZZ2tEQ3NYd2NWeU9Ic1h0SWtSRjZEWllvS2gxZDNRUWxzNmxDTmJLSTA1VkdwUG",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XMVFZRlNsSU9jSzhIbklfM0xicXFFNzVXaWNweDBaamFUUlNxeUJkZ1dSN2h0QlZYRHZRTVJhLVlZZ2tEQ3NYd2NWeU9Ic1h0SWtSRjZEWllvS2gxZDNRUWxzNmxDTmJLSTA1VkdwUG56VDFVX3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-20-020",
+    "date": "2026-08-20",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Madison Asset Management LLC Takes Position in Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYTZHdUNpZ29uQzhraEZ4SnJfQ3YtZU8yUFlnT3pIYUx5dElHVWVnbFhRUjNHS1A1RFdhR2t0MFJoSHY1Yk95eXVXNGxXLWhFNWZZYWtrWHlCWmZiUV9mdHNrZWV5Qk9XM3Q2ZnpmNF",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYTZHdUNpZ29uQzhraEZ4SnJfQ3YtZU8yUFlnT3pIYUx5dElHVWVnbFhRUjNHS1A1RFdhR2t0MFJoSHY1Yk95eXVXNGxXLWhFNWZZYWtrWHlCWmZiUV9mdHNrZWV5Qk9XM3Q2ZnpmNF90WVNvd2ZLanVsQ3RwcTJ2azlNcEpPb0stc0pEQms1NUZDM2QtSGxoTDRNX0pVLUxyaVFJT2pMX3FHcTdfM0poZmxuc1VMT0VMeHpyOXktLUVBSmwxb0hoMWkzNEJ2ZzJu?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-20-021",
+    "date": "2026-08-20",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tocqueville Asset Management L.P. Makes New Investment in Illinois Tool Works Inc. $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWGNkbUlQU2haNnBtUWdEOEtVNHZ2RXJoc0NJU3VrZm8zcVRqZ19pZXdMcFY5aFViX2JTcVlOSXE3R0p1Y0UyWkJHR2NnbFptcGlxM0tlQ0NKZVB2V0U4eTh0TGNReXRYRG1mWWtic3",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWGNkbUlQU2haNnBtUWdEOEtVNHZ2RXJoc0NJU3VrZm8zcVRqZ19pZXdMcFY5aFViX2JTcVlOSXE3R0p1Y0UyWkJHR2NnbFptcGlxM0tlQ0NKZVB2V0U4eTh0TGNReXRYRG1mWWtic3ZZSGw0cF9RN1dhTDdWNGozUmZGN3NsSjMyVzVyMEMwODhCemhtSnlTYWFya3NLZFoxbVNUbmcxZTNncVhSSklTTEM2RWlfMGIxbTZSNkhZWklOOXZueG5BRllmQ1BtdUdGaktVR1VfTlhxX3BM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-20-022",
+    "date": "2026-08-20",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "59,345 Shares in Illinois Tool Works Inc. $ITW Acquired by Edmond DE Rothschild Holding S.A. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZEhCT0ZKT09MWlN4M3BETWw2ZUY2cjFBbnhfTWJnWERvQ1QwWTBsaEZ4azR6RFdjdVMzOFUxTTlmV0U5eDdNcXlwbFduaGk0dmtRQWZXWVkyOXUyTnI4SWlGWXk0bkx3aGNYZkcxU2",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZEhCT0ZKT09MWlN4M3BETWw2ZUY2cjFBbnhfTWJnWERvQ1QwWTBsaEZ4azR6RFdjdVMzOFUxTTlmV0U5eDdNcXlwbFduaGk0dmtRQWZXWVkyOXUyTnI4SWlGWXk0bkx3aGNYZkcxU2ZtZmk4bG1FSlRyVGI4R3M2eC0talRyTjNDUjJqQl9wVVVfTmNSMzZGQklHUUlpQUdWZVVGU0RHODluX21VS3czSGhzSklTdWdUZ2hsbXg5TTVna05jVGFfUHVKSDBmTGhHdWtWYk1obk5Fc1o1ZkVWNEZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-20-023",
+    "date": "2026-08-20",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Parker Declares Quarterly Cash Dividend - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQMENQVDlUNXc2dzFJZHhwMWJqT3JONElkVUlqSThIcGRXZlFQbC13SjF5QXdROUJBcjN6OV9oa29pY2V3YWtIc29iWktTc0JaMExzRGlPU1NPR196WkFwTGJwZ3AzaGI1N1ZwaF84Ul",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMENQVDlUNXc2dzFJZHhwMWJqT3JONElkVUlqSThIcGRXZlFQbC13SjF5QXdROUJBcjN6OV9oa29pY2V3YWtIc29iWktTc0JaMExzRGlPU1NPR196WkFwTGJwZ3AzaGI1N1ZwaF84UlZ4SG9ubkZFeTlRZ256b0x3d0l5TVZpVWI5QTAtdlIzMEd6bTUxeUVVNXdSV1Azek9LenBhVmd0bzhVTTNtMEJuZA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-20-024",
+    "date": "2026-08-20",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin declares $2.00 quarterly dividend - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXdFN05JVEJqZEtqQnRVM3JOeTdxX3FYZzdvSlhsWmZ0Tm1qZi11SDlHZFNEM0dFcW85ZE4xekQtanNRNzZDbE9HaFNCSEViTlFzUUJnTzdELXd5TDRiZ0NOR20wdDhFdWZNZTJyWk",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXdFN05JVEJqZEtqQnRVM3JOeTdxX3FYZzdvSlhsWmZ0Tm1qZi11SDlHZFNEM0dFcW85ZE4xekQtanNRNzZDbE9HaFNCSEViTlFzUUJnTzdELXd5TDRiZ0NOR20wdDhFdWZNZTJyWkh2dzN0QmZ4VlczX0lFc3ppZzRPN20xQ2JMNlBRMGJGT21tdVl4dUdDRWVMRi1zTXJyOFFHYlNmMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-20-025",
+    "date": "2026-08-20",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Have Insiders Sold Parker-Hannifin Shares Recently? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb09OLU9rWDI2dlNHVWhrZHNCWnNLbjQzdnZhRzNrVlVOZjNfVEhyQ3BqSEtVa0RaWDNvZ1hVZmUxUnRCRTc5akRlZVg5XzZ3QmxEc3h6angzeGI4WXJMbjdQVFBSR3d5SlNpcmVCdz",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb09OLU9rWDI2dlNHVWhrZHNCWnNLbjQzdnZhRzNrVlVOZjNfVEhyQ3BqSEtVa0RaWDNvZ1hVZmUxUnRCRTc5akRlZVg5XzZ3QmxEc3h6angzeGI4WXJMbjdQVFBSR3d5SlNpcmVCdzJ5NjJEYVE2V1poQ2V6ZllaU29HWno5UDJhS21mcTZtUjBXendZeVBEcmliZmxZby1TeEt4UzljTE92NGZOTVQ1RGc5ZldHbjZmSm9QQkcxMkhaQ2fSAcgBQVVfeXFMTUJ3cDM0VlFSUG1iR1k2VFJpQTVRUmtsLWpMSVZicXdLZFhKN25COGkyOGFEM2w1RXRIcDRLcGFNX192cVJUSmZiNlpqUVZqTTFpLUM0XzVPdzhGYWFKTFhXTk9lMzJ1dW82NHd0RUtaU0YtdXZwOVQ1cDNNTlk3eGNuQ1NaSFR5NmFiM0N0aUFqVU5yY3pESnlYN3MzcVE2LUZXb1JacW41T3ZGaHRlLXVheVRyQ0Nwel93NUdEVURWR2h5Zm1oWm8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-20-026",
+    "date": "2026-08-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Stock Is Priced To Swing Hundreds Of Dollars Either Way - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTJKZm4wOVJoT0tPV2tObGJadWhQQmFqcnhFd2Z4V3hmNEp1V0VyMEVnMlJMUTJqUklJcE1zeDBCUWwxVVk4Uk9hYmJ3THNFQjRhSFA0S1h1c2Qyd2R0Z0JLQWtScERiWDNUdXkyUj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeTJKZm4wOVJoT0tPV2tObGJadWhQQmFqcnhFd2Z4V3hmNEp1V0VyMEVnMlJMUTJqUklJcE1zeDBCUWwxVVk4Uk9hYmJ3THNFQjRhSFA0S1h1c2Qyd2R0Z0JLQWtScERiWDNUdXkyUjdyWnppUVRKMFp4UmpvazgyS3p2THNFVmZfcUo4Mm9yRkVwdnlfbDBwNEZlck1iRE5uZTJfLVp0UHE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-20-027",
+    "date": "2026-08-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "reshoring_supply_chain"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar bags $392M tariff refund as duty costs shrink - Supply Chain Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXlnRkVQNWdjRUNybTNpNVBObVpPeEZLcWZZaG1tSzZpbnJycTFBXzFJZXEtTlRkalJFZnFLR0JpX014R0NpLW1GVTFzeGhzTnUzaVNlcTJBRHZDSW91enRpTlNfVzI5WUY0SEtPbW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXlnRkVQNWdjRUNybTNpNVBObVpPeEZLcWZZaG1tSzZpbnJycTFBXzFJZXEtTlRkalJFZnFLR0JpX014R0NpLW1GVTFzeGhzTnUzaVNlcTJBRHZDSW91enRpTlNfVzI5WUY0SEtPbWVvMUNkYkd6eXRxbV80U3ZaWEN6aldwaDNGR1FIWEtOckxOTnVDOXl3ak9WWElrVVdBZFkw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-20-028",
+    "date": "2026-08-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Which Heavy Machinery Stock Is Dominating in 2026: Caterpillar, Deere, or PACCAR? - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOakpRdnNKSEM2X0lfdEZUeEg0MWI1cUZZVHdkcHlCa0N4ZGk3dlhSR3kzdXQ1RmY1SWlkZWVfUHFvR0pybDF4d0hqaFFWei01NEhDdk9acjZ6cjNhN1VQTmZEUHJoclFSVXR0Nl9iWV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOakpRdnNKSEM2X0lfdEZUeEg0MWI1cUZZVHdkcHlCa0N4ZGk3dlhSR3kzdXQ1RmY1SWlkZWVfUHFvR0pybDF4d0hqaFFWei01NEhDdk9acjZ6cjNhN1VQTmZEUHJoclFSVXR0Nl9iWVgtWjZXZXMzc1Z1STVCakV3Sm1pY3k1OXdHUVA5NVNiOEMzdjJMMFVCQXAwSGJ2aGo3QnRqOTdzNkF5d3ZVdDVhRms0M08tbldOTTB0TEdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-20-029",
+    "date": "2026-08-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Stock Is Priced To Swing Hundreds Of Dollars Either Way - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNWHZJZ0ZXVmhfTmhEblhFSnMxajRvY1V4bV9ldk9fWXVkRDdXQy11YkYySEtodTY3eURsVURUTjhleXNmVE01aHozSHVHcGVQdERaQk1GZFRoUVhaWUE1MnN0cmw3Rk5JYWZybGlFcl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWHZJZ0ZXVmhfTmhEblhFSnMxajRvY1V4bV9ldk9fWXVkRDdXQy11YkYySEtodTY3eURsVURUTjhleXNmVE01aHozSHVHcGVQdERaQk1GZFRoUVhaWUE1MnN0cmw3Rk5JYWZybGlFclZvTTVnTUVDWmZjd2hCZUpkWWl5WGd1RnpVOVVkU0lGZ1IxRWg2czRadDVVZXlncG51RGhFVDlRSC1qaG82UUtZUElwanlhMG8wdUJNQWlMeDNxam8xaVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-20-030",
+    "date": "2026-08-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Double-Wide CAT Dozer With ‘Siamese’ Diesel Engines Is the Work of Dedicated Collectors - The Drive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3VCdVNCOXMwcFBPVkpvRjI1RTZyTDNSbEJfd1ZYc3RKS3J4Vy1veDZsZ2wwUHgyeGhpZWxvQmhheG1COVFSLS01bmJob2dHbjYtTjdkSHBRdzg5SHdqalZPbmNqR0dMNmZvNWs5ak",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3VCdVNCOXMwcFBPVkpvRjI1RTZyTDNSbEJfd1ZYc3RKS3J4Vy1veDZsZ2wwUHgyeGhpZWxvQmhheG1COVFSLS01bmJob2dHbjYtTjdkSHBRdzg5SHdqalZPbmNqR0dMNmZvNWs5akMtdnZEVUpoZENOWGRkcGpBdVJNamVKYnhLQTFiUm1Cd05JY3R3MGU3ZDdKdm5id0dHaDBwaF9oMWlXaElrdll0Y1N4X043Zw?oc=5",
         "type": "rss"
       }
     ]
@@ -665,6 +1204,26 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV3kyT2VlNTdVUEVmNWQ5TnVER0VleHhwVWsydkFyM3N2cnpGRm14bFZOTmVVb2xHMkwwZzRncHhfVGFQSWVVWEQ3V2Y3N0RfZDhRZW5PQ0l1QnZnZFNITWpWZnY5emJ0R19yQ1MzcFdfNWRjWWdlT2pfak5FcEFCREtnZGVCSmozbTBNRGpPRmk4UkJTVC1FVnM4Y1dTVmNEa2NIajdTMHB2S2hWenR0RGZudFFmb1A1VWtIOE9JUklSb3FVRzF6Nw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-08-19-026",
+    "date": "2026-08-19",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Report on changes in shareholding: DMG MORI (11.01% → 10.48%), Sumitomo Mitsui Trust Bank, et al. - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHh1UXFDRGZ3X0dwTGJTbzJOYUFUX0lUQ3pvUWpfUGpNM01VU0x5NXBTWWptc1dtRFdwT2lYVXVhaGFzMG4wV21aYTZrWE5jSVRuREo5bmRRVW41ZHA2VUdPZnhyMGUySS0tT2xJbk",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHh1UXFDRGZ3X0dwTGJTbzJOYUFUX0lUQ3pvUWpfUGpNM01VU0x5NXBTWWptc1dtRFdwT2lYVXVhaGFzMG4wV21aYTZrWE5jSVRuREo5bmRRVW41ZHA2VUdPZnhyMGUySS0tT2xJbkd6NHFYdTJJOUg4eFBwZ3J3N0NKQUFHUEt0Nnlva2JtaXVjUVl1a2NHYQ?oc=5",
         "type": "rss"
       }
     ]
