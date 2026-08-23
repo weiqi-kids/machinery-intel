@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 202,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 2,
+  "gate2_fail": 11,
+  "passed": 34,
+  "gate2_samples": [
+    "Mitsubishi Electric To Acquire PCI Energy Solutions For $1.4 Billion To Expand Energy Management Sof",
+    "Mitsubishi Electric to Acquire PCI Energy Solutions - nippon.com",
+    "Mitsubishi Electric to Acquire PCI Energy Solutions for $1.4 Billion - International Business Times",
+    "Mitsubishi Electric Agrees To Acquire PCI Energy For $1.4B - Law360",
+    "Mitsubishi Electric Corporation - Agree To Wholly Acquire Pci Energy Solutions - TradingView"
+  ]
+}
