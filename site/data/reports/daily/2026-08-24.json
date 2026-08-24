@@ -1,0 +1,209 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T08:37:25.299731Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-08-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics Posts 48% Revenue Surge in Q2 on AI Power Management Boom - finance.biggo.com",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1NXBXbS1XcGlsYTZkUnFCVmZZOF8zTlQzLWNuSkp0RDFPc0dxWEhVcll0MVdfSERVdEZIaGN0d3hqbDhRdEt4R3FjbkR0YnBjeFZGc096T3N6RU9rVUpnMFRCR2ZwVXJ3SHVDb0VDVDNQRzJOY2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "parker_hannifin-2026-08-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Allstate Corp Acquires 1,784 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3hSa3Z4S3ZHekkxd1FNUEhkYWpHLS1lcS1SVENMOVNkOWRGbllHWXhGZ2FoZGNZSE5jaUdlUG9pYzJwRlNPYmxCcXVUN0ZoRmcwT3JFN3EtV0xuRWt1Vm9qcjh6Z0d6eUgtZkRQenQ2SHdYX28tN0Jyc3pndWZJdGtlZDE3MnZFWnlKZnR2YlZTNWVkajI2dnN5SXRIekVUZzJSWmVrZzFyd01RT20tRU84TmM5M1l1a08tLWZiT0lMN3Q5QXdVNg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Taiwan machine tool orders see improvement - Taiwan News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "machine_tool_orders",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qellHbTF4bFBuVW1QZm9FVFRaMEJMOWJuMmI1elRtdlk0THVLWGZiNXhNT2paUnpUbUhORlM3bDhLelE5NXVhWDdzbHVYOVRQV2ZyWWxGa0s?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bill Gates has made $2.3 billion on Michael Burry’s former favorite - thestreet.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcUxEME5lUW1ZOEY4aVZMTTlUdDJibUxvTUcyS3VSTnhfcGM2dFMtNGVTVEZ0dEhneWV5aDVyd2pURGFJcTAxUDYwQnItcUZjcGtpQ0tlTkp3MjFhYmtEQnVJMkpaUVNVNWhEOW5paGpNZUJFOFViRXI5bGZYQU9Ja1lTdFFtbEhKTmRLRmZENmZWUXExc2tob0ViWVAtQmVXX0lzT0c5VG5KV1E3WEtjckw4UmFoa0l1M0xpZndWNE9UZ3BCZ2Jzc3J3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "machine_tool_orders": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "machine_tool_orders",
+        "count": 1
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 394,
+    "dup_title": 225,
+    "too_old": 141,
+    "gate1_blocked": 2,
+    "gate2_blocked": 10,
+    "passed": 16,
+    "pass_rate": "9.5%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Mitsubishi Electric to buy US-based PCI Energy Solutions for $1.4bn - Energy Monitor",
+      "Mitsubishi Electric to Acquire PCI Energy Solutions - nippon.com",
+      "Mitsubishi Electric to Acquire PCI Energy Solutions for $1.4 Billion - International Business Times",
+      "Mitsubishi Electric To Acquire PCI Energy Solutions For $1.4 Billion To Expand Energy Management Sof",
+      "Mitsubishi Electric Agrees To Acquire PCI Energy For $1.4B - Law360"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Delta Electronics、Parker相關動態：「Delta Electronics Posts 48% Revenue Surge in Q2 on AI Pow...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Delta Electronics Posts 48% Revenue Surge in Q2 on AI Power Management Boom -...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Allstate Corp Acquires 1,784 Shares of Parker-Hannifin Corporation $PH - Mark...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

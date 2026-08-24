@@ -1,5 +1,84 @@
 [
   {
+    "id": "delta-2026-08-24-001",
+    "date": "2026-08-24",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics Posts 48% Revenue Surge in Q2 on AI Power Management Boom - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB1NXBXbS1XcGlsYTZkUnFCVmZZOF8zTlQzLWNuSkp0RDFPc0dxWEhVcll0MVdfSERVdEZIaGN0d3hqbDhRdEt4R3FjbkR0YnBjeFZGc096T3N6RU9rVUpnMFRCR2ZwVXJ3SHVDb0VDVD",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1NXBXbS1XcGlsYTZkUnFCVmZZOF8zTlQzLWNuSkp0RDFPc0dxWEhVcll0MVdfSERVdEZIaGN0d3hqbDhRdEt4R3FjbkR0YnBjeFZGc096T3N6RU9rVUpnMFRCR2ZwVXJ3SHVDb0VDVDNQRzJOY2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-002",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "machine_tool_orders",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Taiwan machine tool orders see improvement - Taiwan News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qellHbTF4bFBuVW1QZm9FVFRaMEJMOWJuMmI1elRtdlk0THVLWGZiNXhNT2paUnpUbUhORlM3bDhLelE5NXVhWDdzbHVYOVRQV2ZyWWxGa0s?oc=5\" target=\"_blank\">Taiwan m",
+    "sources": [
+      {
+        "name": "tongtai",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qellHbTF4bFBuVW1QZm9FVFRaMEJMOWJuMmI1elRtdlk0THVLWGZiNXhNT2paUnpUbUhORlM3bDhLelE5NXVhWDdzbHVYOVRQV2ZyWWxGa0s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-24-003",
+    "date": "2026-08-24",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Allstate Corp Acquires 1,784 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3hSa3Z4S3ZHekkxd1FNUEhkYWpHLS1lcS1SVENMOVNkOWRGbllHWXhGZ2FoZGNZSE5jaUdlUG9pYzJwRlNPYmxCcXVUN0ZoRmcwT3JFN3EtV0xuRWt1Vm9qcjh6Z0d6eUgtZkRQen",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3hSa3Z4S3ZHekkxd1FNUEhkYWpHLS1lcS1SVENMOVNkOWRGbllHWXhGZ2FoZGNZSE5jaUdlUG9pYzJwRlNPYmxCcXVUN0ZoRmcwT3JFN3EtV0xuRWt1Vm9qcjh6Z0d6eUgtZkRQenQ2SHdYX28tN0Jyc3pndWZJdGtlZDE3MnZFWnlKZnR2YlZTNWVkajI2dnN5SXRIekVUZzJSWmVrZzFyd01RT20tRU84TmM5M1l1a08tLWZiT0lMN3Q5QXdVNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-004",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Bill Gates has made $2.3 billion on Michael Burry’s former favorite - thestreet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOcUxEME5lUW1ZOEY4aVZMTTlUdDJibUxvTUcyS3VSTnhfcGM2dFMtNGVTVEZ0dEhneWV5aDVyd2pURGFJcTAxUDYwQnItcUZjcGtpQ0tlTkp3MjFhYmtEQnVJMkpaUVNVNWhEOW5paG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcUxEME5lUW1ZOEY4aVZMTTlUdDJibUxvTUcyS3VSTnhfcGM2dFMtNGVTVEZ0dEhneWV5aDVyd2pURGFJcTAxUDYwQnItcUZjcGtpQ0tlTkp3MjFhYmtEQnVJMkpaUVNVNWhEOW5paGpNZUJFOFViRXI5bGZYQU9Ja1lTdFFtbEhKTmRLRmZENmZWUXExc2tob0ViWVAtQmVXX0lzT0c5VG5KV1E3WEtjckw4UmFoa0l1M0xpZndWNE9UZ3BCZ2Jzc3J3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "parker_hannifin-2026-08-23-001",
     "date": "2026-08-23",
     "companies": [
@@ -82,6 +161,127 @@
     ]
   },
   {
+    "id": "hiwin-2026-08-23-005",
+    "date": "2026-08-23",
+    "companies": [
+      "hiwin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ETFs Investing in HIWIN Technologies Corp. Stocks - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BR0pYaFBjZ0R4SWhpUXNoNEloTjVodmFPZ0x2T2xiN2FEaFNSYTRCRWY2RUMxRl84SGtpRmRrMTBVVWt4MVRBdVU2dkZxVVprX2xSTnJ5ODk3WUV1a1pDcQ?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "hiwin",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BR0pYaFBjZ0R4SWhpUXNoNEloTjVodmFPZ0x2T2xiN2FEaFNSYTRCRWY2RUMxRl84SGtpRmRrMTBVVWt4MVRBdVU2dkZxVVprX2xSTnJ5ODk3WUV1a1pDcQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-08-23-006",
+    "date": "2026-08-23",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB stock holds steady as investors eye Rotork acquisition impact - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPS0VsREpvVUx6X2hBV0NwZmptY0R1b1doVmNQbXo2b1pqM1FFSDl4aWZpUzltdXI1enh4aWFsX2M3dk9xU2xRVjBmcWJRTWlpRVFqV2s0dkdUYVI2T1FKVF9NMF9tWkVudWNCM2RlSU",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS0VsREpvVUx6X2hBV0NwZmptY0R1b1doVmNQbXo2b1pqM1FFSDl4aWZpUzltdXI1enh4aWFsX2M3dk9xU2xRVjBmcWJRTWlpRVFqV2s0dkdUYVI2T1FKVF9NMF9tWkVudWNCM2RlSUJpLXhXM0ZnMDlFMnZPb3RXMnZ3bXBUUVh6Y1NGRmdnUjcyN3F2MHJkNk1qM04xSmxqQW5WNEtvRDlyc2gtSUZtTFExMEpvOTJraEZYVDdTRWR3cjh2MW8w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-23-007",
+    "date": "2026-08-23",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Northwestern Mutual Wealth Management Co. Sells 3,865 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUzRoM0paYXNXeVE4Sm5va2QwNDYxYnk4NU1xMjVZYTJBSjRsVkplNU1OaDVGOXdNOEFjSjBiR1Q3SjZOT2RJbGcyY3RJMVdQcDVIS0RLRVM3QmQyUzFVTGZkWkRRMEZPRzZOQTludj",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUzRoM0paYXNXeVE4Sm5va2QwNDYxYnk4NU1xMjVZYTJBSjRsVkplNU1OaDVGOXdNOEFjSjBiR1Q3SjZOT2RJbGcyY3RJMVdQcDVIS0RLRVM3QmQyUzFVTGZkWkRRMEZPRzZOQTludjRtUFMwZ2JrQnhVc0dVRGNrWUFCdWlRMGNkcW1ZWExLNjhBSnlFSmc1TXpDQzlVVDU0eER2RTVMTWpwTk42c1FYRjE0SjZaVjNaWGNFT2lSU3MweDd6VHpYT1dic01tdXViMllNQ05Ma2ZGVGpxTWRjWC1IT2pWbllF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-23-008",
+    "date": "2026-08-23",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Varma Mutual Pension Insurance Co Lowers Stock Holdings in Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYTFpTHc5bDY3eDkxaEM5bERWOXJBZEcyVDVHc2pNUEoxa1F1LVJybUZnTDBsM3dTYnpRRUVPRXd0N25EN1ZJdVRfc2ZPZXUzLXctT1cxR0d4dGREamEyUURFRlFMX1UxeTRHR2c2Ml",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYTFpTHc5bDY3eDkxaEM5bERWOXJBZEcyVDVHc2pNUEoxa1F1LVJybUZnTDBsM3dTYnpRRUVPRXd0N25EN1ZJdVRfc2ZPZXUzLXctT1cxR0d4dGREamEyUURFRlFMX1UxeTRHR2c2Mllra0wtLWVGa19takxCOUJFc0FSWXEzVkF4d0x2Z1JDN19LbHJ1anllLTU3T1l3bml5VTJfLTRmNDdkY3ZnT0g0aUtfd2I1S0ZSSXNkbHZtR3BkdGpjTUZ3aC01TkpXOElfenhidzFiam9UTk5seUFjVkV4XzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-23-009",
+    "date": "2026-08-23",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How to Buy Caterpillar Stock (CAT) in 2026 - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjRvRFVleU5nNHg1U2gySXcxSzd1dDlFVHZrN1ZlRXkwemlBM0wtZlFTdktoeGdVMTBNejBJcjV6djNOeUlibk5zOF84MHJKMXpSNE1RY1VwZy12UFJGZE90X3dvb2JUU2tTalBwWX",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdjRvRFVleU5nNHg1U2gySXcxSzd1dDlFVHZrN1ZlRXkwemlBM0wtZlFTdktoeGdVMTBNejBJcjV6djNOeUlibk5zOF84MHJKMXpSNE1RY1VwZy12UFJGZE90X3dvb2JUU2tTalBwWXgzZW9HZWNRZ1Y1eE5jaWpSRldfdDNETklPcWNyRC10clk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-23-010",
+    "date": "2026-08-23",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2022 Caterpillar 325 PQZ1 For Sale (89039848) from MacAllister Machinery – North [768] in Grand Rapids, MI - Construction Equipment Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNN2RFeWJtaXpGVERraVhmdy14REVHN0VPTzZOLVFQbVpiMERZX01LOWFWa3AzcXJETjM0dHNLblA5c2NLemh5dF9wWEx2MVRmdVVQSG1mTm9PdW5kMUZPbVp2TWJCOU5lMmZEVlQzY3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN2RFeWJtaXpGVERraVhmdy14REVHN0VPTzZOLVFQbVpiMERZX01LOWFWa3AzcXJETjM0dHNLblA5c2NLemh5dF9wWEx2MVRmdVVQSG1mTm9PdW5kMUZPbVp2TWJCOU5lMmZEVlQzY3FqcHVKT2p0c0dSMlZLN1E1Z3FXcEkwU1hHeHF0VGt2UXFvNDlnWDg3X3RVUzFWVTdDOW9n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "itw-2026-08-22-001",
     "date": "2026-08-22",
     "companies": [
@@ -137,6 +337,27 @@
       {
         "name": "parker_hannifin",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWTdzMFJ1eHYwcHNoNlJha1g1ZGpCLTZNRm5QN2ZwSkJ0T01UN2w1MjVEemZUWGx2cUlIcjZUb2pYTF9NQXotdl95SUo3c3NMQmVzUzYzN3ZENGlJMkt4MGw5cFhqUWU0SXM2TUtOeng4RUk2eklHUmE2dDRIcDlaVS1lNXNVYW1UWmF0MmVBTzI5WmRpUlppaVZZVXcweW1PNVRpYXhIRHlmU182Z09iRjJxV1lTRjlNZkpkc1ZpMVp5d2dUb2czUy0xU2l5emZY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-22-004",
+    "date": "2026-08-22",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (NYSE:PH) Rating Lowered to \"Hold\" at Wall Street Zen - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTJiSEZfcHVPTmI4R09JcjNMSG51dWZ6a2Z5T0RZS0lyZXJiXzNwRmJxb2lza0xra1BpYWJqVzZoOWJWSVhMdHA0dVpDTzA5NWQ2WjRQRzNhR2hIN250RkZROHdwQ3hjOFVCcmFHbz",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTJiSEZfcHVPTmI4R09JcjNMSG51dWZ6a2Z5T0RZS0lyZXJiXzNwRmJxb2lza0xra1BpYWJqVzZoOWJWSVhMdHA0dVpDTzA5NWQ2WjRQRzNhR2hIN250RkZROHdwQ3hjOFVCcmFHbzVoaklSaWluNDJnS0c2UkJtLXNKMHd6S180Q2xuTkNlbmJhcTc2T2YtNnpUQTBYTXlTdEVwX0RmdURVeE9oUXhIRzBsSzZWSWVZVlE?oc=5",
         "type": "rss"
       }
     ]
@@ -728,6 +949,107 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NWmI3S01uS0hyWFkyZXZwMWdiazUyR0xHLUI2SVhJOFVLenBZaDZ5TmdGXzlMZmhQci1mWTd2ZFpicTFLUFI0cXdDbTBLaFFoelp5Njg1WG9TUzZKalVwa2QyRHpIQjVHR0c5c1B1T3dtelA0TjlNZlhxTjF2QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-21-030",
+    "date": "2026-08-21",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric to acquire PCI Energy Solutions in energy software deal - Intelligent CIO",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOWXlFcHBGNmNUczNfVG5Mb2l1Z1A3RnVUUEU1RlVTWGZkMlVqc0UwLWtjZFFMV3ZjeTUtTUp2N2tTRERKdUdpSHp1ZEdzVnplekdjZUhaLW5mQTJnTElPcmprNDdzM2Fpd2xfUllpSk",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWXlFcHBGNmNUczNfVG5Mb2l1Z1A3RnVUUEU1RlVTWGZkMlVqc0UwLWtjZFFMV3ZjeTUtTUp2N2tTRERKdUdpSHp1ZEdzVnplekdjZUhaLW5mQTJnTElPcmprNDdzM2Fpd2xfUllpSk5QRkcxd3VJZTJ6YjFGMFhPU0MwZTdaX2pNaGM3RWNWbkZxcHdCdDNzT0RWeF9TaVc2SGVfUm9VZGYyYnFGZnhiNE5BX3MwdFloWngwNnBTRnR0SkRIRjdpT0NScTM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-21-031",
+    "date": "2026-08-21",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Insider Sold Shares Worth $11,894,421, According to a Recent SEC Filing - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeFNZajJLQXVaUHRva3VUVFdtRkRzVTZvRzdUNzhfakpEMnFYSFpCY1liOUkweWNMc25mSG45ZDhTc1VMc0RLWXNaNHllSFNqX2JTUmpzcTJrTDVFM2YzNHlXQjNBRndyRjE4NXlGRG",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeFNZajJLQXVaUHRva3VUVFdtRkRzVTZvRzdUNzhfakpEMnFYSFpCY1liOUkweWNMc25mSG45ZDhTc1VMc0RLWXNaNHllSFNqX2JTUmpzcTJrTDVFM2YzNHlXQjNBRndyRjE4NXlGRGZSenAwdU00UlBCV1hOV0lzS3A0djlKRElwZDRxYnp4Yi1ERFVwclQ0blBKS0dkQWk4emZIVVc3NGFzOXgzTWVmR0ptY1UyQjJLZFd0Zkh5enJFcVZYTTJCS0NsM2FjR3VNd05RTzNBWWNFUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-21-032",
+    "date": "2026-08-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (NYSE: PH) grants supply-chain VP 1,621 stock rights - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQSXlubFZ5TGdGcUFRVExXNFNoMXNLLUNfREFCelJrRWNMMnRWYTl3Z3V4bDNOM2N6TlZ6Z0liOEs0bXNpRXJSdjJGTnFWUUZZQno2bmQzdmFMU3ZURm5ZcHFvNUczUkdrOENTQThiZm",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSXlubFZ5TGdGcUFRVExXNFNoMXNLLUNfREFCelJrRWNMMnRWYTl3Z3V4bDNOM2N6TlZ6Z0liOEs0bXNpRXJSdjJGTnFWUUZZQno2bmQzdmFMU3ZURm5ZcHFvNUczUkdrOENTQThiZmpyWkNNMER0Q0VjRERpTUVKVHk0RUxvRWVBTnR1RjRWdjczeDRWWTBJVXVxU2VnVkd2TzRPZDY4VGdmTUVJY3BWUVhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-21-033",
+    "date": "2026-08-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (NYSE: PH) awards tech chief stock rights at $1,023.25 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0E2XzRKeHBYSDdVMHRWLTg4MnpsdUJQeEZYX2xJXzZGX3U5aEwxYzhLZjlDSURhNGZvMG1iaXJ6Zk5mZ0g0eUVRSnRQSUlzNDVfLUFMT3hhQ3I5cVM1MVRLaGhuSEh3eTlVMERzLV",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0E2XzRKeHBYSDdVMHRWLTg4MnpsdUJQeEZYX2xJXzZGX3U5aEwxYzhLZjlDSURhNGZvMG1iaXJ6Zk5mZ0g0eUVRSnRQSUlzNDVfLUFMT3hhQ3I5cVM1MVRLaGhuSEh3eTlVMERzLVZqcmlOVGQxeXNvSUFxOGRCUzYtQUdnYzAyWU5pdmRMT0o2MjB0aWFNVkNqbHhsZVJ1NEZyZ0p0ekJ0ZmUxenBWVi1B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-21-034",
+    "date": "2026-08-21",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grand National Championship Contenders Brace for Pivotal 79th Caterpillar Peoria TT - Motor Sports Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOOS1nd1dzN2hfaTA1N0JQMi0yZDMxd1k0VFk2S2hrNG16c3JiNlhFU2lldUpMM3pXWEZ3UmlBRnFIMzdwWUoyNDhLdkV3NFg5bXpTLVliVDgzeEl2WVRNbkI0S1ZJdzNuV2hvS2hYSH",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOS1nd1dzN2hfaTA1N0JQMi0yZDMxd1k0VFk2S2hrNG16c3JiNlhFU2lldUpMM3pXWEZ3UmlBRnFIMzdwWUoyNDhLdkV3NFg5bXpTLVliVDgzeEl2WVRNbkI0S1ZJdzNuV2hvS2hYSHI3bVRyLU14U1FUdk13VmkwUFk2TTJtZElsNVcyb3p5MTh3Qi02amVJX0VVOUt3R296eTJzWGZYTjllM05VY1loMkFHR0NvdEsxLXgxc0tYVWlvbUxpUVE?oc=5",
         "type": "rss"
       }
     ]
