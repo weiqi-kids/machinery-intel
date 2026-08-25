@@ -1,0 +1,189 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T08:31:40.603312Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-08-25-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric to Exhibit at Carbon Capture Technology World Expo 2026 - Yahoo Finance",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdTJFdG5rZVgwQ2lFdzVfcmtWajVEVF8wejE5cU9WUlBVOTFZak41eDZXeGZaQk4zT3g3Vk9XYVlHVnhUWWltbEc3RFJMVWJVNDBibk5TTnh1YzJsbGtpUnBPTFNpX2F4UDBWQkVndEVpWDBObVRFaUJCT3U0VGZJY09RazlmUG5PNWNvRFhMcDZBdkczTTdYQVJmSzg1TWlj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Donaldson (DCI) Q2 Earnings: What To Expect - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFJnam5pTzlodmZxV3BWaXE3QWh4TUF5MnY3Rm16dDY0U214YldJVEZZeHRWMzhPaXdTRE5QU21mSG42S0FOQ0Z3UFdsaHNxM1cweHNKZmJVUGM4Y1h0bFMwZ3h2ekdKanlWWEdyQU4zSVNsbFZwMjRhYkJmc0JWU1Q0VERHYWdkYUFaUU0yTGFqQWNtYzc3V1M3blZDdnRyOEtv?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-08-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mitsubishi Electric to Demonstrate Smart Building and Smart City Technologies in Legacy Building at Berlin’s Urban Tech Republic - 01net",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeHdxMjNMNi1XOENpc0xFM0gyUTQtNnpPNGVYUzg1S0FlNW1OVks2a290Y3VieWdESm03MmtJdS1WWld0MV95OVJHNy0ySmMyVmtlTEhMY0RzdVlOaWlHUWwwVHFLTERKOVJ3QXVsb3Rhb1pBUmpJNFlNZkpDY0NzTE11MENjR0lHRUJsVEZzN0VHZmkzdTlXRjBUY2N1WE9Dbm9QSWlaeHpnNjk1M2lOS0hoZWhrZnFPUkRKdDhmZ3FDTHp0T3hwWHAwWTIzbmFhM2NGX2tmc0RvNjUtQ0dxV3BQOA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Experts explain details of OSHA and relevant safety standards",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.plantengineering.com/experts-explain-details-of-osha-and-relevant-safety-standards/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 382,
+    "dup_title": 204,
+    "too_old": 140,
+    "gate1_blocked": 2,
+    "gate2_blocked": 11,
+    "passed": 25,
+    "pass_rate": "14.0%",
+    "gate2_block_rate": "6.2%",
+    "gate2_samples": [
+      "Mitsubishi Electric to buy US-based PCI Energy Solutions for $1.4bn - Energy Monitor",
+      "Mitsubishi Electric to Acquire PCI Energy Solutions - nippon.com",
+      "Mitsubishi Electric To Acquire PCI Energy Solutions For $1.4 Billion To Expand Energy Management Sof",
+      "Mitsubishi Electric Agrees To Acquire PCI Energy For $1.4B - Law360",
+      "Mitsubishi Electric to Acquire PCI Energy Solutions for $1.4 Billion - International Business Times"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Mitsubishi Electric相關動態：「Mitsubishi Electric to Exhibit at Carbon Capture Technolo...」。主要關注主題為自動化資本支出、財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mitsubishi Electric to Exhibit at Carbon Capture Technology World Expo 2026 -...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Donaldson (DCI) Q2 Earnings: What To Expect - TradingView（自動化資本支出、財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
