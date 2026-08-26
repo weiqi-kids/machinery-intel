@@ -1,5 +1,67 @@
 [
   {
+    "id": "mitsubishi_electric-2026-08-26-001",
+    "date": "2026-08-26",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric (TSE:6503) Showcases Sustainability Projects In Germany, Is The Valuation Still Reasonable? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPTUQwd2N0SUJEVVVncEtzdTZHNjJRd19WNGJ2V0M3cmRyb1VqTC12TEpTVDhQMTlrYTEtc19VYjVocUxySFRRXzNYUFVZMHFkd3Nkb2psTXVmcEpxS2RKdmMyRGdMTGtTTDdxSUpIUD",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTUQwd2N0SUJEVVVncEtzdTZHNjJRd19WNGJ2V0M3cmRyb1VqTC12TEpTVDhQMTlrYTEtc19VYjVocUxySFRRXzNYUFVZMHFkd3Nkb2psTXVmcEpxS2RKdmMyRGdMTGtTTDdxSUpIUDE5WmFDS0h1bmVfLVBRN3hZSERPbHEyZVVrS0VVNW5VdUJYcjJYaVBISFZnOE93am91dEpiaUhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-26-002",
+    "date": "2026-08-26",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Canada Pension Plan Investment Board Sells 11,360 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTWNqb1FLM2J4M0JNQm5CSGd0X2NlNjNhbG9qakZDRHJVdjd6blVjVFBqWTVRSk5FWDQyVzRlc050YmtSbldUbFpaV0RpY3ZBVmVEZlR1QnViXzY3VjJNc2xkU01DVnBPWEFBa1dfMX",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTWNqb1FLM2J4M0JNQm5CSGd0X2NlNjNhbG9qakZDRHJVdjd6blVjVFBqWTVRSk5FWDQyVzRlc050YmtSbldUbFpaV0RpY3ZBVmVEZlR1QnViXzY3VjJNc2xkU01DVnBPWEFBa1dfMXV3UV9DcWJ0RVlEa0RRbkpMaVQ1U1JKOGFBdXp1Mk5mek1VS294NFpuWFFCNlUwX29aS2d2LUZkUTJ4dl8yeE9Bd1JWWHZ6N3JlcnBtZ1pkYkpKaFF6bDdiYm9EUElmcnhDZXZtLVpWYjM3b092MVNodHN2OXE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-26-003",
+    "date": "2026-08-26",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar planning $890M investment in Indiana plant - Indianapolis Business Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPUEJEVVdFUVRBT18yN3o0dG9JMTVtZHFGQTJCX1NHY2JXTV9sUnhEVUFRU2dQZU0wTk1mOHpFQmdkQ2VRdmRId1p3M3FjbXBoQ1lJVl9UemItQldteVJnNGdFNGZzZENXUFNocEgwY2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUEJEVVdFUVRBT18yN3o0dG9JMTVtZHFGQTJCX1NHY2JXTV9sUnhEVUFRU2dQZU0wTk1mOHpFQmdkQ2VRdmRId1p3M3FjbXBoQ1lJVl9UemItQldteVJnNGdFNGZzZENXUFNocEgwY25nYzBOZThvbHlaQ0Z2VTNnRHhFZTBwZUU3cGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mitsubishi_electric-2026-08-25-001",
     "date": "2026-08-25",
     "companies": [
@@ -72,6 +134,313 @@
       {
         "name": "plant_engineering",
         "url": "https://www.plantengineering.com/experts-explain-details-of-osha-and-relevant-safety-standards/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-005",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How to Future-Proof Buildings in an Era of Constant Change",
+    "summary": "<p>Rising energy costs, evolving sustainability targets and increasing occupant expectations are forcing organisations to rethink how buildings operate. To remain competitive, many owners and facility",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/buildings/2026/08/25/how-to-future-proof-buildings-in-an-era-of-constant-change/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "schneider-2026-08-25-006",
+    "date": "2026-08-25",
+    "companies": [
+      "schneider"
+    ],
+    "topics": [
+      "cnc_technology",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The foundation for energy and industrial intelligence",
+    "summary": "<p>By Steffen Stang, SVP Software Strategy, and Chris Nelson, CTO Software &#38; SVP &#8211; EcoOS and R&#38;D, Schneider Electric&#160; Every conversation about the future of energy and industry now ",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/digital-transformation/2026/08/25/the-foundation-for-energy-and-industrial-intelligence/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-007",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Sources, spares, and commissioning liquid cooling in India: The supply-side",
+    "summary": "<p>Author: Sumati Sahgal- VP, Data Centre &#38; Secure Power, Greater India India’s data centre capacity is expanding rapidly, with forecasts indicating 7 GW or more by 2030 as higher-density GPU depl",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/datacenter/2026/08/25/sources-spares-and-commissioning-liquid-cooling-in-india-the-supply-side/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-25-008",
+    "date": "2026-08-25",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric to Demonstrate Smart Building and Smart City Technologies in Legacy Building at Berlin’s Urban Tech Republic - WebWire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKM1c5WnlDRDNVM3JsU3NWVy1EX0h6S3NWdllES2tDVUdWV2NiekstdExWSWNfNmRYZHFJVEtxelRDVDROc05oWktzOEFva1ItYzNrZ2ZSTmp0RVdRM21DNy1URWRjN2VG?oc=5\" tar",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKM1c5WnlDRDNVM3JsU3NWVy1EX0h6S3NWdllES2tDVUdWV2NiekstdExWSWNfNmRYZHFJVEtxelRDVDROc05oWktzOEFva1ItYzNrZ2ZSTmp0RVdRM21DNy1URWRjN2VG?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-25-009",
+    "date": "2026-08-25",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Stake Raised by Jones Financial Companies Lllp - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWl5eTE0XzlyNjBWTk5NdEhYTVllRFlvNktzTU5MOFlWZW54MERYTnJyby1LcTZ2VWo1WUVmQ3hRb0tHRVpnbUszNlJBNEpCMWctUmpvclRVc1lGWWFOTU03M3lNNERVQ2djZWJqdU",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWl5eTE0XzlyNjBWTk5NdEhYTVllRFlvNktzTU5MOFlWZW54MERYTnJyby1LcTZ2VWo1WUVmQ3hRb0tHRVpnbUszNlJBNEpCMWctUmpvclRVc1lGWWFOTU03M3lNNERVQ2djZWJqdU1pdE8zazR5MlFyWERQSkxVSVVBc2dTa3VOVktjQjluMDFnQTZwMmZVZ2d3VjBaTWdKR2dtSkZWU2NWMTZoTUNNUjF6M1luMjJFSm5nZ015UzNmeW1hb3BuTE11Vk0tUGJkRzBRTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-25-010",
+    "date": "2026-08-25",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SIR Capital Management L.P. Has $4.37 Million Stock Holdings in Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRXlEeExMVXdZVWlrS3M0WjhTeDVtTmFYMzBMYnprZ0FYM0RHMWJLOTZOUFBfcVFTSXpJa0lPbEJsbDAwenNQY0NtbVU4MUV3UG00dWVVWGh3YUJteTZlc0xtUGMtV0J2azR6SHFYNT",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRXlEeExMVXdZVWlrS3M0WjhTeDVtTmFYMzBMYnprZ0FYM0RHMWJLOTZOUFBfcVFTSXpJa0lPbEJsbDAwenNQY0NtbVU4MUV3UG00dWVVWGh3YUJteTZlc0xtUGMtV0J2azR6SHFYNTlRTmo2UXNMS2h3N0ZaUUE0Q3FMNC04bHNBN1VTOVJuUE9oNzBMa3h5UW1OdDNKaGtSalNNRUQtRlpTVTlObE5ZdDlJYmEtWm9KckZfOU1JX09KYURZcWxVN0pjNnVEZ2o3QVRHbURwc0NpRXNMOXo4T201VnZCUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-25-011",
+    "date": "2026-08-25",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cibc World Market Inc. Has $11.31 Million Position in Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUFNwNEk2My1iSzlPZGMzMGJqTklyTkxCdXVkSndRWXM0bWMxYWNWMUpId2pTcEQwNTRZZDF3dGxmNHo1UkFWVl9oblVwWk13T1dQaW5ZMkNFaDhyYVo3V2w5UHBQaDNoR2JBZ1ItTF",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUFNwNEk2My1iSzlPZGMzMGJqTklyTkxCdXVkSndRWXM0bWMxYWNWMUpId2pTcEQwNTRZZDF3dGxmNHo1UkFWVl9oblVwWk13T1dQaW5ZMkNFaDhyYVo3V2w5UHBQaDNoR2JBZ1ItTFZOeUhRSnpyMVVLVnFMNFc3OHJpdVhvTkpLOXBYeVJWVGMwMTAtd3Bhb1NpemlIMTY0azFYdWJEaGVtMDJCMHlTMWFmcW9menQ3SC1TdDBOX1ZrRDl5aWhYV2g5M2l2bzdtR2p3b1Flb19hZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-25-012",
+    "date": "2026-08-25",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Worker injured at Caterpillar Mapleton facility - 1470 & 100.3 WMBD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1oyLXpoYnhkUEloWFU4SU9GRlZCVDNtanBQcEx5d2NKQ3RMR21iTVQxT2Z4Zm05Sk1NSWE3RUFDRG9yUGVOSUxTTUh1ZFhFT2hXU2V4eVhsRkdHQ3RSckNYeWJtcXRLNExPOUJPM1",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1oyLXpoYnhkUEloWFU4SU9GRlZCVDNtanBQcEx5d2NKQ3RMR21iTVQxT2Z4Zm05Sk1NSWE3RUFDRG9yUGVOSUxTTUh1ZFhFT2hXU2V4eVhsRkdHQ3RSckNYeWJtcXRLNExPOUJPM1NQMG9FS3lxQ1ZZcHBLTHBRZG84T2IxeWFS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-25-013",
+    "date": "2026-08-25",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Worker injured at Caterpillar Mapleton facility. Here's what we know - Peoria Journal Star",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxORmp2UFFuYmgyM0RsOXRNblNIbXk4T0VBamREbGRrbFdHSXozUS1LOVI4Ni0wMHlhLU5Yd1RBbWl5UzRIamFTV3JtVTZBRGJNYzVQXzZhaGNGTC10cUhZT2RWV0JsZWh6VHdOaUJLSU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORmp2UFFuYmgyM0RsOXRNblNIbXk4T0VBamREbGRrbFdHSXozUS1LOVI4Ni0wMHlhLU5Yd1RBbWl5UzRIamFTV3JtVTZBRGJNYzVQXzZhaGNGTC10cUhZT2RWV0JsZWh6VHdOaUJLSUxpZW5iXzJGMkJRdUpLM1lOenlhdjVNR0NQNFpZRDY4cnpCMXBYcjBueFNiMVNvQ0xrdWVjQnQ0VHFvTVdzNFpXS0diWmFyV3I5UEg3WA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-25-014",
+    "date": "2026-08-25",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Could Be 20% Undervalued On Its Margin And Cash Flow Narrative - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNZEUwMTdOQ0hFSHYxVHljUU9zQkI3ejZlU1J5TGpEUHFLdExLcXJjWGlOYVdsTTZKdVl1U0Vab1NsRDIwNGNSeDdkV3dzSnRjVE1TeEkySmcyQnFiUTZYZ0Y4TjlWOFlMRVZScTJNVl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZEUwMTdOQ0hFSHYxVHljUU9zQkI3ejZlU1J5TGpEUHFLdExLcXJjWGlOYVdsTTZKdVl1U0Vab1NsRDIwNGNSeDdkV3dzSnRjVE1TeEkySmcyQnFiUTZYZ0Y4TjlWOFlMRVZScTJNVlpPTDVSX2R2dmNlVlhHOUI3TXA1M3l5eXZaZmw2ZU00UkRKOElIbjVia1YzbGY0VzJUbGlr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-25-015",
+    "date": "2026-08-25",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Before The Surge, Caterpillar Stock’s Order Book Told A Different Story - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxObk1oeGtiTlpBYWFXdGRvYkVzcDdkSVhueE5KcUN5WUpNUEdvV3lOMWdDQzRHclFsVU9oMThGeVVWNnhiMzYyVkdBUUg3aVZESjhvRmtENzFSc3ZrWEZzOFppQy1kSkNraFJBeDRyVW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObk1oeGtiTlpBYWFXdGRvYkVzcDdkSVhueE5KcUN5WUpNUEdvV3lOMWdDQzRHclFsVU9oMThGeVVWNnhiMzYyVkdBUUg3aVZESjhvRmtENzFSc3ZrWEZzOFppQy1kSkNraFJBeDRyVWRCdUlVVHVRbGhFZ0N4NWhMbjJfNGxrRnhBQ2lnOVBWdDlRcHF1aWVzVFZMS2pkWmQ4VGs4XzRwb18xaTFsaFkzVGxHX05ZSjNRV01KcTJPSlcza3FrQVltNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-25-016",
+    "date": "2026-08-25",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar vs. Deere: Which Heavy Equipment Stock Should You Bet On? - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWUhqZnVIT2k4MnJGMUF1bmFLTDFXakFaT0lETVdBWWlNRnRYZ3kzNW5FWkhNeGVtdkFnN1JMV3N0OTY5VlZxU2hiYmxaZV94aEhOYlNjR1A0b3dOb3J0LW5HTEY0QnA4T3VVVzhrNW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWUhqZnVIT2k4MnJGMUF1bmFLTDFXakFaT0lETVdBWWlNRnRYZ3kzNW5FWkhNeGVtdkFnN1JMV3N0OTY5VlZxU2hiYmxaZV94aEhOYlNjR1A0b3dOb3J0LW5HTEY0QnA4T3VVVzhrNWJGSEtrTmc2ajF1bV94aWx5UTFjR1FoNjgtRFNtZjBCOVRldzJ4OXV3bUU4ajlhUHh4cV9XRDJLbXgxYjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-25-017",
+    "date": "2026-08-25",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar vs. Deere: Which Heavy Equipment Stock Should You Bet On? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQUhPeGJWWkZ3WTU0eUV0NXRVN2F1UGZGckp0RlkwQmZDTnNaUHc0VV9zYm9fT0J4VmxqRHFSSk0zMHBpcjFKVzd5bGkzX0dNWnNhVnBiaGREa3R4TDFjZm4zX0IyeG1LODZoMGdQdF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQUhPeGJWWkZ3WTU0eUV0NXRVN2F1UGZGckp0RlkwQmZDTnNaUHc0VV9zYm9fT0J4VmxqRHFSSk0zMHBpcjFKVzd5bGkzX0dNWnNhVnBiaGREa3R4TDFjZm4zX0IyeG1LODZoMGdQdFlwZTJzdE1iZnNlZlRCU2RTVWI5RF9YbE1jaWNkRGlBX09sRWpJQUhiOFFYUkJ4NllmUmlpOXhUMFZOa2xtU25KejM3N3JFNVV3Y0ZRaHBncnQ3WndfTkVGTzJ2SHBGQzdOb0RGZWJQalgxVGVERldtcUs2RzQzXzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-25-018",
+    "date": "2026-08-25",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Stock May Be 4% Undervalued On Tariff Refund News - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlFBV1A2YTRzejRBa19KbWxlRXJZbVNmVVhyQ2lHUDdrdTV1eVRwc3BieXl3RWpWZHo5aV9KZUF4V3JfdjFRd2xPWHdVMUJKN3FRdV9NaG5FU1JhQlVrUVplYkw1V0J6THV3TEIzUF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlFBV1A2YTRzejRBa19KbWxlRXJZbVNmVVhyQ2lHUDdrdTV1eVRwc3BieXl3RWpWZHo5aV9KZUF4V3JfdjFRd2xPWHdVMUJKN3FRdV9NaG5FU1JhQlVrUVplYkw1V0J6THV3TEIzUFB4cEQ5SXd0QVNDVkRINXRDODRvR0dkMVdjZ3pqaW0xMld5TTU5R05F?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-25-019",
+    "date": "2026-08-25",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Non-life-threatening injury at Caterpillar Mapleton - Yahoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOUVhJTVFwai1abDM2OG83YS1vRFEzZXRzYnlEV2pOMlFsNERmZWN0dWNtYlFxX0JzaExfb1N2eWhlUkhsQjNGcFA1ek5IQ2s2OTBoUEhtODhIZ1dKSklJS2RRMS05MzY0bmJ4aDJEYm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUVhJTVFwai1abDM2OG83YS1vRFEzZXRzYnlEV2pOMlFsNERmZWN0dWNtYlFxX0JzaExfb1N2eWhlUkhsQjNGcFA1ek5IQ2s2OTBoUEhtODhIZ1dKSklJS2RRMS05MzY0bmJ4aDJEYmFCbi14Vi1GSV9UZlZSQXE0RzdfRVAwQ2dta3RwVUVhblFNeWxz?oc=5",
         "type": "rss"
       }
     ]
@@ -520,6 +889,24 @@
       {
         "name": "google_news_industrial_automation",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNejFweElTaWRIVEFXT2NKb19RS1FXYkVlSHFQa1FFU2g1Y2x0Nm13dXdsNmo1OUJTYWlCakRVMDRNTXR6c3hVOWFmZ3NvUTIxTDBBTTVpQWFBblJ4aHgzbTQyRXFCdy1zQ2lKbE8wTmUzUVZjSHRrUlFYRXVmaWpaNTZpRFdfUHdfU1VNWnRUOUI1dl9TNng2Z2ExSDhnTW9xZXFMNi1qWnhPUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "schneider-2026-08-24-023",
+    "date": "2026-08-24",
+    "companies": [
+      "schneider"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Data center thermal management: A practical guide for AI workloads",
+    "summary": "<p>Author: Kyle Geib, Application Engineering Manager at Motivair by Schneider Electric Executive Summary This blog answers common questions about AI data center thermal management, including: With th",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/datacenter/2026/08/24/data-center-thermal-management-practical-guide-ai-workloads/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
         "type": "rss"
       }
     ]
@@ -2216,6 +2603,24 @@
       {
         "name": "mitsubishi_electric",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYW9TTTVqdWFMTTNvcDJHRzZkcE1QRnJGY1RseXFoTy1JRnNOaUZKNkV0ajVTOW1rZFZUT1RkcGJneDVjLWduUnA1NUF5NVNVUGVTLTZQV1RHR1JwTkw0VENvSjRUam9yZmV4YUVGOHdOZ1hwTGp4R2djY2JmSDhXazBnY2FvNkpKNFpqTGFlZjBFUUVMY2xtd1ZNOUswZVBPVFdSNEhQSG5yQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-035",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Why arc flash safety analysis is critical to the industry’s shift to 800 VDC in AI data centers",
+    "summary": "<p>The ripple effect from ever expanding rack densities is moving into a new layer of data centers, forcing the industry to once again reevaluate historic norms and create new standards. The unprecede",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/datacenter/2026/08/20/why-arc-flash-safety-analysis-is-critical-to-the-industrys-shift-to-800-vdc-in-ai-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
         "type": "rss"
       }
     ]
