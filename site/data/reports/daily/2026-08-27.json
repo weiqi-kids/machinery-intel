@@ -1,0 +1,285 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:39:29.088882Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "abb-2026-08-27-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Siemens, ABB, Among Top Five Capital Goods Stock Picks As Order Inflows Drive UBS's Bull Case - NDTV Profit",
+      "companies": [
+        "abb",
+        "siemens"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMDlyTHNwTXlkU3VQZGZGN0Z2b1BKTWlDQTIwTVVTTmdFQnJwaGJsbkxGdG1oTU0xcXZmSnZHM0x1S1VMMjlDMHJ2NDRVTC00T0hiYkpNcklIY1BVNTE0eGRHUXdPdWRMcG5fcVBZbmJ2aU12Q3VpU0NzSDJzekN2MjhCaW91U0tBSllHcTNBRUgtdlY5OUJ1dTdvTVpxVVZNMVpJRzRmb3d3MnRXakhnaVZLUm9Mb21qdnZIVTEwVTJNZndNOXNMMHNaQ0k2dVA4RnhXSEhDX0w2dkw5dmfSAeYBQVVfeXFMTi1JRUxjb3BhVG1IUGF3Qm83U2ZwX28xOHBfTTNhTVZqcngtdFBnUTZBekxJYVRkUkpiQkRyRmZDSi0xQkZOakRONEpQZjBZVzJSbEpGY0pZdjloYnhDLTEtRjNoQmh3N1FzcEt0eUVldGJrVHY3SnlGb1d2UHBCY3BHU0o0b2ZwRGU4VGFRempBb0VvZmdLbVRfbEdlZDZmUnBtcmdkWUJSS0xhMnVRdHkxenlPenhjaTFLeG5oRF9TTFZDY3k4TENhV2xVNm5udTBhdmlMS2lPZk1ZdkFoWWc0bE55b3c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-08-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics & Quintain Steel launch large energy storage facility in Tainan - Yieh Corp.",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakhqTFBrM05GandEVHdvQkl5QkFfRkVVZkg0ZFRCNTFWVmhsWW11WTRPMXo4Z0xXdmZjQ25kUWRsT1ZUNDVVMjM4Snd2QWpzeDVUMHFnUmNZWDhDMVQzZGpWT1hFeGtjU2JHdFdOS1lpZWNxMmRhT0Y3X18yU2FQUmpzYk5JS0hBRFE3ZW0yTXZUWXJKaG9tUm5WMVpDT3VYa2c5SkZsTjNoT0ZPa1l0enhRb2p6UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-08-27-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "White & Case, Jones Day Advise on Mitsubishi Electric’s $1.4B PCI Acquisition - Law.com",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXJiek5TekNuOV9uYVZiVmM1UDl5S3JEUDItWGpRYzY0Q0NFWExTOWxLSUViRXNCNVBNRDFkVkF5YzVXbjhXR251VkhyOHFGN2h3SjBuN2gzWm1FS2l6d1FmUlFVODVJMU9UQXRjU0NtRVBJdUhnUDNqcnUzeXpfVnB6OEc0eENRUjFFX2p2UXhVbGVGaFBfa25GSk5CWXJFaGlrYm5xZ2tCTWIxN1hEWEJJbWpqRGtiQ25FOW1KdF9SeUVN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-08-27-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric: Speculation of a bullish rating upgrade by domestic securities firms. - Moomoo",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTWFOM0VTSjQ4YWtrc3A3eURfU29tc2VXbFZjVGlNSENmQkJfMlE1dnpLaFRqWDBKWWdCdFlobFpKVnVpNm8yZHhPVGZaYjhrMjUxZUl0dVZFME55OXMtTXV1UW5JVTE5TEVmZm1pX3JiQXZvVmpGV2cwdU5nTWZqT1lmcl9ONVVzZGxvQzJ4b05NaklON3N5WTc0SW5IUFZ2S0RyY1ZpRm1CR3BvMS1XY2ZJRQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itw-2026-08-27-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Is Illinois Tool Works (ITW) Down 2.4% Since Last Earnings Report? - Yahoo Finance",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTWYxNnZJNldzSXh5bHd3OGxUOFB6STNnWjRQc0UzOE1rVnJMWXRuT1ptNHNNYzVORlZDSVhaOTVUdGtCQUprODZKVjFYVExaUWlMbzQxRkpNeGhJaFUyLTk5dlJybEI1RlZBWkFVNm9lWDNTT0oySjdTNlF6QmhJRjhzbWRLX3VXcTA1SEpvX3FwOXZnazZn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "reshoring_supply_chain": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cnc_technology": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 8
+      },
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "abb",
+        "count": 2
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 2
+      },
+      {
+        "id": "delta",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "automation_capex",
+        "count": 9
+      },
+      {
+        "id": "reshoring_supply_chain",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 394,
+    "dup_title": 189,
+    "too_old": 146,
+    "gate1_blocked": 3,
+    "gate2_blocked": 15,
+    "passed": 41,
+    "pass_rate": "20.0%",
+    "gate2_block_rate": "7.3%",
+    "gate2_samples": [
+      "2026 Gartner® Hype Cycle™: DCIM tools enter the plateau of productivity",
+      "Mitsubishi Electric To Acquire PCI Energy Solutions For $1.4 Billion To Expand Energy Management Sof",
+      "Mitsubishi Electric to buy US-based PCI Energy Solutions for $1.4bn - Energy Monitor",
+      "Mitsubishi Electric to Acquire PCI Energy Solutions - nippon.com",
+      "Mitsubishi Electric Agrees To Acquire PCI Energy For $1.4B - Law360"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為Parker、CAT、ABB相關動態：「Siemens, ABB, Among Top Five Capital Goods Stock Picks As...」。主要關注主題為產業通用、財報、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Siemens, ABB, Among Top Five Capital Goods Stock Picks As Order Inflows Drive...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Delta Electronics & Quintain Steel launch large energy storage facility in Ta...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "回流與供應鏈話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

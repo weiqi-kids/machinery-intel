@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 189,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 3,
+  "gate2_fail": 15,
+  "passed": 41,
+  "gate2_samples": [
+    "2026 Gartner® Hype Cycle™: DCIM tools enter the plateau of productivity",
+    "Mitsubishi Electric To Acquire PCI Energy Solutions For $1.4 Billion To Expand Energy Management Sof",
+    "Mitsubishi Electric to buy US-based PCI Energy Solutions for $1.4bn - Energy Monitor",
+    "Mitsubishi Electric to Acquire PCI Energy Solutions - nippon.com",
+    "Mitsubishi Electric Agrees To Acquire PCI Energy For $1.4B - Law360"
+  ]
+}
