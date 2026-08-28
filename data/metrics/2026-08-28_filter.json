@@ -1,0 +1,16 @@
+{
+  "total_raw": 396,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 2,
+  "gate2_fail": 12,
+  "passed": 19,
+  "gate2_samples": [
+    "2026 Gartner® Hype Cycle™: DCIM tools enter the plateau of productivity",
+    "Mitsubishi Electric To Acquire PCI Energy Solutions For $1.4 Billion To Expand Energy Management Sof",
+    "Mitsubishi Electric to buy US-based PCI Energy Solutions for $1.4bn - Energy Monitor",
+    "Meet DMG MORI Sailing Team - The Ocean Race",
+    "Total equity of DMG MORI CO., LTD. – HAM:0MO - TradingView"
+  ]
+}
