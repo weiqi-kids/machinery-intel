@@ -1,5 +1,209 @@
 [
   {
+    "id": "abb-2026-08-29-001",
+    "date": "2026-08-29",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB stock gains on a $7.51 billion quarter - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnNFSzhtbk5uYkZqOFl6azlkT2tSbDN4eEtfRUFzcGgtUHlYYkQ5SDhVcHR2a1FFcWpvUkh5UEdpMU94eGVsQlhiMXRydWJaQ0FnZTNlOGlUUzVrQ2NJREZla19RRnVyM0o4ODQwbm",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnNFSzhtbk5uYkZqOFl6azlkT2tSbDN4eEtfRUFzcGgtUHlYYkQ5SDhVcHR2a1FFcWpvUkh5UEdpMU94eGVsQlhiMXRydWJaQ0FnZTNlOGlUUzVrQ2NJREZla19RRnVyM0o4ODQwbmY5LWQ4eGxxYlA5OTlkWWQtRnB3LXJiNVRaSENrUVZtZW5kSnZHQmE4X1NVZEpsSS1aWC0yWkpXZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-29-002",
+    "date": "2026-08-29",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock holds firm after Q2 beat - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxON2RfLVlmcXo4dTlneDF2ZTQyN3dNNUdDeUs0UHF5elR3dTdOVk00UlhGRVRGdEF6X3RmUEo5Rkx2STgwaHg3ZU1EVENCSlpHYTI3cWQzWHc0bnpDdkNkTmRuQjZjQUlBWEwwSHgtMl",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2RfLVlmcXo4dTlneDF2ZTQyN3dNNUdDeUs0UHF5elR3dTdOVk00UlhGRVRGdEF6X3RmUEo5Rkx2STgwaHg3ZU1EVENCSlpHYTI3cWQzWHc0bnpDdkNkTmRuQjZjQUlBWEwwSHgtMl8tQlN2c1pfQkZOeXZScUhOSGNUT0lUaHBhd3NUZFZBZ0ZFa1g1SFRxMmZ2c3NZb21XdGQ0bkJnaGVvdXdfUF9pbFlYZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-29-003",
+    "date": "2026-08-29",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rakuten Investment Management Inc. Takes $19.88 Million Position in Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTldvMVY2cnhBYS01WXFTQl92ZmM0UGdzOENJRkJTWjNTeVRvaEN1Rkxfand0S09jbTROQm45NnpYSjIwTHJKeW1XUENTaGl6b1RiUFVKMzNMXzFfa2E4T25nX2VaSGVvME5fY3ZTSF",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTldvMVY2cnhBYS01WXFTQl92ZmM0UGdzOENJRkJTWjNTeVRvaEN1Rkxfand0S09jbTROQm45NnpYSjIwTHJKeW1XUENTaGl6b1RiUFVKMzNMXzFfa2E4T25nX2VaSGVvME5fY3ZTSFZZbF9xenljcERMWkt5VV84cC1HTkNkcGcxS191VUlsaUJBeFU1SjAtUVZoMDBjMV8yM1Y4RVlZb2xvOXBSaUdjWWU5bE9leDZiY2R1RE5CbDB3UzU0NVFKbmNtSjI0a2RZbWplbWFNWWxDOXp5NEt4SGpVcTlUdnRqSVVyUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-29-004",
+    "date": "2026-08-29",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Royal London Asset Management Ltd. Cuts Stake in Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNazVzaFhWOWYzcUotNDNWczlDbW1GMUZDbkRTRktBYXZQUkY1enQ2Z0JNQjRVM2s2X0pmTF9ya0xSanZNMjdkOFZMRlJXUEVPZ05zYm5iRFljUWNzbTU1eDJ6bzlnckFPUDY1XzNVeF",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNazVzaFhWOWYzcUotNDNWczlDbW1GMUZDbkRTRktBYXZQUkY1enQ2Z0JNQjRVM2s2X0pmTF9ya0xSanZNMjdkOFZMRlJXUEVPZ05zYm5iRFljUWNzbTU1eDJ6bzlnckFPUDY1XzNVeF9tMnAydWRwNmZZZGFkWmM4eDV4SkNSTkxPRFU2VFBPaTFuakF1dWl4SWc3b2hyZ1dJNTgwaVBIVkpxQmZjZ1Vzd1lPd0NMamQ1N3A5U01xN0hOV1pWa0dCOGIxS0xzY1JqQ1hhUmFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-29-005",
+    "date": "2026-08-29",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kingsview Wealth Management LLC Takes Position in Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSEEyS0drX1Z6LWE4N0Z6QzFWZkN1MklKYzBwTVVzN3BfLUxZaHpER0YxOTFIZTRyaUY4dlo5Q21VWURZSTlILTVIbzNmUVZnMXNHR2pHaVhzNENvUkZJQTdvWUdMMHIxbjdMbVpoal",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSEEyS0drX1Z6LWE4N0Z6QzFWZkN1MklKYzBwTVVzN3BfLUxZaHpER0YxOTFIZTRyaUY4dlo5Q21VWURZSTlILTVIbzNmUVZnMXNHR2pHaVhzNENvUkZJQTdvWUdMMHIxbjdMbVpoalkxNFcwUUgwYml4R2hObUxVamFmR2Y5OTNXTUw1SGNWUVlhazdpazU3cWE0NGVuMGFGYzFBQnJrOUJ3c1o4Z0JDdzFkbm5vVEVfUWlOZ3RycVdzUElQblRha0RsMWg0NTJZMzJwZm43Vi0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-29-006",
+    "date": "2026-08-29",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Jupiter Topco LLC Makes New Investment in Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOWXlhS2drXzFibnRjakhyblQyS3d2SzN6QTZ4dEk2V0dYMWg5V1pScDZrS3BTSEJJUG5vSVU3blpmRXZpaUpSMjRBbXNkbkc1Z1lsTkFnTzlNQzZwWVVoeGNNY3V4MzNNbHJGWFZDaH",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWXlhS2drXzFibnRjakhyblQyS3d2SzN6QTZ4dEk2V0dYMWg5V1pScDZrS3BTSEJJUG5vSVU3blpmRXZpaUpSMjRBbXNkbkc1Z1lsTkFnTzlNQzZwWVVoeGNNY3V4MzNNbHJGWFZDaHkyWFFTQXNjMVpXUmVMcFp3TmFPTnVOS0lCcXBuZXEtOEliU0FIVzZMMUVrYVV4djlZVFhNWnM3NUNxVHFqWkgzeE5SS3FIWXdEcHF6SnNwS2RoTmF4SU1vQjlGcnVRQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-29-007",
+    "date": "2026-08-29",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ferguson Wellman Capital Management Inc. Sells 7,287 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZzRmWWhUanU3R3F0aUJ1TkppcHUxRGZIWFZMemY2b1AzazF1Q0o0MGtpY2dOQUYxWE9GWXU1R1JoSHBZVXlNYzRPQ3ZEbXN1OXU4ZWhNS3JTYWkxRUNuV0c3enhIcEhtcFZEVzB1eG",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZzRmWWhUanU3R3F0aUJ1TkppcHUxRGZIWFZMemY2b1AzazF1Q0o0MGtpY2dOQUYxWE9GWXU1R1JoSHBZVXlNYzRPQ3ZEbXN1OXU4ZWhNS3JTYWkxRUNuV0c3enhIcEhtcFZEVzB1eGZkXzVzVkcxZHRRSG0xNDBuREFkd0tUSW5WZWdEUmY1VnlPUGtfZUJ6dVFFcURLMUdvMHB2ZE1TWTQ3M0xoTEROLTkxYjB3Smx2ek9tNzVtTF9pOUc5MGw3QzE3RUxEcVhaWXVLbXVjZ21nRGlQR2dGZzMtNFhTTGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-29-008",
+    "date": "2026-08-29",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Shares Acquired by BNP Paribas - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1VOdURKYWVKSFpMUjFUM09VbF8xb3pHcWpnUnJaRGlIeHdZRmN4UFVRcnRBWkJTUTR5aVYyUEk1Nmh4YjQ0U0tnQnJYelhtc3M4Wm9ySHlXTzNuRmdJb2NXRTdKRWgzdHpnR1VTdX",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1VOdURKYWVKSFpMUjFUM09VbF8xb3pHcWpnUnJaRGlIeHdZRmN4UFVRcnRBWkJTUTR5aVYyUEk1Nmh4YjQ0U0tnQnJYelhtc3M4Wm9ySHlXTzNuRmdJb2NXRTdKRWgzdHpnR1VTdXRPU1dRaDFVWm95NFpHZjlNblpoTzdkUzNCeVVmeGNrQnFWVDQwc0w3UHNBRy1jSHEwcWkyOTJPNm4tRFQtTmt4cF82WFE3VXFjU0xURU9MTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-29-009",
+    "date": "2026-08-29",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Beacon Pointe Advisors LLC Buys Shares of 19,767 Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN2FZTlpwMnhrWVlDc3ctUFI3SUhVb0VpSTNMbFBLaVNRYnY3cjZ5dENYZHdEWDJIanhaaEo2SXNJMm1nNHlKTVVSQWQ5UC1UQ3ZmaXBnY1FOdU8zNWdfeWdMYXlsRWZtZjd2dEI2Wk",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN2FZTlpwMnhrWVlDc3ctUFI3SUhVb0VpSTNMbFBLaVNRYnY3cjZ5dENYZHdEWDJIanhaaEo2SXNJMm1nNHlKTVVSQWQ5UC1UQ3ZmaXBnY1FOdU8zNWdfeWdMYXlsRWZtZjd2dEI2WkYwV1FZSXBfT0tpRFNBV05lSm5mZHhTeng4dXhVb002WkItSWJEYzJLOURSWnZybGpVY1BNWTcyT01uLVhDbHJVMlp1aUNucno0Z1hKcWtGVXN1bm9LcmdPWFE2QkF2RFpEYkxuc25R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-29-010",
+    "date": "2026-08-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "‘Orange dogs’ have surprising camouflage skills - SouthTexasNews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTmFPWk5GQ2k1c1QwaWxDeWZkU1U2LVc3aXRBVVkxallOWkRHeGN2czljVUJQWlIteGZEY2pRaHM0NmRieUNNSjVGYkdhLTMtbk9jRTU4S2ItQjlMM011Y3JSNWpyeFltRkYySmttSV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTmFPWk5GQ2k1c1QwaWxDeWZkU1U2LVc3aXRBVVkxallOWkRHeGN2czljVUJQWlIteGZEY2pRaHM0NmRieUNNSjVGYkdhLTMtbk9jRTU4S2ItQjlMM011Y3JSNWpyeFltRkYySmttSV9CU2pETG14bHFkSlZfZ1hpOHdsczQwelA1SDd0bHZkMmxlT0ROWjRYUm1iSHdjT2l5bHdkY0xoSHJjblMxb1lHT2FxRTZmdmdSTV9LQ0V6Z1RBa2xFUzRsWEdyeC1OVENtTFlDUmZJa2xYcXEzblF1VVpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "airtac-2026-08-28-001",
     "date": "2026-08-28",
     "companies": [
@@ -309,6 +513,125 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTDNEWHB1ZlhVcjhYR1Z6c3NQZWx6WWxXOUViWFctMW41QUJLV010Z2lnelE3Y0FYOUc2czd0Q19QZmRabGt5NGN5UExRTk45UDBmb2JZOFVfcElyVnY2T1Y0VEo0dWp1NFVTT0N0dDhaZTBJU3VvVWlxTVFlTVlMdURCME1IaHdEb0M3M0R0NXVtU2FjZUhCd1FfVV9NYUlzYm1n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-28-016",
+    "date": "2026-08-28",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Parker Hannifin (PH) Fully Priced On Its New Shelf Registration? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbXUzdTQ0bzMwWTJUVHZfWkVydW1QSkp3c1BxcURvRDhOdG5XbjNhelFGck1YQTFhYmM0azF4a2t2aWxMSWE0MktNeHZ5TWhIVml2eXJKZlF0aEpzZEVLMGpobW9MVlpOSUFhaDROSV",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbXUzdTQ0bzMwWTJUVHZfWkVydW1QSkp3c1BxcURvRDhOdG5XbjNhelFGck1YQTFhYmM0azF4a2t2aWxMSWE0MktNeHZ5TWhIVml2eXJKZlF0aEpzZEVLMGpobW9MVlpOSUFhaDROSVMyVEU3VmNHakUybHMzNGR3Qi0zZl9NZGxZS0FKUEtDOGNUZzk1b2FxOEZzZ2RueHFmS0R1Zy1KTFFyS3pMR0JQT2hyYjFHeHBNWEVUWkkwT0c5ZmRPS3JGNHl3MVJIYzZOYkgzZWNR0gHWAUFVX3lxTFBtdTN1NDRvMzBZMlRUdl9aRXJ1bVBKSndzUHFxRG9EOE50blduM2F6UUZyTVhBMWFiYzRrMXhra3ZpbExJYTQyS014dnlNaEhWaXZ5ckpmUXRoSnNkRUswamhtb0xWWk5JQWFoNE5JUzJURTdWY0dqRTJsczM0ZHdCLTNmX01kbFlLQUpQS0M4Y1RnOTVvYXE4RnNnZG54cWZLRHVnLUpMUXJLekxHQlBPaHJiMUd4cE1YRVRaSTBPRzlmZE9LckY0eXcxUkhjNk5iSDNlY1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-28-017",
+    "date": "2026-08-28",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Here's How Much $100 Invested In Parker Hannifin 5 Years Ago Would Be Worth Today - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNWVJUby0yWGZwR2N5aUJrX3owQ1ZFbld4Q04wMDZJYlFVaTlZMzV1N2t5OXRVdkVEYXBaN0x3RjlJVU1HRll5T0hhLThtU1BSbFYwSVliZ016MFRDWFVSVHVaMWRWLXlBOTNyLW9tNW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWVJUby0yWGZwR2N5aUJrX3owQ1ZFbld4Q04wMDZJYlFVaTlZMzV1N2t5OXRVdkVEYXBaN0x3RjlJVU1HRll5T0hhLThtU1BSbFYwSVliZ016MFRDWFVSVHVaMWRWLXlBOTNyLW9tNWx4WU5VekVIY2Q4LThlUVVsb0hUb1hubW5RRzN4Mk5Vc0dfQjd1d0RLSVU5NnhRQ1VwdFRSWkc2d1dnWGJ0cEJ4MTVfNUtWNVI0RWM0M0hTcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-28-018",
+    "date": "2026-08-28",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (NYSE:PH) VP Sells $626,362.94 in Stock - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOeXpWQTVOLXRPd1FqTFlpVktSV3JUUHNYeXc5V1p0LUVkUUZKNHNOQVZDWmZoSVVMM3E4aWpvV3B1aml3VXI2Mk44cklLajdZSlJUM25scUxqQUl0emQ0TmxuREk3OFEzVGpKN0RBWk",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeXpWQTVOLXRPd1FqTFlpVktSV3JUUHNYeXc5V1p0LUVkUUZKNHNOQVZDWmZoSVVMM3E4aWpvV3B1aml3VXI2Mk44cklLajdZSlJUM25scUxqQUl0emQ0TmxuREk3OFEzVGpKN0RBWk5wbC1XOUlXblZnQzltSHlUOGVJbVRDUGxmWHY4QVJHTHZ0ZWdFMDZia0E4YmprVndqb0hORzhFZFNCQnNBMDlHeUtR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-28-019",
+    "date": "2026-08-28",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Caterpillar Stock Relying on an Artificial Demand Story? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNS25fdEhnNEpSa2pvRFREMDRjZFg2NFM1TFNBeWRrR3dLUjQxNDBtOU14UG9tT3Rtc2ZVS2ItV1NvYzRtbDVTUXJrb3B0R0NhZ1I4N2xQZ2ZfU2dhckpybG9hLTN0RUcwaUhBdTBxZm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS25fdEhnNEpSa2pvRFREMDRjZFg2NFM1TFNBeWRrR3dLUjQxNDBtOU14UG9tT3Rtc2ZVS2ItV1NvYzRtbDVTUXJrb3B0R0NhZ1I4N2xQZ2ZfU2dhckpybG9hLTN0RUcwaUhBdTBxZmZoZDZ4c2lDNDdZSEM1aFJEZkNmRDhKU2xiZFhhd05TaUhxZGhORUdyRHo3dVlmR0RLV2dqYWo4OTlPVmhC?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-28-020",
+    "date": "2026-08-28",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (NYSE: CAT) exec plans August 2026 stock sale - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPbHpfQVZxQThsZUp2UlBpcWJHUS1hVmdnRlRydkEzdXpGTHJfeHZOWkg1MEpwYjBHRTRzYU13dU9TRlVIQW9PQUdTMDlTYm1kNlJ2ajFBcFFOSXY1a29LQ082Q1ljT1VNVlFVUXhrUl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbHpfQVZxQThsZUp2UlBpcWJHUS1hVmdnRlRydkEzdXpGTHJfeHZOWkg1MEpwYjBHRTRzYU13dU9TRlVIQW9PQUdTMDlTYm1kNlJ2ajFBcFFOSXY1a29LQ082Q1ljT1VNVlFVUXhrUlZmUm1iSmF5ZTFQNTA1YW1qZERYbVlLbTllZWJlaW9tN3dyajc2cGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-021",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "“Workhorses that operate 24/7.” Belarusian machine tools were sold to companies linked to Russia’s defense industry - Беларускі расследавальніцкі цэнтр",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGkwRmc0LXVvdmNHVy1ybGVtNTh1QlFqT29aeUZVeDRBVWtCbjYtQnJkcXU0WlVrcU9UYTNvTzlTamRxUnY3MS1GcW9wanFsQWhMOWN0NmYta2tzLU42NU5pNUoxajRGdzU2d1VNam",
+    "sources": [
+      {
+        "name": "google_news_machine_tools",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOGkwRmc0LXVvdmNHVy1ybGVtNTh1QlFqT29aeUZVeDRBVWtCbjYtQnJkcXU0WlVrcU9UYTNvTzlTamRxUnY3MS1GcW9wanFsQWhMOWN0NmYta2tzLU42NU5pNUoxajRGdzU2d1VNampUcUNMbXNmYnJZSTBwMFVUZXhYcTNkdWRza01QVDgxdHcxQlNf?oc=5",
         "type": "rss"
       }
     ]
@@ -777,6 +1100,26 @@
     ],
     "impact": "neutral",
     "title": "Bringing STEM Education, Game-Style to SXSW EDU - Caterpillar Inc",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNN3lBbWFIZDFYSlhJTGU0Z0poSXEtaW5KdXV6ZWRRa1dOd2RwNFVPVUZhRW5PN3ZjeGxvbEYyamtacTJBRTJGY0JwcGQ1OHhlQkJleUI0Z3l6S09oajBuazFQYTd6Tk1OQUpNRjNGa0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN3lBbWFIZDFYSlhJTGU0Z0poSXEtaW5KdXV6ZWRRa1dOd2RwNFVPVUZhRW5PN3ZjeGxvbEYyamtacTJBRTJGY0JwcGQ1OHhlQkJleUI0Z3l6S09oajBuazFQYTd6Tk1OQUpNRjNGa01qVGhYNHRJRW9FRDQtMkE0SWt1YWZ3eDFlTE1oX3dOSzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-27-024",
+    "date": "2026-08-27",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bringing STEM Education, Game-Style to SXSW EDU - Caterpillar",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNN3lBbWFIZDFYSlhJTGU0Z0poSXEtaW5KdXV6ZWRRa1dOd2RwNFVPVUZhRW5PN3ZjeGxvbEYyamtacTJBRTJGY0JwcGQ1OHhlQkJleUI0Z3l6S09oajBuazFQYTd6Tk1OQUpNRjNGa0",
     "sources": [
       {
@@ -2102,6 +2445,26 @@
       {
         "name": "abb",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb05sbUFHRDE4MGR2VTFkY2RmVXdUVVFqUi1JYVNkOEo1RlBocmp1a3R1MTN1Rk1DT3R3T3dlMlFUdGowd09GbWJfTzNZbG8xWDRFN0dfQTV1cFUtZGRZaVYyUzFZN05pYmFLY0lHR09oZ0xUVzQ5cHE5LU8tVHJWdVIydy1TMXlNeXlwZm9qLTNPckxrc1QzZWpPRXRZcS11cnFyNlhGVzNuanoxWE1Cckx3cjEwZ0s0cHNDRGpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-026",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "cnc_technology",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Desktop CNC Machines Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOcndQeXUtRE9vdDFOMVVINWRpWmlCSjEzVUc1dWdJZDdZZjRtYXA1T21KYnhaaUFHcXVOdkw3cXVBbXlBQ3VEWmFPTTUxNVRsSkVaYXc5WURQQTRwM2I1YWJTemRiNmdVUV81SkJqUX",
+    "sources": [
+      {
+        "name": "google_news_machine_tools",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcndQeXUtRE9vdDFOMVVINWRpWmlCSjEzVUc1dWdJZDdZZjRtYXA1T21KYnhaaUFHcXVOdkw3cXVBbXlBQ3VEWmFPTTUxNVRsSkVaYXc5WURQQTRwM2I1YWJTemRiNmdVUV81SkJqUXRxZWNWMmpyN1U1UnQ3UHQ1TXRWWQ?oc=5",
         "type": "rss"
       }
     ]

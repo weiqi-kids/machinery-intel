@@ -1,0 +1,16 @@
+{
+  "total_raw": 396,
+  "dup_title": 230,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 1,
+  "gate2_fail": 8,
+  "passed": 18,
+  "gate2_samples": [
+    "2026 Gartner® Hype Cycle™: DCIM tools enter the plateau of productivity",
+    "Mitsubishi Electric To Acquire PCI Energy Solutions For $1.4 Billion To Expand Energy Management Sof",
+    "Meet DMG MORI Sailing Team - The Ocean Race",
+    "DMG Mori - Sail-World.com",
+    "Illinois Athletics and Caterpillar Deepen Shared Roots with a Sponsorship - University of Illinois A"
+  ]
+}
