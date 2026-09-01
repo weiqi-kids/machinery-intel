@@ -1,0 +1,16 @@
+{
+  "total_raw": 396,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 165,
+  "gate1_fail": 1,
+  "gate2_fail": 6,
+  "passed": 17,
+  "gate2_samples": [
+    "2026 Gartner® Hype Cycle™: DCIM tools enter the plateau of productivity",
+    "DMG MORI Global One - Sail World Cruising",
+    "DMG Mori - Sail World Cruising",
+    "Illinois Athletics and Caterpillar Deepen Shared Roots with a Sponsorship - University of Illinois A",
+    "SK Hynix, Rolls-Royce, Caterpillar investing billions in Indiana - Inside INdiana Business"
+  ]
+}
