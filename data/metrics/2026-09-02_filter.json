@@ -1,0 +1,16 @@
+{
+  "total_raw": 393,
+  "dup_title": 188,
+  "no_date": 0,
+  "too_old": 171,
+  "gate1_fail": 3,
+  "gate2_fail": 6,
+  "passed": 25,
+  "gate2_samples": [
+    "2026 Gartner® Hype Cycle™: DCIM tools enter the plateau of productivity",
+    "DMG MORI Global One - Sail World Cruising",
+    "DMG Mori - Sail World Cruising",
+    "Okuma America Names Dominick Patriarca President and COO - citybiz",
+    "SK Hynix, Rolls-Royce, Caterpillar investing billions in Indiana - Inside INdiana Business"
+  ]
+}

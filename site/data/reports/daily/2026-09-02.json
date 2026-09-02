@@ -1,0 +1,154 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T12:24:59.611293Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "parker_hannifin-2026-09-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Stifel reiterates Hold on Parker-Hannifin stock with $1,075 target By Investing.com - Investing.com India",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUTBUUFc5eTNpUmhyTDI4ekdHS2h3WFhYTjB1ZS01WlRZaWRjZWwwY1JBS1VadkFuMDJtcTFKRkNsUmx3ZnpNWGVCcG9yY21lN1djOUJKOWN6amNlUXNKaXkzSG1QY2VMWGlkY3NTQU1RRFRQWDVidnBVcTF4ZnVOU256dENRdDhvNzg0OTVLYWdBcWtKWGdHellfTmp0VS1OVTZwSTJOYnJHTDlZZlJGZjMtZGJQWHNZSFViQ19LODdxUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "caterpillar-2026-09-02-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar twitches in an ultraquiet chamber are helping biologists understand how these insects hear without ears - The Conversation",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVHladFVFSHhIUXBiQXBaMjVnaE42anRmWnpNLXBNVXA0OWxFalUwOU9GUU9nWkloRG5TSGdGUU1vSmNOX3VCbW9SV002NGJCNUFETk5mbGtVUE1peFgxUk5YS3NRQnRXZG03QUNuQ1lyZHZmSUJPbFl0U1VJX1hjOFlybHpNVG9yVDZxeTFFa19KUHo0OHNvRzlUMkZzNU16U1FhbWFVVWpILUtWVlVRc0EzNkxhQnVjeEZ2aXpIY2xoZU40dUM2RXdLSERZaUFwUFlXQndPQnBkZ2JzekU5X25nMkM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 393,
+    "dup_title": 188,
+    "too_old": 171,
+    "gate1_blocked": 3,
+    "gate2_blocked": 6,
+    "passed": 25,
+    "pass_rate": "12.2%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "2026 Gartner® Hype Cycle™: DCIM tools enter the plateau of productivity",
+      "DMG MORI Global One - Sail World Cruising",
+      "DMG Mori - Sail World Cruising",
+      "Okuma America Names Dominick Patriarca President and COO - citybiz",
+      "SK Hynix, Rolls-Royce, Caterpillar investing billions in Indiana - Inside INdiana Business"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Parker、CAT相關動態：「Stifel reiterates Hold on Parker-Hannifin stock with $1,0...」。主要關注主題為財報、產業通用、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Stifel reiterates Hold on Parker-Hannifin stock with $1,075 target By Investi...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Caterpillar twitches in an ultraquiet chamber are helping biologists understa...（自動化資本支出、財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

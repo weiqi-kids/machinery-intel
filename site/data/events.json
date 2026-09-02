@@ -1,5 +1,47 @@
 [
   {
+    "id": "parker_hannifin-2026-09-02-001",
+    "date": "2026-09-02",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stifel reiterates Hold on Parker-Hannifin stock with $1,075 target By Investing.com - Investing.com India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUTBUUFc5eTNpUmhyTDI4ekdHS2h3WFhYTjB1ZS01WlRZaWRjZWwwY1JBS1VadkFuMDJtcTFKRkNsUmx3ZnpNWGVCcG9yY21lN1djOUJKOWN6amNlUXNKaXkzSG1QY2VMWGlkY3NTQU",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUTBUUFc5eTNpUmhyTDI4ekdHS2h3WFhYTjB1ZS01WlRZaWRjZWwwY1JBS1VadkFuMDJtcTFKRkNsUmx3ZnpNWGVCcG9yY21lN1djOUJKOWN6amNlUXNKaXkzSG1QY2VMWGlkY3NTQU1RRFRQWDVidnBVcTF4ZnVOU256dENRdDhvNzg0OTVLYWdBcWtKWGdHellfTmp0VS1OVTZwSTJOYnJHTDlZZlJGZjMtZGJQWHNZSFViQ19LODdxUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-02-002",
+    "date": "2026-09-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar twitches in an ultraquiet chamber are helping biologists understand how these insects hear without ears - The Conversation",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVHladFVFSHhIUXBiQXBaMjVnaE42anRmWnpNLXBNVXA0OWxFalUwOU9GUU9nWkloRG5TSGdGUU1vSmNOX3VCbW9SV002NGJCNUFETk5mbGtVUE1peFgxUk5YS3NRQnRXZG03QUNuQ1",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVHladFVFSHhIUXBiQXBaMjVnaE42anRmWnpNLXBNVXA0OWxFalUwOU9GUU9nWkloRG5TSGdGUU1vSmNOX3VCbW9SV002NGJCNUFETk5mbGtVUE1peFgxUk5YS3NRQnRXZG03QUNuQ1lyZHZmSUJPbFl0U1VJX1hjOFlybHpNVG9yVDZxeTFFa19KUHo0OHNvRzlUMkZzNU16U1FhbWFVVWpILUtWVlVRc0EzNkxhQnVjeEZ2aXpIY2xoZU40dUM2RXdLSERZaUFwUFlXQndPQnBkZ2JzekU5X25nMkM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "abb-2026-09-01-001",
     "date": "2026-09-01",
     "companies": [
@@ -221,6 +263,195 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN3hFeHZQc2hFdHg1VEM1djlXREpQNHdKYkhNRGJWVGN3VV9JV2Jmd3hWZ0g5SGtCX09HOHZCaWlOaVNzQmxEYzlTZWctZmU2QlZFS1RtVTNzZHBHTnA3MXgxSnpLN1VpczJwVTRIdjVlWl91cFl5SWNYcW9IR2RZaWxtZXJFY09DQUhmbk5rT0YzaFlYS2tCaTI1R0VMcjM1dTZkLVNjN0xYc3NmbFh3RndaMmxpLXBFMGpF0gHDAUFVX3lxTE5qRVllQnlESDhhVmhQWnVBNEhjem16azV1WS1kSXI2aHN3eHBnSFhzczk5bE9kMXJzMTJJX2o3OGdZMkVSVGh6V1FWdVZUdkV3eVNDNzlNYUhiNVB4c1F6R001b1FYYU1rRVNHWVNrNEYxbTg2NVNyenBiREppNmVsNllPdU5ja0Y0LTVuOURONE5pTkktenRabWxoa1pFU3NTa0dTb3VPT1JjRC1GOUIwM0FYUmFNM2hxMW9sRF9ZQzhwbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-09-01-012",
+    "date": "2026-09-01",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics stock highlights absence of fresh data - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzZYTjlKTEJHdlVMLWJHNDhTS2NMRERMME9UN1VQajg0SVpuU3ZPclBOaDIwM0ZPSDRrQk8xWExmc1B3QjV2N0szLVJfSi1MY055clFhTFc5MHJxZjFEUmxpckRobWx1QkNRSGxhT2",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzZYTjlKTEJHdlVMLWJHNDhTS2NMRERMME9UN1VQajg0SVpuU3ZPclBOaDIwM0ZPSDRrQk8xWExmc1B3QjV2N0szLVJfSi1MY055clFhTFc5MHJxZjFEUmxpckRobWx1QkNRSGxhT2RxSkQ0djJMV2tDdjZONUNBRDhMSzJaX0JJVWh3SDZUNGVlX2tGMFp3TmlQekdySFFXQi1lQjdDem1ybllLSlZyb2MweEFZQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amada-2026-09-01-013",
+    "date": "2026-09-01",
+    "companies": [
+      "amada"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Amada stock holds steady as Japan factory data improves - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQa05XcW50M1R0ZWVDaHluRUx2b0FEVGthQU53WUVpdVliOU9hSmdicTlIbEZjcHVYY08ybExzckpnX2w2RlBsanNjRzJ0Wm1JSGRvUF82LV9Ec1gxRDFjaGFwNUFsbkJ4MlI0R05qQl",
+    "sources": [
+      {
+        "name": "amada",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa05XcW50M1R0ZWVDaHluRUx2b0FEVGthQU53WUVpdVliOU9hSmdicTlIbEZjcHVYY08ybExzckpnX2w2RlBsanNjRzJ0Wm1JSGRvUF82LV9Ec1gxRDFjaGFwNUFsbkJ4MlI0R05qQlFZX2pwZGZkQWVlXzJJUGtFeEJCQm5BUWJiOC0wNHVhQ2lvdDRWcFdZQnZfRW91aGVQZ2MzNmUtR3h3SG9LckpHSHo0d08?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-09-01-014",
+    "date": "2026-09-01",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Shares Sold by Quantitative Investment Management LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY0lYTXlBZWNIajYzQkN4RTgzSkcyN196TkJRa3NldG1IUEdDa0lwa1Njb2VWSUVDSXNKeVNVdU5tVGxQYnVRTkFockdUMUxtZWp3RE5rMnVaUFhwanU2emI0WXRDNUNKWG1VaVM3Ul",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY0lYTXlBZWNIajYzQkN4RTgzSkcyN196TkJRa3NldG1IUEdDa0lwa1Njb2VWSUVDSXNKeVNVdU5tVGxQYnVRTkFockdUMUxtZWp3RE5rMnVaUFhwanU2emI0WXRDNUNKWG1VaVM3Ullqd0djZ0F4M1IteFFQUE01aVpZZ2tnMDZfSXgwSUpIbEJNWEpzMDE0OWRqVUFPdmF0cDZDR2RqbFhNU3hyeDFmZDMzY05aRmRwa0t4Q2lqTkRRemYtdUdUTGNFRWxKckl1dlgxTWg5UEhCVl9FNlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-01-015",
+    "date": "2026-09-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why We’re Watching the Caterpillar Stock Pullback - Schaeffer's Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFVCZXIweHc3QnF0M1VQeEljRTIzNmk4U0p6clJ1ek14QnJseFFuYmZNM3oyaEMzUm5mbm10SEd2Q19vcTdaUkI5MG9ENDlDU0ZjR0pveEFESE05MnoxVDZiN2Njdk5XWUJZYXRZMF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFVCZXIweHc3QnF0M1VQeEljRTIzNmk4U0p6clJ1ek14QnJseFFuYmZNM3oyaEMzUm5mbm10SEd2Q19vcTdaUkI5MG9ENDlDU0ZjR0pveEFESE05MnoxVDZiN2Njdk5XWUJZYXRZMFEtY1RyRFowWnpNSmhwTncxendPeFM3Ymk2Q2RYVU1lamg3TmJ4Z1hQSWhfNENiczZLVHItTmdmVm1URTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-01-016",
+    "date": "2026-09-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Processionary caterpillar outbreaks: how Sustax leverages C3S data to assess climate risk - Copernicus Climate Change",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxONGdhOUtJa0Jfc1NsalNSaHppMmtza1d0ZTREcHJCbmZfR1V6ZV83NFppdnFiNmUxelViOFpWTDVNY05CeFAxYlEyYW1VRnVFNlE3Zy16NTNNZHB1bm4taGo5TlNjTE5fVjRHNHltTk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGdhOUtJa0Jfc1NsalNSaHppMmtza1d0ZTREcHJCbmZfR1V6ZV83NFppdnFiNmUxelViOFpWTDVNY05CeFAxYlEyYW1VRnVFNlE3Zy16NTNNZHB1bm4taGo5TlNjTE5fVjRHNHltTkN3czNaX2FjQ1hQWnlwLUc1NEd2aXNTbUJXNlNhVXBDVmxDVkR4Ul9mRUt1X0dNQnhnZ0ZyUnRSLWktLWNpZnhJdElnMjhlZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-01-017",
+    "date": "2026-09-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (NYSE: CAT) CEO sells shares near $800 each - stocktitan.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWl9BblZteUdCaUdzYmdIX3h2amluRmJxdFpENkJhVEZfXy1yMlZTYnE5RENVc2FfSXdYRWg4d3pXYU5KdmRMSmVnX29BRnl1bEV3TXd1d2hkaWJzekt3bkVjN2hMbDZZRk1qWGxvTm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWl9BblZteUdCaUdzYmdIX3h2amluRmJxdFpENkJhVEZfXy1yMlZTYnE5RENVc2FfSXdYRWg4d3pXYU5KdmRMSmVnX29BRnl1bEV3TXd1d2hkaWJzekt3bkVjN2hMbDZZRk1qWGxvTmJycHRHalFpV0pMTHMzeWJNc3VPU3RpWFJfMUNoUmZQcHZ6UXVMZlVBa3k0NVlWdXlqbVNjb2toSzV1LWFI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-01-018",
+    "date": "2026-09-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar CEO Joseph Creed sells $26.2 million in shares - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZEdaX3h6bG1taElSdGU3d2JGaExQNXo3bW9JdmlRN2xFb0F2SGxMbEhVQkxZb3JxVEp5NGVCaHlpNGJlS1VxM2hFa1BSOUFzaUhGRlc1ZkxaS01jWXVXR09HN0IyOVY2VVVZRkFqWF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZEdaX3h6bG1taElSdGU3d2JGaExQNXo3bW9JdmlRN2xFb0F2SGxMbEhVQkxZb3JxVEp5NGVCaHlpNGJlS1VxM2hFa1BSOUFzaUhGRlc1ZkxaS01jWXVXR09HN0IyOVY2VVVZRkFqWFNqRGFPd2htczdCSHc0T3BhX0Uyelc0RjNVOF9mMUhzT3AzRVVKYkFlV0UxTWdlRlVRR3lnd3JjaUxGRVBfMV9TUGIwaUhCdjFOa0VpOWhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-01-019",
+    "date": "2026-09-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Renews $3.5B 364-Day Line, Extends $3.0B 3-Year and $5.0B 5-Year Facilities - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaW1XbFYzZWdabkRsQjRXYWxFR1I4V0RRX09iUVUwNXlEZXRzZUJBaDB1MEFFZWx2bXRJQ3RIVmxfRkxyN2YzSElweEpYS3JRM3hxQmZIaWNRWW1fMWJPdlpTbnVDYVRrQjJXdjZSWm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaW1XbFYzZWdabkRsQjRXYWxFR1I4V0RRX09iUVUwNXlEZXRzZUJBaDB1MEFFZWx2bXRJQ3RIVmxfRkxyN2YzSElweEpYS3JRM3hxQmZIaWNRWW1fMWJPdlpTbnVDYVRrQjJXdjZSWmNEWWZmcTZiZ29sSTZSVzM2RXdIaUZQWDltOGp2blk3MU9Oakh3eXNKak90b1RjYTlJeVpVS2QyN1ZWZ2h2a05Ud2xKWk5Nc3BSMVk5N0NTV0hvZlFoV2tabUx1bGRpSmFDU3dvOGU3WE1yVkVJV2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-01-020",
+    "date": "2026-09-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CFO Turnover at AT&T, Caterpillar, and Pfizer Sparked Rallies. Here’s Why Rivian’s Didn’t. - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObG1Vak5TTzJsVjBqT0FBTFJIc1V6RVdHVGhPZ2J3RWZlbHZ6YkhiQ3lsVmozNFM5Y0JPcTdscEtISTdlSkV4OVFNOEJPcHR2M3A3WjAzSGNOWUJZcHFrdlRMc3l0N2htYjhPbXhHWk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObG1Vak5TTzJsVjBqT0FBTFJIc1V6RVdHVGhPZ2J3RWZlbHZ6YkhiQ3lsVmozNFM5Y0JPcTdscEtISTdlSkV4OVFNOEJPcHR2M3A3WjAzSGNOWUJZcHFrdlRMc3l0N2htYjhPbXhHWk0ycUJ2cklZZEZweFIxYnJkOGI1OW50aVJORnRDUm5SalM0TW9VcS1iYldYRmk3OVk?oc=5",
         "type": "rss"
       }
     ]
@@ -575,6 +806,67 @@
     ]
   },
   {
+    "id": "abb-2026-08-31-018",
+    "date": "2026-08-31",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Ltd (ABBNY) Stock Price, News, Quote & History - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2YTVsM09GZ3pkQ28ydE1HaHBFSldZcGdITWQtNHJaZ1FMOGlmcFpFWXdQbF9uTWNGRnRWV1hBbVN1bDdySEhOaENzdTdiRmc?oc=5\" target=\"_blank\">ABB Ltd (ABBNY) Stoc",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2YTVsM09GZ3pkQ28ydE1HaHBFSldZcGdITWQtNHJaZ1FMOGlmcFpFWXdQbF9uTWNGRnRWV1hBbVN1bDdySEhOaENzdTdiRmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-31-019",
+    "date": "2026-08-31",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Develops Task-Aware Unified Source Separation Technology - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQaU5qQkZRREE0ZXRYVVIzTlR6THhyeHhRTjJtdWpaNGU1ekxGZWRadHpZM0lQUHFRWFhobThfb296TFRFemN6VlB1djJNU3lLb2hpSWU2VExBTDlVcWdybUpfOVp2M1NPS0FLcWQ5Y2",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaU5qQkZRREE0ZXRYVVIzTlR6THhyeHhRTjJtdWpaNGU1ekxGZWRadHpZM0lQUHFRWFhobThfb296TFRFemN6VlB1djJNU3lLb2hpSWU2VExBTDlVcWdybUpfOVp2M1NPS0FLcWQ5Y2cyVlFZSlRfMG5vZHVfbHg1OXlrQjQ2VGg4N3NoQUg0dlViZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-020",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "The IMOCA Class is back with The Ocean Race Atlantic - sail-world.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOYzVBUzF0MVNNb2pHZjc1MDYxa19xMEYxd3d2dnhaTVQxOXBaZWpERVRvNmJYdzJua0V6dm42WFAzM1hDWnpkVFg1ZlAwRGpKT2VYdmV6MDEyVXFvSXN1bnlLdFNlMUNVR0FhUklvam",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYzVBUzF0MVNNb2pHZjc1MDYxa19xMEYxd3d2dnhaTVQxOXBaZWpERVRvNmJYdzJua0V6dm42WFAzM1hDWnpkVFg1ZlAwRGpKT2VYdmV6MDEyVXFvSXN1bnlLdFNlMUNVR0FhUklvamQtX3VqZVZUa0NCVng2YUhrOV9uUjB2eUloUy00YQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "itw-2026-08-30-001",
     "date": "2026-08-30",
     "companies": [
@@ -858,6 +1150,133 @@
     ],
     "impact": "neutral",
     "title": "Caterpillar (CAT) Commits $100 Million To AI And Robotics Training - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPcTZVdXFaSFJMUkVHTmIxdldXRnQ0aW5xM3dlRGpoRlhFb24ya0pnSjRaMFctT1lILWxzcEliWmlIRHlaT0JQZHV6aktqbGRGbE1WVTZRYnowbl9NS1p5c25MeS15YjhUQnRZRklySD",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcTZVdXFaSFJMUkVHTmIxdldXRnQ0aW5xM3dlRGpoRlhFb24ya0pnSjRaMFctT1lILWxzcEliWmlIRHlaT0JQZHV6aktqbGRGbE1WVTZRYnowbl9NS1p5c25MeS15YjhUQnRZRklySDJaV0RpQkVZenlKZmFWaWY3d0NISTVTVXVtaHQ3a0lQYjNBa3NwLW1mNU5oaGNXV0xz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-30-015",
+    "date": "2026-08-30",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MFS International Intrinsic Value Portfolio's Mitsubishi Electric Corp(TSE:6503) Holding History - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDJsWmlsNWd5RkxWMHpnN2hmSVlEX3lCeHRtSlFPWm1fWlBzXy1UdmVtamtucEpFeFBaX3hjb1QtckxJdExrakJuVVpHd0NYOWdERzlIOU5zNGQ3S3hCVGJYWGJMUUNkNExYdEc1Rm",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDJsWmlsNWd5RkxWMHpnN2hmSVlEX3lCeHRtSlFPWm1fWlBzXy1UdmVtamtucEpFeFBaX3hjb1QtckxJdExrakJuVVpHd0NYOWdERzlIOU5zNGQ3S3hCVGJYWGJMUUNkNExYdEc1RmE0T181VkRIaXdXN3NIMlpmdFA1TF9yVUU0eEhYRUxIWnRtWXFLbUVnY1JUVG5EZEVFOVF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-30-016",
+    "date": "2026-08-30",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Bull Case For Illinois Tool Works (ITW) Could Change Following New Adaptive Robotic Welding Launch - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Jd2l4bDdydVBEMklaeHpaWWlrbnRvd2tFRThPaTNRdzlSX2taY3poU1BoVUx6cnh0bkRaYWZad040aldFRjNEQWdIb3JXMzJqTUpyYVhkLXg?oc=5\" target=\"_blank\">The Bull",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Jd2l4bDdydVBEMklaeHpaWWlrbnRvd2tFRThPaTNRdzlSX2taY3poU1BoVUx6cnh0bkRaYWZad040aldFRjNEQWdIb3JXMzJqTUpyYVhkLXg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-30-017",
+    "date": "2026-08-30",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here's How Much $100 Invested In Parker Hannifin 5 Years Ago Would Be Worth Today - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQV0lVN2JGc0ZxUlZjdmVpTUt6cDRoRVdXVFRnRk8tTVR5QVE4RHpGaHVRSWFEVkIxdkcyXzRqS1VkYjNsUGxZZTNRVDFGRGo5SEl1cmQ2dmZXUVdXY2dLYkxvSVVlX1pEcEJzYWRnSk",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV0lVN2JGc0ZxUlZjdmVpTUt6cDRoRVdXVFRnRk8tTVR5QVE4RHpGaHVRSWFEVkIxdkcyXzRqS1VkYjNsUGxZZTNRVDFGRGo5SEl1cmQ2dmZXUVdXY2dLYkxvSVVlX1pEcEJzYWRnSkpoT3gzR3U0T3dCNkhheGNyUTU2TVBrQTZ6UGdwNlZvdWc5em1QLUVqQWRFQ3k4dXBXUktmLVRIUUxyekFmdkJMTlVweUdVZkhEMXdlRDYzZWFnZkpteW5qd2MzSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-30-018",
+    "date": "2026-08-30",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How AI Power Demand Transformed Caterpillar (CAT) into a High-Multiple Tech Play - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQUC1oQ3NORGdwWFJNTmNOOW9RSTVoUms2YmtId214Zl93MEVrR3ZpeTBxRU5UNEVVVEFVaU5LR0ctdUtBNUJwcmttM0ZpWGdjeGFCalloZmxkS2wtOWRoRm5iWVpYdS0ydVdwSUxpcW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUC1oQ3NORGdwWFJNTmNOOW9RSTVoUms2YmtId214Zl93MEVrR3ZpeTBxRU5UNEVVVEFVaU5LR0ctdUtBNUJwcmttM0ZpWGdjeGFCalloZmxkS2wtOWRoRm5iWVpYdS0ydVdwSUxpcWZVaWRtQTRoZHBuZ1dfMG1URUJXaVJjNU1fV3F0NzZDMXJhenA4OGhhdldwdm1COVpKekhlaTNJSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-30-019",
+    "date": "2026-08-30",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Forget the Industry Labels: Chevron and Caterpillar Are Both Betting on the AI Power Boom. Which 30+ Year Dividend Grower Wins? - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWFV4ZUlUQjF2c3p6VFNQWlNra1dlWWdWQjJ3WUVMTncwR2hRbE5GZ0FpTlp2U3U2R0pET0tUdFAzd2dONDhyWHRWYU9nbUZlSTRaamJXYWpYcjhDa0h1UWM2UkRtZF82SkFkNHREMG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWFV4ZUlUQjF2c3p6VFNQWlNra1dlWWdWQjJ3WUVMTncwR2hRbE5GZ0FpTlp2U3U2R0pET0tUdFAzd2dONDhyWHRWYU9nbUZlSTRaamJXYWpYcjhDa0h1UWM2UkRtZF82SkFkNHREMGtHbC1INmZ0Q0VIekJiQV8zWkl6Wk1INjhDY1ZrVndqU3Y3UV9UUW9VM1Z4bUhWelo1QjNJZzkwY0d6R0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-30-020",
+    "date": "2026-08-30",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Commits $100 Million To AI And Robotics Training - finance.yahoo.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPcTZVdXFaSFJMUkVHTmIxdldXRnQ0aW5xM3dlRGpoRlhFb24ya0pnSjRaMFctT1lILWxzcEliWmlIRHlaT0JQZHV6aktqbGRGbE1WVTZRYnowbl9NS1p5c25MeS15YjhUQnRZRklySD",
     "sources": [
       {
@@ -1187,6 +1606,28 @@
     ],
     "impact": "neutral",
     "title": "Caterpillar's Power Generation Business Is Nearly as Big as Its Construction Segment. Here's What That Shift Means for the Stock's Multiple - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVElHS3JyTXhFY1pxeURvb21abEkyNHRBbE1aQ2tDRzNSYzlrTDY5cnFwLUVxUHEzQ0VQZlBfejlSVGdnRmNhRGFndjRiODlVSXRfdU5EcmZRSzZfdjROZEd3WTZ3ZmRqTXh2Ykl3S3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVElHS3JyTXhFY1pxeURvb21abEkyNHRBbE1aQ2tDRzNSYzlrTDY5cnFwLUVxUHEzQ0VQZlBfejlSVGdnRmNhRGFndjRiODlVSXRfdU5EcmZRSzZfdjROZEd3WTZ3ZmRqTXh2Ykl3S3hlQkxZejRWUEk3b3BjWEdsVmQ4VW1TaWF6Q1lfaGZ0RVJxcDl2aFJ0cVVaWXRCenl5Y0QtSEMtUlRiRVpXQnA0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-08-29-017",
+    "date": "2026-08-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar's Power Generation Business Is Nearly as Big as Its Construction Segment. Here's What That Shift Means for the Stock's Multiple - finance.yahoo.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOVElHS3JyTXhFY1pxeURvb21abEkyNHRBbE1aQ2tDRzNSYzlrTDY5cnFwLUVxUHEzQ0VQZlBfejlSVGdnRmNhRGFndjRiODlVSXRfdU5EcmZRSzZfdjROZEd3WTZ3ZmRqTXh2Ykl3S3",
     "sources": [
       {
@@ -2203,6 +2644,46 @@
     ]
   },
   {
+    "id": "itw-2026-08-27-027",
+    "date": "2026-08-27",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Illinois Tool Works (ITW) Down 2.4% Since Last Earnings Report? - Eastern Progress",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWno5dHZiQzlKQ0FZcE54eXRxMWVVdDY1ZDFMLTlwQnIxU0Z3UmwtQjhJNUd1RWdvUHo0dFk1bkd1c2tJaTRWRGw3eUdYR3puWEtTSFhxckR3cFRad1AxMEZMSUl5WmI1WTR4Rl9saG",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWno5dHZiQzlKQ0FZcE54eXRxMWVVdDY1ZDFMLTlwQnIxU0Z3UmwtQjhJNUd1RWdvUHo0dFk1bkd1c2tJaTRWRGw3eUdYR3puWEtTSFhxckR3cFRad1AxMEZMSUl5WmI1WTR4Rl9saGIzNTJBNzlzbzVRd25XcjduZ3pBdV9OTHNIQWVFc195WllFNmpudkdPOEUwYVU2T3hzX1BNcGdXc29fbnJvYUZXa2V3aEFXZVdyb3I1NGlWbjl6VkZiQWFNLWp2WTdfcm5WcVk4Vk55Y25CMmNkcjZValV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-27-028",
+    "date": "2026-08-27",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (PH) Just Overtook the 20-Day Moving Average - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbU8yNzBKcW9aZnBHMDNSTVFpOTdnOVR1R3ZKMEtVbFRPR1RKOVktd0pZbDBsQ1Q1UVFSY1ZtU3FCbE52QWZwQWJUM1NYMFM2cEhncDVjMVV5X3NaelowWjJkQW82T0R5WXJjNjM2ZV",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbU8yNzBKcW9aZnBHMDNSTVFpOTdnOVR1R3ZKMEtVbFRPR1RKOVktd0pZbDBsQ1Q1UVFSY1ZtU3FCbE52QWZwQWJUM1NYMFM2cEhncDVjMVV5X3NaelowWjJkQW82T0R5WXJjNjM2ZVktLXlvS1o2WDM5ZmhyakNuellhOHowMklZWWFmOTBxdktteFg1MkNSTEdXT3lvQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mitsubishi_electric-2026-08-26-001",
     "date": "2026-08-26",
     "companies": [
@@ -2566,6 +3047,48 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb2JpUUxXQW9GU2R3RTR5R1h0MnVhTlNnd3hKUFBXUXpKU3NpNTBVUHpuYVdJVlFaalU4SGoyU0JibnRHQWdWUkhDWUwzbUUzeVA1ZmFjclFKMFdmc2tWMzVFall3RzZTMFFzLXRxTzNrVVVaaERaOHMtMWdndGlONkZ0X0dzV1lscXNzR19EbXpaZlJqZVd6ZnlSa0xyTFBNV0k3VXNMajJqQWhLYjBxUXhTNkxheVllUzI0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-26-019",
+    "date": "2026-08-26",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin (PH) Stock Looks Fair On Cash Flow But Rich On Earnings - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFgzTFAwRHNGd21qOHJBWW9rRXlseFFWeVAzWkRhb1VqTVdILWJLVlF6QTkxREtwS09EeTNJaDBqQVBTQUxsSjZpUEpQc1RnckJZYWJuLXhqTkZNZDBucGljUDNWS1Y0Ny1taXllLW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFgzTFAwRHNGd21qOHJBWW9rRXlseFFWeVAzWkRhb1VqTVdILWJLVlF6QTkxREtwS09EeTNJaDBqQVBTQUxsSjZpUEpQc1RnckJZYWJuLXhqTkZNZDBucGljUDNWS1Y0Ny1taXllLWUtUU93eDJCR2swbFpXUERVbWNyYm4tOUgxRWUzVHQ0RDJnYmR1THlqWmtnNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-08-26-020",
+    "date": "2026-08-26",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin (PH) Filed A Shelf Registration Statement - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXZnVnVCTE1mUV9LX04zYWNTTTN0ZW1iR2VxWDhER1VMdUpwY3U4VzNBUHFIMl9tamVZTmZ1Nk1KRmZnLVBqOXNyZHNJWTdEVmhaWS16ZUs1LU96ZXhLVmcyTDR4dHRFMjlYRUJGSF",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXZnVnVCTE1mUV9LX04zYWNTTTN0ZW1iR2VxWDhER1VMdUpwY3U4VzNBUHFIMl9tamVZTmZ1Nk1KRmZnLVBqOXNyZHNJWTdEVmhaWS16ZUs1LU96ZXhLVmcyTDR4dHRFMjlYRUJGSFprY2tZVHpUMDZvYlR4WWtHSDZVR1RIM0F4blJPQnVrRWhkSUxBYWI3M3F6UQ?oc=5",
         "type": "rss"
       }
     ]
