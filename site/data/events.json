@@ -42,6 +42,88 @@
     ]
   },
   {
+    "id": "schneider-2026-09-02-003",
+    "date": "2026-09-02",
+    "companies": [
+      "schneider"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Hispanic Heritage Month: Finding Our Roots, Shaping Our Future",
+    "summary": "<p>As we kick off Hispanic Heritage Month, we are invited to pause and reflect on the stories, cultures, values, and people that have shaped who we are. Our roots connect us to our ancestors, our fami",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/life-at-schneider-electric/2026/09/01/hispanic-heritage-month-finding-our-roots-shaping-our-future/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "schneider-2026-09-02-004",
+    "date": "2026-09-02",
+    "companies": [
+      "schneider"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mindfulness at Work: Creating Space to Thrive",
+    "summary": "<p>How Schneider Electric employees are building a global community of focus, well-being, and connection.&#160; In today&#8217;s fast-paced world,&#160;it&#8217;s&#160;easy to move from one meeting to",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/life-at-schneider-electric/2026/09/01/mindfulness-at-work-creating-space-to-thrive/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-09-02-005",
+    "date": "2026-09-02",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "cnc_technology",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Titanus Slew Rings adds 5-axis DMG MORI CTX gamma 3000 TC to its large machine portfolio - metalworkingnews.info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTG9HYUw3am5GNnpDcTdwbXFIdGFkYnF6YkpOLTF1T2pYMjA0OVZ1akdWZjZPWTM1MDZDNDFQX080NWFYYjVIaG5SS3BfSTlpWmlrbFBfMnI4aXlBVE52NUduTXNkRnhwMEc5czlqdG",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTG9HYUw3am5GNnpDcTdwbXFIdGFkYnF6YkpOLTF1T2pYMjA0OVZ1akdWZjZPWTM1MDZDNDFQX080NWFYYjVIaG5SS3BfSTlpWmlrbFBfMnI4aXlBVE52NUduTXNkRnhwMEc5czlqdGlBMVI4ZTVFWFU3YjdiM21OSkE2UEVNU2hKNGllQlBKcUNvdDNxalF4NnlXelN5ZzNxbEpxOUJNZ0M4aWJ6REtnQUhRdkk4TXFRVVVBbzhjZHNKdjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tongtai-2026-09-02-006",
+    "date": "2026-09-02",
+    "companies": [
+      "tongtai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan's Tongtai brings machine tool capabilities to wafer processing - Taiwan News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2dklCM1E5T2tsZGcxLWk0QWgwb25iUjNYLTItMVIxM2tZUTM3cXBvRW8xWTBKNmVJZk40N3hncXRWcWtuYlRHMFduMnBpTkxldXR1c3dFSTk?oc=5\" target=\"_blank\">Taiwan's",
+    "sources": [
+      {
+        "name": "tongtai",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2dklCM1E5T2tsZGcxLWk0QWgwb25iUjNYLTItMVIxM2tZUTM3cXBvRW8xWTBKNmVJZk40N3hncXRWcWtuYlRHMFduMnBpTkxldXR1c3dFSTk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "abb-2026-09-01-001",
     "date": "2026-09-01",
     "companies": [
@@ -457,6 +539,44 @@
     ]
   },
   {
+    "id": "delta-2026-09-01-021",
+    "date": "2026-09-01",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics stock highlights absence of fresh data - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzZYTjlKTEJHdlVMLWJHNDhTS2NMRERMME9UN1VQajg0SVpuU3ZPclBOaDIwM0ZPSDRrQk8xWExmc1B3QjV2N0szLVJfSi1MY055clFhTFc5MHJxZjFEUmxpckRobWx1QkNRSGxhT2",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzZYTjlKTEJHdlVMLWJHNDhTS2NMRERMME9UN1VQajg0SVpuU3ZPclBOaDIwM0ZPSDRrQk8xWExmc1B3QjV2N0szLVJfSi1MY055clFhTFc5MHJxZjFEUmxpckRobWx1QkNRSGxhT2RxSkQ0djJMV2tDdjZONUNBRDhMSzJaX0JJVWh3SDZUNGVlX2tGMFp3TmlQekdySFFXQi1lQjdDem1ybllLSlZyb2MweEFZQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-022",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How multi-voltage automatic transfer switches help electrical contractors avoid project delays",
+    "summary": "<p>As power systems become more complex, one of the biggest opportunities to improve project execution is simplification. Electrical contractors are navigating compressed schedules, skilled labor shor",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/infrastructure-and-grid/2026/09/01/how-multi-voltage-automatic-transfer-switches-electrical-contractors-avoid-project-delays/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mitsubishi_electric-2026-08-31-001",
     "date": "2026-08-31",
     "companies": [
@@ -862,6 +982,24 @@
       {
         "name": "dmg_mori",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYzVBUzF0MVNNb2pHZjc1MDYxa19xMEYxd3d2dnhaTVQxOXBaZWpERVRvNmJYdzJua0V6dm42WFAzM1hDWnpkVFg1ZlAwRGpKT2VYdmV6MDEyVXFvSXN1bnlLdFNlMUNVR0FhUklvamQtX3VqZVZUa0NCVng2YUhrOV9uUjB2eUloUy00YQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "schneider-2026-08-31-021",
+    "date": "2026-08-31",
+    "companies": [
+      "schneider"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Partnerships for Innovation: Building the next generation of electrical distribution",
+    "summary": "<p>The energy transition and sweeping technological change are creating new opportunities for rethinking how electricity is generated, distributed, stored, and consumed. But no single company, technol",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/infrastructure-and-grid/power-management-metering-monitoring-power-quality/2026/08/31/partnerships-for-innovation-building-the-next-generation-of-electrical-distribution/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
         "type": "rss"
       }
     ]
@@ -1633,6 +1771,27 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVElHS3JyTXhFY1pxeURvb21abEkyNHRBbE1aQ2tDRzNSYzlrTDY5cnFwLUVxUHEzQ0VQZlBfejlSVGdnRmNhRGFndjRiODlVSXRfdU5EcmZRSzZfdjROZEd3WTZ3ZmRqTXh2Ykl3S3hlQkxZejRWUEk3b3BjWEdsVmQ4VW1TaWF6Q1lfaGZ0RVJxcDl2aFJ0cVVaWXRCenl5Y0QtSEMtUlRiRVpXQnA0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-08-29-018",
+    "date": "2026-08-29",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "J.P. Morgan Keeps Their Buy Rating on Mitsubishi Electric (MIE1) - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSmg2TmoxTDhhZTRfalZleUdsU3JQVFNQbnVpQ1hnUEI1cG44bWZiN2RnV1J3UUJPZDlqYjNJUi04QVBleDlQNFBvUlZ6dkx4ZTUtUjFhd0hKY09CUHBtTDZSWENkZFd2YmZDNVlXdU",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSmg2TmoxTDhhZTRfalZleUdsU3JQVFNQbnVpQ1hnUEI1cG44bWZiN2RnV1J3UUJPZDlqYjNJUi04QVBleDlQNFBvUlZ6dkx4ZTUtUjFhd0hKY09CUHBtTDZSWENkZFd2YmZDNVlXdU55SXJOS2pPMUJXQWRQYzZrbEZua3p0UUNVam12S0xJbU11LUd6Sk9KMWEyb2hUeE96Zk5SZjZJNUVpX0lodDhHZnJBMVQtMUpIQUxpWEp6N3hXRktsNno4THNEMDNfRVpBVmZBczBxUXlSM0Z2QzJZ?oc=5",
         "type": "rss"
       }
     ]
@@ -2679,6 +2838,26 @@
       {
         "name": "parker_hannifin",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbU8yNzBKcW9aZnBHMDNSTVFpOTdnOVR1R3ZKMEtVbFRPR1RKOVktd0pZbDBsQ1Q1UVFSY1ZtU3FCbE52QWZwQWJUM1NYMFM2cEhncDVjMVV5X3NaelowWjJkQW82T0R5WXJjNjM2ZVktLXlvS1o2WDM5ZmhyakNuellhOHowMklZWWFmOTBxdktteFg1MkNSTEdXT3lvQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-08-27-029",
+    "date": "2026-08-27",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Illinois Tool Works (ITW) Down 2.4% Since Last Earnings Report? - easternprogress.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWno5dHZiQzlKQ0FZcE54eXRxMWVVdDY1ZDFMLTlwQnIxU0Z3UmwtQjhJNUd1RWdvUHo0dFk1bkd1c2tJaTRWRGw3eUdYR3puWEtTSFhxckR3cFRad1AxMEZMSUl5WmI1WTR4Rl9saG",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWno5dHZiQzlKQ0FZcE54eXRxMWVVdDY1ZDFMLTlwQnIxU0Z3UmwtQjhJNUd1RWdvUHo0dFk1bkd1c2tJaTRWRGw3eUdYR3puWEtTSFhxckR3cFRad1AxMEZMSUl5WmI1WTR4Rl9saGIzNTJBNzlzbzVRd25XcjduZ3pBdV9OTHNIQWVFc195WllFNmpudkdPOEUwYVU2T3hzX1BNcGdXc29fbnJvYUZXa2V3aEFXZVdyb3I1NGlWbjl6VkZiQWFNLWp2WTdfcm5WcVk4Vk55Y25CMmNkcjZValV3?oc=5",
         "type": "rss"
       }
     ]

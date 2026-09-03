@@ -1,0 +1,14 @@
+{
+  "total_raw": 201,
+  "dup_title": 91,
+  "no_date": 0,
+  "too_old": 93,
+  "gate1_fail": 5,
+  "gate2_fail": 3,
+  "passed": 9,
+  "gate2_samples": [
+    "Designing liquid cooling for tightening US data center cooling efficiency standards",
+    "The complete guide to home energy savings: smarter ways to cut your bills today and tomorrow",
+    "DMG Mori - Sail World Cruising"
+  ]
+}
