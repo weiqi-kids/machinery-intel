@@ -1,0 +1,15 @@
+{
+  "total_raw": 359,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 5,
+  "gate2_fail": 4,
+  "passed": 29,
+  "gate2_samples": [
+    "Designing liquid cooling for tightening US data center cooling efficiency standards",
+    "The complete guide to home energy savings: smarter ways to cut your bills today and tomorrow",
+    "DMG Mori - Sail World Cruising",
+    "Okuma America Names Dominick Patriarca President and COO - citybiz"
+  ]
+}
