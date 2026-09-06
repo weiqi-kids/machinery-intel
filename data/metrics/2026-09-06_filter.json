@@ -1,0 +1,16 @@
+{
+  "total_raw": 397,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 5,
+  "gate2_fail": 6,
+  "passed": 16,
+  "gate2_samples": [
+    "Designing liquid cooling for tightening US data center cooling efficiency standards",
+    "The complete guide to home energy savings: smarter ways to cut your bills today and tomorrow",
+    "Special Report on Shareholdings: DMG MORI (5.15% → 4.11%), Blackrock Japan, et al. - Moomoo",
+    "Okuma America Names Dominick Patriarca President and COO - citybiz.co",
+    "Stifel Maintains Parker Hannifin(PH.US) With Hold Rating, Maintains Target Price $1,075 - Moomoo"
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T11:51:18.660477Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "parker_hannifin-2026-09-06-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Parker-Hannifin stock holds near record highs as institutional buying meets strong earnings - AD HOC NEWS",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONVZGQVRRODJtMlR0WXpXSlRlbVhvLUVESm9VWWVDeDBwR2l0eC1VeUYwenNhWEJRaDhmOHQ1bUY2QS1hWDdGTXlnYzFScmtKSHJCM1RfeHlOMVdKSWpMVGNyR04weWR4U3luSnZnbnRDaVZhUkZyN1Vvc1NaRjZYal9ORmZOZ0FfckIyRmlfUXR5eEs2TjVqdnljS3NZLWd1dmpaeHZkSFdRcE1ya3NSOE5ZZjhWR0Y5cURuYlFtai1HdGxvUmljVW1Jc3I?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "dmg_mori-2026-09-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "DMG MORI Sailing Team - The Ocean Race Atlantic 2026 Day 4 - sail-world.com",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54aWM1R1diZzMya1gza3BmU2ppSUZWMlotWnkxRERKemRMd0FDSS1nUk5GNFlrUGE4Mzlmb0ZKeUk0VmUtYmQ2SVVuTDBjWmM4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-09-06-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar And FieldAI Drive Physical AI Forward - Construction Digital",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3h2cUEyOXRKSVRzUVRmWnBWTXpYV0hGeGV0YTNlS1JDRE82Q2ZvZk5uTFFyelU4cXAxNVJ3eFdIa0JBaENvNWJVSEtpaWpzdHVFc3dkRXowVFozVGI0S0ozSDROTzVEVHFscjg1ckZxTGFnWElqSXlMMlluUUVRYXB5Qkx3ZE1DeElwaV9LMDBraWdzZ3pB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-09-06-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar FieldAI Collaboration: Advancing Physical AI in Construction and Mining - News and Statistics - IndexBox",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmVUZ2dRV0k5S1FpZDQzeHEyV2QyVUZ6dGpSNHpXQ1pzM0pLekZEc3lHWG9QMDRZMU0zdDBQN1JyMlVOQjJCcXY0S0pWMVM0YnAxYjVVU0VxaU5SNXEzQ3l1T2kxaUczeEt3UWNtcG9vVEFsOEdVdG1VYTR0Q0JNZHpqN081LUxoaVFPdGc2RWNiNENGU2tsbGh5YlQ3dw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "6JK Stock Price and Chart — HAM:6JK - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50QUxTTkRzZGRmRUpXWnU1OExyRVk4aFVPdnFSSTZlTjJ6Zl9Lam9uVVhERWp5X2REbGhWZ1dfOEhUZUE2YktuUU5hLU0zb3BjaXNITVFPOFp6dXUyb0V6N05xeFJCdUYteUM3cEo4NFZ5YXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "reshoring_supply_chain": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "dmg_mori",
+        "count": 1
+      },
+      {
+        "id": "itw",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "reshoring_supply_chain",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 397,
+    "dup_title": 204,
+    "too_old": 166,
+    "gate1_blocked": 5,
+    "gate2_blocked": 6,
+    "passed": 16,
+    "pass_rate": "8.3%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Designing liquid cooling for tightening US data center cooling efficiency standards",
+      "The complete guide to home energy savings: smarter ways to cut your bills today and tomorrow",
+      "Special Report on Shareholdings: DMG MORI (5.15% → 4.11%), Blackrock Japan, et al. - Moomoo",
+      "Okuma America Names Dominick Patriarca President and COO - citybiz.co",
+      "Stifel Maintains Parker Hannifin(PH.US) With Hold Rating, Maintains Target Price $1,075 - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為CAT、DMG Mori、ITW相關動態：「Parker-Hannifin stock holds near record highs as institut...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Parker-Hannifin stock holds near record highs as institutional buying meets s...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "DMG MORI Sailing Team - The Ocean Race Atlantic 2026 Day 4 - sail-world.com（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "回流與供應鏈話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

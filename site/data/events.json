@@ -1,5 +1,125 @@
 [
   {
+    "id": "dmg_mori-2026-09-06-001",
+    "date": "2026-09-06",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "DMG MORI Sailing Team - The Ocean Race Atlantic 2026 Day 4 - sail-world.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE54aWM1R1diZzMya1gza3BmU2ppSUZWMlotWnkxRERKemRMd0FDSS1nUk5GNFlrUGE4Mzlmb0ZKeUk0VmUtYmQ2SVVuTDBjWmM4?oc=5\" target=\"_blank\">DMG MORI Sailing Te",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54aWM1R1diZzMya1gza3BmU2ppSUZWMlotWnkxRERKemRMd0FDSS1nUk5GNFlrUGE4Mzlmb0ZKeUk0VmUtYmQ2SVVuTDBjWmM4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-06-002",
+    "date": "2026-09-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "6JK Stock Price and Chart — HAM:6JK - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE50QUxTTkRzZGRmRUpXWnU1OExyRVk4aFVPdnFSSTZlTjJ6Zl9Lam9uVVhERWp5X2REbGhWZ1dfOEhUZUE2YktuUU5hLU0zb3BjaXNITVFPOFp6dXUyb0V6N05xeFJCdUYteUM3cEo4NF",
+    "sources": [
+      {
+        "name": "jtekt",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50QUxTTkRzZGRmRUpXWnU1OExyRVk4aFVPdnFSSTZlTjJ6Zl9Lam9uVVhERWp5X2REbGhWZ1dfOEhUZUE2YktuUU5hLU0zb3BjaXNITVFPOFp6dXUyb0V6N05xeFJCdUYteUM3cEo4NFZ5YXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-09-06-003",
+    "date": "2026-09-06",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "reshoring_supply_chain"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (ITW) Leans On Local Production As Valuation Debate Returns - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMENpM3lCd2t0TmMwZFdmZl9nMVdIN0tYanJlWjctV3pQaXZPUUVIR21WcE1iLWh5TmI3bTlFekF6OFpDTzM0YXdaTDJ2T09WaElZd3dmUkhyTlBxbWhydTJrRHdiNmUtUGlJWGlZVk",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMENpM3lCd2t0TmMwZFdmZl9nMVdIN0tYanJlWjctV3pQaXZPUUVIR21WcE1iLWh5TmI3bTlFekF6OFpDTzM0YXdaTDJ2T09WaElZd3dmUkhyTlBxbWhydTJrRHdiNmUtUGlJWGlZVkJ5YVFjNnVEdHR1Rzd5ZVFHdGgtb29mMzhkTlpBZ3hNTVI0a19iYnNxMFJNaW1SOUVjNlYydnoycl82aE13MXhXX3E2WkdTX0ZKaTBYeUpmTXE0cG5sYTNDUFR2U05TMmFsc3V6RGZBZ9IB3AFBVV95cUxOeGZtWTR6VDdDMGZRbXRkV2dLNk1DM0wydVR3a1VUaURITG9MaFlsczl5M2hNektISm9RYkg1T3JxTUIwZjhBYWNSbUp0UzZjYlRsVEY0aEk2U0FiaTVUbFhWSl9kSUNwcXBENUNZVWtlRlh6MlFKdDhWN1FDLVNWQ2RDMi1fRkN6cXk3ZGdPVUJHRWZ2QUt1UXNzZUl0Ujd0MFBOekZTV0Jrdjd0cTMzdkdsdDVFME96NVM1Z2VDRXhIZXoxWjd4ZEtwNkFpMDVESUE1MjNyS3ZKVlpy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-09-06-004",
+    "date": "2026-09-06",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Parker-Hannifin stock holds near record highs as institutional buying meets strong earnings - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxONVZGQVRRODJtMlR0WXpXSlRlbVhvLUVESm9VWWVDeDBwR2l0eC1VeUYwenNhWEJRaDhmOHQ1bUY2QS1hWDdGTXlnYzFScmtKSHJCM1RfeHlOMVdKSWpMVGNyR04weWR4U3luSnZnbn",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONVZGQVRRODJtMlR0WXpXSlRlbVhvLUVESm9VWWVDeDBwR2l0eC1VeUYwenNhWEJRaDhmOHQ1bUY2QS1hWDdGTXlnYzFScmtKSHJCM1RfeHlOMVdKSWpMVGNyR04weWR4U3luSnZnbnRDaVZhUkZyN1Vvc1NaRjZYal9ORmZOZ0FfckIyRmlfUXR5eEs2TjVqdnljS3NZLWd1dmpaeHZkSFdRcE1ya3NSOE5ZZjhWR0Y5cURuYlFtai1HdGxvUmljVW1Jc3I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-06-005",
+    "date": "2026-09-06",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar And FieldAI Drive Physical AI Forward - Construction Digital",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3h2cUEyOXRKSVRzUVRmWnBWTXpYV0hGeGV0YTNlS1JDRE82Q2ZvZk5uTFFyelU4cXAxNVJ3eFdIa0JBaENvNWJVSEtpaWpzdHVFc3dkRXowVFozVGI0S0ozSDROTzVEVHFscjg1ck",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3h2cUEyOXRKSVRzUVRmWnBWTXpYV0hGeGV0YTNlS1JDRE82Q2ZvZk5uTFFyelU4cXAxNVJ3eFdIa0JBaENvNWJVSEtpaWpzdHVFc3dkRXowVFozVGI0S0ozSDROTzVEVHFscjg1ckZxTGFnWElqSXlMMlluUUVRYXB5Qkx3ZE1DeElwaV9LMDBraWdzZ3pB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-06-006",
+    "date": "2026-09-06",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar FieldAI Collaboration: Advancing Physical AI in Construction and Mining - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOYmVUZ2dRV0k5S1FpZDQzeHEyV2QyVUZ6dGpSNHpXQ1pzM0pLekZEc3lHWG9QMDRZMU0zdDBQN1JyMlVOQjJCcXY0S0pWMVM0YnAxYjVVU0VxaU5SNXEzQ3l1T2kxaUczeEt3UWNtcG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmVUZ2dRV0k5S1FpZDQzeHEyV2QyVUZ6dGpSNHpXQ1pzM0pLekZEc3lHWG9QMDRZMU0zdDBQN1JyMlVOQjJCcXY0S0pWMVM0YnAxYjVVU0VxaU5SNXEzQ3l1T2kxaUczeEt3UWNtcG9vVEFsOEdVdG1VYTR0Q0JNZHpqN081LUxoaVFPdGc2RWNiNENGU2tsbGh5YlQ3dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "parker_hannifin-2026-09-05-001",
     "date": "2026-09-05",
     "companies": [
@@ -93,6 +213,48 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNmdRYUZGWlZEbkpJVWhKd3M1a3hkeTZseC1XX3ZhZzcwUTB5NjhSVUZfbFNadDNPOHR4dm9rYXZ4MFdCWjRiTWNmOFFsQkIxR215LVBCU294NEVyTW9SNm02a1V2S3RCSHNnYXFqT1VZN3dwS0loNU1ZVmdaaVVDTDZGNERkZC1IS3pUNkg1SDFKUFFTeGthLXFhdlB4Q0hYblVRUHYzN1RvMl91djdyMy1ORFNlRlg0OUdLa0p6M2w1RER0TnVvYVBGUXR3NGZVeXNEVF9HQ01kMlFycXpWNkh6STJHazF0Z29ET1lZMW5ic192TzRHOUFoV0N4RERPRFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-09-05-006",
+    "date": "2026-09-05",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Event Recap: Delta Future Industry Summit 2026 Advances Thailand's AI & Electrification Infrastructure - markets.businessinsider.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSVRBcnBhOTBBNGFDR0xwSnozZWhjaEhiTGhlclJhQ1dqaFRyaE9ZcjFaR1B3TmNwTE90T0VmTEk3d0d5UDN3dFZXOFdjcmNnb1RKRFFwd3NNNVBFTEFnVGNVTmw5dnlTQzNhNlhGNF",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSVRBcnBhOTBBNGFDR0xwSnozZWhjaEhiTGhlclJhQ1dqaFRyaE9ZcjFaR1B3TmNwTE90T0VmTEk3d0d5UDN3dFZXOFdjcmNnb1RKRFFwd3NNNVBFTEFnVGNVTmw5dnlTQzNhNlhGNFltTUVnZmFHZ2ZJV21XSVdyRzdXem9Bdnc0MDBSTU9hODhPN3hTZDNZZGxoQzNWeThwWEwwTEpJb0pnYWlCcGNJSGJucmpSb1BVbm1hN3c0ZVFiTUF4eEpYMFA1U0gxUFBhRkRpc2JIMkI2YWNoQVJMNnM5cldWYUNFa01icElrRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-05-007",
+    "date": "2026-09-05",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grand National Champion to be Crowned at Caterpillar Springfield Mile I & II - Motor Sports Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTV4c3ltemdHdzFfRFlBNU5OTFNwcGx2Wkl1U214VXNlR2U4ZXRhU3diR3I0MVhBOExBcF9TVzNlaGliSTBRcDhvU3NJMVRUbExWVm1IblVRQV9OelJuVzI2U2pfSWszNU1DbUxYMm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTV4c3ltemdHdzFfRFlBNU5OTFNwcGx2Wkl1U214VXNlR2U4ZXRhU3diR3I0MVhBOExBcF9TVzNlaGliSTBRcDhvU3NJMVRUbExWVm1IblVRQV9OelJuVzI2U2pfSWszNU1DbUxYMm9OZTBvejhmWTNRc1IzTmNKZ0ZUZER3eUptZnRWZ0xRMmFQRXdWdVV2eHc0MGtZbk4wc04yRTM4WHV1X0cwdFp6Z01XMVZOelRjb3c?oc=5",
         "type": "rss"
       }
     ]
@@ -363,6 +525,67 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRnAyRWNkTFRJcnFBeDF3dEQ4Q053dGRiUGVld1lFNkZnbFh1SUVTTTNDZkd3SWVfczRHbWVJeXE0R1l5aWhRV2l1MFlDUU52V1c5aENQY3M4M29NRzR2QVNvUXNLMFZHSzl0ck1GQjFpMGtoQjhOMFZtR2dmTEtkVlJCU1BpMUVERDdvOW5RZmNubkdDdVRTbXUzcVVDMHNIRGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-09-04-014",
+    "date": "2026-09-04",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Morgan Stanley initiates Mitsubishi Electric stock coverage at Equalweight By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLU9xWWV1NEI0dXRNNTFFakJ0YklKaS1JVHVPcmx1b3FGVXZLSzAwRjFCWFFrWUV1MUhqT3ROZzRnNkJCT0hOV2xFZkh4cW4wMWxtNEx2MWNicXRiX3RMMDJNNF9ZX2xONWFRanhpRT",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLU9xWWV1NEI0dXRNNTFFakJ0YklKaS1JVHVPcmx1b3FGVXZLSzAwRjFCWFFrWUV1MUhqT3ROZzRnNkJCT0hOV2xFZkh4cW4wMWxtNEx2MWNicXRiX3RMMDJNNF9ZX2xONWFRanhpRTZXYjhld1Bnc05ZTTZLckpET1Q3NlpOcVhJRkM2V05XWU9TNkNGTi03NjI5SllVSU9BNzJvSWhwUjVjQUdmZUlBR3dSa282VV9wWTBjVXNfZUUwS3hZbVo2cjg2eWtpLV9a?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-09-04-015",
+    "date": "2026-09-04",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Morgan Stanley Initiates Parker Hannifin(PH.US) With Hold Rating, Announces Target Price $1,038 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1hDUTFsbDUyM1hrTmhfSldjMFRxZks0M3MzLVBsRjRkNVJhU2k1ZWc4OTN3MHpwOXdtV3BsYlR0aF9HNTdtY2lzakhseE9ucnR6bEY3WEF0eDdobDFtMlk0Vkp6Y0xqSHlyV2ZzUU",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1hDUTFsbDUyM1hrTmhfSldjMFRxZks0M3MzLVBsRjRkNVJhU2k1ZWc4OTN3MHpwOXdtV3BsYlR0aF9HNTdtY2lzakhseE9ucnR6bEY3WEF0eDdobDFtMlk0Vkp6Y0xqSHlyV2ZzUUJLS0pVUHM1b2J3TC16ckZRSU9iSGVoWWRoNXo5VjNMSmFrVjk4QlM4MzNiMXZCeWFDZmM2elZ3NUdpYlhvZ0VzUnNzcGk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-04-016",
+    "date": "2026-09-04",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar partners with FieldAI for equipment automation - constructiondive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPYVZJNmp3eGw5MXduVkt5Tmc1V1FYZTFUOXJLTFRka2ZrNTlVbTVTZ0FPWE0wM0NjUm1EY1BYTVVCd1BtZTRDMHJpYS1sckhINGw0REJmSG5BQTkyUG9mTmJqR0l0SDFDSTZscjBHWX",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYVZJNmp3eGw5MXduVkt5Tmc1V1FYZTFUOXJLTFRka2ZrNTlVbTVTZ0FPWE0wM0NjUm1EY1BYTVVCd1BtZTRDMHJpYS1sckhINGw0REJmSG5BQTkyUG9mTmJqR0l0SDFDSTZscjBHWXEybWF2SDVzSGJtM3NrS1JFYXJxbmVOZ3cxb21Va1ppd3M2Q3cySzZobVVkMA?oc=5",
         "type": "rss"
       }
     ]
@@ -707,6 +930,67 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU0JOdlRsaVppcnRmbEFYTkZ5OThpdWF2NklWeWpVMjdqMVpIeUM5T2QtNXVKWmhHeGtKRjdlMllCQWg0dnBzcHozRndZenhRQVlmR0xJVV83TkUtNkpNNGd4Nl9vR25SbmF4X1YtaFRiVWRGRU5UWFFZSHZKSE9wZUVJaElnQnBIRjRQN3ZjT2tsTm5PTkFiV2VOazg3eERkbS1QenRGRWlSaWFTU2hPSWtFNVdRdFp3M2VmNmJyM0VHOGk0Wm5zMFhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-09-03-018",
+    "date": "2026-09-03",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Modernizes Automation Systems to Extend Life of Nuclear Power Plant in Romania by 30 Years - automation.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYnpLVTdXRHEwTUExb0JJRl94bXpvaXhGVk1JcDgyZXBSb2hBMzM2WEhWMFNIa0kwSUhBWk9peml5VWVKYjFLczYtTUx0VHItamdvWWNjdWNKUXZHLXg4VV9uYS1mbndHYXZ6LTQyc0",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYnpLVTdXRHEwTUExb0JJRl94bXpvaXhGVk1JcDgyZXBSb2hBMzM2WEhWMFNIa0kwSUhBWk9peml5VWVKYjFLczYtTUx0VHItamdvWWNjdWNKUXZHLXg4VV9uYS1mbndHYXZ6LTQyc0padnV4VHZuSGN4eDZrRTJuSGFwaEtGd2FqZk5WTGV1Y0owTFBlTXg0dG1ld0JtS0tvNlhjcmdISVBCRExtRlN1RS1xMDZnWU1u?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-09-03-019",
+    "date": "2026-09-03",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Robotics Partners with NVIDIA to Deliver Industrial-Grade Physical AI at Scale - via.tt.se",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTlU1ZE01SkZ1bHdPTnZwSDZLTXl4Rkd2QkJvRkpmdVlCRXM1MVRmSTJxQkFOalAxWW1RTEFRUUFtazI2enZqQWpRRnEzbGYzTFdKSl9iaDFIWDFyaHlVb2JjNGdhbFlLOFIyUnNRUn",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTlU1ZE01SkZ1bHdPTnZwSDZLTXl4Rkd2QkJvRkpmdVlCRXM1MVRmSTJxQkFOalAxWW1RTEFRUUFtazI2enZqQWpRRnEzbGYzTFdKSl9iaDFIWDFyaHlVb2JjNGdhbFlLOFIyUnNRUnlNYndxbjlXNzFTMEdRTTFsRTBSQnByN3FIaHZMZzVDUnBlQjFwTFprYVJvY1pUb3VFWnFJNGZVc1E2Wm1MTVZSX182NzFOeEN6UmVvbnFSUlN2THM2RUxJUFBGUmUzTFRRMmJaa2xDbHBqVV8wMXd4cTFzRlVJQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-03-020",
+    "date": "2026-09-03",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Does Caterpillar’s AI Robotics Push with FieldAI and NVIDIA Reshape the Bull Case for CAT? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPUjBzTldIYkUwTERWWjFjMzdCREhqMWJBYVZlMHRYM21kUGRtRHNlSllDSjZ6ZEF4QkRETjVoc1RIbmdWTy1ySF81NnI1emR1TVZMYTJ6Rkdxbjc4R3dFV2I3c1JBRTcyQ3VwRkdiX0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUjBzTldIYkUwTERWWjFjMzdCREhqMWJBYVZlMHRYM21kUGRtRHNlSllDSjZ6ZEF4QkRETjVoc1RIbmdWTy1ySF81NnI1emR1TVZMYTJ6Rkdxbjc4R3dFV2I3c1JBRTcyQ3VwRkdiX0E4bFFLdjRuTjlfeUx2cEI4ZjZGZmpvSkp3c0RCeUhKaVdBYmRLcUN5bkhfUDhkQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1538,6 +1822,46 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcEthbV95alFvQ3lPTm5SOS1CVFdTajNmc2pXZ0hwbU9sMFFlUmxBTFdkaF9rWUV1Ym1DdGtwQ2k0bjBENnJDMmtvTlY3TDEweE1OalZQOWtzZUR6T2Nwak9FT2NkUm9TdjVvd25VUi1GdUdaaEVEZkluNFNydUZPclZab2lLOHlu?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-09-01-027",
+    "date": "2026-09-01",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ABB takes over B&R - packaging journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hSEIwWTA4QzEwSnd2LXJ1WU5sZkl6b2V0OHFWZzNocjlRN0RXaWN4dUFwV0MwTXFFNU9YMGxQNXFOZ1NXYkJabGR6ZkVUVnZLRzM5M0g4VmlWQ1hTcmlaZg?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hSEIwWTA4QzEwSnd2LXJ1WU5sZkl6b2V0OHFWZzNocjlRN0RXaWN4dUFwV0MwTXFFNU9YMGxQNXFOZ1NXYkJabGR6ZkVUVnZLRzM5M0g4VmlWQ1hTcmlaZg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-01-028",
+    "date": "2026-09-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (NYSE: CAT) CEO sells shares near $800 each - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWl9BblZteUdCaUdzYmdIX3h2amluRmJxdFpENkJhVEZfXy1yMlZTYnE5RENVc2FfSXdYRWg4d3pXYU5KdmRMSmVnX29BRnl1bEV3TXd1d2hkaWJzekt3bkVjN2hMbDZZRk1qWGxvTm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWl9BblZteUdCaUdzYmdIX3h2amluRmJxdFpENkJhVEZfXy1yMlZTYnE5RENVc2FfSXdYRWg4d3pXYU5KdmRMSmVnX29BRnl1bEV3TXd1d2hkaWJzekt3bkVjN2hMbDZZRk1qWGxvTmJycHRHalFpV0pMTHMzeWJNc3VPU3RpWFJfMUNoUmZQcHZ6UXVMZlVBa3k0NVlWdXlqbVNjb2toSzV1LWFI?oc=5",
         "type": "rss"
       }
     ]
