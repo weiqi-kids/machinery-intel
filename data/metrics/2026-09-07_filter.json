@@ -1,0 +1,16 @@
+{
+  "total_raw": 399,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 5,
+  "gate2_fail": 5,
+  "passed": 26,
+  "gate2_samples": [
+    "Designing liquid cooling for tightening US data center cooling efficiency standards",
+    "The complete guide to home energy savings: smarter ways to cut your bills today and tomorrow",
+    "Special Report on Shareholdings: DMG MORI (5.15% → 4.11%), Blackrock Japan, et al. - moomoo.com",
+    "Okuma America Names Dominick Patriarca President and COO - citybiz",
+    "Caterpillar, FieldAI partner on AI, autonomy - Equipment Finance News"
+  ]
+}
