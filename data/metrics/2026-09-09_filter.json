@@ -1,0 +1,16 @@
+{
+  "total_raw": 396,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 173,
+  "gate1_fail": 3,
+  "gate2_fail": 6,
+  "passed": 53,
+  "gate2_samples": [
+    "Delta Electronics' Sales Jump 35% in August - marketscreener.com",
+    "Designing liquid cooling for tightening US data center cooling efficiency standards",
+    "Mitsubishi Electric to Aid Victims of Earthquake in Kumamoto Through In-house Donation Program - web",
+    "DMG MORI Global One - The Ocean Race Atlantic 2026 Day 7 - Sail-World.com",
+    "Special Report on Shareholdings: DMG MORI (5.15% → 4.11%), Blackrock Japan, et al. - Moomoo"
+  ]
+}
