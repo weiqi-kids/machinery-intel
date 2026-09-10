@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 2,
+  "gate2_fail": 6,
+  "passed": 38,
+  "gate2_samples": [
+    "Delta Electronics' Sales Jump 35% in August - marketscreener.com",
+    "ABB and Rolls-Royce SMR sign agreement on nuclear small modular reactor collaboration - Process and ",
+    "Mitsubishi Electric US, Inc. Appoints Limor Spector to Oversee Innovation Organizations Across the A",
+    "Mitsubishi Electric to Aid Victims of Earthquake in Kumamoto Through In-house Donation Program - Web",
+    "Special Report on Shareholdings: DMG MORI (5.15% → 4.11%), Blackrock Japan, et al. - Moomoo"
+  ]
+}

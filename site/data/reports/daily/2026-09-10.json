@@ -1,0 +1,229 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:31:10.050890Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Eclipse Cross: new battery options deliver up to 650 km range - electrive.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkVfUkxqeFdZeHZGbEhfRXNSa1BwNHhEZEFRaHE5elZwc0tLbjA5VV83R0htQ3ItZDRyb3NxTGZfUUhyXzJhNFR3cWc0VGt0RFkzbVh4bVpkZzdhRHpRRWJMeGlDd05TNnNpanFqeG1GS3dDWVlBRVBuT2F6X3V2elJodXNtaGoyNVE3bkJhdDF0R0kxeV8tUV8tMWFXRGJPbWkxcFB2LS1uSFBfRVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Fast flat-water sailing as the top group begins final 500-mile push towards Lorient - Mysailing",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRDVITno2Z0h0TEZfVDdMWVhDZ3BpTV9fLUU4OWM3QmR6TkF4QTBISjl0OHJ3cGVzajhZS1ZPanROWU5wa2tGS3kydWZVa0l3MkdMVmx3Mk9PTXh4VlN2Sml5R0dGZUhpb0sxWmdWeVYxR1NzZm53VU1nVkI3ZGU4bk96aXhnWmktY19aVllGLVJxOXE1VTI1RVYyODl0WnNiUUlrcnB5b19CWXFLS2p0UkQ4WQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itw-2026-09-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works stock heads into the open after a 0.9 percent gain - ad-hoc-news.de",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEM4ZmVSYU9VTnNqbXZmSmF4eXR1ZVFyTmlXZFVmY0F2WTNRNHZtVUNoMXFnM2tzaEg2eHRZT0tGQ1NNc0pRME9SYU5wSWpFcXd4RUJQeTFLbjZrREQxY2VtX25takdRMzllWXhQNXFmSGpyUTFzMXBLQkVJazMzRG10SktRT1k4cl9mdU90ME8wSmUxYzhnaHdqMVFrTFFMTFcyVk55QVBrc3FXU1g5RjQ4TnBMRjJTdEEzYU81YzdXYnoybU1QVm9ZSHBJdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "parker_hannifin-2026-09-10-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin stock eases after a fresh credit move - ad-hoc-news.de",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSjNmQ1FKQjRGaVFLN3FKOGlhRTExeEdENU1Kb3hGaHdsLVdCbHRTQW9tMGw5Q3N0S3hUMWlfM2FkUnUzZXc5OHZQemxRLUNlTGFCSWYyNkpodExER0pBZGw4R201MmxrS0JfZWE4WnJWZXF2Q2UzRDV5TlVnTTFWcVR1QjA4UTlxdTVEUE1OclJXa2lBcUVMWEtieEJjTVAyNFF0WVFpNTYzRlc0NVRIS3ZObWhIOXM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-09-10-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "It’s caterpillar season. - Webb City Sentinel",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ROHpMcjNTMFlnYXBWa3VuQllSMXEyWG5POXE3SlhBZ0pIQ1dqT1lEWlBNZ3hKY3RkdjJTWEZBRFVsTVlpV1JrWHE5UmMteFJ0MjZDeFE2SQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 4
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "itw",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 394,
+    "dup_title": 193,
+    "too_old": 155,
+    "gate1_blocked": 2,
+    "gate2_blocked": 6,
+    "passed": 38,
+    "pass_rate": "18.9%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "Delta Electronics' Sales Jump 35% in August - marketscreener.com",
+      "ABB and Rolls-Royce SMR sign agreement on nuclear small modular reactor collaboration - Process and ",
+      "Mitsubishi Electric US, Inc. Appoints Limor Spector to Oversee Innovation Organizations Across the A",
+      "Mitsubishi Electric to Aid Victims of Earthquake in Kumamoto Through In-house Donation Program - Web",
+      "Special Report on Shareholdings: DMG MORI (5.15% → 4.11%), Blackrock Japan, et al. - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為CAT、Parker、ITW相關動態：「Mitsubishi Eclipse Cross: new battery options deliver up ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Mitsubishi Eclipse Cross: new battery options deliver up to 650 km range - el...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Fast flat-water sailing as the top group begins final 500-mile push towards L...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
