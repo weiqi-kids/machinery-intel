@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 158,
+  "gate1_fail": 2,
+  "gate2_fail": 8,
+  "passed": 26,
+  "gate2_samples": [
+    "Delta Electronics' Sales Jump 35% in August - marketscreener.com",
+    "ABB and Rolls-Royce Team Up to Scale Nuclear Small Modular Reactors - Thomasnet",
+    "Mitsubishi Electric US, Inc. Appoints Limor Spector to Oversee Innovation Organizations Across the A",
+    "Mitsubishi Electric to Aid Victims of Earthquake in Kumamoto Through In-house Donation Program - Web",
+    "DMG MORI Global One - The Ocean Race Atlantic 2026 Day 7 - Powerboat.World"
+  ]
+}
