@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 211,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 2,
+  "gate2_fail": 10,
+  "passed": 9,
+  "gate2_samples": [
+    "Delta Electronics' Sales Jump 35% in August - marketscreener.com",
+    "ABB and Rolls-Royce Team Up to Scale Nuclear Small Modular Reactors - Thomasnet",
+    "Mitsubishi Electric US, Inc. Appoints Limor Spector to Oversee Innovation Organizations Across the A",
+    "Mitsubishi Electric to Aid Victims of Earthquake in Kumamoto Through In-house Donation Program - Web",
+    "Citi cuts Mitsubishi Electric target to ¥7,200, keeps buy rating By Investing.com - Investing.com So"
+  ]
+}

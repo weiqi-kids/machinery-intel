@@ -1,0 +1,251 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T12:57:59.164718Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-09-13-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TWSE Foreign Holding Weekly (Sep 11th): TSMC, Delta Electronics, ASE Industrial, MediaTek, Wistron - Smartkarma",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ3JjWGc5dmRXUG5BTktkekhCcnQ3RHpLRy1ad09udm5nOEpPYlNFVzF4eXFQUWNKUTJGWmFRU3JtQlB0Ny1pNjI3SHhqTmZQZG9EazhGOWNnTnpXV1RvbWdMOXBJOVZ0ZXNOZFoxcVY2a00tTkFEMDBJdF83bHFRd3R5RHVaNEhlcWRla2U1Z0dsZmp5ZFFoUGZaRS1vSHNCVkpyc2lUM0dZUDFzV21ycGdFRjVvRTJvMENHTTUzWkJfRmFrYnc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itw-2026-09-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Investors Are Reacting To ITW Stock Broad Based Growth Continues - simplywall.st",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ2NVcEtaY0J0LXk3YTk0Q3JLRlc3M2dUbWVhYVR5Vk9BU1JHNGNfTFA1ajJaZXp3MnVrYTBwekp0dnVjVmlzUkF2akk2ZTRBNnRuNHR0VHFoMmVJU0JUWWNPS19qLWpQSTc4ai1VNUJCSjJmcW45SExyR1hnTm1uUmdqWkI1VGNKallNVnJOMlJPa0VtdVY0d0NGOUtLczBQbUt0d0JCSW5ia3V4aThuRkZJRHE3S042UGdLcXZXTklMeHpORk41TXAtWnZvV2N4LVVOUmlFc0xDTjdH0gHcAUFVX3lxTFBDY1VwS1pjQnQteTdhOTRDcktGVzczZ1RtZWFhVHlWT0FTUkc0Y19MUDVqMlplencydWthMHB6SnR2dWNWaXNSQXZqSTZlNEE2dG40dHRUcWgyZUlTQlRZY09LX2otalBJNzhqLVU1QkJKMmZxbjlITHJHWGdObW5SZ2paQjVUY0pqWU1Wck4yUk9rRW11VjR3Q0Y5S0tzMFBtS3R3QkJJbmJrdXhpOG5GRklEcTdLTjZQZ0txdldOSUx4ek5GTjVNcC1adm9XY3gtVU5SaUVzTENON0c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-09-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Parker-Hannifin (PH) Is Getting Fresh Attention - simplywall.st",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTW43OS1vUTdJZ0VBbkc2bGhhUmc0dTNDb25LMTExTUE0b1d3dl9hV3JiU2lYS0pYS1U1TFhyWGJIYXZvakVpOEowTHh6eklDeEZkMXpRSWRmemFaX1BsbkZRRWpiYzBIUmw0Y3R4X1dhZmlPNGxHSGtNTDV4bzgyOUlVVHBGbGdEaWEyVW9DYmFBQVZTb1IwSzhVVGI2YkpRbl9XbkZzWXVrS1JEWWp0WnZUUkJwTTlRNXhwSVNUcFVFUdIBxwFBVV95cUxQS1E5bmFOWEJyQ1ZwZ1EtOEF3RDRKeUQtc2g5NVBHVzlhVzVDNFVYQnpVaHRfMExaS2pVVXFRdm1SdFNaRC1Kc3FwS2FFZnhYNGczM3JpOU1reldfdUt4OUhSYVFibmF5a0FtaWJLdWp3QzQzQ1dSS3hfeEoycDRBVy1IUExoYV9aLWFNdXVES3pkYTNuaEJPZHR4SWNQdVhTRjdUMUFFeEpzOU1FT3J5UEZFRGJHcmhMZjVPR3h1cl9MSEswQ1JN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-09-13-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar And FieldAI Partner On Physical AI, Robotics And Digital Twins - Pulse 2.0",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "cnc_technology",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON3FiTERjOW1VLVpab2VMQV9TQWRZRXF2UmRuelZYakVHZ3FTZzJHaTIwR2N6ZU5Ed05oVTFjNXF6anY4ZkRpVzg4bl8xUnkwVTFfa2t6LTNXV0RnZnBvaDhGTVFWOVlpV1ZRazY4NURwSmtIS3g3enV0cnloNXlPVzVaM3V2a3pPUmVvRnNKQmlySE1SZ0ZZTNIBngFBVV95cUxNMHFxYThRejBQejJ6czdSZW9lTTRDWHRFc1E3VGkwSExCWXBYelpnZ1IyX3pzb1V0a1dYYWd1QXRqZzAzVGRmWjI3d2VxT3pmaTdMQmQyUU1PRXBwSkdRRzdCMDlOMmVrVjZLVEdsOUR4Q1VIN1hJSVdHdFd1SjlreS1ZYzFYMmVrMmJRYkVxaFk0bGljSGdnTW9JLXBxZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-09-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Navy rewrites its playbook, a startup shipyard lands its first order and Caterpillar goes electric - WorkBoat",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVjRERUtzaDhzZThFVzZFaWFiTDZuUGtMb09TOGxuNENNMFRjMHppVEZlb1ozM011UTlCODZBTzJ6YmNPcUlGMW1OY2dHRjhPd2dQZlR2WnNHQ0RpZEdxQkZpMXR6SWxFMHY5YUNaanNoN0hxa2s1SUVKWUpHQTJuM1phTTFEUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "cnc_technology": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "itw",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "automation_capex",
+        "count": 4
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "cnc_technology",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 394,
+    "dup_title": 211,
+    "too_old": 162,
+    "gate1_blocked": 2,
+    "gate2_blocked": 10,
+    "passed": 9,
+    "pass_rate": "4.9%",
+    "gate2_block_rate": "5.5%",
+    "gate2_samples": [
+      "Delta Electronics' Sales Jump 35% in August - marketscreener.com",
+      "ABB and Rolls-Royce Team Up to Scale Nuclear Small Modular Reactors - Thomasnet",
+      "Mitsubishi Electric US, Inc. Appoints Limor Spector to Oversee Innovation Organizations Across the A",
+      "Mitsubishi Electric to Aid Victims of Earthquake in Kumamoto Through In-house Donation Program - Web",
+      "Citi cuts Mitsubishi Electric target to ¥7,200, keeps buy rating By Investing.com - Investing.com So"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為CAT、Delta Electronics、ITW相關動態：「TWSE Foreign Holding Weekly (Sep 11th): TSMC, Delta Elect...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "TWSE Foreign Holding Weekly (Sep 11th): TSMC, Delta Electronics, ASE Industri...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "How Investors Are Reacting To ITW Stock Broad Based Growth Continues - simply...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
