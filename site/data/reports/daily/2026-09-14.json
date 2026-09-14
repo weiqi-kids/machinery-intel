@@ -1,0 +1,252 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:35:26.400769Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-09-14-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan's Delta Electronics seeks $1.5 billion in Thai share-linked bonds, term sheet shows - TradingView",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQX3hKQnIxd3VNNHgtRFotb0F6eTFDcVZCdURpSTJocGkxaWhLZTN2Z04tYklmQ1RoTkRwUXFlYnZiRlhoYXljNGpHYWFSLUdacEtoWTVoN21haHFRYUQwLXN2cXNkaTBzNW9hRzZTSExXR1hoR0xZRm16dk5Db2RUcXFBOFM0Vms1a0xpc082ZXV4MXlxX3FteVk5dEg2MUVBSEl1eVZ1NUd1LUhWWlEybzZKX0hKMUNIckwtX3YwQlhrbkZUMmlRLXpyMUt3aW5Wa3g1SllxcjVacG13bVFLLUtDOG1aZjBTVUsxOWlUYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-09-14-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Future Industry Summit 2026 Convenes Govt. and Industry Leaders to Advance Thailand's AI and Electrification Infrastructure (Published) - markets.businessinsider.com",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZ0txX3RxMl9PcWR1NXNXVFB4MkZBcTdtYTI4QWt6c2lzdkgwdnFMRUJyRkNtU184eEVKZUZJNnhQNmMyR3R4QW5LSTFCa0ZzQThCZGxLSGdsdzJfUUVHOVlEMWJ4Ry1GRGtkUFQxMWFxdEVma3NMV0FKN3NsQUV2U2tnRnBLNkl5NS1XNFdvZXMxVFhrNjJNaEMxVElZZmRXd3FoX3hVbXlZdmQ1T3JITVBmd2lKQVN1dG1OVlM1bU1jODRvUWFVeFpVSm1keWpTaE5XcnQyTE1zZUFoRURGX09mblhSX0Y2VmZOM1ZXZ0k2cUtuZG1Ud0RJZ2VrTjlycUlzdklGeVlEcVFXTGs3MXIyQ0IyTG5aVmFaZ3dBYVNnaEk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-09-14-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SWISSto12 and Mitsubishi Electric Corporation Announce Strategic Partnership - Business Wire",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaFVXVldYc0phRFlRbU83cWRZSGQ4SFoxY1g0d0prSGt3QkVwUGFjWDdiTS1MU1I0ZnJ4OWR2UThkQk0xb0RLNFc5Q3kzSWRTLXVySk9JODFIZ0lwOEEtb28wUGlubDNPaG04dEhaRW1EOXRYRTA3RzV0SzNnUHA4RGV3cHlSQ3Z3d3VnWEZYbDZiX2kxM2hqY0lUeXQwZEtoWU5ncW1xUUVSLVByLTAySUJuTWN4U25pMndDMXhpLUJyR3hoc1A0NXlDcWZyZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-09-14-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Auria Announces Partnership and Contract with Mitsubishi Electric to Advance Next-Generation SATCOM Mission and Resource Management - Yahoo Finance",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVTBudjRQOVVTcU1yTUhieUpHck5LSTMwd3drNWV1SHJVMVZaSnRsc2VzU0NicDhaYzFOMW9XVUdRYk56VVZ6WnhwdkVEajBCWjl0cFFyYV9qSzFJRC1Mb28wcXZYUVcwRTN4MHZOdUJTQzg4czhDaUpMdTFkcjdVQ0NpQ3VWTnItU1hoc3pCZ2pnOGw1S3FvUk5HQS1TZ1hZdEdIdUwwdkxQTHli?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-14-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi triples heat exchanger performance - coolingpost.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbURtNXQ1WWZFMG8wWlItT0pjbFBlU3NDcWp6NGJnWUp2SkU2WDlucWJmWGVzbmlnbXRzYmwyamY2di1tX1RfSU1aVnl5dVpmeVBLQjRsWXQ1bnlFTmtrdjFvWWVKaF96ekFBNWljQmtkLWVFVGU2clVaa2FzM3dudnR0SUN0aHowb0p0NVdR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 28,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 9
+      },
+      {
+        "id": "caterpillar",
+        "count": 5
+      },
+      {
+        "id": "delta",
+        "count": 2
+      },
+      {
+        "id": "itw",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "earnings",
+        "count": 17
+      },
+      {
+        "id": "automation_capex",
+        "count": 9
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 396,
+    "dup_title": 201,
+    "too_old": 148,
+    "gate1_blocked": 3,
+    "gate2_blocked": 10,
+    "passed": 34,
+    "pass_rate": "17.4%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Taiwan power electronics maker Delta seeks $1.5 billion in Thai share-linked bonds, term sheet shows",
+      "Delta Electronics' Sales Jump 35% in August - marketscreener.com",
+      "ABB and Rolls-Royce Team Up to Scale Nuclear Small Modular Reactors - Thomasnet",
+      "Mitsubishi Electric’s New Plate Heat Exchanger Delivers 3x Conventional Heat Transfer Performance - ",
+      "Mitsubishi Electric US, Inc. Appoints Limor Spector to Oversee Innovation Organizations Across the A"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為Mitsubishi Electric、CAT、Delta Electronics相關動態：「Taiwan's Delta Electronics seeks $1.5 billion in Thai sha...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Taiwan's Delta Electronics seeks $1.5 billion in Thai share-linked bonds, ter...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Delta Future Industry Summit 2026 Convenes Govt. and Industry Leaders to Adva...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
