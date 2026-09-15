@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 181,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 5,
+  "gate2_fail": 8,
+  "passed": 47,
+  "gate2_samples": [
+    "Delta Electronics Thailand shareholder plans $1.5 billion bond issue - tradingview.com",
+    "Taiwan power electronics maker Delta seeks $1.5 billion in Thai share-linked bonds, term sheet shows",
+    "Delta Electronics' Sales Jump 35% in August - marketscreener.com",
+    "ABB and Rolls-Royce Team Up to Scale Nuclear Small Modular Reactors - Thomasnet",
+    "Energy in hands"
+  ]
+}
