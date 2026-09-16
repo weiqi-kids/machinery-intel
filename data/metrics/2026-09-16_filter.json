@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 3,
+  "gate2_fail": 11,
+  "passed": 29,
+  "gate2_samples": [
+    "Delta Electronics Thailand shareholder plans $1.5 billion bond issue - TradingView",
+    "Taiwan power electronics maker Delta seeks $1.5 billion in Thai share-linked bonds, term sheet shows",
+    "ABB and Rolls-Royce Team Up to Scale Nuclear Small Modular Reactors - Thomasnet",
+    "Energy in hands",
+    "WXV: Olivia Apps named Mitsubishi Electric Player of the Week - World Rugby"
+  ]
+}
