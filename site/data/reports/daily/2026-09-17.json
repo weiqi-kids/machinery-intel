@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T12:54:27.962073Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-09-17-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SWISSto12 secures Mitsubishi Electric antenna contract as companies target Japanese satellite market - 3D Printing Industry",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cnc_technology",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZGs5VmFobUpCMmJxMkRJYncwN2hWODFRSzZHSUhSWFU2eVNTdUNnRmJSM3prOEJKZ0xueHhuQjFMM0l5OE5XbzhKbGpIcFhaeW9rZUd1QU9YSUViVFh5SnZhUHV4UVJ3c2lNMHZ0bUJLVTlvWTg1VGFzNGhJamFCQ290dk5OR2lwQmtXSF9hM3puWDhVVTdqcTQ0dWt6a3NHSEJ2RGFuQVhESmZmb1dLaTJxb0FMVGdtQzhyb1RxZVBQMERrVUtFTmlKTzBmdGZmdjltLVExMmhjVWUy?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mitsubishi_electric-2026-09-17-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric’s MELSEC iQ-R Series Safety Programmable Controller Obtains EU Type Examination Certificate for EU Machinery Regulation - Yahoo! Finance Canada",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3hyYk9rU1hUTTQ1MVJlUVRFYXdrN0FpZTZCc2ZGSXljcExQWHZ1TjN6RF9WcmR3S05DbHNqeWFtVlJjTmY2YmFWUDZJanlIanJwZTJJWDN4UUt6WTRGcERIV1A5QTl2WUJxVXNiTkI3RmdRRExESXdWQ1c5Y2t3TmZMa0p2UWM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-09-17-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric’s 2 R&D projects selected for Japan’s quantum computing initiative - TradingView",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZTVPQ09PTUgyVGxmT1hTcnV5ZnFQRnlIXzNnSUlYckFiVHMxQVRkRXlFSU9BazM3cjFPSk02WjZrQ1VSNUpzZnFXeWNZeTVHMlB1bm5fVjAySFFxQzkxY2RfQmpNSGpTengzcHVhaFZxRmhoQ1JmeTEyWFEwdDdlM1pfTVZZNXVtWUFXRFlWU1ZpcDZnVlhKVXlSZlFUT3k3TDBhQXl3WUlNWTNlNVlwUmxMaXdZTkdEX2k4SkpPX0lteTc4cXNYMEkzbURZdTRMOWFfTmR6Vmw3dkpTUXhTLS1ZYw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-09-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mitsubishi Electric Launches NEDO-Supported R&D to Scale Quantum Computers - The Quantum Insider",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0MydE05Tnk2RDBaNHdsbTlqVmk3NkVFRWhhcVg2VV9aVFR2NEc5c3NZN3VJZExldERFbXV1WGRRYmRvMVJJNnJNLV9COTFxNWhUQjc4U3NQZi1maUQ0UUpZNElaZkdHSlNZSXFmc2xONm56Zk5iOGpqUnBYMjNkQTJIWTEzMU1RaTFEajNKcmpuR1Ziemc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-09-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rep. Byron Donalds Sells Off Parker-Hannifin Corporation (NYSE:PH) Shares - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbnFSckZMZlpMeHpZS2EtRkVZcGVjVEVjTmxmeU1xT01VVUd0QVVGaEhzS3FaaUplTnROamRibkE2MzQtOHB5TGtYbWFMZXZNa2RHV092RXFBQmdMZWp4cXV0UFdmQXZIZFdCSVVqVXhta25pZ0V0ektFYlVwZklkaktody02d3ZYQkxDclJxUUdoakJJWFlPY05qQVlkcXJyLVBDU2ZHZHJVNVl3R1Z1LVRKaV8tUHd6WmwwR3lvNkJQU2tHcVhHajNBT0RHZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "cnc_technology": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 4
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "cnc_technology",
+        "count": 1
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 396,
+    "dup_title": 202,
+    "too_old": 160,
+    "gate1_blocked": 2,
+    "gate2_blocked": 8,
+    "passed": 24,
+    "pass_rate": "12.4%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "Delta Electronics Thailand shareholder plans $1.5 billion bond issue - TradingView",
+      "Taiwan power electronics maker Delta seeks $1.5 billion in Thai share-linked bonds, term sheet shows",
+      "Energy in hands",
+      "SWISSto12 and Mitsubishi Electric partner on 3D printed satellite payloads - VoxelMatters",
+      "Mitsubishi Electric Invests in OptQC Optical Quantum Computing Startup - The Quantum Insider"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Mitsubishi Electric、Parker、CAT相關動態：「SWISSto12 secures Mitsubishi Electric antenna contract as...」。主要關注主題為產業通用、財報、CNC 技術，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SWISSto12 secures Mitsubishi Electric antenna contract as companies target Ja...（CNC 技術、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Mitsubishi Electric’s MELSEC iQ-R Series Safety Programmable Controller Obtai...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

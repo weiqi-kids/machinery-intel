@@ -1,0 +1,16 @@
+{
+  "total_raw": 396,
+  "dup_title": 202,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 2,
+  "gate2_fail": 8,
+  "passed": 24,
+  "gate2_samples": [
+    "Delta Electronics Thailand shareholder plans $1.5 billion bond issue - TradingView",
+    "Taiwan power electronics maker Delta seeks $1.5 billion in Thai share-linked bonds, term sheet shows",
+    "Energy in hands",
+    "SWISSto12 and Mitsubishi Electric partner on 3D printed satellite payloads - VoxelMatters",
+    "Mitsubishi Electric Invests in OptQC Optical Quantum Computing Startup - The Quantum Insider"
+  ]
+}
