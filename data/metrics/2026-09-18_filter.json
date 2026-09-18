@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 3,
+  "gate2_fail": 9,
+  "passed": 31,
+  "gate2_samples": [
+    "Delta Electronics relocates Scottish engineering hub, United Kingdom. News story in Forkliftaction N",
+    "Delta Electronics Thailand shareholder plans $1.5 billion bond issue - TradingView",
+    "Taiwan power electronics maker Delta seeks $1.5 billion in Thai share-linked bonds, term sheet shows",
+    "SWISSto12 and Mitsubishi Electric partner on 3D printed satellite payloads - VoxelMatters",
+    "Mitsubishi Electric Invests in OptQC Optical Quantum Computing Startup - The Quantum Insider"
+  ]
+}

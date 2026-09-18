@@ -1,5 +1,174 @@
 [
   {
+    "id": "keyence-2026-09-18-001",
+    "date": "2026-09-18",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Keyence stock trades near recent high on solid fiscal-year gains - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxObFFReFdSWGVrVzJ2RGVNUXYxQUVQVzNidlhXVldkWjZMZFZPV0IwQ0JUczBaVHBjbTRMdm8zdVFJbjhOVlVJRUNIYVJ0RWE4RjlYQk9RRVJaUlBGOEQ3N3FYNWxjMkJ1cklsYWcxST",
+    "sources": [
+      {
+        "name": "keyence",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFFReFdSWGVrVzJ2RGVNUXYxQUVQVzNidlhXVldkWjZMZFZPV0IwQ0JUczBaVHBjbTRMdm8zdVFJbjhOVlVJRUNIYVJ0RWE4RjlYQk9RRVJaUlBGOEQ3N3FYNWxjMkJ1cklsYWcxSThIdGU1VDFaM0oyWnc2b3hSTnEwNTZBZ1k5N2piTWNPMlpPTjFJTFlxMW9QcENYbTl5TUV4MmM4MWRFMnJKRklwMERXbUZGZVpEUGhDd1NHMnVXX2VKTGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-09-18-002",
+    "date": "2026-09-18",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta showcases AI-driven technologies at SEMICON India 2026 - Manufacturing Today India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9ha2Q1UEFxTkVoMFBCTF9ZbUxtRE45S2hESTRDbEUtNTNDR3praTFhdk5oMmRyRjBhX0d4MGw0VlREYlVuTUcyaThHUFRTWWJCRTJ4X2Z3NjlTNHh5M1p1ZXQ3LS0yX0tmR1lTcjVJRF",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ha2Q1UEFxTkVoMFBCTF9ZbUxtRE45S2hESTRDbEUtNTNDR3praTFhdk5oMmRyRjBhX0d4MGw0VlREYlVuTUcyaThHUFRTWWJCRTJ4X2Z3NjlTNHh5M1p1ZXQ3LS0yX0tmR1lTcjVJRFFPOUtycXp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-09-18-003",
+    "date": "2026-09-18",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB India stock gains as investors digest strong 2026 earnings - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQM29YbExOZ0NrX01McGhzS1JfdmhvSlBwMFBTb3dSRVQwcHVEc0JxamI1SWM5NkxHTGQ4OEQ0aC1sNWFXTU5SYTl4QWlHZ2pzTHUwdVo0d2hrZG80VkNaWEM1WTRyNkg3NFlxQkgzTW",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM29YbExOZ0NrX01McGhzS1JfdmhvSlBwMFBTb3dSRVQwcHVEc0JxamI1SWM5NkxHTGQ4OEQ0aC1sNWFXTU5SYTl4QWlHZ2pzTHUwdVo0d2hrZG80VkNaWEM1WTRyNkg3NFlxQkgzTW1DQk55Y2dUOGI1dzMwMEFoem1VZUNMTWJVN1FJQklyeUVmSVB0dzU5aHdLdUg1VVROY3NlME45bUQ2QkxLQU5SRVFfYVFrNHpBM2ZscXd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-09-18-004",
+    "date": "2026-09-18",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "automation_capex",
+      "cnc_technology",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "DMG MORI Expands Gear Machining Solutions for CNC Manufacturers - Machine Maker",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOUFUtbVZNV2VfX1RPZC1MMkRicXFWY0o1SzVKeE9mek1LRDlUem9ic0JQbktMczZZSkRXYWtUeXBva3NYQ2swUnZqQ0Z0M2pVMGJLWmUtZUNrei1Sb09sS1p4UDZFYUVOMXg5V2tFNE",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFUtbVZNV2VfX1RPZC1MMkRicXFWY0o1SzVKeE9mek1LRDlUem9ic0JQbktMczZZSkRXYWtUeXBva3NYQ2swUnZqQ0Z0M2pVMGJLWmUtZUNrei1Sb09sS1p4UDZFYUVOMXg5V2tFNElHdFpEOVlZS3FjV0dpdWF3ZWZKdV9pa0JWcnlxcGhaSVZaNzEyU0YwYTlVLWJBdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-09-18-005",
+    "date": "2026-09-18",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock heads into the open after a 0.36% gain - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNTVprOXY4NGtyc05PUFM1QUhSa2tUR2M1NDRqQ2JXRlM0U3Vab2Z5NGZhQnJEaGY0Nm5reUtFRVVLenFqWHdfOXRydDdwaGIxS0gwLWkyR1VISjhjSHFNX0w5T2ZyRHlJZV9zWHFxXz",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTVprOXY4NGtyc05PUFM1QUhSa2tUR2M1NDRqQ2JXRlM0U3Vab2Z5NGZhQnJEaGY0Nm5reUtFRVVLenFqWHdfOXRydDdwaGIxS0gwLWkyR1VISjhjSHFNX0w5T2ZyRHlJZV9zWHFxXzRjNE4tUVVILWVxamQyNFVqdm45bXFxbUxDWHQ1dTFYTEpESkZLd1h1bHdPUUtxc0ZFSW1PWVZQOXl0c2VHc1QyRnhUR1JtY1hGYk9Ec2VLRS11RHFUN1JtMU16dkhIMUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-09-18-006",
+    "date": "2026-09-18",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin stock heads into the open after a modest gain - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcnk5MjdSa0xEN0pVTHI0T3UyUWxxNXhOS2FBdHpxMXVPa1NqQzI3LTlISGhnS3lLLUoxbDdLd1BtTDEwV0VyZEJ5eEpWSmFwYzd6N2hTTXdBRmtWQjVOdWFWMVVzd2QwcDFJVF9uej",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcnk5MjdSa0xEN0pVTHI0T3UyUWxxNXhOS2FBdHpxMXVPa1NqQzI3LTlISGhnS3lLLUoxbDdLd1BtTDEwV0VyZEJ5eEpWSmFwYzd6N2hTTXdBRmtWQjVOdWFWMVVzd2QwcDFJVF9uejFETnNhV0RhSXJTaDg4bzFFSWpxTFExaW15M2kzSFFnNjFzMVJhaWJoN3lzNlR0em1Yb0hSb2pYdC0wNEVpS2s1bW5qaVdDSG1NWVFLa1hCR1diQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-18-007",
+    "date": "2026-09-18",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Zacks Industry Outlook Caterpillar, Komatsu and Terex - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQRnoxdGpFV09wdDNzd29Gc0RoUWJPLURTVlM0cXNRaXI3NTdidG5ndm5Sc2VkcDRTREI4bnlrdlowdTZnbTNLdnpwZWNTWnJEQVk4MzcxZHhVQ1ZzNkRjR0IwdHM1cEU2d2M5bEZWUF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRnoxdGpFV09wdDNzd29Gc0RoUWJPLURTVlM0cXNRaXI3NTdidG5ndm5Sc2VkcDRTREI4bnlrdlowdTZnbTNLdnpwZWNTWnJEQVk4MzcxZHhVQ1ZzNkRjR0IwdHM1cEU2d2M5bEZWUFpfcVV6QjNmQklRSXpHV0dOVWRBV0JYZ1ctSDM0aWU4LTctMkRjZ2Y5UGZWZGEyYnozbDkzYmJJUXc2OTNv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-008",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "M&S drops never-before-seen Christmas alpine Colin with loads more chocolate & adorable chocolate ski gear - Good Housekeeping",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbHNWbHpFc3BQRndNODVsSWJNaXN6M1dDUXEzMUhyTHp3VmgyTTNhYXlfSnVKR01lLWZfUUgxX3JsQWEwOEFCUkY5RzNranJEdEt0YllKQjVVMGZodkh2OUxnQ3R2eXo3c21SYnlYQ1",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbHNWbHpFc3BQRndNODVsSWJNaXN6M1dDUXEzMUhyTHp3VmgyTTNhYXlfSnVKR01lLWZfUUgxX3JsQWEwOEFCUkY5RzNranJEdEt0YllKQjVVMGZodkh2OUxnQ3R2eXo3c21SYnlYQ1dBb2VKbi1rSVlnR3Q4YzkzdVBDMS1fUDZiR2RJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mitsubishi_electric-2026-09-17-001",
     "date": "2026-09-17",
     "companies": [
@@ -137,6 +306,315 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcWxYZE5XTFktVUJhcnlQVVc5cGhvRmd6Z2tTbUxXNHNXUTB0ZldzWml6YWRod0FwbS03RWxsVnE3SWpNYTNmZzFDUlZsOUhlVGFkWGg5eExSVEFmdHpxcjZSaHZ4cjhsWnh0bkd2V0VhaGNILTF5bFpOdkJoSTVnNTJ0LTBOSV9VX3FqcGhBc08zN2lSSWlVUmJCOHlQdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "keyence-2026-09-17-008",
+    "date": "2026-09-17",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Keyence stock holds near high market value ahead of next results - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVWVNNjJfbF9IOFE5clRoQ0tUaWdjQUtQaXJzeUtwSG1xMExUeGsxblF4NGNNOGpkS05VY2VDcFVpMi1WSjl3anpyZEhIcG9DTGo4VDFNZ2dUMkVHSnpFVmZTcm5BejJadzA1TFZBVU",
+    "sources": [
+      {
+        "name": "keyence",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVWVNNjJfbF9IOFE5clRoQ0tUaWdjQUtQaXJzeUtwSG1xMExUeGsxblF4NGNNOGpkS05VY2VDcFVpMi1WSjl3anpyZEhIcG9DTGo4VDFNZ2dUMkVHSnpFVmZTcm5BejJadzA1TFZBVUdwc1VHcmdkT0xCeDRvVlp0VTlvSHF4UXdfc2h0aGYwQnpFMjhTeTNmX21jNGN4OFJTVFotRmZIdUEtdXVGZXB6aWFuZTY0NjVwSEc4OVFJamY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-09-17-009",
+    "date": "2026-09-17",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Delta Bridges Energy and Compute for AI Factories Based on NVIDIA DSX™ - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUTJoZHE2OWN0Z1RJVGlaVXUwOU4zRUtrd1p4NnJGaGxldmZUZC1fUG1IczNTU3kzWUphVVVkcEhJT2tUQUxnT3hoTkZKUEpKbGtldmd2RV9CTW5DQ1pSOW1KMWNKN1AxMHN6X2tVNj",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUTJoZHE2OWN0Z1RJVGlaVXUwOU4zRUtrd1p4NnJGaGxldmZUZC1fUG1IczNTU3kzWUphVVVkcEhJT2tUQUxnT3hoTkZKUEpKbGtldmd2RV9CTW5DQ1pSOW1KMWNKN1AxMHN6X2tVNjZsUEdULWVxWVdLb1RFa0ZYUWg4TW4xZmNkNlIzYmI4VkwwTW96RW04V3YwYTJ3c3NRZlNmZjVtSE11WmpicllnTXliaVg1bXpENlhPcnFFV1IzYmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-09-17-010",
+    "date": "2026-09-17",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Bridges Energy and Compute for AI Factories Based on NVIDIA DSX™ – Company Announcement - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONHA3TGwweU9RWm1UaENkMWgwSV84bnpQMUJLQW5mZDZZa2I4TXJVR2NWMkJXd0M3dmR6NVc4SjNMX2s4QWpabl9tLTREVnZHVDUtaWlVX3ZLbEs3dEVsUFM3RUFGbVpZM25vZ285Y2",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHA3TGwweU9RWm1UaENkMWgwSV84bnpQMUJLQW5mZDZZa2I4TXJVR2NWMkJXd0M3dmR6NVc4SjNMX2s4QWpabl9tLTREVnZHVDUtaWlVX3ZLbEs3dEVsUFM3RUFGbVpZM25vZ285Y2JLWGt5aC1HWGl6UVJqak1YOURGWTVxLWJXWjhoUThHTXVnTUpyUkp3Tw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-09-17-011",
+    "date": "2026-09-17",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric’s Quantum R&D To Advance Post-5G Computing - Quantum Zeitgeist",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9KcXBxVlEtZXctc09LVF9Bd3NUM0JqQjFhZ2tjekR1XzlYMDJBcDdCYVFKakJMQzlPNGwyd25nNWd2cm1QeFg4ZnRyYTJMWW43VV9wdGlmLU42SDVEY1haR2pDaG03aUlLS3prTDZxeT",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KcXBxVlEtZXctc09LVF9Bd3NUM0JqQjFhZ2tjekR1XzlYMDJBcDdCYVFKakJMQzlPNGwyd25nNWd2cm1QeFg4ZnRyYTJMWW43VV9wdGlmLU42SDVEY1haR2pDaG03aUlLS3prTDZxeTI3WkRCcXhlTks5RQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-09-17-012",
+    "date": "2026-09-17",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "cnc_technology",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SWISSto12 and Mitsubishi Electric partner on Additive Manufacturing satellite technology - Metal Additive Manufacturing magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXBsbktHZG9KTXhpWFpGWUpvY2xlQ0VySFZadC1rZXYzeUprcWNuX0VZS0dGdkdObXpHNUFOTmJkT21ialc4UG41eDl6bk1XMGcxT2o2R0laV2VqRDZtZDdLampSWGV5a1E0ZWpIeT",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQXBsbktHZG9KTXhpWFpGWUpvY2xlQ0VySFZadC1rZXYzeUprcWNuX0VZS0dGdkdObXpHNUFOTmJkT21ialc4UG41eDl6bk1XMGcxT2o2R0laV2VqRDZtZDdLampSWGV5a1E0ZWpIeTREeDFhNHEzNzFlcXNpTFZxRGdYamlJWThtb2lFcmwzYWtKS1J1RVNMeG9oYV9iY21WaXdUVzd3S1FYRkljSzUzT1d5Nno?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-09-17-013",
+    "date": "2026-09-17",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric’s MELSEC iQ-R Series Safety Programmable Controller Obtains EU Type Examination Certificate for EU Machinery Regulation - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGJTSVRVY2FENFVnT2E0SWxzSzQybVB2VllCTHBvUDRQSkVQMDlqMXhrcGpmYWJ3dzhZdG8wT0JDclRobXpfQ0s0N1o2djFRU0RwWWp2UEtaZFZPX0dYWHR5YzdSZGw0Q1NqLVJMNX",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGJTSVRVY2FENFVnT2E0SWxzSzQybVB2VllCTHBvUDRQSkVQMDlqMXhrcGpmYWJ3dzhZdG8wT0JDclRobXpfQ0s0N1o2djFRU0RwWWp2UEtaZFZPX0dYWHR5YzdSZGw0Q1NqLVJMNXVBakIxc1pKaHhMUUdZb3l5eUpRODcwanM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-09-17-014",
+    "date": "2026-09-17",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock holds near USD 268 as analysts lift targets - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQVnh6TmJoczZoU2lCOUtyY281ZFdmN0dLa0lISS1hbzZPVFlUZzRlNy1VbFNZelZlNzVkNEtCcGNRbmx5eWpwVjZhMHpUakhZaF90eTNjR0JacXlEMG40Ujl5N2MweFpCckFieGdNUD",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVnh6TmJoczZoU2lCOUtyY281ZFdmN0dLa0lISS1hbzZPVFlUZzRlNy1VbFNZelZlNzVkNEtCcGNRbmx5eWpwVjZhMHpUakhZaF90eTNjR0JacXlEMG40Ujl5N2MweFpCckFieGdNUDQ2LTZKY1dVTlRNNWdlWkR0VW1OT0Q1YV9wWUdvWTFFcWo5MzE2OG5Nd2RtamxXbUpmR0dWandUS0JVMC1rYXpkRzB0OHBiYXBFU0FyRVVFb0Z2NUNIal9QY2RhTGI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-09-17-015",
+    "date": "2026-09-17",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Byron Donalds from Florida’s 19th District Makes Moves in Howmet Aerospace, Netflix, and Parker-Hannifin Stocks - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxORzRkNGI4LUZKTUFIRW1wTEg2NmUzODItcWZVZUlxU0wteHdSalB5S2lHbUtVMDEyU2R4QWhNWEJld2xxWkFMN2NtWXJLNlB6d2gtalFrQWR1ZmlIM281MzlEMVJPNWpSRURQU1J5Sn",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORzRkNGI4LUZKTUFIRW1wTEg2NmUzODItcWZVZUlxU0wteHdSalB5S2lHbUtVMDEyU2R4QWhNWEJld2xxWkFMN2NtWXJLNlB6d2gtalFrQWR1ZmlIM281MzlEMVJPNWpSRURQU1J5Snl3VFg4LU1rZG5LM21LVDdfRFpwdHR6WE5tbHlxNUN1cmRaQkhLV0w5UlhtcmFtSTNNUkNnTjV4ZWR6ZTZadFRfR0Zxb045TU5HS3ZLUWlBdXp3OGUwNVZMTTNfT3B4RGg2LS1uSFMxajNITXZQOEJkTDNfbVRsdk4wNkRKRUtzZmRBdEY3QWhN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-09-17-016",
+    "date": "2026-09-17",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin stock holds near USD 919 as insider selling and strong analyst targets shape sentime - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNM1d5ZUZDbnZRaGROMzdfRm5HWXRrNFNGalJLU2FvQVcyUFgzZEI1VzBNZ1l5U0dMT0VZM2drU3hzRG8yRms3Y0o2cWkwQkk3aEh2UTktVzBuemFndDF0VThMRy1WUnZoSGxtQlRrVU",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM1d5ZUZDbnZRaGROMzdfRm5HWXRrNFNGalJLU2FvQVcyUFgzZEI1VzBNZ1l5U0dMT0VZM2drU3hzRG8yRms3Y0o2cWkwQkk3aEh2UTktVzBuemFndDF0VThMRy1WUnZoSGxtQlRrVUFmTEw2OE92TVM2ME42dnpIMFVWS3NTUjRYS0MtNnprMlItWXdvT3NRcWJFSUhCWldlM3FEQ05mZmpzZExPM0NrN2JOVlJxZmFBVEdfUEVHRFIzc3RfdU1zQXQ1b1VlUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-17-017",
+    "date": "2026-09-17",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Generac Surges 16% on $2.4B Amazon Data Center Generator Deal; Caterpillar Ticks Up, Cummins Sits Out the Rally - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUkdaMFdSQVJ5LXdfVjd1MGVWSl9hTThRMFhpZDViVVlRdHktejFZT3JHeEdveGk4ZUpDdHhtWkhMRUhSMHdTSjU0V0hKcko0Ync5eGdHa04wQjVFQ2JhcDdOVDFGakY4SVNMRWNNcl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUkdaMFdSQVJ5LXdfVjd1MGVWSl9hTThRMFhpZDViVVlRdHktejFZT3JHeEdveGk4ZUpDdHhtWkhMRUhSMHdTSjU0V0hKcko0Ync5eGdHa04wQjVFQ2JhcDdOVDFGakY4SVNMRWNNclZxZDA4YVZKYUhlb21KZkZzNTc4Zy13bHNHcTVPVmloZ2ZoalFSVlpfT2JMUkFObUpZYkN5QWNUOGlPbi15anl0ODEyRmJ1X2ctV2ZXRWdhX1FWVHRIUnpsRFl6dlhGaWhKQ1pnY1MxSUtPMF80RTRya2EzT3JMSzBIaHEwa3VGTjZDdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-17-018",
+    "date": "2026-09-17",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Built a \"Budget\" Truck, but It Is Only for the AI World - autoevolution",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1pyVUo0dUpFZEpMd3lDQkxWTWt3czJ2Unc0bnRDWVBDZ0FJS2RTU1ZTc2p2SW90eTFNal9URzRIQTYxNGFQR1hweVJua3g1dURnSXFKLUp0YVgtUFdVV05NYUZZanRSSEgtRm9VS2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1pyVUo0dUpFZEpMd3lDQkxWTWt3czJ2Unc0bnRDWVBDZ0FJS2RTU1ZTc2p2SW90eTFNal9URzRIQTYxNGFQR1hweVJua3g1dURnSXFKLUp0YVgtUFdVV05NYUZZanRSSEgtRm9VS2Q4WTdUbDdWYV9hRGw0SExnaUlhRDZsOFA5a2VhMGltcjlPTkpJNkR5TGZGclNMbUJDcW5rSGFvLWcyOFF4THpPMXpPNk1JZjNBSVUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-17-019",
+    "date": "2026-09-17",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar to Deploy Autonomous 775 Trucks at Luck Stone Sites - Equipment World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWtEN24zc29yT1BYSmVUTVQ1dFhiY3NxYXdEY0JoUXJpeUFHSVV2aHVxUXNaYmZpTU94bmktRjRiVnNoOEdxRWtkOG8wa2I0YmIybUVoemtvU05KRjctMFlLY2ZpV2Q1aUlhWmpNVk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWtEN24zc29yT1BYSmVUTVQ1dFhiY3NxYXdEY0JoUXJpeUFHSVV2aHVxUXNaYmZpTU94bmktRjRiVnNoOEdxRWtkOG8wa2I0YmIybUVoemtvU05KRjctMFlLY2ZpV2Q1aUlhWmpNVktaTzUwTVh5REp4QWVGT04zXzNtWGtxS0hPRVpiem1qWnFfaG51anE3VEY0SVc4eHNtV1ZvdjN4TFVXajd3YTFKWF9uV0NrVWVPMFNvSjNkTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-17-020",
+    "date": "2026-09-17",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVXo1dDZjWjdza01mZlpjRGZFWDgzSFFLNDBYSUxHZDJzQk43bTRLM2RNWVN4UGRUS1FGYWNpV3lMZG9HS19KWUlHdFVFZTZOSDN4eExpOTljYmN3YzNXd3VfcjFYMXF6RTEwWWFIUV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVXo1dDZjWjdza01mZlpjRGZFWDgzSFFLNDBYSUxHZDJzQk43bTRLM2RNWVN4UGRUS1FGYWNpV3lMZG9HS19KWUlHdFVFZTZOSDN4eExpOTljYmN3YzNXd3VfcjFYMXF6RTEwWWFIUVBfcklDT2lCZ2hfMXdadS1ETHU5ZWg4NDJ4NjFQWHY5aEQwdlNuQlc1S0pxTndQRzlXemR2eQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-17-021",
+    "date": "2026-09-17",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CAT Achieves 3.5M Tons Moved by Autonomous Mining Trucks at Virginia Quarry - energytech.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNXzNCbHdST2RCQ1phbnVzQ0c2Qlk3QlhBZHVMdFZDZXN4Rk54eXJRRzJfWEF1SzZaMmM0RXdyb0R4Zzh2a3BMbXhGTjdDYkNfdlRWSDBMTTlUZXVyY09sZFF3SlZXc19fZUVyMkRvUU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNXzNCbHdST2RCQ1phbnVzQ0c2Qlk3QlhBZHVMdFZDZXN4Rk54eXJRRzJfWEF1SzZaMmM0RXdyb0R4Zzh2a3BMbXhGTjdDYkNfdlRWSDBMTTlUZXVyY09sZFF3SlZXc19fZUVyMkRvUUw1NU8xY3RxUmVrcmtBdkdfRFBjOFdMWEY2NWVqTVo2cGI3NDZqQkJCTDFSRWN0M0pnNnlxbjRoQ2E2N0FSbmxfSVRnZWZ6eldqOW0wSzZVZFNIR00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-022",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Automated Manufacturing: What is Universal Robots Gen 7? - Manufacturing Digital",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPYlc2R3lXdVFOYkxpZHhiMGdzWG9XOUlrbmpYdnUxS3g0SGd1T2RQcFdHM3BkNzlJX0t1TTAyYS1lSUVGM3dTM2VRY1F3akxsMF8yYWY5eGNxZzRBQ3d3OGxsTjdsRTF6VkpCX3lqMj",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYlc2R3lXdVFOYkxpZHhiMGdzWG9XOUlrbmpYdnUxS3g0SGd1T2RQcFdHM3BkNzlJX0t1TTAyYS1lSUVGM3dTM2VRY1F3akxsMF8yYWY5eGNxZzRBQ3d3OGxsTjdsRTF6VkpCX3lqMjBNLXVDVkFDd1ctVFhBejRkbXJzUUFlNjRsa3JkTFpuX0RiMUgzMjBR?oc=5",
         "type": "rss"
       }
     ]
@@ -502,6 +980,127 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVkFyOW5PNEp6WWUxMHpydHFOWF8wZUxmNEM5VUxPMGRYWkpsbHJEZjNTMnJuSmtTS1dtZ2FnMUl2cGhYUEUwVDFHS21lR25YRmRLd040YmVpSVl0X1FYVzBjWTE0SWdCU25FaTZSYWRpYVFINEdGT1R2SlVLTGpQVmRoeFRHd0t4ZGY2bUJHbVdlUTRqdXdhbjZaRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "airtac-2026-09-16-019",
+    "date": "2026-09-16",
+    "companies": [
+      "airtac"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "【AirTAC International Group FY2026 Q3 Earnings Call】Tsao Yung-Hsiang: Pneumatic upcycle can extend three years to 2027; first-half net profit up 43% year-over-year - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EdzZ2Mi1XbWpQV2JQLVYyYktFcHRBNGo4a2oxMGVvNFBKbGtmVlFoYnNycS1TNERaRlFSb3Z1alNBdHEzTVFuMU05VGJIVWVSOGNKdnV4ZUdJZW9iZUg4SWlR?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "airtac",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EdzZ2Mi1XbWpQV2JQLVYyYktFcHRBNGo4a2oxMGVvNFBKbGtmVlFoYnNycS1TNERaRlFSb3Z1alNBdHEzTVFuMU05VGJIVWVSOGNKdnV4ZUdJZW9iZUg4SWlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-09-16-020",
+    "date": "2026-09-16",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tisco Securities Upgrades Delta Electronics Thailand to Buy from Hold; Price Target is THB282 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWWxwYlRocmt1bXBwUHRmeFFHVWR1SF9qR2FtYXhOUFVoX2ZoTHN3SFA5S1JzQ2RZNFhOVERFajNQR2d5OGp3NDVTbHM4X0dlcE9WY1A4dFMyNGxod3FYSGpKM2dXMnZxUlZKSmtKVj",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWWxwYlRocmt1bXBwUHRmeFFHVWR1SF9qR2FtYXhOUFVoX2ZoTHN3SFA5S1JzQ2RZNFhOVERFajNQR2d5OGp3NDVTbHM4X0dlcE9WY1A4dFMyNGxod3FYSGpKM2dXMnZxUlZKSmtKVjZmQ0phM25FRFlGR1o5ZEtEVmNOeHVCNDlTOEdOeTJ3STdCcHRiYXE4YnZkUE1tbGNLVGxKZXV4aXZFT293cG5GT1hsLVk2VE5wTUVhQW53UUlNTzh2c3IxeEV6eExtaTk5VHdGNmdJY0YxMkxndFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-09-16-021",
+    "date": "2026-09-16",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric launches MECH-iC chillers for U.S. data centers - Refindustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQkh0RHVRcHZYbkFlRUI5VG9JRFpRSHhheG5FVXRYdUNBUlpYbFRHSldCVGM0b29rV1NhR29yMTVSTWlGRjBxZXI5dnFHamsyZzFXNXZFVXFwcDJYekdYYzJfd0hGRVNxZnpZR0VHdG",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQkh0RHVRcHZYbkFlRUI5VG9JRFpRSHhheG5FVXRYdUNBUlpYbFRHSldCVGM0b29rV1NhR29yMTVSTWlGRjBxZXI5dnFHamsyZzFXNXZFVXFwcDJYekdYYzJfd0hGRVNxZnpZR0VHdG0td3d4eTZySzdrWDRXb1l4S3QxTndRc2NvR0Zzb3Axdm9IOGltSGdkVDBQV2o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-09-16-022",
+    "date": "2026-09-16",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin (0KFZ) Q4 2026 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9EM2YwdndsR1NVZG5xSC1xZVozZ0UyUHBkOURiSUhnMG91aS1lVlltYmQzSkl6OHc0UWlNMTZCZjZ1QkxvV3pOZWtSbWdxdjZRRDVqeVgxM0VYRU9Bd3M1VEpDb1JPcDAyVmlYWnZaTn",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EM2YwdndsR1NVZG5xSC1xZVozZ0UyUHBkOURiSUhnMG91aS1lVlltYmQzSkl6OHc0UWlNMTZCZjZ1QkxvV3pOZWtSbWdxdjZRRDVqeVgxM0VYRU9Bd3M1VEpDb1JPcDAyVmlYWnZaTno?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-09-16-023",
+    "date": "2026-09-16",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin (0KFZ) Q3 2026 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOQV9VdTdDNXZpcVBKN0Nod1ZDaEdfUjhJOHNTb0tDZFZ4dmxOU3RyWjZrNnZhUEs3eWF4S0pfZVE3VWVTRnJxOVQ3am15c3FleGs2bWpvNnJPVUtTcXZzZllSU1pXbXVDbkVWODBuYi",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQV9VdTdDNXZpcVBKN0Nod1ZDaEdfUjhJOHNTb0tDZFZ4dmxOU3RyWjZrNnZhUEs3eWF4S0pfZVE3VWVTRnJxOVQ3am15c3FleGs2bWpvNnJPVUtTcXZzZllSU1pXbXVDbkVWODBuYi1LdDZIdTlyTWFCaVVJWU1aNzFjRS0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-16-024",
+    "date": "2026-09-16",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Inside Singapore’s push to transform manufacturing through AI and automation - Singapore Economic Development Board (EDB)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFFIZkdnazhNWmliTlRPcEtqSVFpeEd1YlVtcTVRN2hHeXp2LVRCWWgtSDVpNmU1ZWpjRWNyS0hRQ0tQRThLQW1TSW5xVEdFblRrbkFWY2kyTE95S1BEd1E0V1hmZkJNaUZsbUpFY3",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFFIZkdnazhNWmliTlRPcEtqSVFpeEd1YlVtcTVRN2hHeXp2LVRCWWgtSDVpNmU1ZWpjRWNyS0hRQ0tQRThLQW1TSW5xVEdFblRrbkFWY2kyTE95S1BEd1E0V1hmZkJNaUZsbUpFY3FvTW1hSEF5ckRSR2lMaENFOVdZSi1wLTBGTF9qMUFCYUJFbEZnQ0JyS3I2My1RWUw3cVN2b0U2bVZ4ZmI5cVZEM1ZNQnBmRk0?oc=5",
         "type": "rss"
       }
     ]
@@ -1363,6 +1962,49 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZll0MGRIUVdvR1dIbEFrSHBNQzdJN1VWd2M3bWQ4MlAxemJibEl5bHYwVkpzRG8ycUdzbjZEMUxTSlRvUTJoSkd0YURLTlNTcFQ0Qy1Mb2h2SDd2ZVFvNG1rQkJUdTR5cXUzYWRkMXRyeEJocnRud2lvSXlLWjRFSUd1azB3N1FGdk1FS0piMDh1cVVOVUtJQXEtY1pkai1ITWZqN2dNWmFDY0NzMTRGV1FSOUVsQ2pwOTVEQVBJSFFxVXpZS19hdE84ajM1MUw4dmJOcWNGZ3dYN240YnBKSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-09-15-044",
+    "date": "2026-09-15",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California State Teachers Retirement System Sells 2,514 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQTVHRnhQN2hwR3JxT19QV2dKNWZRaGVqREtmWWk5dzEyQmZuUnhkU1dnRmhpZVBsa2Y4SzEySXZrRnR3eXFiYWcyemdZUUFXQkMyQkhJWURvUlpKd1J2TzQ4QUdFeHJhWUlGU2hYUm",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQTVHRnhQN2hwR3JxT19QV2dKNWZRaGVqREtmWWk5dzEyQmZuUnhkU1dnRmhpZVBsa2Y4SzEySXZrRnR3eXFiYWcyemdZUUFXQkMyQkhJWURvUlpKd1J2TzQ4QUdFeHJhWUlGU2hYUmg0bzZSeVVtd253YTA2emY2RE5Rc1MzS3VmdTBtZFp6akFaUTdlNVo2M1ZtWHFWZmxsZld1ZXZoQlZXR1p5Z0UxblBaZUJud0RXMlNWa01VLWxmNXNmN0tvMmZsbFlrWkY3RXNfLWVueW84amJLQ3NGWk9Lcjl4YTBubUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-09-15-045",
+    "date": "2026-09-15",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin stock heads into the open after closing at USD 950.23 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXd6eXRoWWpBUkYzMjlHTndIRXdQNm1pamYtN2ZzSHdPQXdNZ3dvSFMwaUlXZzRIRlg0bTd4d21KS2Z0WS1UR2NjMEp2ak5SZVd5dWM2bjBaalp3VHEwbVBoQXBURGI2aHVGRms0UV",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXd6eXRoWWpBUkYzMjlHTndIRXdQNm1pamYtN2ZzSHdPQXdNZ3dvSFMwaUlXZzRIRlg0bTd4d21KS2Z0WS1UR2NjMEp2ak5SZVd5dWM2bjBaalp3VHEwbVBoQXBURGI2aHVGRms0UVJxYVIwdGROTUhpNmtuTXdndVU2Z2dBd05tYVl2dElMcHV0YXM3Q1hqX1BSLXdmM19UN2tGZTZwdmtqbThZSXFfd3N1Z29RbnRDd0VQNG93WlIxVGJxNHg0VHlfdGc?oc=5",
         "type": "rss"
       }
     ]
