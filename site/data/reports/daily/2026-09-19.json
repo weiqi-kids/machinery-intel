@@ -1,0 +1,241 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T12:10:55.603354Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "keyence-2026-09-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Keyence stock holds firm as investors digest recent earnings and valuation - AD HOC NEWS",
+      "companies": [
+        "keyence"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZTFVTUM3TlNnRkY3SDA5cDRFTVcxNk9ZSHlNSUJ5Ym1uQTVfR0JVQy1Na25yaGVoLUE2bjVRRjlyUjFKdFZqUF9yaGVnVmtrUG9vd2VzOHlJR0JiQXdFV2tISmxkektNcnJQZTNLU0dQM3FnOWFEV3VQQ2g5S1FrZGx6LUw2VndSd3Z5ZGlyaUlMdWpaWUJySzItUXBnQzY0anJNRGJiWlNTSHYyZFdlbkRiSmJiQ21rUlZQZU8wSXNhQkc1RjlpWFRJR0Jhd2Z0ZThV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-09-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics stock gains as Taiwan rally lifts price to new high - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNUhhTnk4UUFXQkQ3OEpiX2JtOFEwb1hOd0xvVmNUTkhDT3R0Y0JvT1lETEpnWVQ0QWQxYlZrbkZqXzJpV2xSS1pTVG1BQjNKUGxvQkNrN1k1Y2JuNWw0N1kzUEY0dXpOa2p2MkFDbWtUMGZJb3cwRnNpTnRfNXhzeG1iTjJCNkUtVXZDWk5xaHZiT2plcUtfTUtGdjd1bUxkN3g0ZHhTa0xhcngyZkV0dmJVWHVHazVzMTc4VWdkM0tPNG0wN0txVUx6Tl8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-09-19-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric and OptQC Expand Strategic Partnership Amid JPY 7B ($47M USD) Series A2 and Tokyo R&D Expansion - quantumcomputingreport.com",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOXJxckU3cXNqRmUzWTV3NWZNVnRKNXlMZGRPdjFNUmY0el9sYU92MWYwVmJ0UkxZZ1BBN3dWRHBBRmRPUFBNLUl1QVJtR1RUNmd2YVdIXzh3LXJMUWtyUEFfNFNSMEEwcWZva2dBb2dPMXNKTml6ZzhlaFNVU05SSXgwcm1YS1Fpd0hWenhKeEEzUzYzWl9QWW1iaUZXQ0ZtSDFnV0FReGQ2NURWWlN2T1dHM0hUcnZuSTZscTZTa1BmU2JzeEVuX19rMEtpYVNuUVdsQ2xsUlVaUmZCblFIRUZ30gHnAUFVX3lxTE5BSWo0TkVzNVRFSF9pTTZETWJJRmhodVlVWjhwdHhCSFFoNnpOSGdScUR2RUxObGhwTUk1Sjhib1VWaXhtMGUxR0J3RG14M05jRF9QSjc4X3dfdXdGTV91RnFRM2pRb25pWDh1WHAyeC02N25YZU04QWREaEg2UUxaQUhfNXVnMTR0RDl1QWYyTFQyTHpaMWk1NV9fT0pkQlNhcDFDQ25uRzNkNXhBWUw4MHJyMmoxTHJLZ1o4bVVOcFVOWWRFdEc4TVBzeHRVX1ZYV1ZZcGdCVGJDUzJYOVVhVmxuMTJvYw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-09-19-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric Selected for Two NEDO R&D Projects to Scale Quantum Hardware Platforms - quantumcomputingreport.com",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWThMdU9vUUFCRW15cnZLbElFV3l2a2ZEd18zbzhtMVNFdUV5MXJ4dzRkVkNHR0NTMERHcy0wbG9KNlRPVlF0NHh1N0pub1hCdXc4OWZoRldRVlF5ckhHYjBfLVJ3a043T3Z4ckU2S3d2X3Z2N3dqY3lIbmJUVFc3NTY5cmVhcHFJY215djBCUzhobnBaT3JFRndtLVR4MVBONGJ2ZE5PWEgtQ1V5aC1OTmVfRjNrX01KRFZwNFQybXRxaEXSAcgBQVVfeXFMTXpFc1hzWk1LbnZySURCOUI4UnlEU2haRUpBQjJQMzVMQ2hhQlhtUU1QbkVyREx5c2NzVGdkUEZkczU3cl9aRDI2NGxBNFYxQ01mZWdHc0NRdFFZbTMtNU5hcy1KRVRjZjlNUDFodUdzbUplcXc0YjR3WGFfbUVFb3RpQmZyZEl2QjQtZVpRMGU2Sjl4VTFOb3A5dEhfTldlNGtrR0hwMDkzcm5WOUxJWmQ1cjA2SUlPb2d1RzRienI2TGxWWV9hRm8?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-09-19-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "47,590 Shares in Parker-Hannifin Corporation $PH Acquired by Nykredit A S - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYklhMUpGcWx3V04wOXhwdjNTa0p3WjFqWGhRbUpXUlYwanJ1M2VOZ0FkWGFvRm1FQjQ1anpmSDdNWnAyMm9ZSDV5bFAzOUlSa3BqWDhYWTh0bklpZFBaT2VEeHBWSmhrTzJfeDljQU1WbUxGUUpNbmtYXzFoTWE4NWZlWHJVb05oYmhLMlpyV3YwMDJSbnJmWUtUTHRUcGN2bFhqTWZXNE9QejVuRXotaGdFZ1RCcm1rSXNscG5wUXZMdGJ6R1dkcmowM0s?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 2
+      },
+      {
+        "id": "keyence",
+        "count": 1
+      },
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 395,
+    "dup_title": 208,
+    "too_old": 155,
+    "gate1_blocked": 2,
+    "gate2_blocked": 8,
+    "passed": 22,
+    "pass_rate": "11.8%",
+    "gate2_block_rate": "4.3%",
+    "gate2_samples": [
+      "Delta Electronics Thailand shareholder plans $1.5 billion bond issue - TradingView",
+      "Delta Electronics relocates Scottish engineering hub, United Kingdom. News story in Forkliftaction N",
+      "Taiwan power electronics maker Delta seeks $1.5 billion in Thai share-linked bonds, term sheet shows",
+      "SWISSto12 and Mitsubishi Electric partner on 3D printed satellite payloads - VoxelMatters",
+      "Mitsubishi Electric Invests in OptQC Optical Quantum Computing Startup - The Quantum Insider"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Mitsubishi Electric、Keyence、Delta Electronics相關動態：「Keyence stock holds firm as investors digest recent earni...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Keyence stock holds firm as investors digest recent earnings and valuation - ...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Delta Electronics stock gains as Taiwan rally lifts price to new high - AD HO...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
