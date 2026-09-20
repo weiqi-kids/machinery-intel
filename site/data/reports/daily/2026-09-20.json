@@ -1,0 +1,242 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T12:46:36.284520Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "itw-2026-09-20-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Illinois Tool Works (ITW) Could Be 11% Undervalued As Q2 Earnings Beat Expectations - simplywall.st",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNEo2YzU0a014Q3FJRHlzOGFkbmtnZ1NFM2RjemlMSWd3YlBUS0JVOGFzR3lDYkRya3g0MmtSa3huSWxYaWZ3SEYtYW5GNG5tUUx6TVhDaFVEZ2piNlctQmVvY0Y2MUkta293WkpVejA0LWRmdDBiQ3A4MkZXcGpIT2hUM3RtOVRHODRCR19tZndHOGFKQm4tSGlkbDl4M2JWLUtwSnZKWFMyeThmT1pMNmVUMGVKakdpbzhPd0g3THhLQ2ZCRGNJZDF5V3BmYnp3RUdPU3E3SdIB3AFBVV95cUxNWmN5VkFFWnRTZjdKcnVkMHozWE9Bczg3LXp3bzNZbURoZmVsWEQ3QzFmZ3lGdHhWVlRVUld0YURZdW9vLU5QYUZCNDhiQTdEVE4waWNhcW1DMjN4Z2RkRlVoMTl2TWtWRkNSSzExWVJhR1hBZnlHaHRMYThoVGt0aWxnSm1Udk43SFpPQURxWV9Rd1JDaUpEZDNNM3VIY01pRlczQlN2Z1o1YUFMM0t1VzBOZjVIRUNWSXVVY2cyeDBCeVU1Tlh2YTJpNWppck5pUTNRbExDVE92TXNQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-09-20-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics stock holds steady as investors weigh recent margin trends - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb3laZTRUMlRoQkxjSmp5c0JhMnRZajU3X0poVjU1bFBrcTE4ZXV6ek5qTUUyc0hseUJQWHFvQTJCTndiU0hBSERibFVCc25ZQXYwMmVlOGRyRUZhbFRXcW43TWVQU3lHdy1OWU9pakVxdlpEN0ZKZ2hoc1lNeGNmdXJ0UGY1bDZNTE9NQU9QcHYzbTBxRm9vU0s3b0Q3dml2VFlZQXQtU1FoSnBxME1vcmpyUHp3dDRoLVhsVnFKQnhpOXk4WTg1Rzh3VWI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "delta-2026-09-20-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thailand Short Interest Weekly (Sep 18th): Delta Electronics, THAI AIRWAYS INTERNATIONAL, Bangchak - Smartkarma",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVWRxdF9la1cwbEVkZ1FYUTFURTNBcmp2bXBFdnd6X21Ua3plbHljenZTd3NybGgxQXpjaUdDNHEyQ2Vsd2dJMHYxYUp4UW0tV0JoU0NvMFNRUXRnTVFFQjdUV3ZoMjNldTc4UklJYlFhQ01zby1vSnhYMTZHd2kwMEc0VmFMckthZThEbFpZU0lfNTYtdjc0T1hlT3pXdGlxVVVtZkJyOUs0bGI0T19iZWJLM2pTbldVUkxFSUZULVBWSHFOVHdRVg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "delta-2026-09-20-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Thai stock edges higher as investors digest Q2 2026 figures - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEc2b0h1Z3lObDg1RXBERVFlejY4Q2VqSkxDeDRpT1MyUXVpT1dSMW9kN1FNSFZDT1hneXlFRHY0Y0NYQmlwakNHQS1aM3Z5d0RwZTRCVFZvYUxKM0hRMEJBZjV5R0d2c2NuNDVNLVg5THRZVFhyVFJJOFVSMmdiRWRrNXdoSG1lS2I0N01VZHFsUjVVdE5HQ2FnUU8tVjdta1JuZnpVRmExd1d5S3loQ1dlRjZueUtBSDhxSWJWSG5nZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-09-20-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin stock gains after debt financing as investors weigh strong Q2 figures - AD HOC NEWS",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc25MeUp5bnpzZjZJVjRhVHR2VEFNWkk5MlFyeVVSMlRGNWxVQjRkV0Iyc2dSclgzYXRMemlOS2VKcGp3andYbWs2YkdTZWRlZGllc2tHdGdQLVVpaW80Z2h5UzJWUUhYXzhWeVlySTFzaTh3TTFzemlLRHhMenFUcEJuRUpHa1JNUmhsWHFEdVAzbFZxS1dmN0JSRzlwd3FjTG9PNkhEdVdsZXc1azhfTzBMVXFjWXhQa2dsREJzVjRCR3BiSHJhU3oxUTdjeGdoeV9V?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "delta",
+        "count": 3
+      },
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "keyence",
+        "count": 1
+      },
+      {
+        "id": "tongtai",
+        "count": 1
+      },
+      {
+        "id": "itw",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 393,
+    "dup_title": 204,
+    "too_old": 156,
+    "gate1_blocked": 2,
+    "gate2_blocked": 8,
+    "passed": 23,
+    "pass_rate": "12.2%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Delta Electronics Thailand shareholder plans $1.5 billion bond issue - TradingView",
+      "Delta Electronics relocates Scottish engineering hub, United Kingdom. News story in Forkliftaction N",
+      "Phillip Securities Upgrades Delta Electronics Thailand to Accumulate from Sell; Price Target is THB2",
+      "Mitsubishi Electric Invests in OptQC Optical Quantum Computing Startup - The Quantum Insider",
+      "SWISSto12 and Mitsubishi Electric partner on 3D printed satellite payloads - VoxelMatters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Delta Electronics、CAT、Keyence相關動態：「Illinois Tool Works (ITW) Could Be 11% Undervalued As Q2 ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Illinois Tool Works (ITW) Could Be 11% Undervalued As Q2 Earnings Beat Expect...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Delta Electronics stock holds steady as investors weigh recent margin trends ...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
