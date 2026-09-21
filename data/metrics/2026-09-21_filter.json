@@ -1,0 +1,16 @@
+{
+  "total_raw": 393,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 2,
+  "gate2_fail": 9,
+  "passed": 15,
+  "gate2_samples": [
+    "Delta Electronics Thailand shareholder plans $1.5 billion bond issue - TradingView",
+    "Delta Electronics relocates Scottish engineering hub, United Kingdom. News story in Forkliftaction N",
+    "Mitsubishi Electric Invests in OptQC Optical Quantum Computing Startup - The Quantum Insider",
+    "SWISSto12 and Mitsubishi Electric partner on 3D printed satellite payloads - VoxelMatters",
+    "Is Parker Hannifin (PH) Priced Right for Its Future Cash Flow? - Yahoo Finance"
+  ]
+}
