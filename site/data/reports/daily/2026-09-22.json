@@ -1,0 +1,274 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T12:57:48.884915Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "thk-2026-09-22-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "THK stock holds near its yearly range as earnings guide valuation - AD HOC NEWS",
+      "companies": [
+        "thk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFRUam9RQU1veENNZTNEcmVfajJ5OW9xaU5XODVhcUFWdVlWemxoeDFlM3IwMFp3bWdHOFVqdHRXVFNLUjM5dkxlVWhEZHZrWVlJMVZmaFlOOEVzVUUyUVl4SmFTZmRFU2pwVlVIR3pFSTdoeExxQVg5c1M2RGt0VFIwUm9ZMG56ZUpQY0I2aEttdzB1Wm1FR0haZXZ6eUNYQ1Y2RVowdkNPcy1yMEE5dERGeGhFcDVxQU1oS05GY1EwQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-09-22-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics discusses India expansion plans with PM Modi - Electronics For You BUSINESS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMkYzbGx4Q0RVdFMzM1Y2dFd1TXN6Um9GbmRlbWd2WTV6RVZrTXJob1R3T3J1Z1NvdnAyOFVVVk5PejVGR0k1dlBrWnNIbTVRU2Fad01xdXJFX2xRRVFHNGtBRjZLSUFMZ3piQUVzZ21kOWhIbHhLQzdhbnFRNERMVVlLUVd0YXRwcENEV0k2X19vQ1VvZWVVX2lpdFQ3RlpkamgtMnJLMFljZG9MQVJ3WQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "delta-2026-09-22-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics stock gains 1.33 percent on September 22 - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODNlQVpHTnlYRndpSElkQ1ZXUld6UmpLX0ZoWXVYc3Y0T09vWl9GMHhBZlhqcEp0ZUtTTlBYOWk2Q2VWU1E1QmRvcjJrZ3dXaFJveDFRZFM4TzFkcm9keWUydWZGRTFPaldyNUpqSEFKdnRLWW1BcjhhTUkyQ1JUdUJiMUppMlF5TzdhX2xoUDBFQ3cxaVdGSnZLcHViYTRIV25aQU5WM1d4QVNpTnQ1N1g2bnQyaFVqakliR2tR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "delta-2026-09-22-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PM Modi Meets Delta Electronics Leadership to Discuss India’s Energy, AI and Smart Manufacturing Roadmap - digital terminal",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "cnc_technology",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHJINGJXQnlQTDh0QzFUR19ySnhrcWU2NEVJel9ReVVIcUFqMDFLT1c1UVlfOTRFeEg5ZDRDUXNMdFBGR3hhS0tUWGpFOUdZZFhZa2pPMk1jMUZGc3NoNzlqY3M3UWx6VmR3dUxPT1Y4b2FwNlNUUDBYRkNZS0VvdmlaMTdyNGdmNkk0dTRXdFBLODh1bkhzN05IeXFyZnh6X2dEVlluMXBtZUZvNERSSEkwNUZCdGQ3QTM3eHhXbHdyQi1OdjluRm4yeVVOakRVTFVTQ1RKMXJ2LUN10gHqAUFVX3lxTFBlTXVjYVdxTFlIRFRLejZNdlpVUm5TN1NpMGZZcDctVmZROGdqNFp4Z0VLdHI5TXJiOUpUbXBaU1QyR29SN1BZMGtiUGFGZnhJajRHRmMwelFFS0owR0EzaXN2RlltOWo4QTlNeFdUV2Izd2xuSi1aUjJxYU9aRHh5NU1va2lkRG5LanZha1ZzRFhWZFFnZUVwSEVmM2xnYTZUZDh6T1RkLXNLSjNyejFlcmpPRC0wNm5zOTMwYUpuZmZWYm5wbzZFQlRQVGE4OE03NlY2VkJsUW1qX1NQVjZpc2RwSEFrckgtdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "delta-2026-09-22-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics stock gains 8.07 percent ahead of the open - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNXzQ1eVVaemhsNE1vVVRlQXhWT1lWM3REY1BCV1QtbEttX0MybmdacXcxRjNwZ0dVNV8xMi1MamNNaWh1QUNPOG52bXhvZjNUS3lTYm1sLUxFcjdoOC1fTWhuTWpDNHZTLWlxdm9acHl4dFJnSnFQUWNhZkpoejFieVFpOUNReEhabEktLXVhRnJfa0hmUFZ1cTZNQ0h5aXhGMFhFTWZRQ1pmenVvdmFoWjRhSnUzb1V4d2Z0TXU1UFA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cnc_technology": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "delta",
+        "count": 4
+      },
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "itw",
+        "count": 2
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "thk",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "automation_capex",
+        "count": 7
+      },
+      {
+        "id": "cnc_technology",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 392,
+    "dup_title": 214,
+    "too_old": 145,
+    "gate1_blocked": 1,
+    "gate2_blocked": 7,
+    "passed": 25,
+    "pass_rate": "14.0%",
+    "gate2_block_rate": "3.9%",
+    "gate2_samples": [
+      "Delta Electronics relocates Scottish engineering hub, United Kingdom. News story in Forkliftaction N",
+      "Mitsubishi Electric Invests in OptQC Optical Quantum Computing Startup - The Quantum Insider",
+      "SWISSto12 and Mitsubishi Electric partner on 3D printed satellite payloads - VoxelMatters",
+      "Is Parker Hannifin (PH) Priced Right for Its Future Cash Flow? - Yahoo Finance",
+      "BNP Paribas Adjusts PT on Parker-Hannifin to $1,270 From $1,220, Keeps Outperform Rating - marketscr"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Delta Electronics、CAT、ITW相關動態：「THK stock holds near its yearly range as earnings guide v...」。主要關注主題為產業通用、財報、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "THK stock holds near its yearly range as earnings guide valuation - AD HOC NEWS（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Delta Electronics discusses India expansion plans with PM Modi - Electronics ...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

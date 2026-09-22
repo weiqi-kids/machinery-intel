@@ -1,0 +1,16 @@
+{
+  "total_raw": 392,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 1,
+  "gate2_fail": 7,
+  "passed": 25,
+  "gate2_samples": [
+    "Delta Electronics relocates Scottish engineering hub, United Kingdom. News story in Forkliftaction N",
+    "Mitsubishi Electric Invests in OptQC Optical Quantum Computing Startup - The Quantum Insider",
+    "SWISSto12 and Mitsubishi Electric partner on 3D printed satellite payloads - VoxelMatters",
+    "Is Parker Hannifin (PH) Priced Right for Its Future Cash Flow? - Yahoo Finance",
+    "BNP Paribas Adjusts PT on Parker-Hannifin to $1,270 From $1,220, Keeps Outperform Rating - marketscr"
+  ]
+}

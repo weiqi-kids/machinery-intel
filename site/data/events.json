@@ -1,5 +1,278 @@
 [
   {
+    "id": "thk-2026-09-22-001",
+    "date": "2026-09-22",
+    "companies": [
+      "thk"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "THK stock holds near its yearly range as earnings guide valuation - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFRUam9RQU1veENNZTNEcmVfajJ5OW9xaU5XODVhcUFWdVlWemxoeDFlM3IwMFp3bWdHOFVqdHRXVFNLUjM5dkxlVWhEZHZrWVlJMVZmaFlOOEVzVUUyUVl4SmFTZmRFU2pwVlVIR3",
+    "sources": [
+      {
+        "name": "thk",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFRUam9RQU1veENNZTNEcmVfajJ5OW9xaU5XODVhcUFWdVlWemxoeDFlM3IwMFp3bWdHOFVqdHRXVFNLUjM5dkxlVWhEZHZrWVlJMVZmaFlOOEVzVUUyUVl4SmFTZmRFU2pwVlVIR3pFSTdoeExxQVg5c1M2RGt0VFIwUm9ZMG56ZUpQY0I2aEttdzB1Wm1FR0haZXZ6eUNYQ1Y2RVowdkNPcy1yMEE5dERGeGhFcDVxQU1oS05GY1EwQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-09-22-002",
+    "date": "2026-09-22",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics discusses India expansion plans with PM Modi - Electronics For You BUSINESS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPMkYzbGx4Q0RVdFMzM1Y2dFd1TXN6Um9GbmRlbWd2WTV6RVZrTXJob1R3T3J1Z1NvdnAyOFVVVk5PejVGR0k1dlBrWnNIbTVRU2Fad01xdXJFX2xRRVFHNGtBRjZLSUFMZ3piQUVzZ2",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMkYzbGx4Q0RVdFMzM1Y2dFd1TXN6Um9GbmRlbWd2WTV6RVZrTXJob1R3T3J1Z1NvdnAyOFVVVk5PejVGR0k1dlBrWnNIbTVRU2Fad01xdXJFX2xRRVFHNGtBRjZLSUFMZ3piQUVzZ21kOWhIbHhLQzdhbnFRNERMVVlLUVd0YXRwcENEV0k2X19vQ1VvZWVVX2lpdFQ3RlpkamgtMnJLMFljZG9MQVJ3WQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-09-22-003",
+    "date": "2026-09-22",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics stock gains 1.33 percent on September 22 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPODNlQVpHTnlYRndpSElkQ1ZXUld6UmpLX0ZoWXVYc3Y0T09vWl9GMHhBZlhqcEp0ZUtTTlBYOWk2Q2VWU1E1QmRvcjJrZ3dXaFJveDFRZFM4TzFkcm9keWUydWZGRTFPaldyNUpqSE",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODNlQVpHTnlYRndpSElkQ1ZXUld6UmpLX0ZoWXVYc3Y0T09vWl9GMHhBZlhqcEp0ZUtTTlBYOWk2Q2VWU1E1QmRvcjJrZ3dXaFJveDFRZFM4TzFkcm9keWUydWZGRTFPaldyNUpqSEFKdnRLWW1BcjhhTUkyQ1JUdUJiMUppMlF5TzdhX2xoUDBFQ3cxaVdGSnZLcHViYTRIV25aQU5WM1d4QVNpTnQ1N1g2bnQyaFVqakliR2tR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-09-22-004",
+    "date": "2026-09-22",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "cnc_technology",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PM Modi Meets Delta Electronics Leadership to Discuss India’s Energy, AI and Smart Manufacturing Roadmap - digital terminal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHJINGJXQnlQTDh0QzFUR19ySnhrcWU2NEVJel9ReVVIcUFqMDFLT1c1UVlfOTRFeEg5ZDRDUXNMdFBGR3hhS0tUWGpFOUdZZFhZa2pPMk1jMUZGc3NoNzlqY3M3UWx6VmR3dUxPT1",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHJINGJXQnlQTDh0QzFUR19ySnhrcWU2NEVJel9ReVVIcUFqMDFLT1c1UVlfOTRFeEg5ZDRDUXNMdFBGR3hhS0tUWGpFOUdZZFhZa2pPMk1jMUZGc3NoNzlqY3M3UWx6VmR3dUxPT1Y4b2FwNlNUUDBYRkNZS0VvdmlaMTdyNGdmNkk0dTRXdFBLODh1bkhzN05IeXFyZnh6X2dEVlluMXBtZUZvNERSSEkwNUZCdGQ3QTM3eHhXbHdyQi1OdjluRm4yeVVOakRVTFVTQ1RKMXJ2LUN10gHqAUFVX3lxTFBlTXVjYVdxTFlIRFRLejZNdlpVUm5TN1NpMGZZcDctVmZROGdqNFp4Z0VLdHI5TXJiOUpUbXBaU1QyR29SN1BZMGtiUGFGZnhJajRHRmMwelFFS0owR0EzaXN2RlltOWo4QTlNeFdUV2Izd2xuSi1aUjJxYU9aRHh5NU1va2lkRG5LanZha1ZzRFhWZFFnZUVwSEVmM2xnYTZUZDh6T1RkLXNLSjNyejFlcmpPRC0wNm5zOTMwYUpuZmZWYm5wbzZFQlRQVGE4OE03NlY2VkJsUW1qX1NQVjZpc2RwSEFrckgtdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-09-22-005",
+    "date": "2026-09-22",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics stock gains 8.07 percent ahead of the open - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNXzQ1eVVaemhsNE1vVVRlQXhWT1lWM3REY1BCV1QtbEttX0MybmdacXcxRjNwZ0dVNV8xMi1MamNNaWh1QUNPOG52bXhvZjNUS3lTYm1sLUxFcjdoOC1fTWhuTWpDNHZTLWlxdm9acH",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNXzQ1eVVaemhsNE1vVVRlQXhWT1lWM3REY1BCV1QtbEttX0MybmdacXcxRjNwZ0dVNV8xMi1MamNNaWh1QUNPOG52bXhvZjNUS3lTYm1sLUxFcjdoOC1fTWhuTWpDNHZTLWlxdm9acHl4dFJnSnFQUWNhZkpoejFieVFpOUNReEhabEktLXVhRnJfa0hmUFZ1cTZNQ0h5aXhGMFhFTWZRQ1pmenVvdmFoWjRhSnUzb1V4d2Z0TXU1UFA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-09-22-006",
+    "date": "2026-09-22",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Introduces Chip-to-Grid Blueprint for AI Factories Powered by NVIDIA - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVWxtclQzZzJVSG5aamtMNV8xb2Q3NkJHMmhqTTlyNzBFM3hYM3dZRzZqb3ZUazBScjVGLTVRQnlaOVBueDFlQVhoTE44cmRJQUdiem5UYWc3bU9LcFdaSWQ4OG41MmNkTC00UUFab2",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVWxtclQzZzJVSG5aamtMNV8xb2Q3NkJHMmhqTTlyNzBFM3hYM3dZRzZqb3ZUazBScjVGLTVRQnlaOVBueDFlQVhoTE44cmRJQUdiem5UYWc3bU9LcFdaSWQ4OG41MmNkTC00UUFab2EyVHlVemdPcTM2U1dZYjVMZXpaZUE3ZTBGR3JNNV9XMEtsSGk0X1RZZVRpcERxaGZNRjhOYXZrSnh5d1dNWWpNXzNlQ1hBZ2U0X1k2M005SkNsZk5nTVdDTjNTM2FnV0tjVmtGdTE3U21KR1FpRnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-09-22-007",
+    "date": "2026-09-22",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock slips as guidance points higher - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjFOSGpFTXE5aGFoa0ZCamJ0RkhEZlVLVmZ3Nll6OUR2ZzRkV1pRU3Rwd2NaT2xPMlZzV1hZVGVVZXpaYTY0amFLVGlIZnl3VFZaTmRoeUJjc0NjMW5VbzJWbE1Ub1BDejZVMWV0ZW",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjFOSGpFTXE5aGFoa0ZCamJ0RkhEZlVLVmZ3Nll6OUR2ZzRkV1pRU3Rwd2NaT2xPMlZzV1hZVGVVZXpaYTY0amFLVGlIZnl3VFZaTmRoeUJjc0NjMW5VbzJWbE1Ub1BDejZVMWV0ZWtaSkpoQlZoRWRVejM0VWJxTlNHaVdtZzQ0Qk8yT2VrNVZNUzRnRHM4NUlNTV95X1VQNGNXUC1uYmhncUlkbUtrbkNyOUZCTXBSamExbg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-09-22-008",
+    "date": "2026-09-22",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock heads into the open after a 0.75% slip - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPUGlpS3JpZ1J3c1JiTHY0ejhwd195bTdnTHVoTGljZDJzSzBkLTJsSVNYUk1wUGotUzUyN3V1dUcyNjZmMHJiTEpxYTluSi1IRkZRYXlWYUdWRk9zNm5IUE5oNGVVX2Jqakw2Z3BlbD",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUGlpS3JpZ1J3c1JiTHY0ejhwd195bTdnTHVoTGljZDJzSzBkLTJsSVNYUk1wUGotUzUyN3V1dUcyNjZmMHJiTEpxYTluSi1IRkZRYXlWYUdWRk9zNm5IUE5oNGVVX2Jqakw2Z3BlbDVxUTZBMkZqdGRRcVp0N3g3NVpEaS1oam1Dc0ViaHRVbDZsN1BEQm91VmtEZUZ5cjRHTnFoOGpjZzRnWUlpYVJQNVhwcl9KbVFvTW1uS2J0MU1KckFQSVVmWTYxVGxzYkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-09-22-009",
+    "date": "2026-09-22",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin (PH) Receives a Buy from Bernstein - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxONmhLeEFXUDBVOVpFUlRKODlkWFl4NVRPRGdqTnI5ZEJ2dUZRdFNCdmhna1V4aEpOdV9aR1ZPb2piWldvaExyMFAtdW9SNjZ6bm9jLTFMdEthSmFZMmFkNXhibEFLZ2tWSXRLM1NQZ0",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONmhLeEFXUDBVOVpFUlRKODlkWFl4NVRPRGdqTnI5ZEJ2dUZRdFNCdmhna1V4aEpOdV9aR1ZPb2piWldvaExyMFAtdW9SNjZ6bm9jLTFMdEthSmFZMmFkNXhibEFLZ2tWSXRLM1NQZ0VqOGlrU0ZKQW9ZdEN1dkgwNTZJNE5MUGgyTGprRjAtVFRBM2hmcVNYNlZ2WW84MHdQejlSYUZNYVpmTUtxYzlMSTdnWGpkSm5NUVM3R1JWZkhTNWZUZTVGM0NZSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-09-22-010",
+    "date": "2026-09-22",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin (PH): What's Behind the Latest Industrial Stocks Buzz? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQUHgtajJPamVpcXU1SFVab3pCTWg1LUtRck9BNklSVkFyRnpiRjh4Ujc2RzFpMzg0OWZIbkRuYkJobEl5UG5SZ25qVFJUWnJsSGdPeFVJRFlJcUxuUmxrd3pUSk5QUHc4VGszd3FPc2",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUHgtajJPamVpcXU1SFVab3pCTWg1LUtRck9BNklSVkFyRnpiRjh4Ujc2RzFpMzg0OWZIbkRuYkJobEl5UG5SZ25qVFJUWnJsSGdPeFVJRFlJcUxuUmxrd3pUSk5QUHc4VGszd3FPc2ZPenBqdU9ubmwyTV9MN01MOXJyLVUzVExqMDdPTktVRDRFcE11Y0hPa3hrZ3JObmhUMXVnUU1OS21PcktuVUpUQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-22-011",
+    "date": "2026-09-22",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "CNH adds former Caterpillar executive - Recycling Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRjA4aGVQcC1qaG5neF8zT2dkVHJYek5mUk1KRUM2aHVhTkZoRnRDUzhfczBrN0VBYkpVYm1XRnFyaDN6emRMTEJmbThJTHo3ZjM4SWZvYmlNeXJuWDZmTXBiNV9lVjI3dGVXSVJTen",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRjA4aGVQcC1qaG5neF8zT2dkVHJYek5mUk1KRUM2aHVhTkZoRnRDUzhfczBrN0VBYkpVYm1XRnFyaDN6emRMTEJmbThJTHo3ZjM4SWZvYmlNeXJuWDZmTXBiNV9lVjI3dGVXSVJTenJYamprQmJLRG93MXh1b3pmc2ZocTJtUWNtNzZZUUxhWFZZU1Z2aFk5QmNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-22-012",
+    "date": "2026-09-22",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lee officials OK $46M incentives deal in pursuit of $1B Sanford project. Is Caterpillar snooping? - WRAL",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczZ2cldxbEl2MVcyeUZycGRkZlhXaGJGSUJSRm03cWlZd2FkaU1Hdy1pRFlzTkg1ZDlDajh3NldRaDNNX2h1SVdnSXhhUWFnb0NiYnRXMERLeVBlU09wWVQyUjYtVjdjMFNWcGVLTU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNczZ2cldxbEl2MVcyeUZycGRkZlhXaGJGSUJSRm03cWlZd2FkaU1Hdy1pRFlzTkg1ZDlDajh3NldRaDNNX2h1SVdnSXhhUWFnb0NiYnRXMERLeVBlU09wWVQyUjYtVjdjMFNWcGVLTUczT1U4UnRpcXBTNzZjZVFUdXp2U19xaDJLczc4VnBSY0hpemhHRUktN3ZlSUQ2alg5clRVRDEtMUlURTBncG9qT2dpQ0NtZUlWcUJQVHNlanRQYmJhVVBvVUlONHlJTnlp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-22-013",
+    "date": "2026-09-22",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bernstein Sticks to Its Hold Rating for Caterpillar (CAT) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ2lpZFl3SG5uaWtvUTNTYndOZm1iN3E5aGxXRlpScGJlYXhKcjVaQnlVdkc0Qm5LVElpZHBrbTR0bHlPOWFDYUc1SWhaeURWVzNNS2pyZl9BN2l6cnlEV0FBQUpxbnJwNklSVjJVdk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ2lpZFl3SG5uaWtvUTNTYndOZm1iN3E5aGxXRlpScGJlYXhKcjVaQnlVdkc0Qm5LVElpZHBrbTR0bHlPOWFDYUc1SWhaeURWVzNNS2pyZl9BN2l6cnlEV0FBQUpxbnJwNklSVjJVdk9WTk1BTVFva095WjlDenJuMUZBZEMyRHRjX25mc3oza1BqQThUWGdDUFRTY3JjNlVtM0poXzFaOGdLdmpfOUV4QS1peFNid1lTU09UTzVCVThlbFFlbzJWZ1RzMkUwSmFQREhQMjhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-09-21-001",
     "date": "2026-09-21",
     "companies": [
@@ -201,6 +474,189 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGhiTS1WUnlmaEc4LW1GMW9WNDlRdnZ0TW5rRWozMmNHU2VyNmlLdzNKaGNvb3NQeVk1ODF2NERYdDVZMjRtT0hUY2dteExYNll3bEF6TjE0bHZ3a3FVYUZmaWUtaFU3aFRIOVBrdVRHRjFZb1ZLZTA5LTh1ZE9tcENTT1NjMUF1cXhldTVaRVpzWThaMUNlVzl4TlVzV1JKcks2Mw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "airtac-2026-09-21-011",
+    "date": "2026-09-21",
+    "companies": [
+      "airtac"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AirTAC sees pneumatic demand cycle extending through 2027 on China automation growth - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPNzktNHpjY2RMaTA4d2V1M0pLZXFSTnJIa1BxajRMYU9uUllycHZxTUFrWm1tcWdHdERBek9zbW1TYjRxVVhnTXpzNFZZQWQxVlB2c1hIX0pwWTdKNGJ5U0xucG9zLS1idXh1bnFndF",
+    "sources": [
+      {
+        "name": "airtac",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNzktNHpjY2RMaTA4d2V1M0pLZXFSTnJIa1BxajRMYU9uUllycHZxTUFrWm1tcWdHdERBek9zbW1TYjRxVVhnTXpzNFZZQWQxVlB2c1hIX0pwWTdKNGJ5U0xucG9zLS1idXh1bnFndFNQdDF0OGJvNDNKcnFaNkhKOHJNVmoyTnEtcVRMZDVtSTR5QUxJWlh2UVgxVEhjNWtndUllcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-09-21-012",
+    "date": "2026-09-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin Corp. stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQakp3WFUwM0xVYnR1dGIwV3JTemxDT0dYRi1ZTDFUNGR0TXFmYzczcUVUZjU5UWlMendaREVncHV6Smp0X3JQc3hXUVV6VTVUN0VGd1pmbVR5eXZfY3RPNi0tSU0tcm9wM0VsWUllbX",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQakp3WFUwM0xVYnR1dGIwV3JTemxDT0dYRi1ZTDFUNGR0TXFmYzczcUVUZjU5UWlMendaREVncHV6Smp0X3JQc3hXUVV6VTVUN0VGd1pmbVR5eXZfY3RPNi0tSU0tcm9wM0VsWUllbXBVVWw5VFRFX3c5YXhNaExCckNvSXhjS0VNODV5Wk9za05Tc1huVVNYTXF2ZVF2MG9FN2Zxd0VqVnQ1UWdhcExCNUFoR1hmd1Z3cmlJc2VZWFpPTW1nVk9iekIyNnBSWS13QnRwN3ZKdUI0SGNSTFlWTGdWWmRYZjUtTlhjbkd0MlBUTmRReS14Ni1uUDBXemxVOUZvXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-09-21-013",
+    "date": "2026-09-21",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin stock gains 1.87 percent on steady trend - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd3BXdFd5WEdwZUhBcHM3MWU1eTBaY3FTU2Fya25DTlVteno2TWhXU2xveEdZRzlhb0RRSXJGS2Z3bUZwcW1SU25ycTlFTlRScnVmd3RpWW9yZXRlZnp5SE5WRzlXSHZQY2QxUWFscW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd3BXdFd5WEdwZUhBcHM3MWU1eTBaY3FTU2Fya25DTlVteno2TWhXU2xveEdZRzlhb0RRSXJGS2Z3bUZwcW1SU25ycTlFTlRScnVmd3RpWW9yZXRlZnp5SE5WRzlXSHZQY2QxUWFscWZlenFuMFF6Z1FZN0RSb0o1Yk5qemlJMnhTZWxnd195cHBfck9Ndm01Mm1US0Eza2w0SnpucmJhZTR5VHlsdU5SUUc0dWYtcVd6NDln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-21-014",
+    "date": "2026-09-21",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "machine_tool_orders",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar’s CEO Says Demand Runs Past Its $72B Backlog. Here’s What That Means for the Stock - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPU3ZRU2dxQzRMWmVnWHJBVlBRTm04SFNLUEwtb2N1d1BkZHhZZEQ4UmltR2R6SGVHNk5YY3N1YmdCQlRZN3I1LUZRV3h0RWhnZ3lOUzZMQ3FqUDRjMG5zSUNQZUVPMWNESlRXVlpkTn",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU3ZRU2dxQzRMWmVnWHJBVlBRTm04SFNLUEwtb2N1d1BkZHhZZEQ4UmltR2R6SGVHNk5YY3N1YmdCQlRZN3I1LUZRV3h0RWhnZ3lOUzZMQ3FqUDRjMG5zSUNQZUVPMWNESlRXVlpkTnJsa3BjeFpzbXRUNzd1YVk2MC1iX2EwcW5uaDJUOUFIR0V1a0cwMWViMEgwVkdvQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-21-015",
+    "date": "2026-09-21",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar launches electric-drive dozer - pitandquarry.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE10TkktdEFyT1hTbUdPVTFESjh2Y2NqSHlTaDlvNzVmQnlNRTE2WXlBRWxmeklXOTJJeWhIUGRIUGJsY1ljSkhaU21rbnRZREdPSXcwZExmbTRXWnhrQmZRWGtvM3A0TUlEZ1l6cEJWNE",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10TkktdEFyT1hTbUdPVTFESjh2Y2NqSHlTaDlvNzVmQnlNRTE2WXlBRWxmeklXOTJJeWhIUGRIUGJsY1ljSkhaU21rbnRZREdPSXcwZExmbTRXWnhrQmZRWGtvM3A0TUlEZ1l6cEJWNEVGMWlIelpyejBSVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-21-016",
+    "date": "2026-09-21",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is It a Snake or a Caterpillar? The Answer Might Surprise You - PetHelpful",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9tLVRkR014RmZ0cE56aHUxQmNWVXUyUmswLWZFbXI5OG5EVU5lNy1tb1lGT1VnUEZfdGNHdmJJTEtrSDlWa3dEYXhhUXZaWHp6T0UtVFBfcWVXeVNhRjZpMUxTNGRQTzJBQnRNODFtR2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tLVRkR014RmZ0cE56aHUxQmNWVXUyUmswLWZFbXI5OG5EVU5lNy1tb1lGT1VnUEZfdGNHdmJJTEtrSDlWa3dEYXhhUXZaWHp6T0UtVFBfcWVXeVNhRjZpMUxTNGRQTzJBQnRNODFtR2oxVWMwZ2hzYUJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-21-017",
+    "date": "2026-09-21",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FieldAI, Caterpillar Dig Into Big AI Deal - Orange County Business Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5YaUd3YzMzZElWUzVoMVJvT0l0RmYxVnZXTDVNZ0xUdVNGWkdSb3M3TVhJZ3p0SVVIY0JvSjh5S1lfQjNMRzQtcVBBTjdXOGhiNHFUTmZZelRZREZDMGk0WnhZUEV3MVhrUjdWaHlnQz",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YaUd3YzMzZElWUzVoMVJvT0l0RmYxVnZXTDVNZ0xUdVNGWkdSb3M3TVhJZ3p0SVVIY0JvSjh5S1lfQjNMRzQtcVBBTjdXOGhiNHFUTmZZelRZREZDMGk0WnhZUEV3MVhrUjdWaHlnQzNJRThtNU41SXZoMmd0U2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-21-018",
+    "date": "2026-09-21",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cat’s New Biggest Bulldozer Beast! — The Electric-Drive D11 XE - Equipment World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN3R6aEpQOTNnYldETTlDVTQyaE5GNHZlWml2UHVZYXZxbFF5dl84M1hZcjhHLVoyclMxTXBPQzJNcVh1ZWRoZVFxWlV1TUJLVFRfdnRSVDNYUjVpUDg0WjkyM2JuNElsZFdQejk1bj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN3R6aEpQOTNnYldETTlDVTQyaE5GNHZlWml2UHVZYXZxbFF5dl84M1hZcjhHLVoyclMxTXBPQzJNcVh1ZWRoZVFxWlV1TUJLVFRfdnRSVDNYUjVpUDg0WjkyM2JuNElsZFdQejk1bjcybV9XUUlEVWJMZFYzYXBJZzRpZDFiS0Ztb09oaTVfYUh3Z294RXoxUzZSOXZIVWtHUjJMRUpBVWM5eC00RFoxQmJHejh5RGpqYUxWVE5YbllhdWdlOW92SzF6dEhCbHk5MXp3eUZtRXgzS21IYzhCUjR5aGk1am15?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-019",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 Stocks That Pay Dividends and Offer AI Exposure - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWDMxeVJPTXNZSldwVm8tY1dGaUU4aXJuZ2htdWVzQS1DSEFHdDE1a1htRnhLOWNQMXRlVXVic0ZxYkxlLTRUYWpQbVlRSURuRndtUDhSWFRHYnRyMHE3TVJTOVRubWxXNWZvZ1U1Zi",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWDMxeVJPTXNZSldwVm8tY1dGaUU4aXJuZ2htdWVzQS1DSEFHdDE1a1htRnhLOWNQMXRlVXVic0ZxYkxlLTRUYWpQbVlRSURuRndtUDhSWFRHYnRyMHE3TVJTOVRubWxXNWZvZ1U1Zi1OYmNjaTJEd2dOTXhoeUhvUHQ3bFJ3QlRxZGd5OVk1RWJaOGNyZTZwdjI1SVNQLTZnVlZpbHpyUkI?oc=5",
         "type": "rss"
       }
     ]
@@ -2302,6 +2758,44 @@
     ]
   },
   {
+    "id": "abb-2026-09-16-027",
+    "date": "2026-09-16",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB launches dust monitoring solution for hazardous environments, extending industrial emission measurement offering - ABB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYjR2cXpuLTNOTmdBa19PS2o0NnZTTDJaLWFUWC1acDdvNllDMFBPcEJyRW92blFodWtDcUJvbE5FZHNwWWIzN0hHY21ua29iZ1lpdmVrV1VNTl9nbHZWSHBTNG9ENjZiRGxjRWl4TW",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYjR2cXpuLTNOTmdBa19PS2o0NnZTTDJaLWFUWC1acDdvNllDMFBPcEJyRW92blFodWtDcUJvbE5FZHNwWWIzN0hHY21ua29iZ1lpdmVrV1VNTl9nbHZWSHBTNG9ENjZiRGxjRWl4TWtXbjNnRW5aOTdOUlVGMEZkdkg0WlhqTTNNX0tMTDRLdUJxYjdyVHlSdUJnTDVRTXYyU1ZQaHJzTW1aZE5MYXNrLW5OUWZRUWZlak0yTk1jOF9PYUpxQTZvMGloTFpvX0ZBMnlVaFZWOTUzbkdXYVIzVm1WTEpBelV3T04xQV9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-09-16-028",
+    "date": "2026-09-16",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric launches MECH-iC chillers for U.S. data centers - refindustry.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQkh0RHVRcHZYbkFlRUI5VG9JRFpRSHhheG5FVXRYdUNBUlpYbFRHSldCVGM0b29rV1NhR29yMTVSTWlGRjBxZXI5dnFHamsyZzFXNXZFVXFwcDJYekdYYzJfd0hGRVNxZnpZR0VHdG",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQkh0RHVRcHZYbkFlRUI5VG9JRFpRSHhheG5FVXRYdUNBUlpYbFRHSldCVGM0b29rV1NhR29yMTVSTWlGRjBxZXI5dnFHamsyZzFXNXZFVXFwcDJYekdYYzJfd0hGRVNxZnpZR0VHdG0td3d4eTZySzdrWDRXb1l4S3QxTndRc2NvR0Zzb3Axdm9IOGltSGdkVDBQV2o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-09-15-001",
     "date": "2026-09-15",
     "companies": [
@@ -3223,6 +3717,27 @@
       {
         "name": "makino",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZTd5RW9wa0xaaGJUeEtjNWIxMmlpS0N1cXhPS1pSeVYzQjNhR01iYk5xeGhHRHdjMVliQU9wN0x6UjdsRnNQcEFZNHRwMnlrdThfaElDaEhRNzBpSkwxNWZuMHpWZ2pwal96d3N1UkU0M1VjUl9OM1BIUTctWFpRT3JkbG5GeWpzS0NtLXNNa2huRE5nWG5DcHNJQS10cEx1TDY3elF5WjZLSEtZUXFuTENNejUwUV9JVHFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "makino-2026-09-15-047",
+    "date": "2026-09-15",
+    "companies": [
+      "makino"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Japan's contrasting Shibaura, Makino FDI decisions offer clues to screening approach - MLex",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxONDRzOE9SVmZCalRhNk5CTjZQU091bFdBV0NzaGhjY09ERnF0THJld2l3MmJ0bExwdTNrZTE0NFJNdDk4ck1JS1FxVkc4UTItSHl0aFNUcDQ0dWpNQ1FTNXdRdU82ZUs3OFgwTWlWNl",
+    "sources": [
+      {
+        "name": "makino",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONDRzOE9SVmZCalRhNk5CTjZQU091bFdBV0NzaGhjY09ERnF0THJld2l3MmJ0bExwdTNrZTE0NFJNdDk4ck1JS1FxVkc4UTItSHl0aFNUcDQ0dWpNQ1FTNXdRdU82ZUs3OFgwTWlWNldtZlFtZEd4MGhDTmZIcDFuN2lFdXhNbnExUEdDRG5CR01VRG9UbUQ5WVVTZjgzYkh0a2NXSW1SVVNVNk1XNWREODY5dWhsMVFIemJWYnE3NVZudlB10gFaQVVfeXFMT2l6Uzh5WkY5RF9OMnJBNGtaVlJFNEtYVzNKU1NUa0Flby1rNGlpV3hrbHNpcU54bGo0TE9Lc01wWUUtME1jcGh0WThRdG9lbF80dlRBSXFuSjZR?oc=5",
         "type": "rss"
       }
     ]
