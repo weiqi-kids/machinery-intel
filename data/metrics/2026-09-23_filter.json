@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 2,
+  "gate2_fail": 8,
+  "passed": 28,
+  "gate2_samples": [
+    "Delta Electronics relocates Scottish engineering hub, United Kingdom. News story in Forkliftaction N",
+    "AI in logistics: from visibility to orchestration",
+    "WXV Global Series 2026: DaLeaka Menin named Mitsubishi Electric Player of the Week - World Rugby",
+    "Is Parker Hannifin (PH) Priced Right for Its Future Cash Flow? - Yahoo Finance",
+    "BNP Paribas Adjusts PT on Parker-Hannifin to $1,270 From $1,220, Keeps Outperform Rating - marketscr"
+  ]
+}

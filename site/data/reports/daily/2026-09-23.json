@@ -1,0 +1,238 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:09:46.206810Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "parker_hannifin-2026-09-23-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin stock holds near USD 961 after earnings beat - AD HOC NEWS",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTHlELVRpdkxPY2JQdlBnd1pwZE85UmExNDFBNmlGNGEyMzF0RnJhT01IcUw4d3NQNU8xSE1GOTVFaC1xZTNKY2FzdW5jaWE1U2tCX05TZk55QUUtWmEybGgxUDJlM195bW52RDlvbUd1ZGpEeFJ3S1FxTG0ycU4zck9RWEtVMnlRUXlJVTN3UzZCamdSb3RlRDRzSVdNYi1yOU9JQmpKczFjTW5uOWdudC1mS1ZCSm93YkU0S2xmcFI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-09-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ETFs Investing in Delta Electronics, Inc. Sponsored GDR RegS Stocks - TradingView",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tN1ZXeG5pOV9GQXk5YlFKRXpFUVhGd25fcFVhWHBsT2Y2Y2NGVm5iU0ZNTHVzazF0MXNmcl9vczlIVFBaZ0dWOHRPZjQ0SkhNWURlb3hvZ09VMmV5cUlSRXZEMA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "delta-2026-09-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Delta Electronics stock gains 1.98 percent as AI demand supports the sector - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMmljM3JBZTVhTGVqajlFVExGTWhCSXJlNDFmd3RieklMdmRyLUJmbnMzZlI4VWIwcVpHRTQzVU9lc1Fvd3ZyeFNDRjFUYUlDdm9ld09XbFN2RjdfbUFKMFREbU9jVlc5bDJtWjllZmR3ZDBIU2l5eG5hU3ByWnViNW92N1NwaERnYWs5dF9pcmJIRkxLc3hUcDFFeVhBZUN2Wk9SSWZJUVhwdk5lSFlHRnFpZVV6TDJ2ZENfaTgxekotRjNDX0tJWUZXRQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "delta-2026-09-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Delta Electronics stock rises 1.33 percent ahead of the open - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORk9VVUVSQTFvNVNZVTZETzhlYUNoZEhEbkxsdmF3N1k3d2ctc0l1QmVnZlRpRnZGS1dFMFM2THdid2pYckVpZ1dlTnZ4SjRsREhNaXJOdlo4aXEyeDFLZFMyRmxnY3lWYzBBM1Fpd1hnaDNfZUhuVDUwTmh3eEpKeER0OWsxeEptR2V1S2E1TS05VHlIalQxSURjcHRqMjdBdjV0dDFvbE4wcEhtUFBBR2NIT29pM0w3UjRWOGpMcWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itw-2026-09-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Illinois Tool Works stock gains 1.10 percent on raised guidance - AD HOC NEWS",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTNwSWN3RWw4NjBCcHNwdmVFcW11NTBZLUJtckNhSG1pTmYwb2xCdzAwYzJ4MHZSRWtGY2Fkb2J4OFpKbTdkOGVSa0JxVzhsV283anZ3T2tFYUhrRlloanBhRXA4dExYdmttczBhN1dNNThIY2hHc1ExSmE0ZkFjdDZEVTYtelRvT3h1UmxYS3dhOHRYOFp6eTdTZVk0Zk91dWNxVWZqdURqRGdOVWpvZDlGdHlwX2NyYjByZ1lEUzVCRGFU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "delta",
+        "count": 3
+      },
+      {
+        "id": "itw",
+        "count": 2
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "automation_capex",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 395,
+    "dup_title": 193,
+    "too_old": 164,
+    "gate1_blocked": 2,
+    "gate2_blocked": 8,
+    "passed": 28,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "Delta Electronics relocates Scottish engineering hub, United Kingdom. News story in Forkliftaction N",
+      "AI in logistics: from visibility to orchestration",
+      "WXV Global Series 2026: DaLeaka Menin named Mitsubishi Electric Player of the Week - World Rugby",
+      "Is Parker Hannifin (PH) Priced Right for Its Future Cash Flow? - Yahoo Finance",
+      "BNP Paribas Adjusts PT on Parker-Hannifin to $1,270 From $1,220, Keeps Outperform Rating - marketscr"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為Delta Electronics、ITW、Parker相關動態：「Parker-Hannifin stock holds near USD 961 after earnings b...」。主要關注主題為產業通用、自動化資本支出、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Parker-Hannifin stock holds near USD 961 after earnings beat - AD HOC NEWS（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "ETFs Investing in Delta Electronics, Inc. Sponsored GDR RegS Stocks - Trading...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
