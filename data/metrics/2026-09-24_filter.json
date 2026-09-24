@@ -1,0 +1,15 @@
+{
+  "total_raw": 394,
+  "dup_title": 222,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 1,
+  "gate2_fail": 4,
+  "passed": 19,
+  "gate2_samples": [
+    "FCC to Regulate Inverters, Delta Electronics and TECO Eye New AI Power Supply Opportunities - financ",
+    "Delta Electronics Publishes Its Second Sustainability Report Aligned with the EU’s Corporate Sustain",
+    "AI in logistics: from visibility to orchestration",
+    "The Caterpillar Correction Shouldn't Last Much Longer - The Motley Fool"
+  ]
+}

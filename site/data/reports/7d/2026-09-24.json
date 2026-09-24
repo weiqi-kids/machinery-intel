@@ -1,0 +1,172 @@
+{
+  "date": "2026-09-24",
+  "date_range": {
+    "start": "2026-09-18",
+    "end": "2026-09-24"
+  },
+  "generated_at": "2026-09-24T13:03:56.554689Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "itw-2026-09-20-006",
+      "date": "2026-09-20",
+      "title": "Illinois Tool Works (ITW) Could Be 11% Undervalued As Q2 Earnings Beat Expectations - simplywall.st",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 22,
+      "last_week": 25,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.02
+    },
+    "earnings": {
+      "this_week": 35,
+      "last_week": 57,
+      "week_over_week_change": "-39%",
+      "sentiment_this_week": 0.1
+    },
+    "industry_general": {
+      "this_week": 53,
+      "last_week": 60,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.07
+    },
+    "cnc_technology": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "keyence": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "delta": {
+      "event_count": 19,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "abb": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "dmg_mori": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "itw": {
+      "event_count": 7,
+      "sentiment_avg": 0.21,
+      "rank": 4
+    },
+    "parker_hannifin": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 3
+    },
+    "caterpillar": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "mitsubishi_electric": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 5
+    },
+    "tongtai": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "amada": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "thk": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 125,
+        "last": 197,
+        "change_pct": -36.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-18",
+      "event_count": 29,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 14,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 13,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 22,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 29,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 13,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 5,
+      "sentiment_avg": 0.3
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-18 ~ 2026-09-24）共 125 則事件，重點為「Illinois Tool Works (ITW) Could Be 11% Underval...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Keyence",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Delta Electronics",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "ITW",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,234 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:03:56.416940Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "parker_hannifin-2026-09-24-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Parker-Hannifin stock reports record fiscal 2026 results - AD HOC NEWS",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdEtqTDBhY3FNbmJXTkVnQmJNbTZCNUFmZ0k0Q3VGQlJ3WUE5M1JkT3V2ckFnd2xfMEdSOWdRNnhfYTRBLTc4cm1PdXIxM1RYY2dERVJRUGtBLXJUdV9rMXA3RDBMd0xNcVMyUTNsaVpHZDdhR1ZqYkhlTThJc3hVWUtZS2lJTXU1YV9TVHdHMVJWYWF5VEowTkQzRkR5VDhiN2sxUlpZTlF3RDY1WWlPRXhFSE1NUzlrdkpR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itw-2026-09-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works stock reports 6.1 percent revenue growth - AD HOC NEWS",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0c3dFZQTFFrN1NhdDhESElkeDlJZXV5cDE0WDFMbF8tdDJtaTUtUE9ETXhkRmh3YmY4SDdldXJ6ZU43aEtwM2pSYTRIdGJjTHlfTEFuNTNha0MzWkFoRTJScUhwbzVXdHJuVDlYQnF0cGtxVzU4QWpDZEQzV1VNR0ZoSnprUWJLeGlhUExNeXZoSGJWenA2bXJfb09GUWpkNWtxZXcxUThKVDlQNzJzS3lYTkpsZVhDRUJmdXhtSDg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "delta-2026-09-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Delta Electronics stock gains 1.98 percent before the bell - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbDB6SGNlUkdZa01Xdng5bTVjQmxRdTdBVVV3MTNSY243TXZKR3RnOTdYTXBralRLamZNRHpiRWNhTEJzY0VnaVdzWU1EX1hwelVzYi1VNy1Fd1JGaHZGWGN1UEFXVUMwbk9XZDBQZG80YlhBcTl1OWx5S0NBOTFRZWd6UUhGOXB5LWxRTFF4bnRTSmt0MjViZTVBYjB6c1I1UUo5NW54UERYdjN5TGl5amJfaDZtUDA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-09-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Politecnico and Mitsubishi Electric: working together for more efficient motors and new markets - polito.it",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM1RTVXlWcEtiNnJhRUtheV84MXFjWDlQTDRTb2NCSjd5QWM1NEFGamJSY2VVUnBxNkN2ZEpKdVB2aGMyT0NDRE45dlA4RExPZGtUV3JLUEVYdngwYjJjV2pmcmxQbldzLXl0dVZOLXM3VzZyV1k1ODhIVWY1dnZTUnVXWkhPN2FJZkIyWWVESnBEN09hUXZsZzdUX0NoRmVNTk1WQjJWN1pyZTBQME5BMGkwWV9nOGNob1RHUkN5amIzczV6N1VIYw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-09-24-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Caterpillar (CAT), What Is Behind The Fresh Attention? - Yahoo Finance",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRHFFUWpBQldCbEVqTjEtdkppUFdpcFRHNl9LRkJxTTExQjlHNmJHYVNzdW8xUExxMGp3eTdZNGlRWlRHYmNXV2xmQUlNUjRjWThaSmRyUGRrVENnRGZZbFEzV1k0WW5pV0NyRUVjaWlVTG5BczFCMGtWTE5wWnI3bHBOeHNqVHFyWEpJQ092VDBPak5tTnRFaW52Qmh5cXlDZG1aWmZ3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.3,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      },
+      {
+        "id": "itw",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      },
+      {
+        "id": "caterpillar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 394,
+    "dup_title": 222,
+    "too_old": 148,
+    "gate1_blocked": 1,
+    "gate2_blocked": 4,
+    "passed": 19,
+    "pass_rate": "11.0%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "FCC to Regulate Inverters, Delta Electronics and TECO Eye New AI Power Supply Opportunities - financ",
+      "Delta Electronics Publishes Its Second Sustainability Report Aligned with the EU’s Corporate Sustain",
+      "AI in logistics: from visibility to orchestration",
+      "The Caterpillar Correction Shouldn't Last Much Longer - The Motley Fool"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Delta Electronics、Mitsubishi Electric、ITW相關動態：「Parker-Hannifin stock reports record fiscal 2026 results ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Parker-Hannifin stock reports record fiscal 2026 results - AD HOC NEWS（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Illinois Tool Works stock reports 6.1 percent revenue growth - AD HOC NEWS（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
