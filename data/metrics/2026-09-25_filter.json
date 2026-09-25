@@ -1,0 +1,15 @@
+{
+  "total_raw": 397,
+  "dup_title": 198,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 1,
+  "gate2_fail": 4,
+  "passed": 24,
+  "gate2_samples": [
+    "FCC to Regulate Inverters, Delta Electronics and TECO Eye New AI Power Supply Opportunities - financ",
+    "AI in logistics: from visibility to orchestration",
+    "What Higher Interest Rates Mean for Caterpillar, GE Vernova, and Vertiv - The Motley Fool",
+    "Today* in Hawks*** Around Town – monarch caterpillar into a monarch butterfly! - PoPville"
+  ]
+}

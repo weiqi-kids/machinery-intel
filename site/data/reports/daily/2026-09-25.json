@@ -1,0 +1,241 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:07:55.888979Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-09-25-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Delta Electronics stock slips before the bell after September 24 losses - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVGU2MHBqUHRaMVdGejFTMlZqdF9Kbng3SWlYOFhUVWo5TXYyQnVMb0hYYUFjZTR2RDJQT3JweHFJTFZQUlB6SzU5WjcwUkdqNUF5TndEWmZ4X182VEZMdjR5bWctQWp6R195TjNSNjNwdGlFVHBSRW5iTEtmTGtqeWIwRDVFUXBQMGhhMEFibjBzVUNnb2pRaFRaay1EOW5SOTZURmFSWW11UXprQ2lYcVNxVmJwcl93cU84OTAySTZKMHBpRFpheg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-09-25-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics Thailand stock absorbs USD 1.5 billion bond deal - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFgwNDZreXI5d3hxdVNXYUVtS3FzendIYXAwYWlfRUJBS2hnMFp6VHFzSGtMSVRkeXFrcVZsc2hQRHJCNnNKYS1TYWktdkJPM0xILVQycnlzRXEtWm84ZGlBMjlCdGU4ZEVWY2cxRjhYNGxKdXdWY0phcDFIR3NHU2xQOHBtZnBZbmRPZTVCZjk3SmZCS0hQQjEwcElMYVdSS0Q1eERkMV93cG4xZ2t3NG5JQVFfOGR6cVVSczVTck1aVHM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "delta-2026-09-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics stock absorbs August sales at TWD 1,910 - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOU5lNnU3ZkVoSXVNaHp1Q2hLYUhMSzBveFN6UVYzNHRIcXFDTjZON1d0ZEpjeUJ0WGloZEFUTzZUZkZ1M1hKVFBmYWFFeXpfYkd2dm95dzk0VVRmVkktWk84WGpoRGJhcGtxRHdOZlg5djh4eDlFQjlQZzU5M3NOV2dtd2FXRWVGMjIzMUdhVTRSNWtNWGJLQzVVc2xtSk9ZMGxrUldIVVFXNURCVC1tNzRzTER4cDFqUjl6dg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "abb-2026-09-25-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How ABB India Became a Quiet Compounder in India’s Capex Boom - HDFC Sky",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcHladkQ3SmVZeWdHbGhCazNFU3dlajIyV2tBOE1CNlV1ZGFweGtUeGJldlYzaVhjbnRnb0ZPRDJLTGk2VkRGdnNDYkFJRlh3MXM5OXZDTWgtdDJ2dl9aTjEtTW5TU18tWVNUdXAtdWt1Ml9mTTBLTnVLbEV6b29UZEhtY3AtQUpNYmJHbUNuLU1UcHZ1Mm9TTml3OTU0ZG8?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itw-2026-09-25-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works (NYSE:ITW): Dividend Quality That Income Investors Can Rely On - ChartMill",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWMzYmxwTGVVbDJ3ZXRGdEtaMloxdGJFZnlNU185b1NFVVg5d05mQmhkalZvQlI1aFhBWDI1RlJyMVRrSHR1WmJ5YXp1b1Vibnozb2pHUnIzM0VZQ1hURGRGdlhIcEtvTllxVVdUekhGUElBaU9xdDlYcFMzanNqdFlZSi05TFlhVWROb041dm4taHR3NGNYYnJ4MWYwUUtUWWJFWjM3YnFqYmZDeTlKakIwWmlXWlhCSmRoQm1HRkhLSXlUQ3NTMw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "delta",
+        "count": 3
+      },
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "itw",
+        "count": 2
+      },
+      {
+        "id": "abb",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 397,
+    "dup_title": 198,
+    "too_old": 170,
+    "gate1_blocked": 1,
+    "gate2_blocked": 4,
+    "passed": 24,
+    "pass_rate": "12.1%",
+    "gate2_block_rate": "2.0%",
+    "gate2_samples": [
+      "FCC to Regulate Inverters, Delta Electronics and TECO Eye New AI Power Supply Opportunities - financ",
+      "AI in logistics: from visibility to orchestration",
+      "What Higher Interest Rates Mean for Caterpillar, GE Vernova, and Vertiv - The Motley Fool",
+      "Today* in Hawks*** Around Town – monarch caterpillar into a monarch butterfly! - PoPville"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Delta Electronics、CAT、ITW相關動態：「Delta Electronics stock slips before the bell after Septe...」。主要關注主題為財報、產業通用、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Delta Electronics stock slips before the bell after September 24 losses - AD ...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Delta Electronics Thailand stock absorbs USD 1.5 billion bond deal - AD HOC NEWS（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
