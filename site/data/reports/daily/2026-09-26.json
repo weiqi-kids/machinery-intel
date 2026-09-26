@@ -1,0 +1,227 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T12:35:03.381317Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-09-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Lumos MOS 2: China’s 350 kg ‘AI Worker’ Clocks Shifts at Mitsubishi Electric - interestingengineering.com",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWdhWU01Y2Q2cm9xSkJ2MnMtcjMzRXBWQW1CZFhFWFhZSDMwc0xrMk1DRzRGS0I3UkxzZDZSb21teWVIRWM1S1l4aldZMm1ucjNXUjZzR3VRUXBMcXM5UlNmeWpQVEQ4QzBuLWItaFNMTXNOSFBTZ0JfQUZoVVFwaUtxNUdDM1BYRlZXa3RnTll5WXI4TzFnVTFoeExwNVhpdUdJaUVXbHJ5WEhwbVZ4a01NZEY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "parker_hannifin-2026-09-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin (NYSE:PH) Stock Rating Raised to Hold at Wells Fargo & Company - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcXlzOUxsNG9VSVpIYzU4TlZyekp1TU9xRUVrS1FJSzM3VEtGR3hGUkZFZmgwaXNHdHpvSXZfZ0I5OEtuYlJuNTVoMnBBcFFLNTVzQ2VwbUVHNVpyTU9JbzZOX3d1Q0JWbThtUWd3Y3dRMDJIOHR2Z2FGSGRmb25QaU00dUJyQ3g1NnhYUUgyZTFjX3c0bDFoeEhoQmMxNVVmNV9KT0ZZRDllT1Y2RWRvbllxNk15N0ljSk5DUUNOd25FcEpiTW5DeXM5Y1g1bEtOTEE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-09-26-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Did Autonomous Quarry Expansion Just Shift Caterpillar (CAT) Stock Narrative? - simplywall.st",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaEhfc0ZESC1JOWYwUW5wMTVxMDA5U2p3Q3JoSGpIcTlLVjhWS3FEY1J5dWh6VmVsMjJDeUZFZEdpUklHb21Od1ZLaTNlZi04RHpJS21NV2NwdENLMzJib1VVRmRtdTVfem9neEt5dzNiQzJfLU95b1NVVnY2Ny0ybTNhUGMzWmxuU3h0VDVpZnZCRlF6QkFRLXBfZjdhMXJFRnJzaUVaQkZBQzJvLVFsUEVka0x4dS1sMGlNWXBRNmpDdW9pMnBRd2dXX0zSAdIBQVVfeXFMUFdNbXhONEZlQWtyaE9xUWNFcEtDUEpoNVkzQWgzcVpJS25CWThCTWV5amJqQ3g1d3VlTlRiZk12OHlteDZfZUtaQjcwenRzWHdFemFFbkVnOHBielJLNUd3dzBRZU8yMUI3Q1cwcWNfd2p2SVJ5OTdCY3pBak9WQzVudVBHNmFQX1RNb2hKNlJ0VDNGM0pIWThkRFNFM19RYkdqWU0wN3VwVlZyM0pfZFFkbWt3eVRBQjk4TWdORGlWQVRScUhUVXl1bUxVVE5rWTBR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-09-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can Caterpillar (CAT) Keep Growing as Construction Slows? AI May Hold the Key - Insider Monkey",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeDZEV3JDYlhwaGJRTlVFOVUyUDlXMXplbHBYWXlSVC16dlZGMzFZTVpXNS02T2hUUk1RZEhrLWcyUzMwcHNGWVRsTzBjX3RQZGpTYVB5TGMtT0NYWFlOakltREJ2UzdYc0pmWU0xMXFDMUZ0OE1MQmpia2VZekM4UWR3cnZXU3dYOElZdV9JNnlfQTBlUWlPLTZHcE4tWmdnSTBBc1NGdkpITy1RTkpqcmxnTFA1VWJqT0HSAcIBQVVfeXFMTkg0WGNwSHdJbjVxeE5EWVpWdkdRMUUyamo1UUNDVUtfRnJlNXA0NjZVWFJrX0ZSNG94ZmdEMkYzYmJVMkJOc3I3QWpvUTJ0bjR0ZXp0bVhVdmFTNW9UR1NGVmdCQkN4Vkx6OEcydWE3Z1lCbndLVEF2MEpwMjFDQjNpYTd4clJPMzR5aDZIc196UjVDUzliS05xZEJZZGRjN1R1SFlVbTByeUItSFNZeXpxN2w3MFktUTMza3pzT2pVa0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-09-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cat expands autonomous Cat 775 haul trucks to two more Luck Stone sites - marketscale.com",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOalZlUGRYSkNPVDdiSDNhYlFNY01uUnd0ME5wOEN4b0ZkdjUyREd4SXFpc3JHTFpiRnlwOHpGdGROS1FZU2ZFN1ZjUjZNUS00THQ5cnhaX0FMbThTVGx1TlRReldTbXNVOFBxTmtXUlprTm5PbS1nQnRfcmdMOE9LaHRFSE5HZlM3RnhjeVpNdDVvamptNFVvN20waGV2SDQ0eXdMa2JhNU1YendleV9ZX3BEVjZaNFpnRmM1Tm8tb2RFcC1EbWJtMHE1VXg1ZXlWakdsSGdHeEZocVBvUlNvLVYwd1dGYlRJZWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 399,
+    "dup_title": 217,
+    "too_old": 154,
+    "gate1_blocked": 0,
+    "gate2_blocked": 4,
+    "passed": 24,
+    "pass_rate": "13.2%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "FCC to Regulate Inverters, Delta Electronics and TECO Eye New AI Power Supply Opportunities - financ",
+      "WXV Global Series 2026: DaLeaka Menin named Mitsubishi Electric Player of the Week - World Rugby",
+      "What Higher Interest Rates Mean for Caterpillar, GE Vernova, and Vertiv - fool.com",
+      "Today* in Hawks*** Around Town – monarch caterpillar into a monarch butterfly! - PoPville"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為CAT、Mitsubishi Electric、Parker相關動態：「Lumos MOS 2: China’s 350 kg ‘AI Worker’ Clocks Shifts at ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Lumos MOS 2: China’s 350 kg ‘AI Worker’ Clocks Shifts at Mitsubishi Electric ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Parker-Hannifin (NYSE:PH) Stock Rating Raised to Hold at Wells Fargo & Compan...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

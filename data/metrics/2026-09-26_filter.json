@@ -1,0 +1,15 @@
+{
+  "total_raw": 399,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 0,
+  "gate2_fail": 4,
+  "passed": 24,
+  "gate2_samples": [
+    "FCC to Regulate Inverters, Delta Electronics and TECO Eye New AI Power Supply Opportunities - financ",
+    "WXV Global Series 2026: DaLeaka Menin named Mitsubishi Electric Player of the Week - World Rugby",
+    "What Higher Interest Rates Mean for Caterpillar, GE Vernova, and Vertiv - fool.com",
+    "Today* in Hawks*** Around Town – monarch caterpillar into a monarch butterfly! - PoPville"
+  ]
+}
