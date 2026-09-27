@@ -1,5 +1,25 @@
 [
   {
+    "id": "delta-2026-09-27-001",
+    "date": "2026-09-27",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Thailand Short Interest Weekly (Sep 25th): Delta Electronics, Minor International, Bangkok Dusit - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQckJPU2lWTVFYaU8zZWJtdE84VnBZeHFDR2swTy1vX2xQMGNub2lKSHpCeHBDYno3TmRIdkRXNTE5T0gtYVcwNnB2WUFiNkNCb1dBUEYwWDdsSkVaTHRzckxLX0V2ZEJzN2dRV202Wk",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckJPU2lWTVFYaU8zZWJtdE84VnBZeHFDR2swTy1vX2xQMGNub2lKSHpCeHBDYno3TmRIdkRXNTE5T0gtYVcwNnB2WUFiNkNCb1dBUEYwWDdsSkVaTHRzckxLX0V2ZEJzN2dRV202Wk5EOElIY2x4b1FfNWVVWnhmSjFIX3hkeW8zNDdxRENMdHFMZGFERllLb1lqLWhzeFVyOGVVZ2pVUU9WWUZuWU5RLUJpNHhZY2hTV0Q2ZUJtVXZtRFBMb0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mitsubishi_electric-2026-09-26-001",
     "date": "2026-09-26",
     "companies": [
@@ -99,6 +119,186 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOalZlUGRYSkNPVDdiSDNhYlFNY01uUnd0ME5wOEN4b0ZkdjUyREd4SXFpc3JHTFpiRnlwOHpGdGROS1FZU2ZFN1ZjUjZNUS00THQ5cnhaX0FMbThTVGx1TlRReldTbXNVOFBxTmtXUlprTm5PbS1nQnRfcmdMOE9LaHRFSE5HZlM3RnhjeVpNdDVvamptNFVvN20waGV2SDQ0eXdMa2JhNU1YendleV9ZX3BEVjZaNFpnRmM1Tm8tb2RFcC1EbWJtMHE1VXg1ZXlWakdsSGdHeEZocVBvUlNvLVYwd1dGYlRJZWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-09-26-006",
+    "date": "2026-09-26",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Delta Robots Market To 2035: Packaging and Electronics Demand to Drive Growth - News and Statistics - indexbox.io",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQSi1DWEp6dmNqeEZieW9tcC1vWnJ4WVVGa3FnWkhERHUxNlNoYnVNVXJDNzNwU2F4bHpJbDZEb2RKc2pTZFhrZ1RXVEJjdEhsVVUzMzJvYjUwbm5tSWNtM01wOFF5dHpjYmNjNkhseT",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSi1DWEp6dmNqeEZieW9tcC1vWnJ4WVVGa3FnWkhERHUxNlNoYnVNVXJDNzNwU2F4bHpJbDZEb2RKc2pTZFhrZ1RXVEJjdEhsVVUzMzJvYjUwbm5tSWNtM01wOFF5dHpjYmNjNkhseTFCZ1hxc2FObkttMmMwZ1IwUU1RRDJoa2ZOQ19mY1N3ZVZ1M3YwdnNsR3ZxQWtkLUMybnYxYmVrRWRPYVFLcEhBbGlCdVM0QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-09-26-007",
+    "date": "2026-09-26",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Automation, Inc. Introduces IoT Gateway Solution for Smart Machine Innovations - A3 Association for Advancing Automation",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxONEZ6QllNZDNnVEs1aFZSS2tVTGx5aTktS3RVaUJ4Y20xSEJkQ1RsdmtHck9JQkd1NlItRVFfN1g5UnE4Y20tS05zMHQwbi0wVWZ1MzhoQjJwaUEtMUEtWkxBM1VGQzBRV0Z3Y243cV",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONEZ6QllNZDNnVEs1aFZSS2tVTGx5aTktS3RVaUJ4Y20xSEJkQ1RsdmtHck9JQkd1NlItRVFfN1g5UnE4Y20tS05zMHQwbi0wVWZ1MzhoQjJwaUEtMUEtWkxBM1VGQzBRV0Z3Y243cVhiTmM2MjFPS3h1MFRRWDJDRE1FTU9QQWN5YVc3OW1mbFo0VXRqQnRNd0VLU05nc3JjZ1pRVWdsNTFib093R1VmWnduYXFXQWdMU2J0aXJ2ZEpEUHJaTFVHR1dsRDRrN2FnVmVGQnd5dHlBYllTSVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-09-26-008",
+    "date": "2026-09-26",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lumos MOS 2: China’s 350 kg ‘AI Worker’ Clocks Shifts at Mitsubishi Electric - Interesting Engineering",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWdhWU01Y2Q2cm9xSkJ2MnMtcjMzRXBWQW1CZFhFWFhZSDMwc0xrMk1DRzRGS0I3UkxzZDZSb21teWVIRWM1S1l4aldZMm1ucjNXUjZzR3VRUXBMcXM5UlNmeWpQVEQ4QzBuLWItaF",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWdhWU01Y2Q2cm9xSkJ2MnMtcjMzRXBWQW1CZFhFWFhZSDMwc0xrMk1DRzRGS0I3UkxzZDZSb21teWVIRWM1S1l4aldZMm1ucjNXUjZzR3VRUXBMcXM5UlNmeWpQVEQ4QzBuLWItaFNMTXNOSFBTZ0JfQUZoVVFwaUtxNUdDM1BYRlZXa3RnTll5WXI4TzFnVTFoeExwNVhpdUdJaUVXbHJ5WEhwbVZ4a01NZEY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-09-26-009",
+    "date": "2026-09-26",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "DMG MORI Expands DMV Series with New DMV 160 - themachinemaker.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOd05kaFB0eWtmUUV4Rjc5d2VsVnd5SjJPRE9RNXM1Y1JjVm0xSEJDWE04SnZLdHNqTlhONE5qaU5GVm45VzlFaHBPSm9WMGNHQlV6ai1tT3Y0eHF1QWN6ZnFBbzJyc2tXNXFyVkVfMn",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd05kaFB0eWtmUUV4Rjc5d2VsVnd5SjJPRE9RNXM1Y1JjVm0xSEJDWE04SnZLdHNqTlhONE5qaU5GVm45VzlFaHBPSm9WMGNHQlV6ai1tT3Y0eHF1QWN6ZnFBbzJyc2tXNXFyVkVfMnFESGtxYWQwVUdSaFFHSWR2RE94cEw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-26-010",
+    "date": "2026-09-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "XS184343479 Bond Profile: Coupon and Redemption - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBlTEw4TE5GMU44SWxQT2RVZ2N0T0U5UzF4eEVlc3Z1Zjd3Y2xrMFBudWJuTUFPS0poSVBIU05VT1A3NnJ0UEFfY241Uk1BLTBJSFNRRE9Ra29HSDFUd0NadjhDbWt1bm5MSXp1Tg?oc=",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlTEw4TE5GMU44SWxQT2RVZ2N0T0U5UzF4eEVlc3Z1Zjd3Y2xrMFBudWJuTUFPS0poSVBIU05VT1A3NnJ0UEFfY241Uk1BLTBJSFNRRE9Ra29HSDFUd0NadjhDbWt1bm5MSXp1Tg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-26-011",
+    "date": "2026-09-26",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Can Caterpillar (CAT) Keep Growing as Construction Slows? AI May Hold the Key - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWnZsSkhlY3JJa0NTQXZadGlJY1RIejVGZzlFUmZ0emlWZWp5SHRtZlBoQzlRSmo3SG9nNXdHWkloclpFNWhkMEpJRGFNd0EtclctN3I0Zmp0TFBKU3JXV0dqTDRIV0dhREZqaW9YUz",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWnZsSkhlY3JJa0NTQXZadGlJY1RIejVGZzlFUmZ0emlWZWp5SHRtZlBoQzlRSmo3SG9nNXdHWkloclpFNWhkMEpJRGFNd0EtclctN3I0Zmp0TFBKU3JXV0dqTDRIV0dhREZqaW9YUzh3UkJWb2JrTi1IeGpuNFZlWDVTTjg3bUVKLVFpT2NZdHczem5hb3piZUVLcEhXUmZVa043Z3k1R1VsUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-26-012",
+    "date": "2026-09-26",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Worm or caterpillar? Lee Cutler hits outrageous celebration after win - Sky Sports",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQN0JhbWp5Z0RYR3RaeFJqcjg4WGI5RXpMc1RsRGNVTFhjWGJpRkxVdkgza1gtTGVuMlBQZjhyLUdFdi1UQ1ZDbld2YU1ibnF2QXFNSVRNV0tkZkZucXdXazh0TGk0QzBpbnowelh5ZU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN0JhbWp5Z0RYR3RaeFJqcjg4WGI5RXpMc1RsRGNVTFhjWGJpRkxVdkgza1gtTGVuMlBQZjhyLUdFdi1UQ1ZDbld2YU1ibnF2QXFNSVRNV0tkZkZucXdXazh0TGk0QzBpbnowelh5ZUUzaUMzemItU3RvQVk4ME94djZxLWh6RDdlV3FoSnJTZTJVLU1rZVBsOFNJSFB4QVFNLXNxOEJUaUU0TzNVVVNwMTUxVmh0SFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-26-013",
+    "date": "2026-09-26",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar in Athens is hiring - Monroe Local News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBvdTQycklEQTdoR2xESVJBaDJTdk83R3hZaXYySlp6OEdwWFRJOFE0Um8xS05qcmhPdmhQQWhHeWE1M19kUHV1TjhkNU4yUE1OMTNBazVySUZ0d1BwVV81LXRsNU1EVHRHZUZPQUlGRH",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvdTQycklEQTdoR2xESVJBaDJTdk83R3hZaXYySlp6OEdwWFRJOFE0Um8xS05qcmhPdmhQQWhHeWE1M19kUHV1TjhkNU4yUE1OMTNBazVySUZ0d1BwVV81LXRsNU1EVHRHZUZPQUlGRHpsdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-26-014",
+    "date": "2026-09-26",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Monarch caterpillar on swamp milkweed by Judy Johnson (2).jpg - The Lufkin Daily News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVkxuQk9HY1RUU2ZUUmxSLVctY3owdFcxbU1ER3BFTGJtLVU5YVduRWlLZTBGaVJpU3ZIVDJJMFdiWm9Pczd6SjZWb1IyMEZQcVFac3J0WWZVNlc4S1ZBNXFkOU1rc2ZkRUt1eUtleF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVkxuQk9HY1RUU2ZUUmxSLVctY3owdFcxbU1ER3BFTGJtLVU5YVduRWlLZTBGaVJpU3ZIVDJJMFdiWm9Pczd6SjZWb1IyMEZQcVFac3J0WWZVNlc4S1ZBNXFkOU1rc2ZkRUt1eUtleFpIVjREb05PRWdpM3dQYWZQTVBxem95azBzRjJOWEhHU0VjZWZmdlozT2VpZmw2aGFKWGdkLVRqb2dhQUhrN0ZkblZ0c3ZwQ3E5Q0I3NTFrVldwR2VnYXNxM011VGRvSThU?oc=5",
         "type": "rss"
       }
     ]
@@ -427,6 +627,110 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQnp4ZHMzbFRJa3lQV3U1a084c1E1Q01KWnF1OGFyaE5sNkx0Y0lXa1ZJZUNmbmMyV1hOOVRjSmUwMUlvbkNXWkJMVzJiNXYwLXdYeW1pM2VBRi15ZUZMaS1lemlfTTFOUEhBY2hVcF8tQ29qT0FvSmppa0taVkJSejJuMkJTY0EyaklWZlFGeWNENDNCY01FMVRzUmIxcVdSODFBck5FNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-09-25-017",
+    "date": "2026-09-25",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Long term debt to total equity ratio of Delta Electronics (Thailand) Public Co. Ltd. NVDR – DUS:NVAW - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXU4b055Ul9UaDRXME9oNzlJMGtnUV8zNkFvTGQ2SmZPdHFNUTJMemJvVWNlZHd6ME5WblM0ME1pQ0RvZF8zMnVaVzEzWE5hVUl6UllnelhYZDBMMjEzYlBfVGNFQ3Y2aUpuWTVvZH",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXU4b055Ul9UaDRXME9oNzlJMGtnUV8zNkFvTGQ2SmZPdHFNUTJMemJvVWNlZHd6ME5WblM0ME1pQ0RvZF8zMnVaVzEzWE5hVUl6UllnelhYZDBMMjEzYlBfVGNFQ3Y2aUpuWTVvZHQ5anVqS2c0TFBYd1hidkhzUnhwR28zLVU4bmQyLS0xLWxSOC12NDdvM2hPckl1TENtYnRwQ2hR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-09-25-018",
+    "date": "2026-09-25",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (ITW) Stock Forecast and Price Target 2026 $ITW - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YVEZRZm1EaDRWWVd0VjRqd2hoel9CTmpyYXZ2LUw0S3hybVNFNjIySUpfZERrcVpHM3V2NDd5Y05JdF9hWXF3OG9MWVI2aEF0Z3JVdlV5aThmekpkUlQ3VUZ3?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YVEZRZm1EaDRWWVd0VjRqd2hoel9CTmpyYXZ2LUw0S3hybVNFNjIySUpfZERrcVpHM3V2NDd5Y05JdF9hWXF3OG9MWVI2aEF0Z3JVdlV5aThmekpkUlQ3VUZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-09-25-019",
+    "date": "2026-09-25",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker opens Motion Systems Experience Center - Power Progress",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOWV9LUnJpZnk2VUJHQUcybzctc1RCeFpjczhZNVcwY3dQbXdWVmlSN1ExeVJ6andjcFBPblRDQU1VOE5HT1JUVHRpLTJxOXJqb1NSMEhaVWZmRXlGZGNlcTkzNTNscnJSel9JUkVVQ0",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWV9LUnJpZnk2VUJHQUcybzctc1RCeFpjczhZNVcwY3dQbXdWVmlSN1ExeVJ6andjcFBPblRDQU1VOE5HT1JUVHRpLTJxOXJqb1NSMEhaVWZmRXlGZGNlcTkzNTNscnJSel9JUkVVQ0hlT2xnX1lqZmI3ZEJHWEw0QnRYYWJ4VFA1cm81cmdiVm45TURtQXlpVUI4S2I?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-25-020",
+    "date": "2026-09-25",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Athens weekend preview: ‘The Extraordinary Caterpillar,’ Tailgates & Trailheads, Classic City Wrestling and more - redandblack.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwJBVV95cUxOR0tMRzh2Ul9oQ2p4VU05VUt4QXNnNEZTU3E4a1NySjU4S0M3al9KMUlycXNubmJyTnh3WnJ0b2E4bVBsVlNrRG5KeF8td3lqUXM3N19qWjFxUm45NWJLeFdNeUtwam9tN0VNWG9HSD",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOR0tMRzh2Ul9oQ2p4VU05VUt4QXNnNEZTU3E4a1NySjU4S0M3al9KMUlycXNubmJyTnh3WnJ0b2E4bVBsVlNrRG5KeF8td3lqUXM3N19qWjFxUm45NWJLeFdNeUtwam9tN0VNWG9HSDVNaVpydWRwd3l3MURpeUw4c3hYMXRJNzdzdXBQWDVybGxSVXk5Sy1od0taZEhySTRoRmYtZW9GNGJUNGlndW5ROFd0NFdIRGhJOEJ6MUR4RjViaFREZFplRUo4MldndGFBT1JLOGxXUTB6aVJtU25lSnZiVndDaGVIemVyeHdDWDd4azM4TzlqMTROWmdpUzBNLU8ycUtwb2NtRm05NFZnYTM1WG5iYUpZVFdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-25-021",
+    "date": "2026-09-25",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dow Up 185 Points On Gains In Shares Of Microsoft, Caterpillar - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNN1hGSFliX2xYdXdOQllxcTJoR3Mzai1nWVd1NWdIdzlDRGdEZDZPUl9GMVVhVmlualZKQlFxMDVQTFJsM3FfWWJYdzBHRW9lZmhJTHVySk52aUJPVGpFR3pCck53ZklIdHlaMWNHWX",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN1hGSFliX2xYdXdOQllxcTJoR3Mzai1nWVd1NWdIdzlDRGdEZDZPUl9GMVVhVmlualZKQlFxMDVQTFJsM3FfWWJYdzBHRW9lZmhJTHVySk52aUJPVGpFR3pCck53ZklIdHlaMWNHWXlVeUUxbTBTTHE0Z3U5ZTJTWURibFR1RHNhMlBzZEh2TWxWaTFkeXhFSQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1254,6 +1558,26 @@
       {
         "name": "itw",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcGpyb2l1dDNDYWRWQjlmNEt5b00wR1Z6QktJaEFPUk12ZVVnZ1RfRk9pdExCM3RKSFNrb2Nqby1jUmt1NUlYVmlxZkFMU3lHOERnblQwT3ZtOWg4RkRXbVhyMDQxOVNycWhuSVlqRFNNcmkyUDZCbXJ6UlkzWnRkTXZKaHhBRTcxRzBPdVZGclRodWtzM2RfNHpSQmdrMlpYU1ZyVzVreHNBd3E0cXFLZ3FnOFo2RTFDLVRIa1g4Z3RYSHVEaEdPclAwREQtS1pO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-09-23-019",
+    "date": "2026-09-23",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ETFs Investing in Delta Electronics, Inc. Sponsored GDR RegS Stocks - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tN1ZXeG5pOV9GQXk5YlFKRXpFUVhGd25fcFVhWHBsT2Y2Y2NGVm5iU0ZNTHVzazF0MXNmcl9vczlIVFBaZ0dWOHRPZjQ0SkhNWURlb3hvZ09VMmV5cUlSRXZEMA?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tN1ZXeG5pOV9GQXk5YlFKRXpFUVhGd25fcFVhWHBsT2Y2Y2NGVm5iU0ZNTHVzazF0MXNmcl9vczlIVFBaZ0dWOHRPZjQ0SkhNWURlb3hvZ09VMmV5cUlSRXZEMA?oc=5",
         "type": "rss"
       }
     ]
@@ -2394,6 +2718,26 @@
     ]
   },
   {
+    "id": "dmg_mori-2026-09-21-025",
+    "date": "2026-09-21",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DMG MORI Showcases Best Fit Portfolio at AMB 2026 - themachinemaker.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcFgzb1VYNk1VVVJOTFhBX2dhb1oyUk9iMjBDRVRkVUtOZl9xcHNTOGNoeUtiLUVYTlJ6OUFFZzg3TXc2eTFOUEktQ01jSzFUc2k4T3hXVVZLaVZXSU41Vm95b2FmZXFJT3ZyMXIyNj",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcFgzb1VYNk1VVVJOTFhBX2dhb1oyUk9iMjBDRVRkVUtOZl9xcHNTOGNoeUtiLUVYTlJ6OUFFZzg3TXc2eTFOUEktQ01jSzFUc2k4T3hXVVZLaVZXSU41Vm95b2FmZXFJT3ZyMXIyNjZjZHg2QXpZSk83MVhtRS1KdUJCZG9XRzg4Zk53?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "keyence-2026-09-20-001",
     "date": "2026-09-20",
     "companies": [
@@ -2657,6 +3001,26 @@
       {
         "name": "google_news_industrial_automation",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNFFIZkdnazhNWmliTlRPcEtqSVFpeEd1YlVtcTVRN2hHeXp2LVRCWWgtSDVpNmU1ZWpjRWNyS0hRQ0tQRThLQW1TSW5xVEdFblRrbkFWY2kyTE95S1BEd1E0V1hmZkJNaUZsbUpFY3FvTW1hSEF5ckRSR2lMaENFOVdZSi1wLTBGTF9qMUFCYUJFbEZnQ0JyS3I2My1RWUw3cVN2b0U2bVZ4ZmI5cVZEM1ZNQnBmRk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tongtai-2026-09-20-014",
+    "date": "2026-09-20",
+    "companies": [
+      "tongtai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to sales forward of Tongtai Machine & Tool Co., Ltd – TWSE:4526 - tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPc0pPZmxnTF94MXliUWVDaVJScENmLWpaRVdyb2lFUGR3MkRwYTBvaGxsNzhqUEhqWUdDYmx4Z0JFVFRXQnpLSGpEdzlTekw4RHZwWWlwT0laazMwWUJpSnhlY2xTWmFUSkY3VTJMVz",
+    "sources": [
+      {
+        "name": "tongtai",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc0pPZmxnTF94MXliUWVDaVJScENmLWpaRVdyb2lFUGR3MkRwYTBvaGxsNzhqUEhqWUdDYmx4Z0JFVFRXQnpLSGpEdzlTekw4RHZwWWlwT0laazMwWUJpSnhlY2xTWmFUSkY3VTJMVzljUjA4NHQ5UWluLWNMS0lJWEV4TW8zTzZzMkJoREhZdmZEY3drMEpMcVpnYw?oc=5",
         "type": "rss"
       }
     ]

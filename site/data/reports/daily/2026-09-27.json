@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:25:50.513551Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-09-27-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Thailand Short Interest Weekly (Sep 25th): Delta Electronics, Minor International, Bangkok Dusit - Smartkarma",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckJPU2lWTVFYaU8zZWJtdE84VnBZeHFDR2swTy1vX2xQMGNub2lKSHpCeHBDYno3TmRIdkRXNTE5T0gtYVcwNnB2WUFiNkNCb1dBUEYwWDdsSkVaTHRzckxLX0V2ZEJzN2dRV202Wk5EOElIY2x4b1FfNWVVWnhmSjFIX3hkeW8zNDdxRENMdHFMZGFERllLb1lqLWhzeFVyOGVVZ2pVUU9WWUZuWU5RLUJpNHhZY2hTV0Q2ZUJtVXZtRFBMb0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "delta",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 398,
+    "dup_title": 207,
+    "too_old": 171,
+    "gate1_blocked": 0,
+    "gate2_blocked": 2,
+    "passed": 18,
+    "pass_rate": "9.4%",
+    "gate2_block_rate": "1.0%",
+    "gate2_samples": [
+      "Delta Electronics (Thailand) Public Co. Ltd. NVDR Actuals & Estimates (DUS:NVAW) - tradingview.com",
+      "FCC to Regulate Inverters, Delta Electronics and TECO Eye New AI Power Supply Opportunities - financ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Delta Electronics相關動態：「Thailand Short Interest Weekly (Sep 25th): Delta Electron...」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Thailand Short Interest Weekly (Sep 25th): Delta Electronics, Minor Internati...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Delta Electronics為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

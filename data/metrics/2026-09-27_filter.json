@@ -1,0 +1,13 @@
+{
+  "total_raw": 398,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 171,
+  "gate1_fail": 0,
+  "gate2_fail": 2,
+  "passed": 18,
+  "gate2_samples": [
+    "Delta Electronics (Thailand) Public Co. Ltd. NVDR Actuals & Estimates (DUS:NVAW) - tradingview.com",
+    "FCC to Regulate Inverters, Delta Electronics and TECO Eye New AI Power Supply Opportunities - financ"
+  ]
+}
