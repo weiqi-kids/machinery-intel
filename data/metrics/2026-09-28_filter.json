@@ -1,0 +1,15 @@
+{
+  "total_raw": 396,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 1,
+  "gate2_fail": 4,
+  "passed": 13,
+  "gate2_samples": [
+    "Delta Electronics (Thailand) Public Co. Ltd. NVDR Actuals & Estimates (DUS:NVAW) - TradingView",
+    "FCC to Regulate Inverters, Delta Electronics and TECO Eye New AI Power Supply Opportunities - financ",
+    "WXV Global Series 2026: DaLeaka Menin named Mitsubishi Electric Player of the Week - World Rugby",
+    "Illinois Tool Works Lobbyists, 2025 - OpenSecrets"
+  ]
+}
