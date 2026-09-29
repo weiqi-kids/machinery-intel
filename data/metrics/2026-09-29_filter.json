@@ -1,0 +1,15 @@
+{
+  "total_raw": 405,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 3,
+  "gate2_fail": 4,
+  "passed": 30,
+  "gate2_samples": [
+    "Delta Electronics (Thailand) Public Co. Ltd. NVDR Actuals & Estimates (DUS:NVAW) - TradingView",
+    "FCC to Regulate Inverters, Delta Electronics and TECO Eye New AI Power Supply Opportunities - financ",
+    "Free float of Delta Electronics (Thailand) Public Co. Ltd. NVDR – DUS:NVAW - TradingView",
+    "Illinois Tool Works Lobbyists, 2025 - OpenSecrets"
+  ]
+}
