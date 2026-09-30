@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-30",
+  "date_range": {
+    "start": "2026-09-24",
+    "end": "2026-09-30"
+  },
+  "generated_at": "2026-09-30T14:26:46.461561Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "parker_hannifin-2026-09-24-004",
+      "date": "2026-09-24",
+      "title": "Parker-Hannifin stock reports record fiscal 2026 results - AD HOC NEWS",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 25,
+      "last_week": 21,
+      "week_over_week_change": "+19%",
+      "sentiment_this_week": -0.04
+    },
+    "industry_general": {
+      "this_week": 39,
+      "last_week": 53,
+      "week_over_week_change": "-26%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 38,
+      "last_week": 36,
+      "week_over_week_change": "+6%",
+      "sentiment_this_week": 0.02
+    },
+    "cnc_technology": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.5
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "delta": {
+      "event_count": 11,
+      "sentiment_avg": -0.09,
+      "rank": 2
+    },
+    "mitsubishi_electric": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "itw": {
+      "event_count": 6,
+      "sentiment_avg": -0.0,
+      "rank": 4
+    },
+    "parker_hannifin": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 3
+    },
+    "caterpillar": {
+      "event_count": 26,
+      "sentiment_avg": -0.04,
+      "rank": 1
+    },
+    "abb": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "hiwin": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 143,
+        "last": 161,
+        "change_pct": -11.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-24",
+      "event_count": 27,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-25",
+      "event_count": 28,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-26",
+      "event_count": 18,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-09-27",
+      "event_count": 2,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-28",
+      "event_count": 16,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-29",
+      "event_count": 31,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-30",
+      "event_count": 21,
+      "sentiment_avg": -0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-24 ~ 2026-09-30）共 143 則事件，重點為「Parker-Hannifin stock reports record fiscal 202...」。Hiwin Technologies表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Delta Electronics",
+        "reason": "本週出現 11 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Mitsubishi Electric",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "ITW",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,13 @@
+{
+  "total_raw": 397,
+  "dup_title": 183,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 2,
+  "gate2_fail": 2,
+  "passed": 42,
+  "gate2_samples": [
+    "Delta Electronics (Thailand) Public Co. Ltd. NVDR Actuals & Estimates (HAN:NVAW) - TradingView",
+    "Illinois Tool Works Lobbyists, 2025 - OpenSecrets"
+  ]
+}
