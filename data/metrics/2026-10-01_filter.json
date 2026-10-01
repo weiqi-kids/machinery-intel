@@ -1,0 +1,14 @@
+{
+  "total_raw": 399,
+  "dup_title": 181,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 3,
+  "gate2_fail": 3,
+  "passed": 42,
+  "gate2_samples": [
+    "Okuma America Corporation Appoints New Chief Financial Officer - morningstar.com",
+    "Illinois Tool Works Lobbyists, 2025 - OpenSecrets",
+    "Parker-Hannifin proxy filing highlights record fiscal 2026 performance - AD HOC NEWS"
+  ]
+}

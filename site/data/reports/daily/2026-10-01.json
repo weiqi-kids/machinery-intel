@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T14:57:33.607440Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hiwin-2026-10-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hiwin reports August revenue growth. Hiwin stock yields 0.60 percent - AD HOC NEWS",
+      "companies": [
+        "hiwin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeTNrTVpyWkhaOHJNZUYxaVB5Y0VzLUVPZVl4ckhkbFF6MnZqaFdtdkZLSDdTUk55LU5SRjVKYXZLUEltd0tnTF83MjVQeDFzaUtOVWU2WUdCN0dGWk1PNWhiNGFCNDZIRmZrT2xWWUlpTUI5MU5FYmFjd21VcGEzYTh1aGdhbXA1X1NRX29RMk8tVUJLNUxYcnQyQkJQQ0xoakNPWnJNR3ljMFY2QWZHbVoyS01QekFFTW5FZ1EtclVsVXhY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Micron Stock Surge Puts AI Data Center Shares In Focus - Simply Wall Street",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUUtJOS00V1IteHlBWURGcThyYWRpZDRua0lPRUE5V045bmpoV3VSLURsV0hGZElLSGluNF9JUmZtTzVPb2pFRndITVlka29vM05naTVFWGxyeVBmWVhwc2NLVnh2Y09DcGxLSHdWeUQ4WHMtNWtMd3JSNEJtNUpGcllTMTFFM2dkTnN1YXRJRVBDLU44X3ZVZmFlaE5UTVFHMjNWS2tNa1R0cWVVMjZxd0V6VDZXcGl0M280a1pJZEJBUHF6X2J2MVFmSHh1Uy1o0gHQAUFVX3lxTFBRS0k5LTRXUi14eUFZREZxOHJhZGlkNG5rSU9FQTlXTjluamhXdVItRGxXSEZkSUtIaW40X0lSZm1PNU9vakVGd0hNWWRrb28zTmdpNUVYbHJ5UGZZWHBzY0tWeHZjT0NwbEtId1Z5RDhYcy01a0x3clI0Qm01SkZyWVMxMUUzZ2ROc3VhdElFUEMtTjhfdlVmYWVoTlRNUUcyM1ZLa01rVHRxZVUyNnF3RXpUNldwaXQzbzRrWklkQkFQcXpfYnYxUWZIeHVTLWg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "delta-2026-10-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics Unveils 800VDC AI Modular Data Center Architecture For NVIDIA Vera Rubin At DCW Asia 2026 - Pokde.Net",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jWnNLcDA0QjdkZFJycm9tYjQ3UVhOSFgxRHFFU0prMmtaV2wxSW1fTXVHR2x4R2FuOENjQlI2VVZOaWtPU3YwWG9YR2h4ZW1JaUFkbzFTVEE4MHN1cVpaN2xDcUN2cnlkZVFoNGhaNWdLTnB3M21RRVlBM2FlQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "delta-2026-10-01-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics reports TWD 64.59 billion August revenue, the group behind Delta Electronics stock - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNampfeHlIdkprdmd4UGNSNzZHUDJYTl8tRjVjeThJT0JqZl9oTnJ2VmkySDBnc2cyUUUxYlBaNmw5ak1OM1lUNnpzNUp1cktsaTNZQ2FCXzdJaXJIMnMxM0JzaU5EVmJUeXRGOUpzRFBCOEZnZk1jUGNBeTVlUU8wOXpIWnp3WWJUa3owMHV3dnd4Q2xqc2Z0UUplbFNPZWJmX1hoTmw1TEo1ZUVMZnBWVXBNanJNQW5GZTdCbWFnckVTa0FMLWpPMnc0Yw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mitsubishi_electric-2026-10-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric India Inaugurates Centre of Excellence at CGC Landran to Nurture Industry-Ready Engineering Talent - TheWire.in",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNDRxNktZNzZQRV9mTXJsMjZ0aVJwdUFKLUZVbm9oQW9UOUU5a29iYUpOXzNyNXNiRjc1b0NQSXZ2YXpWT3ByNFFTdGh3SXJOb3Q4aGF4MjNORUx2SmpfbTRtRks4aEd0bWktSmxGbC11NnhaVHRCMFFBOU9fU09aNU9xMVlEZ1RxOW44SHBHZWNFamU0U1c2cWxvdXFNNFBuTS1nd1V5ZUtWa0JnbmIwU25mMGVVQWt6V0Q0dW9WdVZlMXhab2I4QkJrdHA2QUMxT3JNUHNJYmk5a2dHVmdiLXdBLVQ2QVZKdFJzcnpn0gHzAUFVX3lxTE5fZ2pyeFg5Qkxib2pGclNvekc4U0dvT09ST3cwN05LQ09BREhQdUppeEs5WnJ1RU9pQUtHbUJrelFCTmk3RWtiNDBPQ3Z6V3FUZ1h6UkpjUW5ueElqZ092YWN3UkpWaFJma21LazQtMXNienRYVk1CV2NHNHpQZEFnTGlaM2c1OWJXOUxSd1FOOVltdk9qQ04wZXVjTXI5XzFOV3U0TDZkS3JHT1lkcU9TelpjMnltajZVVXM4Mmw2SE42bVU4OW9HbDFEWFBuNk52bEkxbF9BODFjakZhQ0t0RFRBY3VURjR1d0JWQklwQndYdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 7
+      },
+      {
+        "id": "delta",
+        "count": 4
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 2
+      },
+      {
+        "id": "itw",
+        "count": 2
+      },
+      {
+        "id": "hiwin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "automation_capex",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 399,
+    "dup_title": 181,
+    "too_old": 170,
+    "gate1_blocked": 3,
+    "gate2_blocked": 3,
+    "passed": 42,
+    "pass_rate": "19.3%",
+    "gate2_block_rate": "1.4%",
+    "gate2_samples": [
+      "Okuma America Corporation Appoints New Chief Financial Officer - morningstar.com",
+      "Illinois Tool Works Lobbyists, 2025 - OpenSecrets",
+      "Parker-Hannifin proxy filing highlights record fiscal 2026 performance - AD HOC NEWS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為CAT、Delta Electronics、Mitsubishi Electric相關動態：「Hiwin reports August revenue growth. Hiwin stock yields 0...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hiwin reports August revenue growth. Hiwin stock yields 0.60 percent - AD HOC...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Micron Stock Surge Puts AI Data Center Shares In Focus - Simply Wall Street（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
