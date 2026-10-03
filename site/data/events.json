@@ -1,5 +1,46 @@
 [
   {
+    "id": "delta-2026-10-03-001",
+    "date": "2026-10-03",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics announces NVIDIA collaboration: what it means for Delta Electronics stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX2d4RlN6ZUFxc2xZLUk1RkxxUTk3MjhkY3FJMXZTRHVBTGV6Vlc1Z3NNRXZEVEZjYlRNcDVfWXBodlVxVGJEeE1SQlZILVEyWnk5QzlmNXI3aWhrNE9rOW4wZUNFdlMtMlhLSE5hZ0",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX2d4RlN6ZUFxc2xZLUk1RkxxUTk3MjhkY3FJMXZTRHVBTGV6Vlc1Z3NNRXZEVEZjYlRNcDVfWXBodlVxVGJEeE1SQlZILVEyWnk5QzlmNXI3aWhrNE9rOW4wZUNFdlMtMlhLSE5hZ0lkUFdVaUFJRFk2MlRWRVZENGd5cXNFWjUxSkxIUzdYMkR5d3F0VmpRZ05mTnNWeXNZaVpVUDVSR3BFWUdCdTltcjVpU1RvOW9reGNnc181Sl9jMldPeHEyTlN0NEhoSE5x?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-03-002",
+    "date": "2026-10-03",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin stock trades 0.05 percent above Xetra close of EUR 858.90 in weekend trading - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeEU5dHhKcG80N1RpTEl5M1p1S2JPRDEta0hWa3pqUG53LWsxaExweE9JeTVrMjJJN2V0TXNNWV9tM3N3N0doYVUxa0tISFVjaGk5NV9ZaUtHcDBCZ0p4SHA3dGhNc3dpdTRyb0diRn",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeEU5dHhKcG80N1RpTEl5M1p1S2JPRDEta0hWa3pqUG53LWsxaExweE9JeTVrMjJJN2V0TXNNWV9tM3N3N0doYVUxa0tISFVjaGk5NV9ZaUtHcDBCZ0p4SHA3dGhNc3dpdTRyb0diRnkzNXItWGhRS3FSUW05Yld4U3Y3RGlFVjNwajloRkQ4TlgxRUtNQ3ZfTTlBajktc25Jc3BhQm1ab3pZdUVvMmg0NEp2M0wxMlFsZVVOQktZX0xZenh4NmV6Yll0Qjl5dVFWeUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-10-02-001",
     "date": "2026-10-02",
     "companies": [
@@ -158,6 +199,258 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa1Y1cXNDTGhRMkRrMTJfOUxxeGJhZnpyUVZfNWV5TkZUNkZEbzNlZ1BkQzY3LV8yOUlqYUVfY0Z4VXd1QjZwRzdSOGszT2RGZ3NFN3Z4Ymc0dWRzQUNJQmZ4b3NVTVF0bVR3blM0M1ZfWS1kcjJGeFZiTWZsNUZUQXNzWlRGSGtLWEVoMTFsVFhIaWs0VEJ5Zg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-10-02-009",
+    "date": "2026-10-02",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics stock: company announces NVIDIA autonomous-driving collaboration - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPakQ5LXJtQ3psRFVWLTBfSC16NzF4VUI5dHNObVlyUWlMSjlWOGF6QzhtNm5zai1kOU0tZXc5R1h3TmpVemh1SkE2NHl1OTl5OGRsOXJURzVvQnJUUE1lMjdVdmtiWnFSRWlWZHdVTH",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPakQ5LXJtQ3psRFVWLTBfSC16NzF4VUI5dHNObVlyUWlMSjlWOGF6QzhtNm5zai1kOU0tZXc5R1h3TmpVemh1SkE2NHl1OTl5OGRsOXJURzVvQnJUUE1lMjdVdmtiWnFSRWlWZHdVTHlkby0yU1JIY1VCaDRyenJkM3VSdWtJNGdEWkhDR09zbUtKc0s0ZE96WEhyVnRkUXNlU3pqdFhheUl0MUxiM2s1VzJ0b3F1WVdUaGhCZDFYZnNoNENBdWg4MkZsZWducHhrQ1hLNWNTdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-10-02-010",
+    "date": "2026-10-02",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Ltd (ABBNY) stock price, news, quote and history - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5acDJlRWlJelVyZFhmWm9ELTllWU5vZm94aW11eExFeUdfcWJxR01wc2lrcE5XR0xTUVJ3Mm9ZaVVaRTdSYzNRUFg3a2ZTZlBJZ2VR?oc=5\" target=\"_blank\">ABB Ltd (ABBNY)",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5acDJlRWlJelVyZFhmWm9ELTllWU5vZm94aW11eExFeUdfcWJxR01wc2lrcE5XR0xTUVJ3Mm9ZaVVaRTdSYzNRUFg3a2ZTZlBJZ2VR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-02-011",
+    "date": "2026-10-02",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock after-hours at EUR 233.65: plus 0.71 percent - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2JQZXZoRnI0TVlVbTFrUHNGMGh0aVlTdTR4cmxJSjRxTzZuQm1VVnBRR1RhSGhYWkh6X0RneVIwWHJ6VVU4S2lWWTJ3eUYyZDFZYVF6WGRNazF2V3JNU0VRRWVyR3ZIVFItbUxESm",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2JQZXZoRnI0TVlVbTFrUHNGMGh0aVlTdTR4cmxJSjRxTzZuQm1VVnBRR1RhSGhYWkh6X0RneVIwWHJ6VVU4S2lWWTJ3eUYyZDFZYVF6WGRNazF2V3JNU0VRRWVyR3ZIVFItbUxESmx2WG5uaUNMVTRvLTNfemRUQTdEdnJjNmcwSDBHQ1hqQlp5SjFOT09SRnYwYjNKQkNFUndpckE2aEpUbUt4MlNzdS1qZ0t4Zms0ZVNTaE83RVl5UkFsZXp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-02-012",
+    "date": "2026-10-02",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Stock Holdings Raised by CX Institutional - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPajRzTW9xcGpNSzJBWWJ0a3JFNW90TU1iaFc2ZkZNNlJWWW5XQ3A1ejZKeUV2b1hVTTlOUU5IWDNiUHc4TXEyeHVLVVBWQjF4TGFqZm5SbS1jajJwSi1lTF9LcE85Rm45QkpWdEY1N3",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPajRzTW9xcGpNSzJBWWJ0a3JFNW90TU1iaFc2ZkZNNlJWWW5XQ3A1ejZKeUV2b1hVTTlOUU5IWDNiUHc4TXEyeHVLVVBWQjF4TGFqZm5SbS1jajJwSi1lTF9LcE85Rm45QkpWdEY1N3BsWE5CNjIwNWphenUzd3p2OVhNZzJuUHhLbTVhWEg1cHFlZ1k4cTVtOWZPMVluWjFOYzJoVFRVY1lnR3lHRUNCT0ZTSUNISWgxOUhUU21YclZsWDE2RWYzNVFNbU4yUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-02-013",
+    "date": "2026-10-02",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin stock after-hours at EUR 859.20: plus 0.01 percent versus prior close - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOU9EN0xSSUdmWUdZMWhZNklncXV4dEc5emxNdDlBcTdURUdDRjdJVUtnWGM0cW9sTU9yZmhfS085cHducTRlc3pXMHBvOGFxbm81RTRGaWNlUkxCQXltcHVDOWNlNThOaDltZFdOX3",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOU9EN0xSSUdmWUdZMWhZNklncXV4dEc5emxNdDlBcTdURUdDRjdJVUtnWGM0cW9sTU9yZmhfS085cHducTRlc3pXMHBvOGFxbm81RTRGaWNlUkxCQXltcHVDOWNlNThOaDltZFdOX3VnTV85MVBTWnVCdk8wR1BuMW83cnNQemhKblIzV2JIWmtiejZKeDBvVWhiZWpQT2thUFlrdnVyUUp3YWlkWTBzU0dWZmc2MDMtc0JSQnd0aE56OTZSSmRTa2xTXzRleHFqd0s0TWgzUGxIUkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-02-014",
+    "date": "2026-10-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar celebrates Manufacturing Month with new Construction Technology Gallery - 1470 & 100.3 WMBD",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxONElPNHRSdkZITV9SSC1EVURTUDJPR0J5V2Q5Qk42Y19hSG5RM0NQNExBTzgyRE90ZnVTRG5EeUEtXzV1MG9PN0Etd3hudF9LZGZZRFAyVHJqYnVIYkdhTzhSZzdjVy1UUDNzaHNqM0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONElPNHRSdkZITV9SSC1EVURTUDJPR0J5V2Q5Qk42Y19hSG5RM0NQNExBTzgyRE90ZnVTRG5EeUEtXzV1MG9PN0Etd3hudF9LZGZZRFAyVHJqYnVIYkdhTzhSZzdjVy1UUDNzaHNqM0Z4ZW5jcldrbUlVclU2RVZla1ZMdl8zc01rWkJkakVQWmpoMlhOVS1UWVNRSlIzck5XTVpBMHh3YjJpSGd2a0FDZDdWRlY1U2N3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-02-015",
+    "date": "2026-10-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar and Ultium Cells make $1B facility investments - Manufacturing Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQelZzc2o3cTRSN3c0cTVxNk1DbUtLMVZzZUs1ZHpmdm41elFLR3Z0Uk1rN3ZrMXdJaFg3ZDNCMWFxY2JPSVV5NndTeS1SRkhtSGhGMGpnYnlqMFZZMnpkUGVQVTREODNlRWJUTU5pbz",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelZzc2o3cTRSN3c0cTVxNk1DbUtLMVZzZUs1ZHpmdm41elFLR3Z0Uk1rN3ZrMXdJaFg3ZDNCMWFxY2JPSVV5NndTeS1SRkhtSGhGMGpnYnlqMFZZMnpkUGVQVTREODNlRWJUTU5pbzFzZVVTSDhFYklPUnlMSXdVeTBGbHkzTi0tdzVNRmp5SWN3R2xiNWxsQ2dzd3BhRWVzeUV0SHlhZFY3Qjd0U1RQRmRTT2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-02-016",
+    "date": "2026-10-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NC lands new Caterpillar manufacturing facility in Sanford as part of $1B push - WCTI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFY1cWZyQjlOUXFKS19IcjIyVHhBSkJqNDVFV3BFRnZlblEyM3VjbThMZ29rN2ZIRWpjeDRRd0wzQkVQdHY3bk5DeUFadlVaMjBHRjBwRWo4Y05lLUh4QUVBLTZIWVdWQ2FQdkhwbW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFY1cWZyQjlOUXFKS19IcjIyVHhBSkJqNDVFV3BFRnZlblEyM3VjbThMZ29rN2ZIRWpjeDRRd0wzQkVQdHY3bk5DeUFadlVaMjBHRjBwRWo4Y05lLUh4QUVBLTZIWVdWQ2FQdkhwbWVucnV4MEZ6UkExNGI5SnN2WklWNW5uUTA3OEZDRE1zb09EQW51Y2lET3dqeVNlbHZ5aWpFOXVuR0tXVUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-02-017",
+    "date": "2026-10-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Commits $1 Billion To U.S. Plant And Dealer Acquisition - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPMFdZNUNEYnlXbkRWRTBoOVliZGxXRmZtWFZjbmN4N3RMSUpQdXZmbDE3dk8wUnVacnk2aUxXVjZnWEhZMElDd01ob01VRUZpcERWdWNJbXNtaEF3RlpROVZYNUZPblZjSEZCU2RXeF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMFdZNUNEYnlXbkRWRTBoOVliZGxXRmZtWFZjbmN4N3RMSUpQdXZmbDE3dk8wUnVacnk2aUxXVjZnWEhZMElDd01ob01VRUZpcERWdWNJbXNtaEF3RlpROVZYNUZPblZjSEZCU2RXeFMtT2FnbllNUTg1eGFGcFB6OUFZYVFVbU44Q21kMUVxaUF3ZWZlekRhd19WLWVWWURjTFFVUWhKcmJuLU1obm10NzZCLXg1XzNjc1JpNVZrQ1Zha0tiMXZGTjA1QzbSAdIBQVVfeXFMTU90WlRGTXJpMnZXT2Y2bG1VWHI1TWg5ek5JZE1UNmR3TzEyc0ozeWNGV192S2hMTTgzRGxWSGVMamxTYTRNN0o3MTVwYU1WZHZ0eS1FRTU3MDd3am1ZSzFDamRuS0tOYTNRYktzOE1jVmVmY0xfQklyNFgybV9OQVVfb0I1YVJ0QWRRYzRNOXV5Qm5RNGhHbWlWWXhQX2w3Tl85cmt6bDRIaXRHSXlMQ3dGb0tnaGFsanBaRE1xQlJlSFQ4em1LOGN4aWNDQnVFNFdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-02-018",
+    "date": "2026-10-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Caterpillar Stock Is Trading Higher During Friday's Session - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMU05cEpHME5QMEhzdXBteTQ5elFEcjMwdWpCTlNjR0dKdlpsNVNHYXA2UDZWQkl6OHNHWVBrV2h3TXhMaFhBeE81ZnFTbHdBc2ZGMll0RFEzcU4xQnZZdW54OUxSTHlPdHNSUjAwcV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMU05cEpHME5QMEhzdXBteTQ5elFEcjMwdWpCTlNjR0dKdlpsNVNHYXA2UDZWQkl6OHNHWVBrV2h3TXhMaFhBeE81ZnFTbHdBc2ZGMll0RFEzcU4xQnZZdW54OUxSTHlPdHNSUjAwcVNveU4wSTF6dkVvQXdBN2Y5ZU9UYmwzSVVjTFYxbTFiaGNfa0JhOTQwdHRlNTQ2M3p0TmU1RnloVTMtd3JRZzJOV0tuZHJVRWZCRU42XzJvdG4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-02-019",
+    "date": "2026-10-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Is Betting $1 Billion on Small Contractors. Here’s Where the Stock Could Go by 2030 - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnhUNGQ5cU1PdV9ITE5ud0pVbnNLZFJteEFsNk81MHBEYmhnRnNjaDhrU2JaS1VZSm1uQ0NVUGhEbnh1MXFvZlZxcXNjdnBYUm9GUXMxNmJMNDhrTFVDWGR4cV81NGpUMXJnZkd6cW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnhUNGQ5cU1PdV9ITE5ud0pVbnNLZFJteEFsNk81MHBEYmhnRnNjaDhrU2JaS1VZSm1uQ0NVUGhEbnh1MXFvZlZxcXNjdnBYUm9GUXMxNmJMNDhrTFVDWGR4cV81NGpUMXJnZkd6cWlEbXp1QWFtWUctdU9IdWp2aDlQZGU3eXUxZ0ZMbGRYYzdwM3BENW9SbkVwWWp1d1lnWVNVdzFaa29DVm1WY25RRy12aUdDemlTZnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-02-020",
+    "date": "2026-10-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar plans to invest $1B in North Carolina facility - Lawn & Landscape",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcVk4cmxteHJpdUo5OUpRWFNCekpyVjQ5LVJrX0hjd2RLa0YwRUZSaWVNQ1NSUXU0YUNrMzZNS3FXQ0ZWLTF2azU2R3VFVWpKWU95dHBseDJScjdMMVo0SldkeTA5eEtWdThPb2s0TH",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcVk4cmxteHJpdUo5OUpRWFNCekpyVjQ5LVJrX0hjd2RLa0YwRUZSaWVNQ1NSUXU0YUNrMzZNS3FXQ0ZWLTF2azU2R3VFVWpKWU95dHBseDJScjdMMVo0SldkeTA5eEtWdThPb2s0THpQalBPUXI0VVBWd0pYYUNjUmZBdEpmOGhpVk84ZGU2cE1qcDdFcVNRdDVQek1saHk0ZzBpd1JTZGQ?oc=5",
         "type": "rss"
       }
     ]
@@ -867,6 +1160,67 @@
       {
         "name": "plant_engineering",
         "url": "https://www.plantengineering.com/the-flooring-trade-off-no-dry-processing-plant-should-have-to-make/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-01-036",
+    "date": "2026-10-01",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric India Inaugurates Centre of Excellence at CGC Landran to Nurture Industry-Ready Engineering Talent - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalZmZjlxemVlbzNOY2lYLWFDMEtYUFZiVzJBNDdPVHhHaUpmdkdRak1wVjdTVTZZX2JLVkZrRU1iWnI1MVVKMEVrSE5VajNTdDRTZXZBaFZqckthaVR1eXh1eGNfcW5QRHRHUDJVWX",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalZmZjlxemVlbzNOY2lYLWFDMEtYUFZiVzJBNDdPVHhHaUpmdkdRak1wVjdTVTZZX2JLVkZrRU1iWnI1MVVKMEVrSE5VajNTdDRTZXZBaFZqckthaVR1eXh1eGNfcW5QRHRHUDJVWXNWbzIxaGdyVFhUQ2htUFhQQkFMd0lHOG9EWW1RaEZQcEVBT0c3WlBndzE5d0ZJWWEzQWgxMlp5Mko?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-01-037",
+    "date": "2026-10-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar opens new Building the Future gallery in Peoria - CIProud.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPM29RUW5XWTc1UE1jaUo3a0s3dXRuQlBQd2pkQnoxcGdZMi1iREEwbFN1SEN4bFAzZGFZUTR4anI3NGZFTUtHZ0RHNEk5SlJqWFlVY1M4RFVKZURqQUxNdEp2VEVKSGxDZy1MeVNCTl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM29RUW5XWTc1UE1jaUo3a0s3dXRuQlBQd2pkQnoxcGdZMi1iREEwbFN1SEN4bFAzZGFZUTR4anI3NGZFTUtHZ0RHNEk5SlJqWFlVY1M4RFVKZURqQUxNdEp2VEVKSGxDZy1MeVNCTlk5MklfSDAtczViMGhNTkRiSnhzcEtQcGR3MWlyOWRyOW45ekl5dzZoR0JQSVE5WWtEemQzVU1ZQdIBrAFBVV95cUxPMDA0NWg0ckxESlZ2em1aNVlERmc0bTVMRWJiM2M2alBJeTdKLXZRSGswNk1vSzdGUEVZdFlYSFZYMWZkNVpKMktyMFpKMGI1RmVVMVNUNkFSbXJYcEZLR1c0SlpXTjB1Q3ZpZWVuUzJiMGthaXdmOFk2Nnd5SG94MUhXNHVEM24ycnl2dlF4UUZyaHZFcVNkcTNkTnZ0ZUtFVDc3d1VyNWtqVE12?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-01-038",
+    "date": "2026-10-01",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar invests $1B in Sanford expansion - Carolina Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNYUZpQUprOXBqdVVPQ0hVMHQwdUsyczBlMmlNMzRWOW5JT1c1UXQxRG84cVdvRDdnZ19RZnpCcTlRcktCakVvbFhib1JjbVlXQmdNR3ZZVF9rVm5xT3dERldXaUo3dkNPRlp2RUs4Zj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYUZpQUprOXBqdVVPQ0hVMHQwdUsyczBlMmlNMzRWOW5JT1c1UXQxRG84cVdvRDdnZ19RZnpCcTlRcktCakVvbFhib1JjbVlXQmdNR3ZZVF9rVm5xT3dERldXaUo3dkNPRlp2RUs4ZjVWbml3VmtfLWtONmZmaUp2NjlR?oc=5",
         "type": "rss"
       }
     ]
@@ -1709,6 +2063,68 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ19LTzFicEtoSk1OYzQtM2x6d1EyQ2Jnb2xYRGJwMXNMMkh0dFNuTWJHVVd0X2hHTXQwd3BrSUtHbDQ3Zk1SOHhpeEQ4M1lyZERSN0VmNC0tbTZMYkhpX1NQTHEtc1BGLXVkdnRPam91T0ZwSzZuQml0TlF3RmVuYjhvWGx2RTRWZ0JhMnVR0gGTAUFVX3lxTE1TcU4xdTc1Y3BNQUQzM2k3QkdzUHotaGFkV1hwQlVNTVBlVmJFQ1FJNHZpd1VtcHRRVXpyWDlHVHI0aTg1U3Nicy0zQjMtYUVNV0xxbmdseGtGeDlXTF8yOGstQm1OenoxTG1qU2psWHdCY25MNnhDVVNhOHRYT0x2VUNQTXowR0NDLXhzOTB3RjFnWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-09-30-042",
+    "date": "2026-09-30",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics, NVIDIA Join Forces On Level 4 Autonomous Driving - electronicsforyou.biz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPbE1WWC1IeVZEYUlYa2cxX2VtNXNWXy12RGY0d3RKakI3TFVOM2I0cWpEUzFKRFhFZjVuWlk0UTVLOS1BY0hxMHVrZFFpakVnZ1BBUmJSMnc3Wlk1X3hoTXIyZ3ktMkRKRE1ORHptc0",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbE1WWC1IeVZEYUlYa2cxX2VtNXNWXy12RGY0d3RKakI3TFVOM2I0cWpEUzFKRFhFZjVuWlk0UTVLOS1BY0hxMHVrZFFpakVnZ1BBUmJSMnc3Wlk1X3hoTXIyZ3ktMkRKRE1ORHptc0h2cDNaSEFlVGdmaWJEbnRGTm90RmplS21qSmFGc2I3SG1MdnRZaVBfcnZiaTFfeTJLZE1hX3dVM0dTUG5hYUFCaEJtZmZRdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-09-30-043",
+    "date": "2026-09-30",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Takebishi Corporation completed the acquisition of Fukui Mitsubishi Electric Sales Corporation from Mitsubishi Electric Corporation. - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSUQ0eTdkc3hNQXhBeVZ6NU5ZQjNfWlktb0xxam9HOHlpMk8xTDNGTEplSkp3cmJIeDdVZ1h0ZHVxNHRnb0I1eGVab1I3enN3N3hWc3pEWUFfRk5zRXQ0c09TMVRoajNKRXZJb1lVRk",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSUQ0eTdkc3hNQXhBeVZ6NU5ZQjNfWlktb0xxam9HOHlpMk8xTDNGTEplSkp3cmJIeDdVZ1h0ZHVxNHRnb0I1eGVab1I3enN3N3hWc3pEWUFfRk5zRXQ0c09TMVRoajNKRXZJb1lVRkF4NWpVZ0Zac2NSZC1LeGhtNDZFM2YtLXctcXZvdUxUejk2N2tCN25Qc0kxZW51WDh2MHdkbl9BaWwtN3VsVHdhRHVhbmlZS0RSNkVwNUhvY0hYQjN6VHZycDdtNDlWTEUzeGFGVEtCWlZhS1Z1RnhXdERqOEd5dFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-30-044",
+    "date": "2026-09-30",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Caterpillar to Invest $1 Billion in North Carolina to Expand Cat Compact℠ Manufacturing Capacity - Caterpillar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPU2ZwSzRmY1dpcnlZZEY4S2ViNlFTN0FkYWpxc19JZVFGaDJvcWdNODZkazc0cXpfM29WOWJWMGRaTmgtVzFDajdUQjF2Q2huUDhPRWdIc2EwVDNUREEyeXVMUFJzcXNhdk5sTExodT",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPU2ZwSzRmY1dpcnlZZEY4S2ViNlFTN0FkYWpxc19JZVFGaDJvcWdNODZkazc0cXpfM29WOWJWMGRaTmgtVzFDajdUQjF2Q2huUDhPRWdIc2EwVDNUREEyeXVMUFJzcXNhdk5sTExodTZKeGRIWFd2RC03WEFTTG9vaEd3OWNYeFdTaFRZREZQZG43VVRMWFpIdHBVTnMxVkljNW9lYzJ6N20weUNnbEY2VXFscWRBWGlYNENoX0g1Nnh6dTg0X1l0NHRacnQxaktvQXJiVWZORFFvc3FMZENIcE44TmhHcXE2dUk5dWJyTU9Sc2UwRGUw?oc=5",
         "type": "rss"
       }
     ]
@@ -2594,6 +3010,68 @@
       {
         "name": "google_news_machine_tools",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ1ZPRklUTjlKRkNiV0RYZDYyZVNBc2dPRjZCdmRRNEhjYXlybVh6c1ZlRDdQQkk0VEJpNURyTzQ5ak9UVFFoZ0djWkdnSkFYVVZ1b3NaOHl0UVBMc21EcUJxT0VwY1F6SzRmQTdVdW9COWZHV1J0MUlQRFktUzB2QTFKYjJOcmQ0Tml1MDUxVnNNZlgxMkNETGk5OU1rMy1IWjhCeWtR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-09-29-045",
+    "date": "2026-09-29",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (NYSE:ITW) Stock Forecast & Analyst Predictions - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXR5WDZiUkN6VDBVN3p3UVB3dUNRc0lqc0lvM3BsLXBqc3NCcnF1dk05M2JfVmtXRGx2NFd4TjlSRWZYVzBvYmVLWDRpMkM0dHJaTWcxZXA3WnpudEVHQUxwSGI3NktsdkIzelMxWW",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXR5WDZiUkN6VDBVN3p3UVB3dUNRc0lqc0lvM3BsLXBqc3NCcnF1dk05M2JfVmtXRGx2NFd4TjlSRWZYVzBvYmVLWDRpMkM0dHJaTWcxZXA3WnpudEVHQUxwSGI3NktsdkIzelMxWW5maVN4TVdZQXhVT19sYzllYU94WERhQTRm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-29-046",
+    "date": "2026-09-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Fenton-based Fabick Cat dealership to be acquired by Caterpillar - bizjournals.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPRHJLTktmMWMwZGd2ZXZSeWE3dnpSZTNGYkVIMjBaeG1vX1RLeHRPc3V0VnRLLV9NT2VnckI5Y19NOFczS3BCbEFFTDFTeEFQTEpzeDA5SnhmUFlGa2ZiYVBMTUQwWm9jdDJ5eGFUd2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRHJLTktmMWMwZGd2ZXZSeWE3dnpSZTNGYkVIMjBaeG1vX1RLeHRPc3V0VnRLLV9NT2VnckI5Y19NOFczS3BCbEFFTDFTeEFQTEpzeDA5SnhmUFlGa2ZiYVBMTUQwWm9jdDJ5eGFUd2pOMEJ3cGQxZ1VXUzBFTUZibFFGemU1YmoxSFkxTVZfb01fTlZDRjZka3F3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-09-29-047",
+    "date": "2026-09-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Inc. Enters into Agreement to Acquire Fabick Cat Dealership - Caterpillar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSFJEQjd5WFljZ3NFelZmT1BFMjdtWGctUF90R0tOVlgyMUlTYlI5WlQwaFFuZEZ1SzdSMG4tXy00Y0h5Zl9Qb3pmTmVsN09KQXI1cnFXTXE4WjluNEFsOWUzcjRKamgxZ3lxMzFodk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSFJEQjd5WFljZ3NFelZmT1BFMjdtWGctUF90R0tOVlgyMUlTYlI5WlQwaFFuZEZ1SzdSMG4tXy00Y0h5Zl9Qb3pmTmVsN09KQXI1cnFXTXE4WjluNEFsOWUzcjRKamgxZ3lxMzFodkczV2F0T21HQ0JOcTdfQUQ0NTFYVXdaUVBTMDdZLUNIaGlWQXpKN1JQQV95UXJQRnp2alN6WDM5MllidEF0ZGVaSTJCZnNtT3pRWmswV280M1FDTUtfN2NPamNkaldRQ2U0TEpYRQ?oc=5",
         "type": "rss"
       }
     ]

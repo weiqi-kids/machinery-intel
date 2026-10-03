@@ -1,0 +1,14 @@
+{
+  "total_raw": 398,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 3,
+  "gate2_fail": 3,
+  "passed": 23,
+  "gate2_samples": [
+    "Okuma America Promotes Summer Cline to Chief Financial Officer - citybiz",
+    "Okuma America Corporation Appoints New Chief Financial Officer - Morningstar",
+    "Parker-Hannifin Benefits From Business Strength Amid Headwinds - Yahoo! Finance Canada"
+  ]
+}
