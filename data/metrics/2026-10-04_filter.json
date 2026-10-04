@@ -1,0 +1,16 @@
+{
+  "total_raw": 396,
+  "dup_title": 234,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 3,
+  "gate2_fail": 6,
+  "passed": 13,
+  "gate2_samples": [
+    "Taxes of Delta Electronics (Thailand) Public Co. Ltd.(Alien Mkt) – HAN:DLS - TradingView",
+    "Taxes of Delta Electronics (Thailand) Public Co. Ltd. NVDR – HAN:NVAW - TradingView",
+    "Thailand Short Interest Weekly (Oct 2nd): Bumrungrad Hospital, Delta Electronics, TISCO Financial - ",
+    "Okuma America Promotes Summer Cline to Chief Financial Officer - citybiz",
+    "Okuma America Corporation Appoints New Chief Financial Officer - Morningstar"
+  ]
+}

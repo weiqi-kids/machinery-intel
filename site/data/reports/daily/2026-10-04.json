@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T13:35:46.283416Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-10-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics stock falls 1.05 percent as revenue grows 35 percent - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVk9ZbzFVTU9hbXRqQzJ2eExBLXZxd01leW5IRUpMdFNrNk5LZEtTZWtYcFhOcHZfOGVGVEdINy1sY0JBVnYtX1Viay1ZZGNodmdXaUREdVBoekdCblZlNXFGekNxVnpSWUU0dUxrNDZXOWZ4Z0w4eUN6WGlDWEZYdlRERkZvZVVadEhMdHFaRHNIWXJFbHdCVnpqTEtxT1FIanB2OERya2M1TmdOcWt4MUlWTXFDT29HTGh5Z2k0ZnBoaDREME1DUHNPUkVpQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "delta",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 396,
+    "dup_title": 234,
+    "too_old": 140,
+    "gate1_blocked": 3,
+    "gate2_blocked": 6,
+    "passed": 13,
+    "pass_rate": "8.0%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "Taxes of Delta Electronics (Thailand) Public Co. Ltd.(Alien Mkt) – HAN:DLS - TradingView",
+      "Taxes of Delta Electronics (Thailand) Public Co. Ltd. NVDR – HAN:NVAW - TradingView",
+      "Thailand Short Interest Weekly (Oct 2nd): Bumrungrad Hospital, Delta Electronics, TISCO Financial - ",
+      "Okuma America Promotes Summer Cline to Chief Financial Officer - citybiz",
+      "Okuma America Corporation Appoints New Chief Financial Officer - Morningstar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Delta Electronics相關動態：「Delta Electronics stock falls 1.05 percent as revenue gro...」。主要關注主題為自動化資本支出、財報、產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Delta Electronics stock falls 1.05 percent as revenue grows 35 percent - AD H...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Delta Electronics為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
