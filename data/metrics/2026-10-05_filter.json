@@ -1,0 +1,16 @@
+{
+  "total_raw": 395,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 3,
+  "gate2_fail": 7,
+  "passed": 30,
+  "gate2_samples": [
+    "Taxes of Delta Electronics (Thailand) Public Co. Ltd.(Alien Mkt) – HAN:DLS - TradingView",
+    "Taxes of Delta Electronics (Thailand) Public Co. Ltd. NVDR – HAN:NVAW - TradingView",
+    "Okuma America Promotes Summer Cline to Chief Financial Officer - citybiz",
+    "Okuma America Corporation Appoints New Chief Financial Officer - Morningstar",
+    "Truist Cuts Price Target on Illinois Tool Works to $297 From $308, Keeps Hold Rating - marketscreene"
+  ]
+}
