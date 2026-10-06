@@ -1,140 +1,140 @@
 {
   "hiwin": {
     "earliest": "2007-12-31",
-    "latest": "2026-10-05",
-    "count": 4598,
+    "latest": "2026-10-06",
+    "count": 4599,
     "history_complete": true
   },
   "thk": {
     "earliest": "2001-01-04",
-    "latest": "2026-10-05",
-    "count": 6412,
+    "latest": "2026-10-06",
+    "count": 6413,
     "history_complete": true
   },
   "airtac": {
     "earliest": "2010-12-13",
-    "latest": "2026-10-05",
-    "count": 3862,
+    "latest": "2026-10-06",
+    "count": 3863,
     "history_complete": true
   },
   "keyence": {
     "earliest": "2001-01-01",
-    "latest": "2026-10-05",
-    "count": 6415,
+    "latest": "2026-10-06",
+    "count": 6416,
     "history_complete": true
   },
   "delta": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-05",
-    "count": 6653,
+    "latest": "2026-10-06",
+    "count": 6654,
     "history_complete": true
   },
   "fanuc": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-05",
-    "count": 6674,
+    "latest": "2026-10-06",
+    "count": 6675,
     "history_complete": true
   },
   "siemens": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-05",
-    "count": 6838,
+    "latest": "2026-10-06",
+    "count": 6839,
     "history_complete": true
   },
   "abb": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-05",
-    "count": 6791,
+    "latest": "2026-10-06",
+    "count": 6792,
     "history_complete": true
   },
   "rockwell": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-05",
-    "count": 6729,
+    "latest": "2026-10-06",
+    "count": 6730,
     "history_complete": true
   },
   "schneider": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-05",
-    "count": 6875,
+    "latest": "2026-10-06",
+    "count": 6876,
     "history_complete": true
   },
   "mitsubishi_electric": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-05",
-    "count": 6674,
+    "latest": "2026-10-06",
+    "count": 6675,
     "history_complete": true
   },
   "dmg_mori": {
     "earliest": "2001-01-04",
-    "latest": "2026-10-05",
-    "count": 6412,
+    "latest": "2026-10-06",
+    "count": 6413,
     "history_complete": true
   },
   "okuma": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-05",
-    "count": 6674,
+    "latest": "2026-10-06",
+    "count": 6675,
     "history_complete": true
   },
   "amada": {
     "earliest": "2001-01-01",
-    "latest": "2026-10-05",
-    "count": 6415,
+    "latest": "2026-10-06",
+    "count": 6416,
     "history_complete": true
   },
   "makino": {
     "earliest": "2001-01-01",
-    "latest": "2026-10-05",
-    "count": 6415,
+    "latest": "2026-10-06",
+    "count": 6416,
     "history_complete": true
   },
   "jtekt": {
     "earliest": "2000-01-04",
-    "latest": "2026-10-05",
-    "count": 6674,
+    "latest": "2026-10-06",
+    "count": 6675,
     "history_complete": true
   },
   "tongtai": {
     "earliest": "2003-09-15",
-    "latest": "2026-10-05",
-    "count": 5689,
+    "latest": "2026-10-06",
+    "count": 5690,
     "history_complete": true
   },
   "goodway": {
     "earliest": "2008-01-24",
-    "latest": "2026-10-05",
-    "count": 4581,
+    "latest": "2026-10-06",
+    "count": 4582,
     "history_complete": true
   },
   "itw": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-05",
-    "count": 6729,
+    "latest": "2026-10-06",
+    "count": 6730,
     "history_complete": true
   },
   "lincoln_electric": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-05",
-    "count": 6729,
+    "latest": "2026-10-06",
+    "count": 6730,
     "history_complete": true
   },
   "parker_hannifin": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-05",
-    "count": 6729,
+    "latest": "2026-10-06",
+    "count": 6730,
     "history_complete": true
   },
   "caterpillar": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-05",
-    "count": 6729,
+    "latest": "2026-10-06",
+    "count": 6730,
     "history_complete": true
   },
   "etf_robo_etf": {
     "earliest": "2013-10-22",
-    "latest": "2026-10-05",
-    "count": 3257,
+    "latest": "2026-10-06",
+    "count": 3258,
     "history_complete": true
   }
 }
