@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T14:56:57.354995Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hiwin-2026-10-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hiwin stock fell 1.74 percent as new products launched - AD HOC NEWS",
+      "companies": [
+        "hiwin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODhoT0hNX1FubTV6N014VUVkT1VHdGZ6LUdjRzVxUGVhX0V6NDN5Q25FZmQ4bHl5QVN2NXEwWEQ3Qm9keW1sUUhHUUZWSldPRmo5cnF1WDBWUFFaZzFMc3ZBOTFMQ0JpcjhBaEJtQS05ZWxlZWRoMmUwaFBGR2RJcFlLWU5fX2hJUG1IX3VYM3E1SFBIbW94dVE1MDJTcy1ocFM5SVRRSzE3dXlvdFhkbllwUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "thk-2026-10-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "THK reports first-half growth: what it means for THK stock - AD HOC NEWS",
+      "companies": [
+        "thk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUE1QR1ZGUVloQXgyVlJ6SDJKTGRKVE14cjQ4X2Iyc0Y5N09ISzZPZW9QVXo5ZDF4ZnUwaDFCaUFrZWpjejZtaHFfdldfcjVKUGdBQVkzdldEUHJXSkw4a3JmQkI3YWp6dHFjc1FKOGRDbG5MUjM3X2ZXamIwZnlVZ0E1bU1LWmFyQVJ5ZVBsNTlGZDhDUHlfZklxOF92OWQwckNxOFNldUJGcldEZk5CX3p3R2E5Q0U?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "keyence-2026-10-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Keyence stock costs EUR 461.95 ahead of quarterly results - AD HOC NEWS",
+      "companies": [
+        "keyence"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGxxU3lTTFZPVkw5WjJDXzJoSV9tR1hmeXVEVnVvUWdMbXF6V3dVeTUyYXVJMWVxeFR3ZEhFRXlwQ0FlaG41bm9xMjdESWNyWTRPd1p0ZFlNUmpuUHE5M2RvZjZpQUsxdUxOTUswODBpZDV5OE1XeEhZQnlJX1YtT21lR3FFVjJsOVRqS0VQejVob1AzYnRONFhSZGw4ZEJYdUQzd3BIdTVMcXlSUmc5UE1UbkhHUWZGdmZjSg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "delta-2026-10-07-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics stock fell 2.93 percent on October 7 - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjJqUU1OOEY1US13dTA2bnNVcThZRkVjTGp1S2x6NXNITFpVOHJIMEcxRkk3a1RFNEk4M0YzaWYwSXU4Q3dOMUZOZThyZEdGZlpWdndER09COC1TUmZLM19SWWNTV2NrY0ZJVzB2TTR5V1NpbVRUU3JnYzRwOGJMbFVGS1pXVEVWTk9jLUo0VW4xeTZoVlo5dHdoVEJ5aGZlV1VOSVI1aGludTZMVE8zSjNPQVJFVGow?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "delta-2026-10-07-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Finansia keeps THB 290 target for Delta Electronics stock - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYnliVXNERkoxSFE3TUdjcDhNMVNPZW51emRuZXFDbzBYZlRBRjlXNG44OWNCaHRxMm9aMlFPWTlkZlp6ZUo4aE94NmUydUhjWDAtTXFFN1ZmRzNqMlk5d3N5TElTYlctOEJfQmpSS2JBaDlIVHl4aVkyeWQ2b1ByWmRGTnBuSlZwRERJRkNkdDZEVUtQclo5cTZrUU9TczBJcEhkUnk3SW9zdUc4X3ZBX1BSWXV4Rk0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 19,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 7
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 5
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "delta",
+        "count": 2
+      },
+      {
+        "id": "itw",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 23
+      },
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "automation_capex",
+        "count": 7
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 395,
+    "dup_title": 202,
+    "too_old": 140,
+    "gate1_blocked": 1,
+    "gate2_blocked": 11,
+    "passed": 41,
+    "pass_rate": "21.2%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "Phillip Securities Upgrades Delta Electronics Thailand to Buy from Accumulate; Price Target is THB33",
+      "Healthy Work. Thriving People. A Leadership Conversation on Care, Trust, and Sustainable Performance",
+      "The Future of Grid Intelligence",
+      "Protect your business: Buy authorized",
+      "ASUS, Mitsubishi Electric appoint G Squared to lead paid digital media following competitive pitch -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為CAT、Mitsubishi Electric、Parker相關動態：「Hiwin stock fell 1.74 percent as new products launched - ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hiwin stock fell 1.74 percent as new products launched - AD HOC NEWS（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "THK reports first-half growth: what it means for THK stock - AD HOC NEWS（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
