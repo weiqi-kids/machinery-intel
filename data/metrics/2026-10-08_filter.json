@@ -1,0 +1,16 @@
+{
+  "total_raw": 397,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 1,
+  "gate2_fail": 11,
+  "passed": 35,
+  "gate2_samples": [
+    "Phillip Securities Upgrades Delta Electronics Thailand to Buy from Accumulate; Price Target is THB33",
+    "The Future of Grid Intelligence",
+    "Protect your business: Buy authorized",
+    "Mitsubishi Electric Classic releases 2026 Sustainability & Impact Report highlighting its commitment",
+    "ASUS, Mitsubishi Electric appoint G Squared to lead paid digital media following competitive pitch -"
+  ]
+}

@@ -1,5 +1,371 @@
 [
   {
+    "id": "delta-2026-10-08-001",
+    "date": "2026-10-08",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta opens automation and robotics centre in Stuttgart - Evertiq",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTBLbzJpS0pWUnZDQk5VNHF2V2lOWDNjODBCLW9oUEg1NEpfdHFLa0tuaFdUWEppOUdaLW14a0ROa3Vhb1huMmwyRHpsMVRJczV2WlpSamRjdTJyNVlPWHpGVmJ5bnFmWWNOLUNKRU",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTBLbzJpS0pWUnZDQk5VNHF2V2lOWDNjODBCLW9oUEg1NEpfdHFLa0tuaFdUWEppOUdaLW14a0ROa3Vhb1huMmwyRHpsMVRJczV2WlpSamRjdTJyNVlPWHpGVmJ5bnFmWWNOLUNKRU40QXNYU1ZDemlaR0NzbXc2dVhJMVNzVHRFb000RVp6TEZLV1hGUFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-10-08-002",
+    "date": "2026-10-08",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics Unit Buys 592 Million Yuan in Equipment From Shenzhen Firm - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYnU5Mm5rXzU4ZDNMOGg5ekhPMmwtZXctR3RqU2QxNjZuMm5JZ0Z2aEVQaXZraFNqQWtRVUlGaWVveVIxYmVLeG1HdFJXdjZkdkpHQWdYYVRYTGI2ZFZILW1BUXlWSlJ6VWJQQ2JWTG",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYnU5Mm5rXzU4ZDNMOGg5ekhPMmwtZXctR3RqU2QxNjZuMm5JZ0Z2aEVQaXZraFNqQWtRVUlGaWVveVIxYmVLeG1HdFJXdjZkdkpHQWdYYVRYTGI2ZFZILW1BUXlWSlJ6VWJQQ2JWTGZnT3V1S2toRF9fUGxXeTQ5TkgwNG5ITFNUUzdhOHo4STFhcVFGSkk3RE9nbkFyY2trT3ZUeDkzZVA4MkJDMXd2ckZZUW9JMEJPQlBuYkU0cTJXQjhHbjhuMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-10-08-003",
+    "date": "2026-10-08",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Delta to Showcase Energy-Saving Grid-to-Chip Infrastructure Solutions for Sustainable AI at OCP Global Summit 2026 - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOWHk2cHp1R29ZMkhYa05TWldVd0NybXBsa3p2a2hNNERpOXd6T0EyTVRWY0VjTG1WVHlob3p2dmxyZEQ3cFA2bDBDLWFDaDFWcmxlc1M5eDFtTmJBajNvVnRCTzNmQUIxWE1QQy13VG",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWHk2cHp1R29ZMkhYa05TWldVd0NybXBsa3p2a2hNNERpOXd6T0EyTVRWY0VjTG1WVHlob3p2dmxyZEQ3cFA2bDBDLWFDaDFWcmxlc1M5eDFtTmJBajNvVnRCTzNmQUIxWE1QQy13VGlTVzF1NDBpSENLRVdraExMQlBzRmlZVFdwdTdEbmQ2UFJUM3UxLU50QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-004",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Radioactive Airborne Particulate Monitor Receives a 2026 R&D 100 Award - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOajI2RjdtU1J5T3lsMlNGai1pd0VJcVhoUkVjRXlsNHprQWZXN1FVcGtDXy1ZTEZYajZ1Y0xidnpzb3NLVXZsWW81U1pKRk5TaTV5YlB4ZlpEbnAzeC02MnNqUnRVQm42aEtCQ2YwYz",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOajI2RjdtU1J5T3lsMlNGai1pd0VJcVhoUkVjRXlsNHprQWZXN1FVcGtDXy1ZTEZYajZ1Y0xidnpzb3NLVXZsWW81U1pKRk5TaTV5YlB4ZlpEbnAzeC02MnNqUnRVQm42aEtCQ2YwYzhhNGU3Ulo3enlhUWRtNjAzTDF3N2FJdWFaUkw0M1NGYmFrNjU0VEJ0TGlybTBfaFRKa1BFQ1dDRTlpYzBPbmZSUEZkSG1oS2RGU0hTQlM0OXdRdkZN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-08-005",
+    "date": "2026-10-08",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric missed chip talks. Mitsubishi Electric stock fell 3.68 percent - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN212SFFOeGQ4MEJfdFBVdkdHcTRyQW91OWVEd1ZPZTk3cnZZd1p1QmlTdHRBTU5kVmtVa0M1d24zZXBHeWx1THRHMUMwdVdFbExtLU1pdGRQMHUySlFEMURYN1JXUG15LUx0UExaUW",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN212SFFOeGQ4MEJfdFBVdkdHcTRyQW91OWVEd1ZPZTk3cnZZd1p1QmlTdHRBTU5kVmtVa0M1d24zZXBHeWx1THRHMUMwdVdFbExtLU1pdGRQMHUySlFEMURYN1JXUG15LUx0UExaUWVkNkoyUDA2SDNqZ09vbEFVOXI2aWduWkR0Q2pralJEOU51Y0JFSUJyVHhaVTJfQThOYk5sRGRTYWVkaTVCLVVUVzg2bWxKX3VMTHIxNEJneE5rN0hCQnRMQ2sxS1psU2wwWUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-08-006",
+    "date": "2026-10-08",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric stock fell 4.43 percent in Tokyo trading on October 8, 2026 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUVMVnhVYTR4RFVhTFI3ckplc1JXYWV2Tlo2NjhZR2RGTTQ0a2NCbTFQS2lPMGtQeGZpRm01ZUd3TFFkd3U0eVdXTEo1eVVwTVFPZ1lTdTNmX0owMktZbEV1R0ZOOG5jNExDalEtSX",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUVMVnhVYTR4RFVhTFI3ckplc1JXYWV2Tlo2NjhZR2RGTTQ0a2NCbTFQS2lPMGtQeGZpRm01ZUd3TFFkd3U0eVdXTEo1eVVwTVFPZ1lTdTNmX0owMktZbEV1R0ZOOG5jNExDalEtSXZqZlh1ZEtadWF6VEo3MGd4ZGNCVFNRSFVmR0VoTUVNZms2TjFDTXF3QjczOEtlNmVlZnE5SEdWczNEa2NkYU9rQS12QjA4UFZFMjFpZVBxakNXWVdnZEU1VWNnOHhwMzBtUkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-10-08-007",
+    "date": "2026-10-08",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DMG Mori unveils DMV 160. DMG Mori stock sits 4.31 percent below 52-week high - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXcwVHNVNnpPV1VvVF9LU3dUQ0gxVEJTMnZTUHMwRTJyUVdNOXZHSUxoRG5yeTBCbnJ6d0NvUHZhNFFwMjNESWZ5UC1zOXlXb2pGMUxiekhXLVU0VGl6T3lsT3k0QmE3Q0FJc3gyel",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXcwVHNVNnpPV1VvVF9LU3dUQ0gxVEJTMnZTUHMwRTJyUVdNOXZHSUxoRG5yeTBCbnJ6d0NvUHZhNFFwMjNESWZ5UC1zOXlXb2pGMUxiekhXLVU0VGl6T3lsT3k0QmE3Q0FJc3gyelI3UDY3ZUV1ckRWWnpVMlRJV0N5TU8zblF1NUpObnNkVGp0cmhDY0UwaEZWcEhNR041b0txQWpMVDdUQjJSbHF6b0NubnZBODFUWW95UW92MUZLS3lNSXdFcnB3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-08-008",
+    "date": "2026-10-08",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Evercore ISI Adjusts Price Target on Illinois Tool Works to $309 From $272 - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOamlhSXN1MzZpMXpMcXZjUl8zbDVSTzhsVTNZMkJOT1lhcUx5cnhwWkFndUZUdVNSWlM2SGdJMGVrbWFMTzJsZVlLRmFHMWxRZHdWSEpHcHNQYzZORGtSZGstRlRXeXhfMmtlYVJCZl",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOamlhSXN1MzZpMXpMcXZjUl8zbDVSTzhsVTNZMkJOT1lhcUx5cnhwWkFndUZUdVNSWlM2SGdJMGVrbWFMTzJsZVlLRmFHMWxRZHdWSEpHcHNQYzZORGtSZGstRlRXeXhfMmtlYVJCZlRCQ2ljT0pVUEI2Yjl5X2ZHNGEyRTJwMFFGQUxfQm9LQkx4NWZmc2otR29OdXJEYS1hR09aclRIYkNKZDJTOTViOURGMXBHMmlUelQtWU9jeUMxOU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-08-009",
+    "date": "2026-10-08",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Truist cuts target for Illinois Tool Works stock to USD 297.00 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd1dDV1Q0Rlc5OXpGdVpFVHh5SzN0LXhOZUViY1d4Yk9DVktEZU5JYTB4dFk4Mk9IQzVLa1UzTVdrVVExX25jeDJvcDB3c01MN2hXM1ZSWVVRUGhCa3Rfa1VDOWhHamlxTGItN0tSME",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd1dDV1Q0Rlc5OXpGdVpFVHh5SzN0LXhOZUViY1d4Yk9DVktEZU5JYTB4dFk4Mk9IQzVLa1UzTVdrVVExX25jeDJvcDB3c01MN2hXM1ZSWVVRUGhCa3Rfa1VDOWhHamlxTGItN0tSMEJoOVNHakotWjZpamNUZmhXSVJfQUdPdmZ3RVJTaFpjN0F0eE9Nc1htaW9uZ011RFkyMFdYNFJXVWhtbnRQZGs3OGRWV0owMjQ5NkU4X0FhY2puOVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-08-010",
+    "date": "2026-10-08",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock loses 0.02 percent pre-market to EUR 233.20 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOZnBMZGlsLXI4a3FiMHp4eF9xOFdvdU5NUWRjZmVYeElVMzJFeEZOTE1fejFIREVmRExVSVhpTUM4LUlwUVZKbW9WclFscUdDSEtEaFJDWElUZnFRWjVHOTRFcHZhaG1wbExRaTUwR3",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZnBMZGlsLXI4a3FiMHp4eF9xOFdvdU5NUWRjZmVYeElVMzJFeEZOTE1fejFIREVmRExVSVhpTUM4LUlwUVZKbW9WclFscUdDSEtEaFJDWElUZnFRWjVHOTRFcHZhaG1wbExRaTUwR3hsdEtCOHJEcTBDcEpSNWZMQlU2Ry1xWHF2R1p3dXBvY0tLOFluZGJWb2RGYnZDWE1pcFFLX1pqLUJEZUlkSDRWLVo1OVk0LVN1dDVobXJxbDRhVEtxdEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-08-011",
+    "date": "2026-10-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Stock Fell Nearly 6% in a Day as Treasury Yields Hit 24-Year Highs. Here’s Why Gas Compression Demand Matters - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPMUZ1UWtBMnlTeVdHSndCUDdpVXllRW1GZWtCU251MnlYTk1BLWRNcjc1TnF2Q0VmeUdlemYycWk0MlBpZHpRUDRMb0hZbzRJTEVfSk5CdFRRdW5wMGhHN0prams3MXd1aUs2aU95Mi",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMUZ1UWtBMnlTeVdHSndCUDdpVXllRW1GZWtCU251MnlYTk1BLWRNcjc1TnF2Q0VmeUdlemYycWk0MlBpZHpRUDRMb0hZbzRJTEVfSk5CdFRRdW5wMGhHN0prams3MXd1aUs2aU95Mi14c3kydDhnZnB4N2VkWjhkTUVxMHRmcXNybnlBQS04WFlUdnpsWmlOOHU2eXA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-012",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Experts at Triangle Jobs Summit stress need for human skills as AI reshapes work - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWtmRjIwX1Z3blQwOGFIdXU1Q1dEeGxGUkEyLUd2eE50V1dJa1Y0TzVBSlBXN2lzV05BVTRkcTROek5sUV91dHdtRnhsUUE1S3hESnNsendjRkZsb2NqQlpYVzktRThKOHloclRDNT",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWtmRjIwX1Z3blQwOGFIdXU1Q1dEeGxGUkEyLUd2eE50V1dJa1Y0TzVBSlBXN2lzV05BVTRkcTROek5sUV91dHdtRnhsUUE1S3hESnNsendjRkZsb2NqQlpYVzktRThKOHloclRDNTdldmJPR1lfaExGVWpLR2JPTHZFRE1yaDltbjJ4ak5iUzNId1cxZjNPcUlSLXh1VmZBNnJZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-08-013",
+    "date": "2026-10-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Site Cuts Safety Documentation and Reporting Time by 52 Hours Per Month With Smart Safety Pro - EIN Presswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU3hIQl9kUzVDRzBNN0FheVZZUG5RTjQ4UnM5ZGZlNktMMEExVU85UGJfZmVpaDM3R082ZW9YUGdPU1lqM3N1Wnp2Vm96YjRUQ1R0SDZxdVhkRG4wZ093Ny1oLTRiNEFrM3dEVkpsM2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU3hIQl9kUzVDRzBNN0FheVZZUG5RTjQ4UnM5ZGZlNktMMEExVU85UGJfZmVpaDM3R082ZW9YUGdPU1lqM3N1Wnp2Vm96YjRUQ1R0SDZxdVhkRG4wZ093Ny1oLTRiNEFrM3dEVkpsM2ZZVDBfWlRVX2RJLUV4NnB2SGEtRVpiM1BkUTZuVFRmd2J6UWNHWWY1QmF2OXkwM2ZQT2lLY2pKb0llSGlQY21fQ1RfMzB6ZW5NSzBVSmFIQTAzUU5HUzV3T3NxQWR2a2FJLVZPX21DV25UbTFmcUdDTVRERmtFRXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-08-014",
+    "date": "2026-10-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "machine_tool_orders",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Stock Drops Nearly 6% After Strong Run as Investors Dig into Backlog and Valuation - FXLeaders",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlNGSU9JVVlBUDVyaXhuaGRRclNhT2Eta1VacXZqOFpuZ2dENW9yeHBFZ2s3NXpSQU1QY3hMaXNxbWltWVZQX1VJOGt6Qk1hd21QNThqQ1BTUDNROEJYRjlaTWN5alFNMUVYT0JmUl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlNGSU9JVVlBUDVyaXhuaGRRclNhT2Eta1VacXZqOFpuZ2dENW9yeHBFZ2s3NXpSQU1QY3hMaXNxbWltWVZQX1VJOGt6Qk1hd21QNThqQ1BTUDNROEJYRjlaTWN5alFNMUVYT0JmUlJzRHhma1h5dzZlUVd6VVNWYzR6VlVlLXZZOVY3cg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-08-015",
+    "date": "2026-10-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Applied Digital, Webull Corp., Super Micro Computer, Micron and Caterpillar: Why These 5 Stocks Are on Investors' Radars Today - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRWZGdEs0UFhhUlowTVNTZEZmSG5QeDhRX09NVGxuSzhvLWtlTmE3Q2I0REg5cmxmMGVfOW9IUFAzaG04VUEyT29RTl9TRXl5cFE3cl91S0tqcmVHdElFMVZfeDJRWU91eEp1bzJ0UF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRWZGdEs0UFhhUlowTVNTZEZmSG5QeDhRX09NVGxuSzhvLWtlTmE3Q2I0REg5cmxmMGVfOW9IUFAzaG04VUEyT29RTl9TRXl5cFE3cl91S0tqcmVHdElFMVZfeDJRWU91eEp1bzJ0UFIyUGNzQkdtMk5NU0pDX1pkSV9GeVQtN0UwNVU3WGZNVVF2MjBjaGVkbk5KZm5tN2RYenlPRE5DU0V3VFBmS0xhUDE4S0xSQ2RxeVJzWnZseVZaRmY0VHVreUhjRi1vMERGQV8zU2RpalZMTlQ5Qmo5TmcxQmhRT3d2WDh0SllQLTBkN3JTam5qRS1yLUNjY2FXanhpNHFHS1JjQVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-08-016",
+    "date": "2026-10-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar Launches 5 New Equipment Models - Construction Equipment Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkpqSFh5SVE3a2h5Q0ptWWVRYm5pc1BIT3pyY0YzX29hZzRPdnI2cTNnSkY3dllnVGY1dkRxUTBETXRtcnRNd3UybDdvMjFCWi1iTU52aWpvUlZnX1JuTEtiR1ludW1YbmxDZzhqUH",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkpqSFh5SVE3a2h5Q0ptWWVRYm5pc1BIT3pyY0YzX29hZzRPdnI2cTNnSkY3dllnVGY1dkRxUTBETXRtcnRNd3UybDdvMjFCWi1iTU52aWpvUlZnX1JuTEtiR1ludW1YbmxDZzhqUHBuWWRlOHVLZG5wYnhzV1Rlc3ExVDlVNVRrQV9vVXVWYmRicEk1VmVj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-08-017",
+    "date": "2026-10-08",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Evercore ISI Adjusts Price Target on Caterpillar to $1,045 From $1,103 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPNTQ1d1hZVW1zdldNajhpTVVubG5ZM2pwWmVpblM5TlEydG5KVVBmRW9NS3RmS0VMMWdpUi1lMFNENHc0ai1Zb09sX0JiZEdSLV9FZG9tX3lpM1lSMmt4VmgzZTFhTW96Sm1FbERZWE",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNTQ1d1hZVW1zdldNajhpTVVubG5ZM2pwWmVpblM5TlEydG5KVVBmRW9NS3RmS0VMMWdpUi1lMFNENHc0ai1Zb09sX0JiZEdSLV9FZG9tX3lpM1lSMmt4VmgzZTFhTW96Sm1FbERZWEdtNGpDVGRxNTkyUXBrZ2pHaUxFT2lfOUptb2V6anVzcEdhUkJ1Z0hFeVhEZUVHS25GcVBkb19aXy1QN1lPZUktb3ZHTE80VmJZLUl1NXZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-018",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Circuit protection: the unsung guardians of electrical, power systems",
+    "summary": "<p>Circuit protection devices are critical yet often overlooked components that keep modern electrical systems safe, reliable and resilient. This article explores how these technologies prevent faults",
+    "sources": [
+      {
+        "name": "plant_engineering",
+        "url": "https://www.plantengineering.com/circuit-protection-the-unsung-guardians-of-electrical-power-systems/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hiwin-2026-10-07-001",
     "date": "2026-10-07",
     "companies": [
@@ -481,6 +847,256 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYUt6MHpFS0l2T21OdG9aNlJnWnpjV21lVV95czVyTUpGMEZNYzFLWTBhclpUWUdXcVNSMzhubkxLb05RQmRqNG1HTkRqNFY2VllCb0thSDZUQVlpdzBXa0paWV9peVpCamc5YlMtQ1NFMFJMNjBXbjRVM2pIWW1wV1lSQTd0OFJ2OXI2MDg4blVsbnRwbzdIeldrNjZienpoR0Fyd1UzZXY5VGc3bVVjUzJmSUF2SklTcEI5V2M4Nk5OWUJUS05B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "thk-2026-10-07-024",
+    "date": "2026-10-07",
+    "companies": [
+      "thk"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "THK stock was last at JPY 6,797 with half-year revenue at JPY 151.067 billion - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNdHB1cUt4ZEptaDR5WkRvZVd6aUpyWGhFeURKUS1FZkJpbjlmSjBXdE44Znd4eWkxSnFQSDgxWllINnowWElKNWlKNXhnU3BvVU9YV1BMZl80eS1nbFVWM3NrTE5xa2FXeDl4cGw3eX",
+    "sources": [
+      {
+        "name": "thk",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdHB1cUt4ZEptaDR5WkRvZVd6aUpyWGhFeURKUS1FZkJpbjlmSjBXdE44Znd4eWkxSnFQSDgxWllINnowWElKNWlKNXhnU3BvVU9YV1BMZl80eS1nbFVWM3NrTE5xa2FXeDl4cGw3eXREN3Rra2pnLUpscnR3cmp1UVFUakpQWEFQNUx4aS04TzZkV1A0M2JaNkRZWHgycnJSM3FEVVhxTmZ4WnRrelRpQlU2a1NyTHRKZ3lGNFFVQW1ROEJmOUZN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "keyence-2026-10-07-025",
+    "date": "2026-10-07",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Keyence (TSE:6861) Rallies Again, But Is The Valuation Already Fully Priced In? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjdCYlc3SHlEQzRlVDlBekVPOVpxNjlPRms2cWFyYld1azZoaFJjQ3NLMnlDT0RRT29HaWt2YV9HaTl4Vm5HQmxmVDlWbUlpZzY0dFU5UkRDNlYzN0NOQjdScFhtMFFtVWw3ajZINV",
+    "sources": [
+      {
+        "name": "keyence",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjdCYlc3SHlEQzRlVDlBekVPOVpxNjlPRms2cWFyYld1azZoaFJjQ3NLMnlDT0RRT29HaWt2YV9HaTl4Vm5HQmxmVDlWbUlpZzY0dFU5UkRDNlYzN0NOQjdScFhtMFFtVWw3ajZINVBiTXZRaUFhNmhsQVBrWnlJSXgwcHdkRTMzUnZfSHdLeE5KdThjWFhPSlJOWk1hcGZYNFFzazBQTGVmOGk3YkpYeGJfdGp6TUdxOU1xYUhTZXdBaEdoTnF0dWp30gHKAUFVX3lxTFBSN0JiVzdIeURDNGVUOUF6RU85WnE2OU9GazZxYXJiV3VrNmhoUmNDc0syeUNPRFFPb0dpa3ZhX0dpOXhWbkdCbGZUOVZtSWlnNjR0VTlSREM2VjM3Q05CN1JwWG0wUW1VbDdqNkg1UGJNdlFpQWE2aGxBUGtaeUlJeDBwd2RFMzNSdl9Id0t4Tkp1OGNYWE9KUk5aTWFwZlg0UXNrMFBMZWY4aTdiSlh4Yl90anpNR3E5TXFhSFNld0FoR2hOcXR1anc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-10-07-026",
+    "date": "2026-10-07",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics Thailand stock follows a new AI data center launch - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNTVpKV3JtWlgza2MzNk1kZXZJendyZzlxeDNLRThrMEZZc2FTeGhHN3pRQ2xWWVlhT2FUbnpJLWJzTWZKeF9LUmpLLXBUU1pNc2VSMGtpU2tHT05VOGJ4OXBsRy1YMllSLWRRN3ZUYT",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTVpKV3JtWlgza2MzNk1kZXZJendyZzlxeDNLRThrMEZZc2FTeGhHN3pRQ2xWWVlhT2FUbnpJLWJzTWZKeF9LUmpLLXBUU1pNc2VSMGtpU2tHT05VOGJ4OXBsRy1YMllSLWRRN3ZUYTFZeHoxa0ZiU1dSejh3cmRDWHMtenc2RkUyR18xYXRMb1YtNDVfUFlvMlFkZVRCTFVfNG9adzNLb0psQ29GUlowdXA0aFBEbEpZU2dYTEplWkphSTcxR0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-07-027",
+    "date": "2026-10-07",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Parker Hannifin (PH) Stock Cheap Or Already Priced Right? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPbTljT1hYVmFfNDlhcWNJUmpnWXlCTS1vanBUUkVBUlhXNVJSazlxb3hJdC1pZWg4V3JmLVE4eHB2Z3cxaFFPbWlZNDVVQWxUR0tYc09wUS03UlVNbmJPVmk3VFROMGRHcGhlNUd1R0",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbTljT1hYVmFfNDlhcWNJUmpnWXlCTS1vanBUUkVBUlhXNVJSazlxb3hJdC1pZWg4V3JmLVE4eHB2Z3cxaFFPbWlZNDVVQWxUR0tYc09wUS03UlVNbmJPVmk3VFROMGRHcGhlNUd1R0dHeHpoLUxqUHVNakt0R2kwMVFmWktjcXpHMG9QaEZjS1BnZGVBVWxKdFgtdjVBWWVweWp3X2dNLXZMVlhQdVVlaW9NZkZfWVc2LXpvTzhITlltS2tEb3lTWU45SHnSAdIBQVVfeXFMUFR6ZERzNmVEZXY5Qmx0V21kZEFnVGw4WG5UM3I0blNteERXRWF0VmRNN0FmSGNBVkhzY21uOG1Da1ZXdkNuc3lXYnRyN3RMelhOVW9QaTIwcjBUUGcwRkR5WVdYNXNIYmF0dWl5d2lnYVFZbW9WMUNEaEJ1X1VWWUpSMFlfQjlhRXJkOHZVMVZlUFN2dDh5TEplMmNNeVFzdWxfZ1BaQndyTDVfMjlxZ3pNSEM3eUZ5dnFabFYzQkotM1lqZkNpVFFyTHlUbDdNX3FR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-07-028",
+    "date": "2026-10-07",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Parker Hannifin (PH) Could Be 15% Undervalued On Record Sales And Fresh Guidance - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzBQQzJyTzlDS3pCV1JGYk4wMnhXbjBKbmJjb2RRSEl5MFRyaEhjMlVtQXRfQUM4Vk1hNXRuRTBUWmpNNF9ucWszWEFjc2M3T3VEMmtXOXBWTzdpSDV1TktjZy1pWDdBTFhncTdIVj",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzBQQzJyTzlDS3pCV1JGYk4wMnhXbjBKbmJjb2RRSEl5MFRyaEhjMlVtQXRfQUM4Vk1hNXRuRTBUWmpNNF9ucWszWEFjc2M3T3VEMmtXOXBWTzdpSDV1TktjZy1pWDdBTFhncTdIVjlGUGNNSEl1T3kyZExBZnBtb3c4QnF5dVhHM3RHVVZDMVREeFFtYnUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-07-029",
+    "date": "2026-10-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FTC Inquiry Hits Agricultural Stocks. It Matters More for Deere Than Caterpillar. - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdm9ueVBMazVlenJEbXJONmJwd2FXVDNmblBCQ2IwakpFSFItMXg4dm5jbXVIa3pFaHpIa09od2QzUlJ1aE9TVWlKRHdlWkRkZ1cydmgwLXl4UUhVWnZXZl82VXBFYVhsREk5YUZQY0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdm9ueVBMazVlenJEbXJONmJwd2FXVDNmblBCQ2IwakpFSFItMXg4dm5jbXVIa3pFaHpIa09od2QzUlJ1aE9TVWlKRHdlWkRkZ1cydmgwLXl4UUhVWnZXZl82VXBFYVhsREk5YUZQY0F1VUlzTXpBWUwtb2czX096ZTNrTmRRaGd6TlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-07-030",
+    "date": "2026-10-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Leads Dow Slide in Steepest Drop Since July - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeW1EVjdVazRXTlJrWHNBbG9lTHdmZzJqX3lGbG5BbFVWR3BqNHN6ZUJwSWJEZi0weXJ3M2pKMEx4ZW44MGJ1RVA5eFRsc295VFRxSThMLWJDVURUYk1ESGxzUVQzQmYxTTZEaFVxbj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeW1EVjdVazRXTlJrWHNBbG9lTHdmZzJqX3lGbG5BbFVWR3BqNHN6ZUJwSWJEZi0weXJ3M2pKMEx4ZW44MGJ1RVA5eFRsc295VFRxSThMLWJDVURUYk1ESGxzUVQzQmYxTTZEaFVxbjZ1SGgxcW9jQ1luUUp0REtKLWJLd3ExT05oQ2lzbURwZFpsRElzOG1LaXltY0xnZkhScjFqT0pTWmdqQWZ2QnNrTGRJMlg3ZWthT3d6cjdhNjk5ckVLSTk5bFdtWUJLLW8xQ2lPVlNDZHAxV2dnSlRLa1ZnVkgwcGs1QnFjSUdrU09uRk1B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-07-031",
+    "date": "2026-10-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Drops 6% as Industrials Sell Off With Long Yields at a Two-Decade High; Deere Falls 4%, PACCAR Eases - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxON2wyMU9GOEpkdU1YRlBWZFZmRm1nVHJEdmQta2ZUTnVOZkpGUW4yTnY2OXBLQWVnbTR4SFRuWjJnUW1TZFBsd0l1bXd1T0U4NnoxSWRINU85R2NpeHVGVnNzSkR6WWZJNmdhV0gwM3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON2wyMU9GOEpkdU1YRlBWZFZmRm1nVHJEdmQta2ZUTnVOZkpGUW4yTnY2OXBLQWVnbTR4SFRuWjJnUW1TZFBsd0l1bXd1T0U4NnoxSWRINU85R2NpeHVGVnNzSkR6WWZJNmdhV0gwM3dDejMzX0NfT1JCbWx6djZ5Z05JcEIxTVB6RHhpd05icmdaeGhFaDFsUUR6ODY3UVVITmZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-07-032",
+    "date": "2026-10-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Stock Market Midday, Oct. 7: Rising Treasury Yields Pressure Stocks, Caterpillar tumbles over 6% - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbkVkOHl2RElQeTIwektJZFhFM2V5RU5ZR3I0cGI4a3VZMmVubUFhdWt5dl9rN0RjbGpEdzI2SmdqdEdidzA1dmFEZ25XOVlBUHotbW9BeTcwZE02ZHBTMGZURTczclgtMng3eXZ1YV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbkVkOHl2RElQeTIwektJZFhFM2V5RU5ZR3I0cGI4a3VZMmVubUFhdWt5dl9rN0RjbGpEdzI2SmdqdEdidzA1dmFEZ25XOVlBUHotbW9BeTcwZE02ZHBTMGZURTczclgtMng3eXZ1YVc2cTdITUxaaHNKZUVPb1FOMGFHNFA0RF9NS1MyQkRJOWRvblp1NnNoTDIxa0RzMzAweVlkSV9sWHRQY3VoVlhPS0cyWXUtX2dSQ1h0eWlpM3ZGRFJxMkhKT1dvbldSQ3NuRHN3U28wdncwVzNURmpoSFJ2YjF5THM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-07-033",
+    "date": "2026-10-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Stock Drops as FTC and USDA Seek Comments - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZE14b2FxVURfVGpoWXVHdElCbUtaZVp4ZWtRSV8yUEMzUXJXSDVhRHN3Ql9rZlNNU1MyWHE3RlU1MHNqczdrZVdDZVEyT3Z4clBIQ3ZPRzVLdHhWdzJqbGxZcXB5b0JhTVdmcHZRcm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZE14b2FxVURfVGpoWXVHdElCbUtaZVp4ZWtRSV8yUEMzUXJXSDVhRHN3Ql9rZlNNU1MyWHE3RlU1MHNqczdrZVdDZVEyT3Z4clBIQ3ZPRzVLdHhWdzJqbGxZcXB5b0JhTVdmcHZRcmVRMUNSZzVFemZMUVVZb0xndHZhNDB6MC1ocWtJQTFrNDNzUml1cXNZeXVSOGRhWjY4WE02UVZRVXlmZWhQbEdObF9fcWU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-07-034",
+    "date": "2026-10-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar, Intel, TSMC, Micron, SpaceX, HPE, and More Stocks That Explain Today’s Market - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqR0NoYmNydHZpT1AtMDdEZzZxck1EU3lIUk9aM1FHT05ETGV5SEh5M2E0OGVadm1WXzlONG03Y3RTam5tRXBlcG9PTXhaU3pqTFJkVzJ2czA5V3NuMFB3Zm5xQjQ?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqR0NoYmNydHZpT1AtMDdEZzZxck1EU3lIUk9aM1FHT05ETGV5SEh5M2E0OGVadm1WXzlONG03Y3RTam5tRXBlcG9PTXhaU3pqTFJkVzJ2czA5V3NuMFB3Zm5xQjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-07-035",
+    "date": "2026-10-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "If You Invested $100 In Caterpillar Stock 5 Years Ago, You Would Have This Much Today - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXlCODNiak9rSm1PZ1FwbTViOHNiRDZHdWZka2E4Qm9wWXZ3b044MXFXRzBYWTNWMW5ETks4V2VhUmN1S0Q4bXpxdTlYN0ZXMmZtZEEzTV9xeHE1SWs5MTdRVlhfNEcySU9LZ2t5Vn",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQXlCODNiak9rSm1PZ1FwbTViOHNiRDZHdWZka2E4Qm9wWXZ3b044MXFXRzBYWTNWMW5ETks4V2VhUmN1S0Q4bXpxdTlYN0ZXMmZtZEEzTV9xeHE1SWs5MTdRVlhfNEcySU9LZ2t5VnppQ0EyRHBKMnN3Zi1HX3lxSkxIZHA1MWpKdmtYZy1RcENwa2cyb3I5WklaaF9sSDQ5am9KdXpGTTVwMUVDd3hKTDVaV3NmUm5oMExUVQ?oc=5",
         "type": "rss"
       }
     ]
@@ -991,6 +1607,24 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRHAzVnU0b05vQ3dRaHVWeGpTQWllMC1YZW9FTHB0a0hDZTh0YVRzS2dISy0xMkYtVl9nNXFJcmN4Q3FsTF9FVGU2YW80ZTFWN2I0TWlIZGNhc29Bc0M0aG9IZ3ZkQl85V1ltYWxUbG1uR2xFTXhWSmdGLXM1eFN0ZDVCRHFiRmNOZWtab1dCZThCa3p4dDlrVjFDWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-06-026",
+    "date": "2026-10-06",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "G Squared wins ASUS and Mitsubishi Electric in double pitch victory - Roastbrief US",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOUDdBSFl5eHJQQ0phYW52cGNJV1dTVzJaZFpjRkR1QS1jY1QzN2RWNURGWFBBMXNoeDFuOUVMYUE4dkxYeXBCcEZXX2NIUExlOGFIMUw2cHFwQVBqTGtBemRCeHBaZ0U5VDMxZ090WU",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUDdBSFl5eHJQQ0phYW52cGNJV1dTVzJaZFpjRkR1QS1jY1QzN2RWNURGWFBBMXNoeDFuOUVMYUE4dkxYeXBCcEZXX2NIUExlOGFIMUw2cHFwQVBqTGtBemRCeHBaZ0U5VDMxZ090WU00QzRSZ1Z1Qkk1c2xRM251cG5iblhrcThRV29scHI5Sl9wY0pH?oc=5",
         "type": "rss"
       }
     ]
@@ -1587,6 +2221,68 @@
     ]
   },
   {
+    "id": "mitsubishi_electric-2026-10-05-030",
+    "date": "2026-10-05",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Releases Chip-to-Grid AI Data Center Designs - Refindustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQd3N2MVJQZWw1Q3dfWE1qcjZ1X1ZsTjNEU0ZYdWdTdjhBTUQ1ZVVzTU91SWRiQlFkZ21OU1daMjhDZnAtd3U1Ti1nOHJCaWR5Z3VYekpxdnNyV2lCZGdhcTBVbjZ0UmZEMU9KUkFSYX",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd3N2MVJQZWw1Q3dfWE1qcjZ1X1ZsTjNEU0ZYdWdTdjhBTUQ1ZVVzTU91SWRiQlFkZ21OU1daMjhDZnAtd3U1Ti1nOHJCaWR5Z3VYekpxdnNyV2lCZGdhcTBVbjZ0UmZEMU9KUkFSYXR1cVFJQVVuSF9oVWdwOG1nd1FCN0NYczVGcUhraHlBUi1kdjRxMjhEVmtn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "okuma-2026-10-05-031",
+    "date": "2026-10-05",
+    "companies": [
+      "okuma"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sungjin General Machinery - [Used] Okuma Cylindrical Grinder 300~1000 - 다아라",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNWjlJemc4X3YwLWY3ZVVjU3R0WWR4T0JWUExjMW1FczAxSDZMcmR2M0VGNndhZm1PWWdmaHlvOG1MSEZJRmtqSnhSMlduR0JicFo3MU9lM3p2dHE4NkFIblMycENvejlxdDBMLS1idE",
+    "sources": [
+      {
+        "name": "okuma",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWjlJemc4X3YwLWY3ZVVjU3R0WWR4T0JWUExjMW1FczAxSDZMcmR2M0VGNndhZm1PWWdmaHlvOG1MSEZJRmtqSnhSMlduR0JicFo3MU9lM3p2dHE4NkFIblMycENvejlxdDBMLS1idEt3WEx6UnNrTlZ4OTR4d0VtbFNzZTJHWnBDZEZtNXRxYUZiSGc2RzRFZTlVNmNKNkQzSEdN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "makino-2026-10-05-032",
+    "date": "2026-10-05",
+    "companies": [
+      "makino"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VGM - [Used] Makino No. 5 NC Milling Machine - 다아라",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB3Q3BVODN2cFNRbXJxbkx2d0xCN3FGeDZESmp5djRxREs4b2dwZThsbHNwX1NVM3pKVlNvLU5velF6TzZ6RnNsV2ZkSWN0UUhWTTQxMEpxSHVGb3JhNy1Yc0ZnS3gtamMwSmc?oc=5\" ",
+    "sources": [
+      {
+        "name": "makino",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3Q3BVODN2cFNRbXJxbkx2d0xCN3FGeDZESmp5djRxREs4b2dwZThsbHNwX1NVM3pKVlNvLU5velF6TzZ6RnNsV2ZkSWN0UUhWTTQxMEpxSHVGb3JhNy1Yc0ZnS3gtamMwSmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-10-04-001",
     "date": "2026-10-04",
     "companies": [
@@ -1793,6 +2489,28 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1VzNWdpcmZGVnJFbE9lUl8xODFFQS16VTVCVjc4cFJRb2tET0NGdFdQTXhEOWsxWXdwbTBzdHIxVXZUX0IyUEJNbU5odlNmdGNqaFdpN2U4UjZRMGhnZzZRMWhISWlQMndKOS0yZ3AwaGR3NDg5c2x0SDFMYm9MUTcyNTRZb3lKUV82Yy1fNzFaZUREQ25LS3o2THRPbTYy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-03-009",
+    "date": "2026-10-03",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (ITW), Why Is The Stock Drawing Fresh Attention? - Webull",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wa2dWUlN2RXhWMUhIZThDX1F2bE91bGJPNk9SN1AzVVBCTVlPMjVjNll1aXV4UWtFaklwQ3pYMkhCWm1hamU0ZjQwZWFzUTdvMkczQjFMang?oc=5\" target=\"_blank\">Illinois",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wa2dWUlN2RXhWMUhIZThDX1F2bE91bGJPNk9SN1AzVVBCTVlPMjVjNll1aXV4UWtFaklwQ3pYMkhCWm1hamU0ZjQwZWFzUTdvMkczQjFMang?oc=5",
         "type": "rss"
       }
     ]
