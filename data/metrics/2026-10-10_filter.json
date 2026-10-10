@@ -1,0 +1,16 @@
+{
+  "total_raw": 397,
+  "dup_title": 227,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 1,
+  "gate2_fail": 6,
+  "passed": 13,
+  "gate2_samples": [
+    "Phillip Securities Upgrades Delta Electronics Thailand to Buy from Accumulate; Price Target is THB33",
+    "Mitsubishi Electric Classic releases 2026 Sustainability & Impact Report highlighting its commitment",
+    "German Court Upholds Decision on Compensation Terms for DMG Mori Unit's External Shareholders - www.",
+    "Truist Financial Maintains Illinois Tool Works(ITW.US) With Hold Rating, Cuts Target Price to $297 -",
+    "JPMorgan Chase & Co. Cuts Parker-Hannifin (NYSE:PH) Price Target to $1,131.00 - MarketBeat"
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T14:08:02.323081Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "keyence-2026-10-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Keyence (TSE:6861) Could Be 70% Overvalued As Valuation Questions Build - Yahoo! Finance Canada",
+      "companies": [
+        "keyence"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51Q1FpTnJ2UGRoNmZ1M1Mzb185ZEZ5aGpkR2wwSTJpaHp0clhFbDFhZFBxU2lBRF9nT1ZfT1ZIMDVzSlN0VzhnU05WdmV0OTN6ZjRQdFlGWFVuNE0tOW1VN1J5V2tOeTRpM1dpVHBFQjRSNzVEZWx3a0JCaVd4X2s?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "parker_hannifin-2026-10-10-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin stock trades 0.14 percent below last week's close: weekly high EUR 876.00 - AD HOC NEWS",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSjVxY05qeUdfTXo2anNCZG9qbXF1dTNwcFVVOG5ZcHBkNnFGTWdUSFJ6YkpmcWFqOHJZRnJDcF9XVzBWS1BBcEtnOUFSXzUzbHpUNUJsdVAwM0VKYXZrcjlfZnpyR3o1bWxtYjM4MmRJUWhlV2ZvS0czam1DZ0c5dnJnRThFZ1pDcVBTQVhodXU1ektGcy01RG1IOWFjSUxfeFlkcnQzekw0cmpSYWlHRWNxX3ZqajN6MnJuZXQ2MUVCRzZzYTNzNG5vWm4xQjdS?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-10-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mitsubishi Electric stock trades unchanged at EUR 29.21 in weekend trading - AD HOC NEWS",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVGhjV3BZZ0c0UmtxR1NudGJIQXY4UmhtOTdyNWk3a0FqSXBGWEczMzluUE9hSk5aZDJxa1JScGRJRy1zVHBRSG9YV19OMnhwUVdxSzRIQXVueWhxNXFfdTUzMFhkVG1kYlFhclBvRHluMEFIcjlGd1RqcldPX3pqbkFqU193N2ozUGtidGtHYy1ZRGtjQ0pTTDJqdThEUTY3c0o3cTFJUklSRFRzejZGQjBxZmFuQWFlZHJuQXhzbjhKSUt3U0U4VmFNZFdSMmJYbTBR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itw-2026-10-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Illinois Tool Works stock is 0.06 percent below its Xetra close: JPMorgan sets USD 270.00 target - AD HOC NEWS",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVmJKcnJIbVZvSTBfdlRnQlNMRllUUHRkWFpJWW4yOWFqa05EdmFaSF9aa29LcmtwUEpEcWNROW1oWm9GMC1IV1ZTUXpMT3lDdUVndzd2UHMwZTJTb2VzT3d4R2tlNTVpYTc4UzhUZzRpSUEyWDJUcFZSNTNjNExPLTdFcTBGVC1qbTBJS3hWU3B5akxub0RSRHVHNjlCWnFWZW54Wkt4N25GQVBUb0lMdDYyN1g4ZDVxMnJsRnFiOWpnZXJQZ2ROSXY1MFoxOUxw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "keyence",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      },
+      {
+        "id": "itw",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "automation_capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 397,
+    "dup_title": 227,
+    "too_old": 150,
+    "gate1_blocked": 1,
+    "gate2_blocked": 6,
+    "passed": 13,
+    "pass_rate": "7.6%",
+    "gate2_block_rate": "3.5%",
+    "gate2_samples": [
+      "Phillip Securities Upgrades Delta Electronics Thailand to Buy from Accumulate; Price Target is THB33",
+      "Mitsubishi Electric Classic releases 2026 Sustainability & Impact Report highlighting its commitment",
+      "German Court Upholds Decision on Compensation Terms for DMG Mori Unit's External Shareholders - www.",
+      "Truist Financial Maintains Illinois Tool Works(ITW.US) With Hold Rating, Cuts Target Price to $297 -",
+      "JPMorgan Chase & Co. Cuts Parker-Hannifin (NYSE:PH) Price Target to $1,131.00 - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Keyence、Mitsubishi Electric、ITW相關動態：「Keyence (TSE:6861) Could Be 70% Overvalued As Valuation Q...」。主要關注主題為產業通用、財報、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Keyence (TSE:6861) Could Be 70% Overvalued As Valuation Questions Build - Yah...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Parker-Hannifin stock trades 0.14 percent below last week's close: weekly hig...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

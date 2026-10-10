@@ -1,5 +1,87 @@
 [
   {
+    "id": "keyence-2026-10-10-001",
+    "date": "2026-10-10",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Keyence (TSE:6861) Could Be 70% Overvalued As Valuation Questions Build - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE51Q1FpTnJ2UGRoNmZ1M1Mzb185ZEZ5aGpkR2wwSTJpaHp0clhFbDFhZFBxU2lBRF9nT1ZfT1ZIMDVzSlN0VzhnU05WdmV0OTN6ZjRQdFlGWFVuNE0tOW1VN1J5V2tOeTRpM1dpVHBFQj",
+    "sources": [
+      {
+        "name": "keyence",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51Q1FpTnJ2UGRoNmZ1M1Mzb185ZEZ5aGpkR2wwSTJpaHp0clhFbDFhZFBxU2lBRF9nT1ZfT1ZIMDVzSlN0VzhnU05WdmV0OTN6ZjRQdFlGWFVuNE0tOW1VN1J5V2tOeTRpM1dpVHBFQjRSNzVEZWx3a0JCaVd4X2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-10-002",
+    "date": "2026-10-10",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric stock trades unchanged at EUR 29.21 in weekend trading - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVGhjV3BZZ0c0UmtxR1NudGJIQXY4UmhtOTdyNWk3a0FqSXBGWEczMzluUE9hSk5aZDJxa1JScGRJRy1zVHBRSG9YV19OMnhwUVdxSzRIQXVueWhxNXFfdTUzMFhkVG1kYlFhclBvRH",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVGhjV3BZZ0c0UmtxR1NudGJIQXY4UmhtOTdyNWk3a0FqSXBGWEczMzluUE9hSk5aZDJxa1JScGRJRy1zVHBRSG9YV19OMnhwUVdxSzRIQXVueWhxNXFfdTUzMFhkVG1kYlFhclBvRHluMEFIcjlGd1RqcldPX3pqbkFqU193N2ozUGtidGtHYy1ZRGtjQ0pTTDJqdThEUTY3c0o3cTFJUklSRFRzejZGQjBxZmFuQWFlZHJuQXhzbjhKSUt3U0U4VmFNZFdSMmJYbTBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-10-003",
+    "date": "2026-10-10",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock is 0.06 percent below its Xetra close: JPMorgan sets USD 270.00 target - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVmJKcnJIbVZvSTBfdlRnQlNMRllUUHRkWFpJWW4yOWFqa05EdmFaSF9aa29LcmtwUEpEcWNROW1oWm9GMC1IV1ZTUXpMT3lDdUVndzd2UHMwZTJTb2VzT3d4R2tlNTVpYTc4UzhUZz",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVmJKcnJIbVZvSTBfdlRnQlNMRllUUHRkWFpJWW4yOWFqa05EdmFaSF9aa29LcmtwUEpEcWNROW1oWm9GMC1IV1ZTUXpMT3lDdUVndzd2UHMwZTJTb2VzT3d4R2tlNTVpYTc4UzhUZzRpSUEyWDJUcFZSNTNjNExPLTdFcTBGVC1qbTBJS3hWU3B5akxub0RSRHVHNjlCWnFWZW54Wkt4N25GQVBUb0lMdDYyN1g4ZDVxMnJsRnFiOWpnZXJQZ2ROSXY1MFoxOUxw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-10-004",
+    "date": "2026-10-10",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin stock trades 0.14 percent below last week's close: weekly high EUR 876.00 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSjVxY05qeUdfTXo2anNCZG9qbXF1dTNwcFVVOG5ZcHBkNnFGTWdUSFJ6YkpmcWFqOHJZRnJDcF9XVzBWS1BBcEtnOUFSXzUzbHpUNUJsdVAwM0VKYXZrcjlfZnpyR3o1bWxtYjM4Mm",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSjVxY05qeUdfTXo2anNCZG9qbXF1dTNwcFVVOG5ZcHBkNnFGTWdUSFJ6YkpmcWFqOHJZRnJDcF9XVzBWS1BBcEtnOUFSXzUzbHpUNUJsdVAwM0VKYXZrcjlfZnpyR3o1bWxtYjM4MmRJUWhlV2ZvS0czam1DZ0c5dnJnRThFZ1pDcVBTQVhodXU1ektGcy01RG1IOWFjSUxfeFlkcnQzekw0cmpSYWlHRWNxX3ZqajN6MnJuZXQ2MUVCRzZzYTNzNG5vWm4xQjdS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mitsubishi_electric-2026-10-09-001",
     "date": "2026-10-09",
     "companies": [
@@ -326,6 +408,129 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLXNjS0NUb01TbjM5QlRCU1hWcXN0WG5ueGFSUElrUmFpQ2FhcEtDMjZkNjg2MmFXSW5UZzdjcV9BeGZXeG5CTWp6NFEtSVI5OXhDbXluRkxRQkVaQW94SjFjUHVLZnpnWldscm1YU25UTUpCSXFqd3NzLTdjUDB5TEV0ZXpNRE1jVE82SmV4RGRZMFRiakw0Sl92M3V0ZUR1M01aMDVwTTFsLXR0S3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-09-017",
+    "date": "2026-10-09",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric (TSE:6503) Rides Heat Pump Demand On A Fair Value Debate - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVFM4YUdrYWlLaGM1OWxFeWtubnh2dUpGekpXM25UUUxzS0twZ3lkaW4yYzRsVGVKNW94eXRVMlJzVjRmY1BZT3RURHNaQ3lzTjZveEREcC1lQ2pZMks1NG5QQXFtVWJ5MmEwX3hMV1",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVFM4YUdrYWlLaGM1OWxFeWtubnh2dUpGekpXM25UUUxzS0twZ3lkaW4yYzRsVGVKNW94eXRVMlJzVjRmY1BZT3RURHNaQ3lzTjZveEREcC1lQ2pZMks1NG5QQXFtVWJ5MmEwX3hMV1oyeGlpRl8ySDNQQmJ5UXhOVXp2aXRJSFpYc0xNWFg1dmR3aUhpdlFMNm5PejBld053RzBxUDVzVWV2Sko4dlI1SjVpSzdxZjlhd2F0NzdHZFR3YkRfQnlvLXFDOHFOVzZKaThEVVRqWEh4cE1MeldHdnFoN09oUdIB5gFBVV95cUxNVFM4YUdrYWlLaGM1OWxFeWtubnh2dUpGekpXM25UUUxzS0twZ3lkaW4yYzRsVGVKNW94eXRVMlJzVjRmY1BZT3RURHNaQ3lzTjZveEREcC1lQ2pZMks1NG5QQXFtVWJ5MmEwX3hMV1oyeGlpRl8ySDNQQmJ5UXhOVXp2aXRJSFpYc0xNWFg1dmR3aUhpdlFMNm5PejBld053RzBxUDVzVWV2Sko4dlI1SjVpSzdxZjlhd2F0NzdHZFR3YkRfQnlvLXFDOHFOVzZKaThEVVRqWEh4cE1MeldHdnFoN09oUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-09-018",
+    "date": "2026-10-09",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "DuPont, Illinois Tool Works cut to Neutral at J.P. Morgan on downside short-cycle trends (DD:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjRZSHNsV0VRdWdUZ05HTTlfMEJBQk9sSWNmVUNwY05aa3liS2FHeDFhZ2o2UV9uUXd5bS15dnRnc3A5Q3k1SXk0TmVfMXJ5VFlGRWpoQnNSUUd1WXhoelc2dm95ZnB5elQ5REhpX1",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjRZSHNsV0VRdWdUZ05HTTlfMEJBQk9sSWNmVUNwY05aa3liS2FHeDFhZ2o2UV9uUXd5bS15dnRnc3A5Q3k1SXk0TmVfMXJ5VFlGRWpoQnNSUUd1WXhoelc2dm95ZnB5elQ5REhpX19pOFBHUmRCOXYyZW91d0JZV2R2Y294N01ObU40OXBXdDdRQm02TkZ5cENMVHpWSEpxblY4UGhBeFVLX3NPeWtSOVdmQTE4NFZJLTdVTDVWYXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-09-019",
+    "date": "2026-10-09",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Illinois Tool Works (ITW) Undervalued As Its Margin And Cash Flow Story Builds? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUHlRUUtvUGQ5RlF0TzVKWGRHZUtGc1B6T29rVjNRSlJtajRBM2NXbWF3cmx3RW5WeVNuMjBBSGswVGUyS0ZlbWZXb0VIdERERFhaSHE2S08wUnNjWlByR201YV9CVUxqeUdpMVJyWX",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUHlRUUtvUGQ5RlF0TzVKWGRHZUtGc1B6T29rVjNRSlJtajRBM2NXbWF3cmx3RW5WeVNuMjBBSGswVGUyS0ZlbWZXb0VIdERERFhaSHE2S08wUnNjWlByR201YV9CVUxqeUdpMVJyWXEtLWtVYl9fLWhuZ3B5c0U2RklST2JuZTkyOTZQV0h3YlVwUEpPc2xocDZQa29oN1RwZnc4dkN0QzM1TmttZTM0WDNmQTNFV1JsckdNRHRBd25sTjU0dTZrNF90ZVFjaXh2c01uTER3b9IB3AFBVV95cUxNRW1UT1VYNkFsWFRuZTNIOTJua2UxV3VJU1lVcURyMWRlZUdNNVo0a1A0S1dsWTFVZHVkN1VhMGhfWDdLQXR1S1lBMmZzTkg3d0NHODUtWlRBNnluNUEyZHV3LVBJVHV1bjNmNDJheHNOeVY4czk4SFZlSEpVTlcxaUxydEN6S0ZKemhLMldKc2NnRU5tSFJXX2N5cTBXYVhKaVM3SjZrZF9vektJRHViY2NpZlh5dmM1X1NzeFpNbmVJVXlLXzBlYkFaLVJKQzBvSzBqZ2xZZy1ib0lW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-09-020",
+    "date": "2026-10-09",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock at EUR 236.55 with a 24.0 P/ E - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXZFd1Bmc0w2OGdqS21hb3NweFctbE5VbFgxcjN3NGE3QU5GMzRiVGJJR2JXM1BscU5Lb0I5am5zNXp1OEtYLVFJVFdrVU9lR05ER21qV1YzNVJIX0JZTlk4bG9WR2RITWRVMWtrdG",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZXZFd1Bmc0w2OGdqS21hb3NweFctbE5VbFgxcjN3NGE3QU5GMzRiVGJJR2JXM1BscU5Lb0I5am5zNXp1OEtYLVFJVFdrVU9lR05ER21qV1YzNVJIX0JZTlk4bG9WR2RITWRVMWtrdG5sUW9hZ1RsdTEyT2dISzVLMHJVQ2tLS29haEJJTWlOazN5cmt5aGd2bEhKQXkxVWU1UE5vc0lrMS1xNWRFVHBQNlNUaXJpbnRiSUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-09-021",
+    "date": "2026-10-09",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Q1 2027 Earnings Date and Estimates - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ2p1ZXZSTkdPeG4zajBiekt3cWEzdDVmRWFJX25lTWwwUHNHVk1BcXBlWDR0clV0TENKeW82SGd5ZTBVX2lfQlJtbDFRRkpWallEUkEwaGd6MUNMUGp1SGh5MUpmZFc2cWlKcG81N1",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ2p1ZXZSTkdPeG4zajBiekt3cWEzdDVmRWFJX25lTWwwUHNHVk1BcXBlWDR0clV0TENKeW82SGd5ZTBVX2lfQlJtbDFRRkpWallEUkEwaGd6MUNMUGp1SGh5MUpmZFc2cWlKcG81N1ByS3lySDFWeGZVa01Tc2FMcGFUb2FMdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-09-022",
+    "date": "2026-10-09",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar vs. Corning: Which Industrials Stock Is a Better Buy in 2026? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMDhIb0QtdHBaTmNLd3pPRHpQTEFTR1BYcnJRLTQ0bVVJVWJOWkhaUUZ4REJPc0VJaTg1eVhJQmpjTGJvb0U2anhYMkI2a1M5NVhqOTZTVzlncjRXTEJzOGJOYXlPT1hwcDRiSk1pMG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMDhIb0QtdHBaTmNLd3pPRHpQTEFTR1BYcnJRLTQ0bVVJVWJOWkhaUUZ4REJPc0VJaTg1eVhJQmpjTGJvb0U2anhYMkI2a1M5NVhqOTZTVzlncjRXTEJzOGJOYXlPT1hwcDRiSk1pMGtWNlpodmhoZkNCYkxIUXNtSFFrSnM3MXBNOGlQeEl0ZDJHU29QdUtUVFZkOVNnZTRzbng5Nnp1ZEtMek9OLXFJOGV4UHVyRXctZVBVdVJRNUc?oc=5",
         "type": "rss"
       }
     ]
@@ -815,6 +1020,26 @@
       {
         "name": "google_news_machine_tools",
         "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOY2phRFUtVjI1MjRnT05HLU1NMHlVa3A3TURINV9YV2xmemFROThFSy1PWWsyU21LMnNYQzR2TWdIdDBFX3d6UjFDVUVDbWhsMWFrSmJqdkxBcVRUbllxaVhTdkE0cGhwc0gyUHNMZHl1UkU1SlNELWozcTNaZDFiemFQbXZMUjMwLTdhdFcteEs0R3Y0Z3h2V2UwdUhmcXRTTHRCdUdEZS1RRUY4MzFTTVhReEZkNlVZNzlVb0d1VFNlemlNekItTHI4QzhCTEhQMFpsN0ZRd2Jyb01pWmlBNHIwMnpoUFlrbGpLaVBwVTZtLWFPSjFPR083TmhnZVp3TVFhNkJ5NXdzT2oxYUFRME1xU0F4bmNhQ1U4d19LT3FTLWhxeVJnXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-08-025",
+    "date": "2026-10-08",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin Corp (PAR.HA) stock price, news, quote and history - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sVGlwTDdpNXNQNDFjbTljUk40VVlWdVFxdHRSU2pxMWRpSXNrSFh5ek9kU1pkcGRzcnFFZnRHRjhsRlp6T0pCdzkzUXRNSEtIdlR3LXVON1hWTTM2TG5WNEVTLXdLNkct?oc=5\" tar",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sVGlwTDdpNXNQNDFjbTljUk40VVlWdVFxdHRSU2pxMWRpSXNrSFh5ek9kU1pkcGRzcnFFZnRHRjhsRlp6T0pCdzkzUXRNSEtIdlR3LXVON1hWTTM2TG5WNEVTLXdLNkct?oc=5",
         "type": "rss"
       }
     ]
@@ -1591,6 +1816,28 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54ZF9ZVXlYWEozdGFhRjFidWFUYVFCYXdrY3dveGl5RGR2Z2VNbjFhMVZLWkNLOW5MVENUX05oN2VOaGVsbWtjTGZBRXlTV3E4c2FOcXBWbGpEMG9rRlhHNmZ0SkVpT0FZV0V1QVNqNHp3eXBERUpQN2ZMY2hDa3M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-07-038",
+    "date": "2026-10-07",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Drops 6% as Industrials Sell Off With Long Yields at a Two-Decade High; Deere Falls 4%, PACCAR Eases - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWW1VdmhSWmgwUmFzc2VsNUVMd0tkeTVzZmF1ckNLQnN1RU93SXkyTE1kMWxzd2EwcjJaeXYyOUt1Mk9jZlBoMkhfcllpRVZta0R5WktwSDNFc29yd09Cdk9sQUlHSTJteUNTTk84bk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWW1VdmhSWmgwUmFzc2VsNUVMd0tkeTVzZmF1ckNLQnN1RU93SXkyTE1kMWxzd2EwcjJaeXYyOUt1Mk9jZlBoMkhfcllpRVZta0R5WktwSDNFc29yd09Cdk9sQUlHSTJteUNTTk84bktIQmZuSEhhZ29UdTNla0FmUmdULUkwVmNIQXhfVmczZVJtY05WQXl6WThPVmhVY1lFSzRMQWpIR010YXVjWFhlYnRZQWZJVGsxSTZsMEp4Vi1yM2FhLUVLZWgxeEVFYmtiemtCb2dDT1NQZHJ4WU5mQXF5Q215Z3c?oc=5",
         "type": "rss"
       }
     ]
@@ -2832,6 +3079,28 @@
       {
         "name": "parker_hannifin",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRFlOWkl3V0JEZ3BmTXBFQjVmZGdQOHNaNTBFSkJOZmc2UzZ5VTBLWXJUOVNrZGRZR1hvc0paS1FoTVR2LXNtZllwNzdkSFhUajNPUTZtYUgybk84eE5aal9ySlg4WG1pZmVZVUlBbUk3b3F2dlYwb0pCSm5LQXQ0RWs1RHJQcXloQ3cyeWZ5dTNFT1dfZnhuNWV1LWYzbmVUZWZJNzg1UVZTRi1kNTZWYdIBuAFBVV95cUxPZHAyUFRTMVVzOG5TMnpDSDdxODVGNTgwUW1DcTZPc1JKRWhwS0JtRndQd1AzMEtEQzlaTUdtQjZmSEpUU3I3NzVJSTBCcVpqSmRzcUVkM2paWENCakNxZ2F4M3pyVTZhOW9RWVMxQzZDWm5nVUtrMGF3bXd0TVY0UVMyWGxnZzBKYm5XWXViVklaUjJHQkFjOWlYN19STzZKSGdxbXp2VkY2V29aOV9zUG9kQTlIUTBP?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "makino-2026-10-05-034",
+    "date": "2026-10-05",
+    "companies": [
+      "makino"
+    ],
+    "topics": [
+      "automation_capex",
+      "cnc_technology",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Makino Asia launched a new additive manufacturing facility in Singapore - Singapore EDB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZTd5RW9wa0xaaGJUeEtjNWIxMmlpS0N1cXhPS1pSeVYzQjNhR01iYk5xeGhHRHdjMVliQU9wN0x6UjdsRnNQcEFZNHRwMnlrdThfaElDaEhRNzBpSkwxNWZuMHpWZ2pwal96d3N1Uk",
+    "sources": [
+      {
+        "name": "makino",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZTd5RW9wa0xaaGJUeEtjNWIxMmlpS0N1cXhPS1pSeVYzQjNhR01iYk5xeGhHRHdjMVliQU9wN0x6UjdsRnNQcEFZNHRwMnlrdThfaElDaEhRNzBpSkwxNWZuMHpWZ2pwal96d3N1UkU0M1VjUl9OM1BIUTctWFpRT3JkbG5GeWpzS0NtLXNNa2huRE5nWG5DcHNJQS10cEx1TDY3elF5WjZLSEtZUXFuTENNejUwUV9JVHFB?oc=5",
         "type": "rss"
       }
     ]
