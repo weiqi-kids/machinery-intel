@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:31:23.885688Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "parker_hannifin-2026-10-11-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Is Parker Hannifin’s Premium Valuation a Warning Sign for Dividend Investors? - Yahoo Finance",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbERLODdDem9VVkJ6VnlNR25DcFYyd0dBa20zLUhHdW1CZVRjblVDZ0txa0dXN1RudEFHRzNRZXRqSm1sNGxZQ3VBZXJ3YXZkc1VJQ3pWZVFadDRpOHFfb3BxQlY3Uzg1djl5cHN5ZW5wb28wTHhJdmJTcDRkVWpNRUNqWHVXTnNHOV9tM0NuV2I3aFhCekFia2ZQTzFLWjBNUS1ieUNlaVdoZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "automation_capex",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 396,
+    "dup_title": 234,
+    "too_old": 143,
+    "gate1_blocked": 1,
+    "gate2_blocked": 6,
+    "passed": 12,
+    "pass_rate": "7.4%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "U.S. Section 337 Probe Targets Vertical Power Delivery; Hon Hai, Delta Electronics, Quanta Among 20 ",
+      "Phillip Securities Upgrades Delta Electronics Thailand to Buy from Accumulate; Price Target is THB33",
+      "Mitsubishi Electric Classic releases 2026 Sustainability & Impact Report highlighting its commitment",
+      "German Court Upholds Decision on Compensation Terms for DMG Mori Unit's External Shareholders - www.",
+      "Parker Hannifin (PH) Gets a Buy from J.P. Morgan - The Globe and Mail"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Parker相關動態：「Is Parker Hannifin’s Premium Valuation a Warning Sign for...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Is Parker Hannifin’s Premium Valuation a Warning Sign for Dividend Investors?...（自動化資本支出、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Parker為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

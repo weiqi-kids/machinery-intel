@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-11",
+  "total_events": 1,
+  "by_company": {
+    "parker_hannifin": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {
+    "automation_capex": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
