@@ -1,0 +1,243 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:10:00.182209Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-10-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Long term debt to total equity ratio of Delta Electronics (Thailand) Public Co. Ltd. NVDR – HAN:NVAW - TradingView",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMlBPX3RFNUpXTDNxRFRLVDBQd1Z3RnBGTlRNSm9HaDdVa3U0dzQzdzRCQVE2WmxwNmhfNUdyb0dKZng4ZFBaaWk1WWJ6SzNjR0x3dEJPRU51Y0lYRGM4aXlQZ05selFfVTQ1dl9idUJtWTdPb2d1WXZqSS14d0lZemVwMWticjg3X1JJT1BmczUwSDIxMGNwUU5GLUw5LWRERWhJbGZ3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-10-12-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics September Revenue Jumps 15% - marketscreener.com",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLTcwSjdSVThaYUJkMFA1NXN6RVFSNFBFaklEdzNPQjVETkVtbnVReVROWVB1NXlRZVBGNjlhSzZMRHFteUZGUWlKNlVDRkJrMjVFNjJqRmZ6c2M3WUdkNkFnaEhvbWV5SC1Db1lmdGFzdllHZkJmLTZ6dFA3aFdnd3FMa1pEVllRRlNyLUUxU0NmY3UyVnRzQU5XRkJCdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "delta-2026-10-12-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics Says September Revenue Up 14.6% Y/Y - TradingView",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTN1M3YxazNxMnFRU3VlNkxYcWgwTU5uVGxIU3dCRC1PUTRuQldOYl9LbHlfVV9URHgwM0NmTWVJdm9XUUVhRkg2SGdKS0lVcWJRM05zSG5fTUY5VmxxRkpqWDRsUzVNQnp0LVZkRzNPQlNGRUlnUUNGa1ozaDJOc3d0dTMzXzAyaWhTX2R1SDFncDZEbXZpWVhzdlY2Y2lqUWJWSjEyVjU5cGRfa204TDByWGVlME9uRUFuMXVMQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-10-12-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric stock costs EUR 29.39 ahead of results - ad-hoc-news.de",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmFjU0pkWTZoU3lGWFpDQTk0Z2JYQl9vM2RQWFJmYXhXalBzbC1wLWswanJaT3NGMkRZaHU4MlM2TkxEc0hSX05lV1FYSnA4b2FlMHBOQ1RIbVJtTDhNSm1JYUF5OTltTjdRajVqYWVmVlZvZTV4WEpyYXp3dTl6VUNjNGZ3b3lBY1B2djM0emp0bF93T2l1T2c3NGxtQy1LTlVKNDIzamVTQld5OUF1MEpwVnMzdmI5Q2xNSUx3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itw-2026-10-12-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works stock at EUR 239.20 with a 24.2 P/ E ratio - ad-hoc-news.de",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb0V0LVB5dm0tRGt0d01WUlRoVmlUUkNMbnM3NTVjOXdOVnI3SlJQbnRDUklCX0I3R3JEb0JDN3QyYlZfWDhCdm9tdHdTU0xKaVB5ak41V3o5UW5Fam8wSzFLbUtIM3hfXzQ4VVZlV2ptOU1XY0ExX1hETTFsblZydFllNm9aWVFUXzM0U3kyczZ1Q1JBV0M3d3hFcmdjRnZVZlpmTHU4RzdSSHJ4NlNvQUpZWmlnV2NTTlJNd21RY1Uzdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 20,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "delta",
+        "count": 5
+      },
+      {
+        "id": "caterpillar",
+        "count": 5
+      },
+      {
+        "id": "itw",
+        "count": 3
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "automation_capex",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 398,
+    "dup_title": 212,
+    "too_old": 148,
+    "gate1_blocked": 0,
+    "gate2_blocked": 6,
+    "passed": 32,
+    "pass_rate": "17.2%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "U.S. Section 337 Probe Targets Vertical Power Delivery; Hon Hai, Delta Electronics, Quanta Among 20 ",
+      "Healthy Work. Thriving People. A Leadership Conversation on Care, Trust, and Sustainable Performance",
+      "Mitsubishi Electric Classic releases 2026 Sustainability & Impact Report highlighting its commitment",
+      "German Court Upholds Decision on Compensation Terms for DMG Mori Unit's External Shareholders - www.",
+      "Parker Hannifin (PH) Gets a Buy from J.P. Morgan - The Globe and Mail"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為Delta Electronics、CAT、ITW相關動態：「Long term debt to total equity ratio of Delta Electronics...」。主要關注主題為產業通用、財報、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Long term debt to total equity ratio of Delta Electronics (Thailand) Public C...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Delta Electronics September Revenue Jumps 15% - marketscreener.com（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
