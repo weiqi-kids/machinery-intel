@@ -1,0 +1,16 @@
+{
+  "total_raw": 398,
+  "dup_title": 215,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 1,
+  "gate2_fail": 10,
+  "passed": 24,
+  "gate2_samples": [
+    "U.S. Section 337 Probe Targets Vertical Power Delivery; Hon Hai, Delta Electronics, Quanta Among 20 ",
+    "Healthy Work. Thriving People. A Leadership Conversation on Care, Trust, and Sustainable Performance",
+    "ECTC 2026: Mitsubishi Electric III-V/EIC Photonic Packages - Simple Tech and Trend",
+    "Mitsubishi Electric Classic releases 2026 Sustainability & Impact Report highlighting its commitment",
+    "Parker Hannifin (PH) Gets a Buy from J.P. Morgan - The Globe and Mail"
+  ]
+}

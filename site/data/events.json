@@ -1,5 +1,360 @@
 [
   {
+    "id": "delta-2026-10-13-001",
+    "date": "2026-10-13",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics Unit Acquires Equipment for 99 Million Yuan - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxORUpVOWFRMkhJeEN6aFRCWWs1SU1Dd04yNHNNMENaNEkyWXFleVF4VkRJM1E0VHdlcU9oMkFTamhTZ28wbnhuQTQ3eFFXbnVEWC14Rm4zZ3ExRVl4V2o5TUZYMjRZM3NUQ0tuQ08yek",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORUpVOWFRMkhJeEN6aFRCWWs1SU1Dd04yNHNNMENaNEkyWXFleVF4VkRJM1E0VHdlcU9oMkFTamhTZ28wbnhuQTQ3eFFXbnVEWC14Rm4zZ3ExRVl4V2o5TUZYMjRZM3NUQ0tuQ08yekpfaDdTTmlCR1N3TnFxeVhtMzY3NG9KSUJxSE90MllUWHJsRlN6ODFpSEVucUxESjBObXQ0ZGYzYTlvTG40bmJlUGpvdnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-10-13-002",
+    "date": "2026-10-13",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Asia-Pacific Tech Tracker: Leeno Industrial Maintained at Neutral, Delta Electronics Upgraded to Buy; Positive Outlook for Semiconductor Sector - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxONVVoQlFPUi1EUmZ4RktxRkd3bDlOX09sanlxSUFkN2o5Q1hQSHRZTmlBWDJRZmZHM1F5QVFZQV8tY3l0Qy1NNnBYQ0hRb2tDMklfMVhvRi0tWEl0V0VyQmtwTE5VdFUtbGcwVDBaOG",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONVVoQlFPUi1EUmZ4RktxRkd3bDlOX09sanlxSUFkN2o5Q1hQSHRZTmlBWDJRZmZHM1F5QVFZQV8tY3l0Qy1NNnBYQ0hRb2tDMklfMVhvRi0tWEl0V0VyQmtwTE5VdFUtbGcwVDBaOG1SM0w5d05xXzdIdWFXclRpRXVFTGN3TWxKZFQ2dlhHTWRMcmdqOGxIRWdMUXQzb0FrLTN5aGxrSDlXZFNCc3lCVjA0QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-10-13-003",
+    "date": "2026-10-13",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US probe names Delta Electronics as respondent: what it means for Delta Electronics stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSllMYnFVV2N3bVFHRUNjVjNIZHA3bUZsQzA2V2ZScnNScUZMNWZhM0dnR3N6M3RuUXV6TVFYTk43Y0xZSzIzczJtR3NrT1VsTk5fZzBKck9BTDRpeHh3Nlp0WlYxSU9kZW5XN1RwYX",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSllMYnFVV2N3bVFHRUNjVjNIZHA3bUZsQzA2V2ZScnNScUZMNWZhM0dnR3N6M3RuUXV6TVFYTk43Y0xZSzIzczJtR3NrT1VsTk5fZzBKck9BTDRpeHh3Nlp0WlYxSU9kZW5XN1RwYXdFRUQwdm82SXpzT2pxLUZjRVlONmNzQzMwTzhpaVJTcWNDdzVjS0hqaUh1TEw0bkFHMFJhZzY4akYxLS1CbldXRm9fbG44U0tTQ2diRlJOaG9nNThPZ1l6dUM2TGxrdXpVdEgzc3ZGZmFCbEtYSl9Ydm8zZ1FHUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-10-13-004",
+    "date": "2026-10-13",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics revenue rises 15.00 percent. Delta Electronics stock falls 6.58 percent - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPLXZQbXNwOFpXWTN1Z3YteUFobWUxNjBrZnlNZDk3Sk1NZ0k3MmQ5QW5pWXhOOUk3d3FmZXlLYzcxNXpuZkdXMUQ4aGdjYzdyRkhEUW5kV0JfdlNJelg1QWtOZ1BVS3NpZ21VZk9zNU",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLXZQbXNwOFpXWTN1Z3YteUFobWUxNjBrZnlNZDk3Sk1NZ0k3MmQ5QW5pWXhOOUk3d3FmZXlLYzcxNXpuZkdXMUQ4aGdjYzdyRkhEUW5kV0JfdlNJelg1QWtOZ1BVS3NpZ21VZk9zNUNjaGJMVkduVy1rNEZTT05nRDJfSllaemNEMVN0MTY0REFjMXVTUHlaeU9GSkpabmZ3ekx2ZXl0VGFzVlVsVTloZmswRGFBYVZMWmpWXzBtTVJUbUFrcHY5bDRYQzc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-10-13-005",
+    "date": "2026-10-13",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB to Showcase Paper Industry Measurement and Automation Solutions at MIAC 2026 - Machine Maker",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxONkVpZFBGS2gwQ0c4M18wdEJ5a21YVy1kSXRIOXAxRURLTXcyZUNReDA3R3AzdzNsRXNsNGVaNmlwTzFpTG9qdnowaDZUaFlYbjBHaGliNGtoT1dLaks2T0hyNFdsZ3RHYk96eXRLcW",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONkVpZFBGS2gwQ0c4M18wdEJ5a21YVy1kSXRIOXAxRURLTXcyZUNReDA3R3AzdzNsRXNsNGVaNmlwTzFpTG9qdnowaDZUaFlYbjBHaGliNGtoT1dLaks2T0hyNFdsZ3RHYk96eXRLcWpCY05IZmdRcWhZaHZRWEwtQ3JMblVtVjRUbmVScVRwN1NhWVY2TF9zdW5Gc0hRekJjdkl2ZmtOUWNFd1hTYjA3bjhMQXE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-13-006",
+    "date": "2026-10-13",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric to Participate in COP31 - WebWire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2eFBuOHJucnZKOGVlS2E1bk9Iazl1ZVJUcVpOU21OTG1xa3ZHLWxQUzB3TE9zdk9zaFN5dEEycmJXQlZtWC1QVUxFU3VxVnA2cVpSNkpJOTlnOGptLVQ3VA?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2eFBuOHJucnZKOGVlS2E1bk9Iazl1ZVJUcVpOU21OTG1xa3ZHLWxQUzB3TE9zdk9zaFN5dEEycmJXQlZtWC1QVUxFU3VxVnA2cVpSNkpJOTlnOGptLVQ3VA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-13-007",
+    "date": "2026-10-13",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric stock costs EUR 29.17 with 13.08 percent excess volume - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRWNNMF9CRnJIeGlFcnRSTDFDVjNvWDN5MllucHZVVkhhWE9NWDl2UzRzT3BCeEIwTHJ1M1dXSExzVnRHN191dUx3d1NpS3hQNHlGRmYwYWg2b3NvWGp6ZXZRM2VTc2VQNTFqLUNrX3",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRWNNMF9CRnJIeGlFcnRSTDFDVjNvWDN5MllucHZVVkhhWE9NWDl2UzRzT3BCeEIwTHJ1M1dXSExzVnRHN191dUx3d1NpS3hQNHlGRmYwYWg2b3NvWGp6ZXZRM2VTc2VQNTFqLUNrX3YySjdFeVFKb1VBMXFjQ2xhZEc3alE3aXVBNy1YU3hKWk42TVNqc0JTNmdsRjFPaGNIY3lqTzNnUTdSTXc4UVVsYlc3ZFM1YXhXbjh1d1NIMnpYcUxDUDljVjRUUmFfOTBFbXhv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-13-008",
+    "date": "2026-10-13",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric stock pre-market at EUR 29.38 - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOGdtc2FYSzdOZERpTWZJM1N0MGNVdE5ma1JJT09lOEtvMWtBdHRDV1JEVHlSS0lxV0JIVzFOcnJrZXNUWl9iY2J4TjN6aUhFc0FBc2xlZzhBNlhHU3dCZWtfbTJaVGJKcDVMWEJyTm",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOGdtc2FYSzdOZERpTWZJM1N0MGNVdE5ma1JJT09lOEtvMWtBdHRDV1JEVHlSS0lxV0JIVzFOcnJrZXNUWl9iY2J4TjN6aUhFc0FBc2xlZzhBNlhHU3dCZWtfbTJaVGJKcDVMWEJyTmZiMUxfOFpJU3o1YzQyVF9tUmRpY29QdkVZOWNkSGVscElHeGVUSTZjdGdyN0N6NnpXbGxoQVBCd1YtYVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-10-13-009",
+    "date": "2026-10-13",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DMG Mori raises compensation and DMG Mori stock sits below its high - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNRnREd1ZHLWcwc1k5dk03dHdQUjVSemUydlBJdk5YUTdFX0ZaZHAyMXc4ZVRSeWlaS0ZNVTJxTkNUc2tCdGNUMExaSVlpYWRzbWN5czZiMkI3TjNwTGhrVjFSWS0xS01FMTdubnN3MW",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRnREd1ZHLWcwc1k5dk03dHdQUjVSemUydlBJdk5YUTdFX0ZaZHAyMXc4ZVRSeWlaS0ZNVTJxTkNUc2tCdGNUMExaSVlpYWRzbWN5czZiMkI3TjNwTGhrVjFSWS0xS01FMTdubnN3MWYwTjhhWmJtSkJGX3hlclMwNDQwWWZzYkpDbm11NTg5Z05IYm90dHdhOTRUakVxLVhnVzlEU09XYXhhb0NWOS15MEwtd1BsdzQ1azY2QjhNaG16M1ht?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-13-010",
+    "date": "2026-10-13",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Financhill cites USD 299.79 target for Illinois Tool Works stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNOFhsRlV4RGhwVHEwckZ6WkE5YjRfOHJ5eTNiQjAxMjBXR0JqV1pDM2hiRWZRLWlkak1ERXlrcnhWa2lGa21va2NyeUpIRi1STk03S01aTTdOcXlnczZCd0JUZ1Q3SklmUVU5aEFWd3",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOFhsRlV4RGhwVHEwckZ6WkE5YjRfOHJ5eTNiQjAxMjBXR0JqV1pDM2hiRWZRLWlkak1ERXlrcnhWa2lGa21va2NyeUpIRi1STk03S01aTTdOcXlnczZCd0JUZ1Q3SklmUVU5aEFWd3JYeTM0TldCM2NhR1NYaUtSZlBoRjgyc3FsVGFtNXFCV05sWF8yNGpjRFgzWTNWY0pndDROLWVzZWxJVk5rTTY5bU5qbHI4Q2tMSWt6aEw3V0N5T2kySnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-13-011",
+    "date": "2026-10-13",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JPMorgan cuts target for Illinois Tool Works stock to USD 277 - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNandOWTcySEFDeXdNQnpFRXMtY3BWZGpmQ24tRldaRXBvamItcHV3TGluaUIwZXBoZFNrWTZEZlVKNFU2VzZDY0p0NS1aRWw0bzZSVFdnQU4zeFp4NDZNTEhsS19YN0s3d2xla2xpdl",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNandOWTcySEFDeXdNQnpFRXMtY3BWZGpmQ24tRldaRXBvamItcHV3TGluaUIwZXBoZFNrWTZEZlVKNFU2VzZDY0p0NS1aRWw0bzZSVFdnQU4zeFp4NDZNTEhsS19YN0s3d2xla2xpdlBEZGs0bW04SHJvNzJZa0tZRHByLXZBSFpVYlVWdFlDR3RSU0o2WEhObDFXLXFidk9NX1VRWVdtLVN4NTZUT1hoTGdmb1Q2WUtXSXZPLUlOemU4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-13-012",
+    "date": "2026-10-13",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "positive",
+    "title": "Parker Expands Viking Xtreme Range with ISO Valves - impeller.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1VYZklmeEJPSVZBajZHUTJuSjVFSlZpb2xXN2NISUY2dlRyZldVaThvUWxFdi10aVVER256RlI0TkotdUo1ZE03SXZBSnJrRENCOEp1bGJCY2ViMEFNaS1KTGdTRm9FTEdVUlNfSU",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1VYZklmeEJPSVZBajZHUTJuSjVFSlZpb2xXN2NISUY2dlRyZldVaThvUWxFdi10aVVER256RlI0TkotdUo1ZE03SXZBSnJrRENCOEp1bGJCY2ViMEFNaS1KTGdTRm9FTEdVUlNfSUZEQjRtbk9FaUpKeW00Yl9lYzBMOGt3aEk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-13-013",
+    "date": "2026-10-13",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Citigroup raises target for Parker-Hannifin stock to USD 1,234 - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYkUxaVdQQmRKYnJKYXBFbkEwYnM4cWxPWnF2OUt6VWNjc3ROWHpVTEctQS1WUUZDbGxLUG1SejZfWU5weGFMSWthT1ZrSUtVS21zWlhQZnZCd2lWa2JJUG1MWjhIdEFla0V6cUFJUW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYkUxaVdQQmRKYnJKYXBFbkEwYnM4cWxPWnF2OUt6VWNjc3ROWHpVTEctQS1WUUZDbGxLUG1SejZfWU5weGFMSWthT1ZrSUtVS21zWlhQZnZCd2lWa2JJUG1MWjhIdEFla0V6cUFJUWt0QWxCLUZDRHMza2ZVN1YwS294Nk8zQS16bGJPRGdWcUdlWWVzRjU4X00xbkp2aVhCMS16VnljcDRXNVZvSGNIM2lrUEtWNGdVOHQ0VEp3M3R3d0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-13-014",
+    "date": "2026-10-13",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar 255 For Sale (89430414) from MacAllister Machinery – South [1706] in Indianapolis, IN - Construction Equipment Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUtHZzJicjRLMmNteDliMUVySUFwYlFORGpFWDNoWHhSbUV3THBhYloxVjdraEd1bF9jMmtsS1V5VGpTLUpEY0QxVUdLRzNTZFhjWHRZNjgwdjNBZzlaVmlJdng4WlhJaXZlNmtoVW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUtHZzJicjRLMmNteDliMUVySUFwYlFORGpFWDNoWHhSbUV3THBhYloxVjdraEd1bF9jMmtsS1V5VGpTLUpEY0QxVUdLRzNTZFhjWHRZNjgwdjNBZzlaVmlJdng4WlhJaXZlNmtoVWxMdHZpUkYzVE9XVW9VWGlvcU1nWGViUXVIMDhUZHhBaDV5bGJoYVJsUWJ4Y2FEZzdaRS1oMndlQm9QWVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-13-015",
+    "date": "2026-10-13",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2023 Caterpillar 320-07 TH For Sale (89423012) from Altorfer Cat [2090] in IL - Construction Equipment Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmtkZ25mZHVTYTVrWkNhNkxHeDVBWHVoUUppVzk1R01sb3ViWm1nSnRHNE9ROHQzR3BZWl9TQV85dFRCYUd5ZGZ4NEJZQU9Vbml3Q2R3b21pd3VlTU5mV3RGRmk4aGRFNkd1eVJWY2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmtkZ25mZHVTYTVrWkNhNkxHeDVBWHVoUUppVzk1R01sb3ViWm1nSnRHNE9ROHQzR3BZWl9TQV85dFRCYUd5ZGZ4NEJZQU9Vbml3Q2R3b21pd3VlTU5mV3RGRmk4aGRFNkd1eVJWY2Y3MkQ3THJlWUN0bTU2SF8wRGVkN3FISXZSZXRzbG1uU3Q4MmJTSlk3MmRxS3cwTXUxdm5qRg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-13-016",
+    "date": "2026-10-13",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2019 Caterpillar 316FL For Sale in Aurora, CO - Construction Equipment Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPRzJuOXR3bnF5aXBwRUlfMFVtamVieXJWbHpZbkFiQ1pHblBpYmtueWp1aEdJTmprR3c4OG5zRjFIX1BQMy1UR0luT2tVMU5hNEVNSEg3bUlIc2dUWW1xQ3lFS2RHdUFjR0VGU2dqZT",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRzJuOXR3bnF5aXBwRUlfMFVtamVieXJWbHpZbkFiQ1pHblBpYmtueWp1aEdJTmprR3c4OG5zRjFIX1BQMy1UR0luT2tVMU5hNEVNSEg3bUlIc2dUWW1xQ3lFS2RHdUFjR0VGU2dqZTB3QnBJU252dDdjdS1remMyWllGQXRhQTFDdTk2ZEJzakIwUkl3VmlacmJBMWNXQVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-017",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "cnc_technology",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Global Robotics Market to Grow at 20.15% CAGR as Industrial Automation Demand, AI-Powered Robotics and Smart Manufacturing Technologies Gain Momentum, says Maximize Market Research - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wJBVV95cUxPQmRWNUNua0FET0xKNFg4SkVOQmZXVTVudnVleS0wLVlMaUkycmJfZndVN0xmV3g2ZVVYS3FsR2s0Z213Q1FGTHZvazJfT1JGQ21kNjhYNHZKWTB2YWJ4VkN2M1hkU3F4UEI4anViRz",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPQmRWNUNua0FET0xKNFg4SkVOQmZXVTVudnVleS0wLVlMaUkycmJfZndVN0xmV3g2ZVVYS3FsR2s0Z213Q1FGTHZvazJfT1JGQ21kNjhYNHZKWTB2YWJ4VkN2M1hkU3F4UEI4anViRzBDVFlXcVhqVlp3Uk14SHZQcmxNQlZ5dTg4YVBCSjgxRlRWTEd6VmdRWGNBQzNkTWJFVS1Yai1UbHZEU1FsZFdjUnVuVXZ3cUNIV0g3Mkd6Tmd6LTVUYXhobDR6SlVEaTJjZTdjUGUzUnhXZjVpUFZIVjkwZWpES1ZIZlhOYTVDNFFWSFJkWlVpNmgyVUJtM0ViQVpUNEN1ZUswRW4yZkdBbkVVUEtZaWdHNEVmTWR3X2xzdFB0ZDV4SFplZURaMVA0cWdwMGdxU3NvR1pWMnpuVndQUGFJYVFieHRYMVpQa3JTMk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-10-12-001",
     "date": "2026-10-12",
     "companies": [
@@ -404,6 +759,111 @@
     ]
   },
   {
+    "id": "itw-2026-10-12-021",
+    "date": "2026-10-12",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (ITW): Innovation Gains or an Industrial Upturn? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPWHV3TlhNZVBIQU84eVBCaEthU3EyX01HVHhFOVBHSEVkTlQxbXlmS3JGQjBhMzlNRkxOWGJjM2gwOXRfaTQzSXBEaEtBU2ktSk5ubzNiSlo5aFpVTldhazdRN3VrM0QzeXYtRi1NRm",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWHV3TlhNZVBIQU84eVBCaEthU3EyX01HVHhFOVBHSEVkTlQxbXlmS3JGQjBhMzlNRkxOWGJjM2gwOXRfaTQzSXBEaEtBU2ktSk5ubzNiSlo5aFpVTldhazdRN3VrM0QzeXYtRi1NRm5OSWJYdmNmVlQzZ1ExaHZXb0pCZGpCbVNjYU92bnFQR3FRSVJURkl5OHBPTEVOckpx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-12-022",
+    "date": "2026-10-12",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "How woolly bear caterpillars can tell us about an impending winter - CBS News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNYVZTZFZjTnl3aXJ5VkE1UVVpWGxyMkJnWkFONVlJbVQ2Yml2ejJxRl9jLWdHZl81c2J2ckNRYkN3UTJtUWttUXV0ZklSLXZ4QkxMY3pJQkx4bjBLS0tHdERfYmRpSzBUOVNISGl1b2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYVZTZFZjTnl3aXJ5VkE1UVVpWGxyMkJnWkFONVlJbVQ2Yml2ejJxRl9jLWdHZl81c2J2ckNRYkN3UTJtUWttUXV0ZklSLXZ4QkxMY3pJQkx4bjBLS0tHdERfYmRpSzBUOVNISGl1b2NPeEJxVVJTT3AycVBjR2ZyZnlWR2ZNWHI5X3VYSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-12-023",
+    "date": "2026-10-12",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar, Inc. Stock 12‑Month Price Target Cut to $984.88, Implies 23% Upside - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWHJNQk5IVFdiTzZCUF9wUENTSzg3NlVEeE1kblJXZEFILXdfZlJicU9mX05QSEVLWURwNkp3ZVZyaGJ6R1lxRGRtaFo4eW1IZkJKU1FBcEl6eGFEREVkVFpGMUFmaERPZnRHcTNSMH",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWHJNQk5IVFdiTzZCUF9wUENTSzg3NlVEeE1kblJXZEFILXdfZlJicU9mX05QSEVLWURwNkp3ZVZyaGJ6R1lxRGRtaFo4eW1IZkJKU1FBcEl6eGFEREVkVFpGMUFmaERPZnRHcTNSMHBuRy1EQTdCVmtoRTE1X2lpQ0luaFVmUW9DY2xwT0pHaXRRVWVESVVqTGFPbHdvZV9FcWU2M28zTG9kek5YclZNV2ZfaGp2LVpleWozR1N6cUl5ZWJCTU1tOHJiUVpzSkNPUllv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-12-024",
+    "date": "2026-10-12",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Free screening of caterpillar documentary set in Maumee - Toledo Blade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxONEFiU0kwTnFJZnJtVV9iYjZ2Sk5HaFlmNVFIbTJCQ28tWXlyU09nUHZIaXUyYkpKWktEVWQyY0ZsNzc4b18xOGlvd3lEeG9hZGhROVFRNVpibGp1RUZrcnh5MExST3o1WmZIWDJHNm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONEFiU0kwTnFJZnJtVV9iYjZ2Sk5HaFlmNVFIbTJCQ28tWXlyU09nUHZIaXUyYkpKWktEVWQyY0ZsNzc4b18xOGlvd3lEeG9hZGhROVFRNVpibGp1RUZrcnh5MExST3o1WmZIWDJHNmVudWxJMGJySm00Q0x0ZzY5dGJSSkhkYnl6WEVXNGJWc2J2MG9sWWJPZ290bXFWMEk0RzRGaFNOOFFORERuX3RwVkxTdDNjLTdSY2hDMTdnbFRXYWJLeHlkVV8xdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-12-025",
+    "date": "2026-10-12",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT): Can Earnings Keep Growing After Dealers Stop Restocking? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkM5cGUyQXZmd3B4MVVPdFZGNUNHSlkwZGRpR2FSbzhtcnl2WDBfbG5mdUlzRHJmMW8yRnFaZ0FTZ2hGcWdneXBHaHZzNjMxeUZhcUVBMzVxRzEzcElCMWttZ290enBuT0MxVE9yNn",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMkM5cGUyQXZmd3B4MVVPdFZGNUNHSlkwZGRpR2FSbzhtcnl2WDBfbG5mdUlzRHJmMW8yRnFaZ0FTZ2hGcWdneXBHaHZzNjMxeUZhcUVBMzVxRzEzcElCMWttZ290enBuT0MxVE9yNnNzTDRlVllMUmdGWE1ucHVNaVNPMjdyQzVBYk5Mb0k5Vm5jQnVpQ0NmckRRaUMzalJ4QklLbg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "parker_hannifin-2026-10-11-001",
     "date": "2026-10-11",
     "companies": [
@@ -517,6 +977,42 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOajhsbjZVR2luR3JBWVJlc29nWVJUazhmYUctRG1KeW9mdHh3aFY3MGFwNmlvam1vdy1waG96WVF6d3RQdVJDb2RnRVZpT3JWRzlwOXVJZ2lwNF9XUDRYTll6U29JY3NDZThsWjVFVzdtRFZDeDFnM09faExVUXR2a21STkJEWF9qZXRMaDJHbVRXcnZLVVgzVlBueGlOYXpPN2ExWVJIaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-11-007",
+    "date": "2026-10-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "US launches probe into Taiwan firms - Taipei Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBhUUFueEdvMVNRTC04Z1hDTmJ1NTl6SEJDbU9jRHgwVGZtX1p5elpZYlZtVENDd0hZc3pqbVZ2bm9EOVJOLUpvQ3RNOWFNVVk3ZlA2akpsYmNDZTdZYmxXemtiVFdjZG8tTWRoV1ZTWk",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhUUFueEdvMVNRTC04Z1hDTmJ1NTl6SEJDbU9jRHgwVGZtX1p5elpZYlZtVENDd0hZc3pqbVZ2bm9EOVJOLUpvQ3RNOWFNVVk3ZlA2akpsYmNDZTdZYmxXemtiVFdjZG8tTWRoV1ZTWkU1RENmSFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-11-008",
+    "date": "2026-10-11",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar TL1255D For Sale in Aurora, CO - Construction Equipment Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUdFOFlBQjlFQmxnYXloOG5KUlRiQW45Y0ItZjRjTTFyQmx4N0dfc0ZpLXdjR3BYaHhrdzlPS0tNaUQyRWFWeU05bC1kTnFjRTNJNk1wRGJRdmFSUzVjV1MtZTFTb1I0OFZfRXpTNk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUdFOFlBQjlFQmxnYXloOG5KUlRiQW45Y0ItZjRjTTFyQmx4N0dfc0ZpLXdjR3BYaHhrdzlPS0tNaUQyRWFWeU05bC1kTnFjRTNJNk1wRGJRdmFSUzVjV1MtZTFTb1I0OFZfRXpTNkdtaE1qSzdQVlhEUUViY21obmEza3FHbEU3amNidWVaMmNrdlctS2c2emhHNjFvaUg3TUFwVQ?oc=5",
         "type": "rss"
       }
     ]
