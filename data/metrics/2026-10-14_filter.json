@@ -1,0 +1,16 @@
+{
+  "total_raw": 400,
+  "dup_title": 216,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 0,
+  "gate2_fail": 11,
+  "passed": 24,
+  "gate2_samples": [
+    "Delta Electronics Unit Acquires 73 Million Yuan Equipment - marketscreener.com",
+    "U.S. Section 337 Probe Targets Vertical Power Delivery; Hon Hai, Delta Electronics, Quanta Among 20 ",
+    "Mitsubishi Electric to Participate in COP31 - 01net",
+    "JPMorgan Downgrades Illinois Tool Works to Neutral From Overweight, Cuts Price Target to $277 From $",
+    "Parker-Hannifin (NYSE:PH): A Quality Investing Case Study - ChartMill"
+  ]
+}
