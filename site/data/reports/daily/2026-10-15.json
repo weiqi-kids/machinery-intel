@@ -1,0 +1,240 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T12:59:12.615077Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-10-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics targets SOFC pilot production by year-end, partners with Great Taipei Gas on 550kW installation - digitimes",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNDlLVDNfQS1RY3I4a0tyUDQ4aTVuV1JWZWNuVGlIMVhkRkJOckFBMFNFQ0cyQW80UWJyN1gwQ3l0YXEwTzBkV01LaVVIS2dwSWN1bWJoTHB1dHN4QWNFLWJTYmJuNlNoeEt2NFRkaGE5UzRSaEdBQTl1Y2Uwa3lDZ2N4M1FMaFMydHlVeU5EaEk4N3ZidWZlRmZuUENYaUpRX0NSNXFwOXlWV1B3eGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-10-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics reports sales and J.P. Morgan keeps Delta Electronics stock at Overweight - ad-hoc-news.de",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZmQxT0VrRVBIZUZXRXJGanRfc085TWJiR0JvV196dGY5VnVGTUNQc3prQ1lUdUpkWTh4a3d1RFFQYTdFTXhnZ2lKMVB6TFVORTZLeFVrZC1qVzhjSHUzUmJKT0tReHBtR2JTTzVST3JwUUxGcUlFdFNZeVpXcEEzMjZCcmhNdzRRS05DbDNISjlJdVdCd2ZoQjRFUUtTQnB0QVVtd3NCTG9FdDdzZUNKQjJEYmw5UjlHNzQyblZMcDZLYlU2bGR3U3VsbG94dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "delta-2026-10-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics' 13.8kV SST gains traction in China, with US cloud giant testing AI data centre microgrids - digitimes",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdWh4NFJicmQ3bXlXa2FBNFpLMDNQQ2NmQmZKX1Y5cDNDb0VUTVRDcFZNYW0tdFVOWDhNMkhXeE5FVU4yLUpqLTAwLUp3TnBxQTZxZG9rVlR6MG84djYxaDBBZnVoZHkxbmRfekNDQXRNcWRRakJvOEVsYzdaNXRwV0JCOFlKQUM4UlB3VlExckc4X1B6SDhXc1V6U2ZtZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-10-15-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tamil Nadu team wins Mitsubishi Electric’s global competition - The Times of India",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOTBUZVJwZWxUQlU2VmdYZmNnZTF4SlNfY2RmZEJCX2ZrY0g4R0ppWG00LXFqVllvMWgtWTUyOFZNSEx4cUdlU1l5Tl9lNmZIZDRhd1JIQmZ2a3E4MkpvejFRR1dDOXdGODlDeVBNX0NlOGVVRlJBM3gtdWd3clFlQVpGWThMUVpkVF9IV1VtMi1HTGxaQU5TaVRhYTBQRl80Y3ZueTBHRmwyYklNckh5UXI5RkVBT1VLc0tWUkF0RW5EN1dpU3ViYVFLeHMyVjZ2UzVVclk0VWcyTkxTUjlsU9IB5gFBVV95cUxQWUVVTlhwNTBFT1RUTmUwRWQ3M1NNTGMxNTFkejJSQ1NFRGF5R3oxOFdyZE5YYVVVNVZ1M196TGpoUGZqaUFpSTZnSWFCS2RaeG1ETGZoNkw0N3dkTUFDNV9wM1hxQkliV3k0ZUdhaENZWV9lTHpnaTVHeXBpdk1lVXMtSGRlOGpVZW1wcGs0VnlpLXVSU1podEZVbUVhTmg4VHFLYjFCZWVqOXRCR09NTGRybXB2QjdxbmRyQUg5SzRjOWR3Z29mU3k3S1lZYjJUV19uSlcxVEJoeVJSVVZ3VlBSQXFFdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-10-15-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "1,052 Shares of Parker-Hannifin Corporation $PH Bought by ZWJ Investment Counsel Inc. - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ3R0dnY0VlpMSmRiYUxLc0htWWptWFRZcGZkZkV3SU16TFI2cVBNeXhzZ1drLUd1cWJESnBaMmxwN1VBb0VpeG9VMnpZWVQzZXlBeFUtZWRCQ09YV2pjV0FsSlh6QklpLVExNTJUNDZYb0ZCdklzWmhKRmtVSTJZRU1NckJ4Wm9kSWxWa3JxaDFkVXNiRktoQ0tkTzBVb0NLODJmRjZlUFRhLVozWkpXc0VJQWxqN0dxeHlRemRyUHhjeEJZTXZxUTRlaWJmOER4ZHZYYjI3ZDlOam8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "delta",
+        "count": 4
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 2
+      },
+      {
+        "id": "itw",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "automation_capex",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 398,
+    "dup_title": 200,
+    "too_old": 153,
+    "gate1_blocked": 1,
+    "gate2_blocked": 11,
+    "passed": 33,
+    "pass_rate": "16.7%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "Parker to Webcast Annual Meeting of Shareholders on October 28, 2026 at 9:00 a.m. Eastern",
+      "Taiwan’s Delta Electronics warns power shortages could constrain AI growth - Taiwan News",
+      "Delta Electronics Unit Acquires 73 Million Yuan Equipment - marketscreener.com",
+      "U.S. Section 337 Probe Targets Vertical Power Delivery; Hon Hai, Delta Electronics, Quanta Among 20 ",
+      "Mitsubishi Electric to Participate in COP31 - 01net"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Delta Electronics、Parker、CAT相關動態：「Delta Electronics targets SOFC pilot production by year-e...」。主要關注主題為產業通用、財報、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Delta Electronics targets SOFC pilot production by year-end, partners with Gr...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Delta Electronics reports sales and J.P. Morgan keeps Delta Electronics stock...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

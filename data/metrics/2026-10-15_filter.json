@@ -1,0 +1,16 @@
+{
+  "total_raw": 398,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 1,
+  "gate2_fail": 11,
+  "passed": 33,
+  "gate2_samples": [
+    "Parker to Webcast Annual Meeting of Shareholders on October 28, 2026 at 9:00 a.m. Eastern",
+    "Taiwan’s Delta Electronics warns power shortages could constrain AI growth - Taiwan News",
+    "Delta Electronics Unit Acquires 73 Million Yuan Equipment - marketscreener.com",
+    "U.S. Section 337 Probe Targets Vertical Power Delivery; Hon Hai, Delta Electronics, Quanta Among 20 ",
+    "Mitsubishi Electric to Participate in COP31 - 01net"
+  ]
+}
