@@ -1,0 +1,16 @@
+{
+  "total_raw": 398,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 1,
+  "gate2_fail": 9,
+  "passed": 41,
+  "gate2_samples": [
+    "Parker to Webcast Annual Meeting of Shareholders on October 28, 2026 at 9:00 a.m. Eastern",
+    "U.S. Section 337 Probe Targets Vertical Power Delivery; Hon Hai, Delta Electronics, Quanta Among 20 ",
+    "Taiwan’s Delta Electronics warns power shortages could constrain AI growth - Taiwan News",
+    "Mitsubishi Electric to Participate in COP31 - Yahoo Finance",
+    "Mitsubishi Electric, Foxconn Agree to Jointly Operate Automotive Equipment Business - VZ VermögensZe"
+  ]
+}
