@@ -1,0 +1,16 @@
+{
+  "total_raw": 398,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 1,
+  "gate2_fail": 7,
+  "passed": 25,
+  "gate2_samples": [
+    "Parker to Webcast Annual Meeting of Shareholders on October 28, 2026 at 9:00 a.m. Eastern",
+    "U.S. Section 337 Probe Targets Vertical Power Delivery; Hon Hai, Delta Electronics, Quanta Among 20 ",
+    "Mitsubishi Electric to Participate in COP31 - Yahoo Finance",
+    "JPMorgan Downgrades Illinois Tool Works to Neutral From Overweight, Cuts Price Target to $277 From $",
+    "Parker-Hannifin (PH) Has Investors Looking Closer After Its Latest Update - Simply Wall Street"
+  ]
+}
