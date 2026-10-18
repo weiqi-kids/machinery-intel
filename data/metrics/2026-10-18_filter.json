@@ -1,0 +1,16 @@
+{
+  "total_raw": 408,
+  "dup_title": 222,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 2,
+  "gate2_fail": 10,
+  "passed": 27,
+  "gate2_samples": [
+    "Parker to Webcast Annual Meeting of Shareholders on October 28, 2026 at 9:00 a.m. Eastern",
+    "Mitsubishi Electric to Participate in COP31 - Yahoo Finance",
+    "JPMorgan Downgrades Illinois Tool Works to Neutral From Overweight, Cuts Price Target to $277 From $",
+    "Parker-Hannifin (PH) Has Investors Looking Closer After Its Latest Update - Simply Wall Street",
+    "Parker-Hannifin (NYSE:PH): A Quality Investing Case Study - ChartMill"
+  ]
+}

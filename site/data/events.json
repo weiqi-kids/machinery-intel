@@ -1,5 +1,187 @@
 [
   {
+    "id": "delta-2026-10-18-001",
+    "date": "2026-10-18",
+    "companies": [
+      "delta"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TWSE Foreign Holding Weekly (Oct 16th): TSMC, MediaTek, Nanya Technology, Delta Electronics, Yageo - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlBmUVIxRzRlUXhhb0hGZUh3b3VsRVBRakN2bThFRllySjlLQUtWNHAyZ0xSX0NPbmN5MnVXMVcxaXR4c2xGYUpSUDJ4dFpFS1NRS1dGZFVkOEFEQXAtRnJMNXMtNERsV2xQWmlRNE",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdlBmUVIxRzRlUXhhb0hGZUh3b3VsRVBRakN2bThFRllySjlLQUtWNHAyZ0xSX0NPbmN5MnVXMVcxaXR4c2xGYUpSUDJ4dFpFS1NRS1dGZFVkOEFEQXAtRnJMNXMtNERsV2xQWmlRNEp3UTZ2MWFybk9vdF81X2RfTVdhVjFZelZ0LW9BNkt2UVRqUkt5Y0dJNFEzNEFiZHlCOUVGOHN1dEUtSmhOSk9nTmRldnYyTFRIX09RZEdVTklIeGJENkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-18-002",
+    "date": "2026-10-18",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Stock: Wall Street Is Paying Too Much For Quality (NYSE:PH) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmdUbnVLdGg5NkNnUU1hWGxja09lQlpXN2gzczljSmJXS3VwTm9sbHN2bnVpUFFpOVcwMDctR04zVFU3VnNUTUJDQVc3LTFNU1B2Nk9lZC1jQ1hqUjdsNEMwNzdzSzgwc3ZMWnNjWV",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmdUbnVLdGg5NkNnUU1hWGxja09lQlpXN2gzczljSmJXS3VwTm9sbHN2bnVpUFFpOVcwMDctR04zVFU3VnNUTUJDQVc3LTFNU1B2Nk9lZC1jQ1hqUjdsNEMwNzdzSzgwc3ZMWnNjWVdJaXZZaDNjRTZ2dTl0VWE1YTZ4Mk1hNEFSbXBiMEF0VlNDSl9CeUhZb3VKcnR5dEZ0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-18-003",
+    "date": "2026-10-18",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Position Trimmed by Vontobel Holding Ltd. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQamFkZDM1NkVxQ1BoTzVyclpZSlktRGZQajA2Q04zSTRHWGlhZXdWaS1OLWtYWnMySDQxZTk1b2NOdkJueWloWDQzenZBNjZZWnZTNVdJaXVHOXV4R1NxWURTM1A2THE1YWtJcUVrWm",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQamFkZDM1NkVxQ1BoTzVyclpZSlktRGZQajA2Q04zSTRHWGlhZXdWaS1OLWtYWnMySDQxZTk1b2NOdkJueWloWDQzenZBNjZZWnZTNVdJaXVHOXV4R1NxWURTM1A2THE1YWtJcUVrWmx5RFR1MmtrVC1wbGZkSHRXTWgyMnplME5VVW9PQUQyVEVVUWNZalNydktnNUt0UDBQSVYzOTBibi1WSVpRYWxPVUhLQjhzRkJ3blZKYWU1YnJCWTQzenc1VDBRRzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-18-004",
+    "date": "2026-10-18",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Position Decreased by Curated Wealth Partners LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa3h3RzJiZXR5RnZhZEFGRGc0WDlZaUdmTDFWODgwUFNndWlFQjdqbDU1eUt3WjNEQTAzSmU5a3FOX2wxTUUzVzRKWEZQSnlJWmhVeE5XMEVEaXdrNHV6N0ROb3J3SEFxZlU3eE41WX",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa3h3RzJiZXR5RnZhZEFGRGc0WDlZaUdmTDFWODgwUFNndWlFQjdqbDU1eUt3WjNEQTAzSmU5a3FOX2wxTUUzVzRKWEZQSnlJWmhVeE5XMEVEaXdrNHV6N0ROb3J3SEFxZlU3eE41WXJ5eml2eVNKT2htbWJtM1VGcjJTLVcteTlpLVdvZFpRS0MxN3NuZ25JOGlRTE83YWRjN2VmZ05QXzVKdkpFWDJMQWJLR3dUcjBkQkk1ckQ3TTQ5U2tlTWgyUE1pbGt3LW9aemdEVXg1T2Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-18-005",
+    "date": "2026-10-18",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "GE Vernova vs. Caterpillar: Which Has More Exposure to the AI Power Build-Out? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQQVFsYlY5MXlNNGRqWnZlSkRaM0RHNW5wUUI0WGJRMEFJYTJxRUxxY0U5enJkck5GUEFDSHJua2pCd3VMM0hVSHI4MExMZzZLYklDSWhmZWlNaGxDTFduVFlOUEdoQ3c3YklJclNLeS",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQVFsYlY5MXlNNGRqWnZlSkRaM0RHNW5wUUI0WGJRMEFJYTJxRUxxY0U5enJkck5GUEFDSHJua2pCd3VMM0hVSHI4MExMZzZLYklDSWhmZWlNaGxDTFduVFlOUEdoQ3c3YklJclNLeS02cWc1U0V5Y1h6Vk8wRHZIOGsyckotRTkwRkpHQ2gxUHF2bUd3N0lj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-18-006",
+    "date": "2026-10-18",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar announces $10 million workforce investment in North Carolina - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbTRqYmJISHVnSFhOeWprY1ZyZG5KaFdkYThoalNsejYyWVFBX3FOMVRDdlBTaW1DMzRIRUlWZlR0MDZ6eGN5V2NBT2pLYnM3MXRFQ1REWHE5SE12LUljRGxvcXBodi00ZGdIS21JX2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbTRqYmJISHVnSFhOeWprY1ZyZG5KaFdkYThoalNsejYyWVFBX3FOMVRDdlBTaW1DMzRIRUlWZlR0MDZ6eGN5V2NBT2pLYnM3MXRFQ1REWHE5SE12LUljRGxvcXBodi00ZGdIS21JX25haEhPR2tOcWxWa3M4VXA2UWF0Y2ItTzlzUDhvWHd2Rl9INXpMbDNSWkVyTVk2M2doQkxNQjJ5X3pxX00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-18-007",
+    "date": "2026-10-18",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GE Vernova vs. Caterpillar: Which Has More Exposure to the AI Power Build-Out? - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZHM1U2FJVVpOY3FoYjlFNmxnMkIxdU16UExLYVdJalhubS1RMVMxOXY4czJVOUU5NjJOYlFrNmlWS3VfMk1vdGZYVVVkOEVybG9EdDZaZHAtZjZxeEROb0pqdVZUTE5mbEtsdmwxTl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZHM1U2FJVVpOY3FoYjlFNmxnMkIxdU16UExLYVdJalhubS1RMVMxOXY4czJVOUU5NjJOYlFrNmlWS3VfMk1vdGZYVVVkOEVybG9EdDZaZHAtZjZxeEROb0pqdVZUTE5mbEtsdmwxTlh4dGY1NW9iSV9vU216LUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-18-008",
+    "date": "2026-10-18",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Three New Trichoderma Species Uncovered in China From Caterpillar Fungi and Dragon Trees - bioengineer.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDFjWTdTejV6dnR5UU1PMjdVRU9TSUZoUlNCQTVleVB5VmVpOEF1bVBlc21UOVJrMzNLc2hJUTRUQXdzcC13WFYxQ3lfN0NGdXQtdW9LZ3lkOHowUkp5ekdQOEs0aHVRamRNMFBLNX",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDFjWTdTejV6dnR5UU1PMjdVRU9TSUZoUlNCQTVleVB5VmVpOEF1bVBlc21UOVJrMzNLc2hJUTRUQXdzcC13WFYxQ3lfN0NGdXQtdW9LZ3lkOHowUkp5ekdQOEs0aHVRamRNMFBLNXgtODZ4ejR4emJLcVNUdDR6MWVWR1NmeFlPdWRzWUZsbnhEeUw5akwyWHdJaV9jUzNIdzdPbkhpNUk2OVZJMTE5aURXRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-18-009",
+    "date": "2026-10-18",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NCT World and Sidec collaborate to advance Selangor’s Robotics manufacturing ecosystem - The Sun Malaysia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjNmSmRUeDdiaWc5MWRIRnhUWVZnaFhNNTREM0R1d1dmOG5qQzJRdUtBZ0RtMjZEcG5GN1BDT2tUSVUyUHRkUlF0NmltNHNVYzFWOVp6dWxIN09qd1pqcXVuZ1dNRTA4cDc3b0VRQz",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjNmSmRUeDdiaWc5MWRIRnhUWVZnaFhNNTREM0R1d1dmOG5qQzJRdUtBZ0RtMjZEcG5GN1BDT2tUSVUyUHRkUlF0NmltNHNVYzFWOVp6dWxIN09qd1pqcXVuZ1dNRTA4cDc3b0VRQzBMZU5vQWtxckFCcGc5eFhVd0hsSGNCOVVoX09aQ1hyNWswWFlwenBHZFdoUDNEMjZOVXVwZDNCWHhrV09PVnhEZU9jZzFHOGF3b1liXzI1dU5pcHZqaGpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mitsubishi_electric-2026-10-17-001",
     "date": "2026-10-17",
     "companies": [
@@ -178,6 +360,105 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPekZRMkpDRy1EWmw5b3N6Y3lmMWtNUEdQSGlFbFlOQ3lIV0FMTy0wa01wTHd4d0RIelNiS3NXdGIydE1uSWVZTS15UElNMWdaYzBmbV85Y3R5TGdxYV9XQzlUUWEyLTc1dUlHWk9XQzNyNkVmaGhxMEhpYjJRZEg5U192ZkVkcmRocnB2anBVVk8zMEtPLWtmZmw2Tk1jMFNwNDBNcHU0RlBjSVRFekZaM25QNUMtX0RMcTBKTHN1cXljVEtzRnBhbkJuOWM1UTZWVjJEQ2NsTkNNS2NjdFN5WFBmZFM4M2xOTEZxS0pSMkdXZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-17-010",
+    "date": "2026-10-17",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Freddie Jacobson makes birdie on No. 16 at SAS Championship - PGA Tour",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGZsYzA2cFNRbTQwekhuTlhUZDBiNEtEZllQd2xseHBtamM2ZWJJRklZUEJmc2tCUUJjQlJmNFA2UHJCZWNpVlhnd2tTTFc5Z0tKUkE0Y1JuS2ZCX1NWdWdRMHBGU0xxV0VpSVAzbT",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGZsYzA2cFNRbTQwekhuTlhUZDBiNEtEZllQd2xseHBtamM2ZWJJRklZUEJmc2tCUUJjQlJmNFA2UHJCZWNpVlhnd2tTTFc5Z0tKUkE0Y1JuS2ZCX1NWdWdRMHBGU0xxV0VpSVAzbTk0aTllWjgwN2xlQXk4VzBZX3dfSlNseXFuTk9BSWRvQm5qSnRQNWR5Slh2cGJJd2xGN1I3bmZsVVgtdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-10-17-011",
+    "date": "2026-10-17",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS keeps JPY 3,440 target for DMG Mori stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWI0SmJwN3RYNWoyNldhc045WTI5OVRWRE8yMk5tYzYzdlF0SHRGczlXQ0FEYnNXVjRRcTlVZEloRHptdzNleGhGRGxoaG1PYkJLT1dBZmZSenF2aVZxVWhnYkhIcjJiSEtnU095cV",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWI0SmJwN3RYNWoyNldhc045WTI5OVRWRE8yMk5tYzYzdlF0SHRGczlXQ0FEYnNXVjRRcTlVZEloRHptdzNleGhGRGxoaG1PYkJLT1dBZmZSenF2aVZxVWhnYkhIcjJiSEtnU095cVQ5WUxBbWJGLUdXTkViS3NRTFVvc2JDSDhjNVZwS050Z3lyUWk4MVZQaFBmdGsyc0Q4bVJ0MTZrQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-17-012",
+    "date": "2026-10-17",
+    "companies": [
+      "itw"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Inc (ILT.HM) Recent Insider Transactions - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0tUmhrazE0U24wUl9QdXlDUWVpNlFQQWFwTE1kS05ISHJjOFdLbG9JVWhNZmNiaXRPbUwtdEthV0ItU3ZDQkhTNWxSMmhuUEhyT0xyaWYtRlJNTG0wdXMxajlBZEJ0LUxwcmhwRktpNE",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tUmhrazE0U24wUl9QdXlDUWVpNlFQQWFwTE1kS05ISHJjOFdLbG9JVWhNZmNiaXRPbUwtdEthV0ItU3ZDQkhTNWxSMmhuUEhyT0xyaWYtRlJNTG0wdXMxajlBZEJ0LUxwcmhwRktpNEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-17-013",
+    "date": "2026-10-17",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Caterpillar (CAT) Undervalued After Its $1 Billion Expansion Plan? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQbUU0dXo0a1hOclJVQ3p4ZDZJd1dreGFSTmFfamlXS2NweENuSzUtM1BmWE4zMG1hc3dJR1VZLTdpRVBZUTkzZzBWb3BDX1RJR3pBdmwxQm5GbU9aRmh3NFVOWEZTNVR1SG1MTFdRck",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbUU0dXo0a1hOclJVQ3p4ZDZJd1dreGFSTmFfamlXS2NweENuSzUtM1BmWE4zMG1hc3dJR1VZLTdpRVBZUTkzZzBWb3BDX1RJR3pBdmwxQm5GbU9aRmh3NFVOWEZTNVR1SG1MTFdRck13bkFiNUNsOHJWa2NrTk1XM3ZfQW5ZbDF4T0V3aFllb0hSdDJoRWRtVjA4c052bHk0WHRuSjRidGpEV0lHcV8tdFpPd2U1bGZaSDJBa1ZoQTE1bWt5VGh5bndBUWjSAdIBQVVfeXFMT3JLT2Q5aGpKYUFUM1NrcE9UVjJPQ1dWdnIteGxQd2oyMVVFbmpMT203TTRTd0ZHUDBYS21EMVZfVXpYakF1ell1S0Z0bDZBQlhYenNGZEtwSWdfQXBpcHlhYzFnYjdQWHJMYVptMGZ4RUtEOUI3aDZKRXREeDhTZ2I4ZUloV292VFc5YWxEUThnc2lSZUhCaGhiOVI2U0FPRTRKU0toYmdOVTM5MEQ4WHVTVTJnbnlrWXFfZ3pqODJjbERwZnBURmpxZjVkQjRzRjZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-17-014",
+    "date": "2026-10-17",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Turns To Derrick York For Resource Industries Leadership - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjRseUh2enFFY040YzBWbldXd1E3aU5HZmRtck02dmo0N292ZngzRlZkYWdYWlNwS3JreHpmejdYV2JudXFGTVBjaG9kWWowUWpleTRJNTdaQVJHb0ZXQzRnWms2Q1VVU0k4SVJKYk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjRseUh2enFFY040YzBWbldXd1E3aU5HZmRtck02dmo0N292ZngzRlZkYWdYWlNwS3JreHpmejdYV2JudXFGTVBjaG9kWWowUWpleTRJNTdaQVJHb0ZXQzRnWms2Q1VVU0k4SVJKYk1NdnRIM3lib3plbGtKM1N0c1UydHZDTFJRWFg3bzY4WHluWEdSRkMxLVBWc01HSEtX?oc=5",
         "type": "rss"
       }
     ]
@@ -685,6 +966,44 @@
       {
         "name": "itw",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CR1FRYmQ5aVRna3RNdFBkSXRBX2hfNUZVN2gwUHhBckVjZWZ3OXVfdHJfVFBENUhweXdnX2dqSlJYUDBfeEsyZGF2cnpvU3lvVEVtS1BRYjFEdEFBcUF5YWc5RQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-16-026",
+    "date": "2026-10-16",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin Data Breach? Lawyers Investigate Reports - ClassAction.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1Q4TlJ3Z185NU90ZHRXZWk2ZHlJNWVMMkpXSTVpUjFXc2FVVEQzc1MtTDZSa0QtTzh2R1dZNGZINUtVbHAtY3JJMjVhYWlmN3pTQjVtUk5rQ3EwLVo2bHBsZnBOTkE2Yzl0cWNIVW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV1Q4TlJ3Z185NU90ZHRXZWk2ZHlJNWVMMkpXSTVpUjFXc2FVVEQzc1MtTDZSa0QtTzh2R1dZNGZINUtVbHAtY3JJMjVhYWlmN3pTQjVtUk5rQ3EwLVo2bHBsZnBOTkE2Yzl0cWNIVW8xUF9MR0hOeW1oQmRySGJXQ3ExTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-027",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why AI changes everything about power infrastructure?",
+    "summary": "<p>It&#8217;s tempting to treat AI data centers as just very large versions of the data centers we already know. Same racks, same cooling, same power draw, only more of it. That assumption is comforta",
+    "sources": [
+      {
+        "name": "schneider_blog",
+        "url": "https://blog.se.com/energy-management-energy-efficiency/2026/10/16/why-ai-changes-everything-about-power-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
         "type": "rss"
       }
     ]
@@ -1425,6 +1744,122 @@
     ]
   },
   {
+    "id": "itw-2026-10-15-037",
+    "date": "2026-10-15",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ITW Schedules Third Quarter 2026 Earnings Webcast - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNX2l6eGUxMU1uWFlUcXIybTRXRFp1dzRIbnFWeTdDdTB4YnNkZ0pJc3B6Z2lZdjBRR3N0TzVFTFlpLVlzNHZJVU05ZkdkcnVUaEV4bzlPa0xQbXVZbl9oODRSZUhXRGNkTktOd1hwTT",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX2l6eGUxMU1uWFlUcXIybTRXRFp1dzRIbnFWeTdDdTB4YnNkZ0pJc3B6Z2lZdjBRR3N0TzVFTFlpLVlzNHZJVU05ZkdkcnVUaEV4bzlPa0xQbXVZbl9oODRSZUhXRGNkTktOd1hwTTNiZnRIUnhyR0hCTy1vSUpSUS0wV1hlV1cyNmdpR3ZfVVctR1NnSHQ5dWYxbUgwdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-15-038",
+    "date": "2026-10-15",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar Announces Leadership Transition in Resource Industries - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNLW44TURSMkVCOUVZRnllTFdvRDFfT3dVb0FtQkx1NjNlS0hMVm1uODN2T0tuaUJpbFZtdS1peE9UdnNYMEp1MEJ4QWVLNHp0aThLSGFzYkc1Nzk2ZWZ0RDVsVDNQX2tsZnJoQW15Wl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLW44TURSMkVCOUVZRnllTFdvRDFfT3dVb0FtQkx1NjNlS0hMVm1uODN2T0tuaUJpbFZtdS1peE9UdnNYMEp1MEJ4QWVLNHp0aThLSGFzYkc1Nzk2ZWZ0RDVsVDNQX2tsZnJoQW15WlR2Y2prcmpfZWhkSzhkbkhZbTVjNWRBQUVJcjM4WWlXNkc5ZGtYc0FVQ0pJR0xaZlVycjFCR2VuUjlQZk54Z1FKWWlWbEFnVm9HNzc1MV9Pcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-15-039",
+    "date": "2026-10-15",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Invests in North Carolina's Future Manufacturing Workforce - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWtkZWktVzQySjRiNjJQN1dqRVB5Q29FNGtRS28xNHdlbkZYaXM2QmhqcUt0RXU3N21veVlkeEhWdVhJVXVCaF9KVDV1TzktSzZzSWYySm1SNXVuOThvVXUxZHUxS0xoZmR5cUhZeG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWtkZWktVzQySjRiNjJQN1dqRVB5Q29FNGtRS28xNHdlbkZYaXM2QmhqcUt0RXU3N21veVlkeEhWdVhJVXVCaF9KVDV1TzktSzZzSWYySm1SNXVuOThvVXUxZHUxS0xoZmR5cUhZeGdjXy1hcjV3OUFpTm1FM2F6LVRNS2NUcDFtOTcyb2xfUGd2ZnNya3FIdGRra1hmSWh3Mm1zTGdSWE9lSmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-15-040",
+    "date": "2026-10-15",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Machine Blue Book Closes the Gap Between a Machine Listing and a Production-Ready Decision - Issuewire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ2otSUZBNzRlM2hjcklqTzNSWFU3ZEpxNkZTczd4YTkweU51dkVkYzl2cWdIdGFZeTB6OGFVNWx6TEN0Tlh3X2o2S0kteU83NERxTmt2SGNiUS1VLVE4UFFMWVRSQ1JUekZCU09FbU",
+    "sources": [
+      {
+        "name": "google_news_machine_tools",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ2otSUZBNzRlM2hjcklqTzNSWFU3ZEpxNkZTczd4YTkweU51dkVkYzl2cWdIdGFZeTB6OGFVNWx6TEN0Tlh3X2o2S0kteU83NERxTmt2SGNiUS1VLVE4UFFMWVRSQ1JUekZCU09FbU9WS1FfdWcxUnRsUUFra3BtRUdWcmNlVVcyMDg5dE1HeExXcjBkUDVVRTVXWF9QbV9CMlBEekNBRFVnOVpfQmNJemYzcUFkTkVXOTlnclg5elhJLS1IRkJ0SDlpT0U2RGFoMGpZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-15-041",
+    "date": "2026-10-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From operator expertise to autonomous operations: Connecting intelligence across assets, processes, and operations",
+    "summary": "<p>Behind every industrial operation are people who know how the plant behaves.&#160; Every day, operators make hundreds, sometimes thousands, of decisions to keep complex processes running safely, re",
+    "sources": [
+      {
+        "name": "schneider_blog",
+        "url": "https://blog.se.com/services/2026/10/15/from-operator-expertise-to-autonomous-operations-connecting-intelligence-across-assets-processes-and-operations/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-15-042",
+    "date": "2026-10-15",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Liquid cooling costs in India: Power tariffs, water charges, and capex",
+    "summary": "<p>Author: Mayank Srivastav, Director C&#38;SP Segment, India In India, the economics of liquid cooling depend heavily on on-site conditions. Electricity tariffs, demand charges, supply voltage and da",
+    "sources": [
+      {
+        "name": "schneider_blog",
+        "url": "https://blog.se.com/datacenter/2026/10/15/liquid-cooling-costs-in-india-power-tariffs-water-charges-and-capex/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mitsubishi_electric-2026-10-14-001",
     "date": "2026-10-14",
     "companies": [
@@ -2105,6 +2540,62 @@
       {
         "name": "google_news_machine_tools",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3lwaUdHYlNPd3pJdnJwRmFVQkVpZ04yc2JGczZ2UklvNkZlR2s4a1RKbkFVQnpJMmNZeHFtTDZWWnl6OHhaZ2ZNYlhiOVhpQUg5ckRwMlVIejBJUzFMSkViYW5fOXpEcks4b0tGMmNud3JMR0QxdVpxRkZGQVBKX1NyNlBpZDlmYzUyVmEydVlfemdfNlVmVUJiZ0I4OXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-14-034",
+    "date": "2026-10-14",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Trane HVAC US Lobbying Profile, 2024 - OpenSecrets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkVMTlpCVmZhdEVrVms1TmVQZHNuNVpLUmJEUzVfY29jTk5XMGRyZnNrUE1uR0otNjZ4dTdmLXFNNndPZGV1a3cxd3lJZGVQV2pnc2xfb0tEeTZEZ0ZRR0d6ckN5RHRrS05IcG9GU2",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkVMTlpCVmZhdEVrVms1TmVQZHNuNVpLUmJEUzVfY29jTk5XMGRyZnNrUE1uR0otNjZ4dTdmLXFNNndPZGV1a3cxd3lJZGVQV2pnc2xfb0tEeTZEZ0ZRR0d6ckN5RHRrS05IcG9GU2FhWUxkRlR1MXZvMFdzOTJrU1hodlMta3gtSmlKdlBRaFpKNGJfeS1YV3RMSTB5bEY1VmhoNEwwMjRuOVdzd2J1cHctdnE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-035",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Commercial EV charging for businesses: A practical guide to costs, ROI & solutions",
+    "summary": "<p>With more US drivers making the switch to electric vehicles (EVs), an accessible and reliable EV charging infrastructure has never been more crucial. This growth is demonstrated by the following in",
+    "sources": [
+      {
+        "name": "schneider_blog",
+        "url": "https://blog.se.com/buildings/2026/10/14/commercial-ev-charging-for-businesses-a-practical-guide-to-costs-roi-solutions/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-036",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Circularity in medium voltage: Unlocking value across the asset lifecycle",
+    "summary": "<p>Across recent sustainability discussions with medium-voltage customers, no topic surfaces more consistently than circularity. While decarbonization remains a key priority, customers increasingly wa",
+    "sources": [
+      {
+        "name": "schneider_blog",
+        "url": "https://blog.se.com/infrastructure-and-grid/infrastructure-management/2026/10/14/circularity-in-medium-voltage-unlocking-value-across-the-asset-lifecycle/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
         "type": "rss"
       }
     ]
@@ -2834,6 +3325,25 @@
     ]
   },
   {
+    "id": "unknown-2026-10-13-036",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Modular, prefabricated data centers enter the AI era and boldly go where no data centers have gone before",
+    "summary": "<p>I have been strategically involved in the modular data center industry for over 30 years – yes, the industry has been doing this for a long time. However, the exponential demand for prefabrication ",
+    "sources": [
+      {
+        "name": "schneider_blog",
+        "url": "https://blog.se.com/datacenter/2026/10/13/modular-prefabricated-data-centers-enter-the-ai-era-and-boldly-go-where-no-data-centers-have-gone-before/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-10-12-001",
     "date": "2026-10-12",
     "companies": [
@@ -3379,6 +3889,24 @@
       {
         "name": "mitsubishi_electric",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjZ3cnpWcTVpenFQUzFIOEt4TlBGYjllZHUwdXFnOHVHWmRjM0ZhMG5WZm14NEtKSEQyOXR3WWN5Mk5SY01ISnVnX2dlNUJ5cnBSeGRBXzh3QWJCb0Q5eWJ6bEUtNFZUbEVJUmtfamJtM0VrWF8yMGtab1BLMnVzNGFDak1CV3RuQlZQRjVDSVdSUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-028",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "[Podcast] From AI theater to real impact",
+    "summary": "<p>Artificial intelligence is moving from ambition to everyday business operations. Yet many organizations still struggle to turn AI investments into measurable results.&#160; AI podcast conversations",
+    "sources": [
+      {
+        "name": "schneider_blog",
+        "url": "https://blog.se.com/digital-transformation/2026/10/12/podcast-from-ai-theater-to-real-impact/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
         "type": "rss"
       }
     ]
