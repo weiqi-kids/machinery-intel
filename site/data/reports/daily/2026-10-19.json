@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:09:30.956167Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-10-19-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics publishes second sustainability report - Engineer Live",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU2hRWUFCRUQ1dXRRV2dxZ093MHZ4VEVUR191cW4zcjFMZDRBUURNNHhaSzhtX29LYUlMTjRRMENVRkRXcjZ0a3QteUxjeHB0Nk9ydzFwMHU5YUhxc01Gdmk0ako0LW1vaEdFdmZMYjhpUFF6R19SWGxncnBWNFlSZHBaVHNPYlcyUmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-10-19-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics unveils AI microgrid: what it means for Delta Electronics stock - ad-hoc-news.de",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR19odTUxTV9JQVdSZ2xscTFmbmdUZWRoWXVWbGxsV0RLSWd1dEhnS1VTSkF3b2x0Zlpzc090MGJKMVlsa0pCemhqbDBCazRrUng5Y25oQlRmSWRUbndNZ09CU0k5Vkx0Z01XV2tYc0EyUTE3WFFNOFpqYkt2djd6cVcyRVdwaC1PRXhrbDk1WHBzV3FaN1R1Ty1VUlVjblNDWUFPa2w2ZEpValdSZkJOeXhibFN6VXdKQUd3eTA3RFUxdWUxblZtQXQ1UkFXRU9sbXg0d0U0dktGVDg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-10-19-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric, Foxconn Enter Strategic Alliance for Automotive Equipment Business - marketscreener.com",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLWtHUWI0R3VQWGM1VVlmcXJveUp0VHF5UF8taGhfZzc3ajkwRmQwRV8yVlJFeWtpTU9IamRfSFZIVkhhcHBXbWM4Q2dMcEJ5aGFWdXRkQmNfUDZPZVVyeWtyS0gwdzZBN3RScnVuNW5WVENxbWR5RzBmbnM1N3NDa3NCMHQwV2ZsVHo3bkFHUW80cGMxaVFZay1PdjY5LWs5SW9hM3J3QnF1WUZ2RmYzbl9kejQwdC1ydnpSSVR5Sl96MklPaWVKN2FOYzJaQVZsVzlKTXVn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-10-19-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric and Hon Hai's automotive joint venture targets ¥1 trillion in sales by fiscal 2030, pushing EV software - BigGo Finance",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yNDg5bEZoZ2Jtc1hFeFBCMXhrcWl6aWdZdzl4U2JiSTRLYks3Yldid1lCNDJTZk9pdDVlbUNxX3RuejJaNHFZZk1qUHA0eW93YUxHdjNwUm1TdEU1TVoxQ1Z1NWhmT3E1RzVEWXhXSzFOXzRWaVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mitsubishi_electric-2026-10-19-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Foxconn to Purchase 50% of Mitsubishi Electric Mobility for 115 Billion Yen - marketscreener.com",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaklZbHhMSU16R1AwYS1SQlRPb2wtXzNyNGNqZkhWOWhzbFB1c25GaUZQdzB4eTRGOGE3MmVPSlRLN00tZmtkUmdhSWEzTmFaTWQ0RW5HV09TdlFLSXd0NjNhU0RKOS1vUXNsODBOUnZULWQzUTFObFdHTVNUb1lYaEdPSXg2d3Q1VWd6cDVsNEduX2wzcGVldFIyanNPanA5VEdUcHR2QjlubDlUQVhRR2RWcVJuSXFBeVZUem8tSFUwWU5aSlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cnc_technology": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 23,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 12
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "delta",
+        "count": 2
+      },
+      {
+        "id": "itw",
+        "count": 2
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "automation_capex",
+        "count": 7
+      },
+      {
+        "id": "cnc_technology",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 400,
+    "dup_title": 216,
+    "too_old": 145,
+    "gate1_blocked": 3,
+    "gate2_blocked": 10,
+    "passed": 26,
+    "pass_rate": "14.1%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "Parker to Webcast Annual Meeting of Shareholders on October 28, 2026 at 9:00 a.m. Eastern",
+      "From power to AI readiness: The architecture decisions behind TeraWulf’s AI & High-Performance Compu",
+      "My first 45 days: Building the next chapter of Digital Customer Relationship",
+      "Hon Hai agrees to acquire 50% of Mitsubishi Electric Mobility for $727.5 million — Taipei Times - UA",
+      "Mitsubishi Electric to Participate in COP31 - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為Mitsubishi Electric、Parker、Delta Electronics相關動態：「Delta Electronics publishes second sustainability report ...」。主要關注主題為產業通用、財報、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Delta Electronics publishes second sustainability report - Engineer Live（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Delta Electronics unveils AI microgrid: what it means for Delta Electronics s...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

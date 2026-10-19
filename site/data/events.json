@@ -1,5 +1,477 @@
 [
   {
+    "id": "delta-2026-10-19-001",
+    "date": "2026-10-19",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics publishes second sustainability report - Engineer Live",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNU2hRWUFCRUQ1dXRRV2dxZ093MHZ4VEVUR191cW4zcjFMZDRBUURNNHhaSzhtX29LYUlMTjRRMENVRkRXcjZ0a3QteUxjeHB0Nk9ydzFwMHU5YUhxc01Gdmk0ako0LW1vaEdFdmZMYj",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU2hRWUFCRUQ1dXRRV2dxZ093MHZ4VEVUR191cW4zcjFMZDRBUURNNHhaSzhtX29LYUlMTjRRMENVRkRXcjZ0a3QteUxjeHB0Nk9ydzFwMHU5YUhxc01Gdmk0ako0LW1vaEdFdmZMYjhpUFF6R19SWGxncnBWNFlSZHBaVHNPYlcyUmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-10-19-002",
+    "date": "2026-10-19",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics unveils AI microgrid: what it means for Delta Electronics stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR19odTUxTV9JQVdSZ2xscTFmbmdUZWRoWXVWbGxsV0RLSWd1dEhnS1VTSkF3b2x0Zlpzc090MGJKMVlsa0pCemhqbDBCazRrUng5Y25oQlRmSWRUbndNZ09CU0k5Vkx0Z01XV2tYc0",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR19odTUxTV9JQVdSZ2xscTFmbmdUZWRoWXVWbGxsV0RLSWd1dEhnS1VTSkF3b2x0Zlpzc090MGJKMVlsa0pCemhqbDBCazRrUng5Y25oQlRmSWRUbndNZ09CU0k5Vkx0Z01XV2tYc0EyUTE3WFFNOFpqYkt2djd6cVcyRVdwaC1PRXhrbDk1WHBzV3FaN1R1Ty1VUlVjblNDWUFPa2w2ZEpValdSZkJOeXhibFN6VXdKQUd3eTA3RFUxdWUxblZtQXQ1UkFXRU9sbXg0d0U0dktGVDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-19-003",
+    "date": "2026-10-19",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn Buys $727 Million Stake in Mitsubishi Electric Unit Making EV Parts - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNnFUb3czMl9VZjV5bG5xRTFycm9ZVFh3OUlHU2ZBcmwzclJiZF8wUkpCV1I2RDE0UkgxTWNwN0JFek5aVXRVckUyZnFIbWpxNHJ2ME4tZk9vcGFoTkprTXVUVmEwQjhIc3lLTUpDNU",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNnFUb3czMl9VZjV5bG5xRTFycm9ZVFh3OUlHU2ZBcmwzclJiZF8wUkpCV1I2RDE0UkgxTWNwN0JFek5aVXRVckUyZnFIbWpxNHJ2ME4tZk9vcGFoTkprTXVUVmEwQjhIc3lLTUpDNUhQQlA1Nngwc2l3YlNJRDRPQzdvejZmTVN5WTFUNFFtWV9hYU5BdDJOamdxV210NnA3RDRBMVBDOUhRQTRjaGFlZFlrelJRWTI0ODZPX1BuZnBiNi1IRW9YbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-19-004",
+    "date": "2026-10-19",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn buys into Mitsubishi Electric’s EV parts business - Automotive World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNalhITVFVbFRqNlV3Y2oxVUg5YTJoNjFKazNycWxkaHdKa19nVWp6Z0RzUW9UYlZndXdkVUtsS1M3LXdKb3I0VUZKZ1lXZDdQcmZEMUg5V0dVUE01OElrR3VXU1JkOTRmRUtqbElGZV",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNalhITVFVbFRqNlV3Y2oxVUg5YTJoNjFKazNycWxkaHdKa19nVWp6Z0RzUW9UYlZndXdkVUtsS1M3LXdKb3I0VUZKZ1lXZDdQcmZEMUg5V0dVUE01OElrR3VXU1JkOTRmRUtqbElGZVZZV3N1UmVFdkhwcmNLV1Z1RHZ6NGRTLXhmd1dIUXNfNGkxZk5kTmxyckNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-19-005",
+    "date": "2026-10-19",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn to Buy Half of Mitsubishi Electric’s Car Unit for 115 Billion Yen - Electric Vehicles",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlotYVR0cEpacXI1WW82cjliQjN5Ri1zc09yaGoySEthRTd0V2ZabnpjS3Y5bVFXZDhrMExlM1JfbEc3dnF5cWRINlFaVWpqQktQVC1CYXJhQXNDVXlBUWJNLUkxYTlpS1RhNzFCaz",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlotYVR0cEpacXI1WW82cjliQjN5Ri1zc09yaGoySEthRTd0V2ZabnpjS3Y5bVFXZDhrMExlM1JfbEc3dnF5cWRINlFaVWpqQktQVC1CYXJhQXNDVXlBUWJNLUkxYTlpS1RhNzFCazFhVUtsMnRDZVFpTE5JNkZITFVRckhualVadzdnTEZJdnk4MnN4TGhKTktZWUNpb1VFMlQ5emY4MVJobEVFQkRCZHhrZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-19-006",
+    "date": "2026-10-19",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Foxconn to acquire 50% stake in Mitsubishi Electric Mobility for Y115bn - Just Auto",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUl0eWJNcE9PX0JJSHE3WWk2MmVBb1V6R3lYTTAtemxUMVZhUVV3cjlBbmtPeGhCTklBYXhaUkE5YjlLMnNSMW1qUmdEYTZVWUcwX0dmcElrQnZOOHZyNmp2dW9lcGNpaUR2a25wVF",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcUl0eWJNcE9PX0JJSHE3WWk2MmVBb1V6R3lYTTAtemxUMVZhUVV3cjlBbmtPeGhCTklBYXhaUkE5YjlLMnNSMW1qUmdEYTZVWUcwX0dmcElrQnZOOHZyNmp2dW9lcGNpaUR2a25wVFZuUGNmcVZrZ2h5WXBjNEp5ZldOZHVQc3NCakVXbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-19-007",
+    "date": "2026-10-19",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn unit to buy 50 percent stake in Mitsubishi Electric Mobility for $730 million - TNGlobal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNYzFqR3lGZlpTY0ZxV1F6eFgteVAwbGtKRFlFUlpaZHRDQVF2MFVfVlJPMnZTSVI2eUJxMENYTnlPVzZEdXJ5dTRUYmt6NnlvZjJ3ejJTYk80clFMdm1GZWp0dzNFdEo2WVVHOFV2Rk",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYzFqR3lGZlpTY0ZxV1F6eFgteVAwbGtKRFlFUlpaZHRDQVF2MFVfVlJPMnZTSVI2eUJxMENYTnlPVzZEdXJ5dTRUYmt6NnlvZjJ3ejJTYk80clFMdm1GZWp0dzNFdEo2WVVHOFV2RkdKREpoZjVtWVJNUEFjTGpIcW5MY3RjV19mS0hUd3lEekRFVHNZMzNLMEZ4N1ViV3NfVEVMRkctS0VWY1lyRzlJVzFybk5pRGp4MGZEcg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-19-008",
+    "date": "2026-10-19",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric, Foxconn Enter Strategic Alliance for Automotive Equipment Business - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLWtHUWI0R3VQWGM1VVlmcXJveUp0VHF5UF8taGhfZzc3ajkwRmQwRV8yVlJFeWtpTU9IamRfSFZIVkhhcHBXbWM4Q2dMcEJ5aGFWdXRkQmNfUDZPZVVyeWtyS0gwdzZBN3RScnVuNW",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLWtHUWI0R3VQWGM1VVlmcXJveUp0VHF5UF8taGhfZzc3ajkwRmQwRV8yVlJFeWtpTU9IamRfSFZIVkhhcHBXbWM4Q2dMcEJ5aGFWdXRkQmNfUDZPZVVyeWtyS0gwdzZBN3RScnVuNW5WVENxbWR5RzBmbnM1N3NDa3NCMHQwV2ZsVHo3bkFHUW80cGMxaVFZay1PdjY5LWs5SW9hM3J3QnF1WUZ2RmYzbl9kejQwdC1ydnpSSVR5Sl96MklPaWVKN2FOYzJaQVZsVzlKTXVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-19-009",
+    "date": "2026-10-19",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Foxconn Buys Half Of Mitsubishi Electric Mobility For 115 Billion Yen - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTlZMkUtYjVIU0tBaWRnRnkwekpLX1RWUUx0b2lObDZJZDBMMGJpcjE4dVo2OU51R3U4emJtb3lIaFJPX1BjV3JlYjhTTF9jcXVTSXI3REk1dHpIVjdwLTVtVzRNWDNnb1FVOE13Xz",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTlZMkUtYjVIU0tBaWRnRnkwekpLX1RWUUx0b2lObDZJZDBMMGJpcjE4dVo2OU51R3U4emJtb3lIaFJPX1BjV3JlYjhTTF9jcXVTSXI3REk1dHpIVjdwLTVtVzRNWDNnb1FVOE13XzFUWmlVVXB5VllJRGVjbGxlNW90U0ZlZzU4OTIwUjRva0tVbFhSb3FycTkzNlZKZVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-19-010",
+    "date": "2026-10-19",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn, Mitsubishi Electric join forces for global EV push - Nikkei Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQcl82TGJqb0p0Z0R5SUhzZXJHOW1ZelgzYVhOSXlRRXFaQmRNWDVmRnU4ZFdIU2Nzc2hIcFZlWFVpR2VGbUpOMnU4RzhTYXR4V2JRYUpHWEFtdkNpLU5JOE12SFZodW04aEF3bXVjUV",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcl82TGJqb0p0Z0R5SUhzZXJHOW1ZelgzYVhOSXlRRXFaQmRNWDVmRnU4ZFdIU2Nzc2hIcFZlWFVpR2VGbUpOMnU4RzhTYXR4V2JRYUpHWEFtdkNpLU5JOE12SFZodW04aEF3bXVjUVB3X1JYS21lVmtFRC1ycEowMlN1dU1pXzYwRWJyVXBQQmlQUGRndXZMRWxaTk1XZkFkXzdBekFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-19-011",
+    "date": "2026-10-19",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric and Hon Hai's automotive joint venture targets ¥1 trillion in sales by fiscal 2030, pushing EV software - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1yNDg5bEZoZ2Jtc1hFeFBCMXhrcWl6aWdZdzl4U2JiSTRLYks3Yldid1lCNDJTZk9pdDVlbUNxX3RuejJaNHFZZk1qUHA0eW93YUxHdjNwUm1TdEU1TVoxQ1Z1NWhmT3E1RzVEWXhXSz",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yNDg5bEZoZ2Jtc1hFeFBCMXhrcWl6aWdZdzl4U2JiSTRLYks3Yldid1lCNDJTZk9pdDVlbUNxX3RuejJaNHFZZk1qUHA0eW93YUxHdjNwUm1TdEU1TVoxQ1Z1NWhmT3E1RzVEWXhXSzFOXzRWaVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-19-012",
+    "date": "2026-10-19",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric, Hon Hai in EV venture - NHKニュース",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkZWpCNW9jN0dFSjJGLXpRYzdMNTZfQjFhbVB1Q0pPUnVNY21CSUxNUVZYdWJfcnh2NTlicU9hUkxfaVhrcHBFQjdVaFVqS1pmSkZteDJOcHRRcXFUWHM3a0lhUQ?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBkZWpCNW9jN0dFSjJGLXpRYzdMNTZfQjFhbVB1Q0pPUnVNY21CSUxNUVZYdWJfcnh2NTlicU9hUkxfaVhrcHBFQjdVaFVqS1pmSkZteDJOcHRRcXFUWHM3a0lhUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-19-013",
+    "date": "2026-10-19",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn buys US$727 mil stake in Mitsubishi Electric unit making EV parts - The Edge Malaysia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE55Y0ZqOEs1VTZSV2R1NEVGdE9yRUVSNGhxUk05eUgxWXBnTUVjb1Rkdkx0bmZVTHlqMlRSVUZuamRDRFJKb2sxRmxWN3c2c0tF?oc=5\" target=\"_blank\">Foxconn buys US$727",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55Y0ZqOEs1VTZSV2R1NEVGdE9yRUVSNGhxUk05eUgxWXBnTUVjb1Rkdkx0bmZVTHlqMlRSVUZuamRDRFJKb2sxRmxWN3c2c0tF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-19-014",
+    "date": "2026-10-19",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn to Purchase 50% of Mitsubishi Electric Mobility for 115 Billion Yen - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOaklZbHhMSU16R1AwYS1SQlRPb2wtXzNyNGNqZkhWOWhzbFB1c25GaUZQdzB4eTRGOGE3MmVPSlRLN00tZmtkUmdhSWEzTmFaTWQ0RW5HV09TdlFLSXd0NjNhU0RKOS1vUXNsODBOUn",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaklZbHhMSU16R1AwYS1SQlRPb2wtXzNyNGNqZkhWOWhzbFB1c25GaUZQdzB4eTRGOGE3MmVPSlRLN00tZmtkUmdhSWEzTmFaTWQ0RW5HV09TdlFLSXd0NjNhU0RKOS1vUXNsODBOUnZULWQzUTFObFdHTVNUb1lYaEdPSXg2d3Q1VWd6cDVsNEduX2wzcGVldFIyanNPanA5VEdUcHR2QjlubDlUQVhRR2RWcVJuSXFBeVZUem8tSFUwWU5aSlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "okuma-2026-10-19-015",
+    "date": "2026-10-19",
+    "companies": [
+      "okuma"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NCMT celebrates 50 years of Okuma partnership at open house - Machinery Market",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVhnQjN3Q0tiaEliWWdHdF85TFZqSnB5MUk4ZjdWQmQxRXJFcllpVXh2djhoc01mUzA0b3dYTmlvRmxTd282ZnhMMmV6WVpLQWh2OUJMRE5oNURfT1RrXzdmbU9hM2ZvOGZaZW94Rm",
+    "sources": [
+      {
+        "name": "okuma",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVhnQjN3Q0tiaEliWWdHdF85TFZqSnB5MUk4ZjdWQmQxRXJFcllpVXh2djhoc01mUzA0b3dYTmlvRmxTd282ZnhMMmV6WVpLQWh2OUJMRE5oNURfT1RrXzdmbU9hM2ZvOGZaZW94RmxrRTBURkFFTUtnYkYtOHhDOUF5a3pmT2tKTWpDSGRXQUtlRGlOVWNCcUl0TVA0QWtwRWRVMDVNYk8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-19-016",
+    "date": "2026-10-19",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Zacks raised estimate for Illinois Tool Works stock to USD 2.96 - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkhMUVVlNnZNSk1lTDEtRXBPXzhZT3hDNDg2b3l4WERxVXdiN2t6WWxLRXR1S0doS1JIb1l1TkRRdEZsVmpOUWZSYWVUMjVSZ0ZSVE5DV1ZZakdlaUlqWUg3eVpEZ0UtZnJydUlLUU",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkhMUVVlNnZNSk1lTDEtRXBPXzhZT3hDNDg2b3l4WERxVXdiN2t6WWxLRXR1S0doS1JIb1l1TkRRdEZsVmpOUWZSYWVUMjVSZ0ZSVE5DV1ZZakdlaUlqWUg3eVpEZ0UtZnJydUlLUUZrejc2d0xfa2lhNnlfUGtCd2hfOEN3MDduaUVrU2VocktWSnBDWVE5TFpyU0ZNYk9yb3hiS296YW1oNkJTQkZjRHRtOGdtbUl3TE5NZWprVFpzOEd0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-19-017",
+    "date": "2026-10-19",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock last at USD 272.28 on October 16, 2026 - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPVEhEWmNGNE5FbmYtTWNySURKeGI2eW5BRVRteC1iX0lfS1VDZ0d4U0VsNHNNT01vSnRTYl9iZUsyXzZDNWJBeld5SUVpTXdsNzFQc1BvazU2VEFwVHVLQ0JyeDB6STFHNUJGOUNWV1",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVEhEWmNGNE5FbmYtTWNySURKeGI2eW5BRVRteC1iX0lfS1VDZ0d4U0VsNHNNT01vSnRTYl9iZUsyXzZDNWJBeld5SUVpTXdsNzFQc1BvazU2VEFwVHVLQ0JyeDB6STFHNUJGOUNWV1FyZ1l5VEk5VFhqRmFlcW9DaU5wbzlTZDlOUE1nUmlaM0FHU2RXcjlCTEhtOFBRNGtiS3pmWU9PbG1tS2FhbU5VUGdFalBZN3E0VWdxUUFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-19-018",
+    "date": "2026-10-19",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TD Waterhouse Canada Inc. Sells 42,231 Shares of Parker-Hannifin Corporation $PH - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbC1qYktVeE9yc2xNU25PRHVPTFhRaXZFWF9hVW1HVlVhTlNEc1VDbC0temxaZk10TEVmTU5CVl8taUlMdGt6QUJ0VGZYbkZJSmVtNEJLQ1gydFRGYnpvTjBvTDlDRG9wS1M4TlBTRW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbC1qYktVeE9yc2xNU25PRHVPTFhRaXZFWF9hVW1HVlVhTlNEc1VDbC0temxaZk10TEVmTU5CVl8taUlMdGt6QUJ0VGZYbkZJSmVtNEJLQ1gydFRGYnpvTjBvTDlDRG9wS1M4TlBTRW5uQVBOcjhqQmlLUjRLNDZUdXpWOHYtR2tNVklnamxMZkNlTGY5RmlHTFVqN1hwc1dpRElEaklIN0x4OG9HVnRyYmI0WXZuVzJPNk9QZzNheEFwbDNHd1JZZG1JdW1KdWpia2RHdg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-19-019",
+    "date": "2026-10-19",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stifel lowers Parker-Hannifin stock price target on high expectations By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQWFmWl9WSjZfUlpTcUdrTDJPY2h4dmJ6dFJuMzc1UUZyN2xQYVpMYmxBZFFtdHlDZWxHN0NPcHBWLTVXZV9ZVG5taTF0OWNWV3FnNmRyVWc2YWFfWTdiNG5ORW5BdXhWTWh5U252Sk",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQWFmWl9WSjZfUlpTcUdrTDJPY2h4dmJ6dFJuMzc1UUZyN2xQYVpMYmxBZFFtdHlDZWxHN0NPcHBWLTVXZV9ZVG5taTF0OWNWV3FnNmRyVWc2YWFfWTdiNG5ORW5BdXhWTWh5U252SkhEV0U2c3JINGdDN3prb2ZEb2lpaHBrX285aFZZU2p6d1ZRMmF4dk9zYnlSekV0VGlyNnhZSlY2SHNuQlgzZnZ6TnU0YVBNQ2JySWc4NnNDVlpwbXFDenhKNw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-19-020",
+    "date": "2026-10-19",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TD Cowen raised target to USD 950 for Parker-Hannifin stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjFqdmhpSkNiSHluMUJxWDF3alpGYzZJNjhmTkNXZnE0ZzVPT1FIRDlhTkpEZjlXa2hsV2Jsa3N3SU45M2FJWS1PQ1VzMmJOelExa0dpZlBIOVJTZTdpMkJXSjJYbEp6SGZmaVNiQn",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVjFqdmhpSkNiSHluMUJxWDF3alpGYzZJNjhmTkNXZnE0ZzVPT1FIRDlhTkpEZjlXa2hsV2Jsa3N3SU45M2FJWS1PQ1VzMmJOelExa0dpZlBIOVJTZTdpMkJXSjJYbEp6SGZmaVNiQnA3UVlSbVdhOXJ2TC1Ma3B6ODFKaXZoaE5GeTVSY1pNTGhXS294ZmxuYWJ1T0hGWUYtY0h4NEFoUXFMTmRnY2tZdGJlcG1yd3Nqd3pfdlN2QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-19-021",
+    "date": "2026-10-19",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "State Street Industrial Select Sector SPDR (XLI) Adds Caterpillar and GE on Thursday - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNTjFQMkV0U2Rack9wUUZuNG5Ga3VJNWtocFR3NXlPUy1zZWE0eEdZanQ1SlhGQ1ZWU3F3cDh6clQ1MExBd1FuVTFiSmRXeEJOTGRLRWp0M0d0R0FHaU5mNU94czlQRGxvZ2h2cmktWm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTjFQMkV0U2Rack9wUUZuNG5Ga3VJNWtocFR3NXlPUy1zZWE0eEdZanQ1SlhGQ1ZWU3F3cDh6clQ1MExBd1FuVTFiSmRXeEJOTGRLRWp0M0d0R0FHaU5mNU94czlQRGxvZ2h2cmktWm9yc3pjWjh2SHp4aWlKMHdPd3ZJVGxDZWVBMW9lRmVNR2FGcHZvakFzTHdFdTVrNW1QcmhpQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-19-022",
+    "date": "2026-10-19",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why is Caterpillar (NYSE:CAT) commanding fresh attention across machinery markets this week? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNMC11YXFIay1BcFhPTEl1WC04WmhtT0YzZndhRjV1cHNwQ2QwNV80VmR0OGpoa2lXbm12Q1RqLXJtSU50YkdCWl9BVy14SWppb1hCdS1XWVE2R0N3eUJSd3lNbzdPLVdTaHE1ekpJR0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMC11YXFIay1BcFhPTEl1WC04WmhtT0YzZndhRjV1cHNwQ2QwNV80VmR0OGpoa2lXbm12Q1RqLXJtSU50YkdCWl9BVy14SWppb1hCdS1XWVE2R0N3eUJSd3lNbzdPLVdTaHE1ekpJR0RmVkM4SW5OVE9wVG9maXh2bjY2VzRESWtDVVlDVE5XWFgxMV9IbWVGdDZjSnRwV080V1IyMWNjYklnaEg3TUxSQlBjOVF5TWxrbUd2cGw1R18wNkhIR1hxRGMzVlp3bjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-023",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "cnc_technology",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Integra Asset Solutions to Auction Chicago Scenic Studios Equipment Featuring CNC Machinery, Forklifts, Trucks, Tools & Industrial Equipment - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxOQzg4dlZkbUpyVVhZdWNqZmxTZUIxbDhpOGltYU5ZVWJfOV8xZG9xUnUyWV9sMlNpMFd0Qi1ubWQ4ekRMQlNoM1ZfRENPbzlIZ3Z4dEVEQmx2Z3NfS2pxblBwZmpZVnY5VV9LNU91Vj",
+    "sources": [
+      {
+        "name": "google_news_machine_tools",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOQzg4dlZkbUpyVVhZdWNqZmxTZUIxbDhpOGltYU5ZVWJfOV8xZG9xUnUyWV9sMlNpMFd0Qi1ubWQ4ekRMQlNoM1ZfRENPbzlIZ3Z4dEVEQmx2Z3NfS2pxblBwZmpZVnY5VV9LNU91VjkyZFlzMU9yY0gwUEdBaGI1dGNaMU9OTWNCNjNYT3Q3d2d5TnJ6ei05bGlXd0FrN19NZzlHLV94MnllbVJsMFRZd2dHaWcwMkwyZEl3SmF4bmZ2dmh4Q1FMWjUxeWJxWWIweDNUZlRhRkFVUGUwVmJHNzVtQ3I3cmhsRFhQYWlIXzd1MTdjMm43UnY5dEJmQ3BQcVhUNnBNQnc5UEJkRlFPWlN3VkR6Nnl4cDcxVw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-10-18-001",
     "date": "2026-10-18",
     "companies": [
@@ -177,6 +649,45 @@
       {
         "name": "google_news_industrial_automation",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjNmSmRUeDdiaWc5MWRIRnhUWVZnaFhNNTREM0R1d1dmOG5qQzJRdUtBZ0RtMjZEcG5GN1BDT2tUSVUyUHRkUlF0NmltNHNVYzFWOVp6dWxIN09qd1pqcXVuZ1dNRTA4cDc3b0VRQzBMZU5vQWtxckFCcGc5eFhVd0hsSGNCOVVoX09aQ1hyNWswWFlwenBHZFdoUDNEMjZOVXVwZDNCWHhrV09PVnhEZU9jZzFHOGF3b1liXzI1dU5pcHZqaGpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-10-18-010",
+    "date": "2026-10-18",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "DELTA.R Forecast — Price Target — Prediction for 2027 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5WVmJCRFFMdXlkdGdvMzBKQTJGc0dSNzBsTEdoZkluUjE3OXlPQVUyME5XVFVzQTFZX2w1eTZiaXlPdl90UTN3aFBWVUFacE50cWY2Q0JQQk1TYWxGa2cxejVYTFU1clpXN1VGdW1nTj",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WVmJCRFFMdXlkdGdvMzBKQTJGc0dSNzBsTEdoZkluUjE3OXlPQVUyME5XVFVzQTFZX2w1eTZiaXlPdl90UTN3aFBWVUFacE50cWY2Q0JQQk1TYWxGa2cxejVYTFU1clpXN1VGdW1nTjB0b21IRFhOcXNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-18-011",
+    "date": "2026-10-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hon Hai unveils Mitsubishi deal - Taipei Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5ld1hBOHpEMEZ5OXhyRkhWN2JFb3Y1d0JuMlJHZFo5eDBfZ2VRdEwwUU5BaERIbjRvcmdDTDhwZ3lVMDdrMDFfWlFHUEtja0dOaE9jWDkwbWIwWlVGd1ZMbGJOaHlSQkUwOXZqODQ3c0",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ld1hBOHpEMEZ5OXhyRkhWN2JFb3Y1d0JuMlJHZFo5eDBfZ2VRdEwwUU5BaERIbjRvcmdDTDhwZ3lVMDdrMDFfWlFHUEtja0dOaE9jWDkwbWIwWlVGd1ZMbGJOaHlSQkUwOXZqODQ3c0ZQTERudEE?oc=5",
         "type": "rss"
       }
     ]
@@ -1004,6 +1515,27 @@
       {
         "name": "schneider_blog",
         "url": "https://blog.se.com/energy-management-energy-efficiency/2026/10/16/why-ai-changes-everything-about-power-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-16-028",
+    "date": "2026-10-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Generac vs. Caterpillar: Which Power Stock Is the Better Buy? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZzVQUGVyc2VFZ1hzR2E5c0E3czN6bG15eXE0dFZUZ2UwanBrSDhWWW1MeDNLUUtua3BCeXBzX3BoaVN4WTZ2U1pLQVdHSFRIR0lyaXJyYVlWdzdFNEtNQ21MczhIdnd4LXFRcmtUTU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZzVQUGVyc2VFZ1hzR2E5c0E3czN6bG15eXE0dFZUZ2UwanBrSDhWWW1MeDNLUUtua3BCeXBzX3BoaVN4WTZ2U1pLQVdHSFRIR0lyaXJyYVlWdzdFNEtNQ21MczhIdnd4LXFRcmtUTUNqeDliejVhY2kxSUxqYXd4Mjd2S2VqY2lnbWZKWjNlMUNHSVphNXRwbngtblFUNm5u?oc=5",
         "type": "rss"
       }
     ]
