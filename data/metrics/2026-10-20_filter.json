@@ -1,0 +1,16 @@
+{
+  "total_raw": 384,
+  "dup_title": 196,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 1,
+  "gate2_fail": 7,
+  "passed": 37,
+  "gate2_samples": [
+    "Parker to Webcast Annual Meeting of Shareholders on October 28, 2026 at 9:00 a.m. Eastern",
+    "Fortescue decarbonises mining operations with Delta Electronics - Mining.com.au",
+    "Parker Hannifin Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Ran",
+    "Parker-Hannifin (PH) Has Investors Looking Closer After Its Latest Update - Simply Wall Street",
+    "Parker-Hannifin (NYSE:PH): A Quality Investing Case Study - ChartMill"
+  ]
+}

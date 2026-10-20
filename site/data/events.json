@@ -1,5 +1,559 @@
 [
   {
+    "id": "hiwin-2026-10-20-001",
+    "date": "2026-10-20",
+    "companies": [
+      "hiwin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hiwin updates motion handbook as Hiwin stock awaits November results - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPbWNVSUVpYVE5Mi04ckhWRTlxUzZsaENCaUduRUMtUk9hbmtZXzhfQ1NPYWh3bmM0enRjSm9MZmxWd2V6MkQxODB1S3RHTmhFMmJvR3FPa2pHZGhPZ3M3SkdyUzBWa1ZnZUhYc002QS",
+    "sources": [
+      {
+        "name": "hiwin",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbWNVSUVpYVE5Mi04ckhWRTlxUzZsaENCaUduRUMtUk9hbmtZXzhfQ1NPYWh3bmM0enRjSm9MZmxWd2V6MkQxODB1S3RHTmhFMmJvR3FPa2pHZGhPZ3M3SkdyUzBWa1ZnZUhYc002QS0wTDVuRlhkTk8zM3MwU2JhY0EtQmJOVGp0ZFNuNEx5TnFsYWRIYVdHNzNmdjNObzExLUJwclliQWZlTWIzNk55LWw3QjE4VEw1ZWJwTVc2VmJwN3JUVEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-10-20-002",
+    "date": "2026-10-20",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta VP3000-E Drives Target Data Centre Cooling in EMEA - Data Centre Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQU09xdU9RMExiVUFsaDdLckxQam9zLUNCb2FOM3RYaWJ5M1NCVmtUWVlNd0Jxa2h5UXBFcTdIakZPNGhhRFk2dVl0QXdzX3ZqcTFLSm9fVGNaZVFBRDFlT2doVktzRlpKaGxYc3FDeD",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU09xdU9RMExiVUFsaDdLckxQam9zLUNCb2FOM3RYaWJ5M1NCVmtUWVlNd0Jxa2h5UXBFcTdIakZPNGhhRFk2dVl0QXdzX3ZqcTFLSm9fVGNaZVFBRDFlT2doVktzRlpKaGxYc3FDeDNTMzRpY0U1eUVOTDBrV3A0cWQyZDdjTksxYTFDOXhxaGtWYWlzZVJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-10-20-003",
+    "date": "2026-10-20",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics unveils microgrid systems. Delta Electronics stock awaits October 29 results - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxObEhhMnE4ejFoWE5nYnUtS2laeXpnZjJvS2JXRi1fR0ozMUUzajVDanpqX01DNjY0QWVVb2UwOWFRbVRxRm9Gc3NEalc4ekJoUHhuZmtzUklQNEVJVnBtMFVHbVAwU0UtcmxmQ1Z5UH",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObEhhMnE4ejFoWE5nYnUtS2laeXpnZjJvS2JXRi1fR0ozMUUzajVDanpqX01DNjY0QWVVb2UwOWFRbVRxRm9Gc3NEalc4ekJoUHhuZmtzUklQNEVJVnBtMFVHbVAwU0UtcmxmQ1Z5UHkwR3VoSHk0STRSN0Y0YjJtU25lSzVzel8zWkY2b0FIQkxNWDlDTmF0RzZsT0QwbjAzdXdMcFJ2emVmSjZWQUlBTDRVby03aTYxemRRc3pMUmktLUFfN0RtU3diUEoxS0E5OGdaUW1uSXVqbXdiMVRfb3RYenZBOXpva09jQg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-10-20-004",
+    "date": "2026-10-20",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "ABB Shares Slide After AI Concerns Eclipse Results - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDlpeFdLSVIxOUFPTWJHLTU0SlJEb2RkbV93V2NGU2k2YlU3ZFZKbU9VeGwxS0xBeUtLeF9WSHE1Wk90WVBaR3JPMFdsWG1BZEY2NnZFd015d0hiMmR2ajN4YjlxOUVZZjUtOHhNNm",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDlpeFdLSVIxOUFPTWJHLTU0SlJEb2RkbV93V2NGU2k2YlU3ZFZKbU9VeGwxS0xBeUtLeF9WSHE1Wk90WVBaR3JPMFdsWG1BZEY2NnZFd015d0hiMmR2ajN4YjlxOUVZZjUtOHhNNmVwbEpUQjc0N2pEaTRCX3o1MFNxTDZnRjVHX2k5VVNzV2hoUU13ZDNXZmNwelJoMUVSTFZfcnJCdnNWdXFJMEp5WUZiQVplczQxZzhv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-20-005",
+    "date": "2026-10-20",
+    "companies": [
+      "mitsubishi_electric",
+      "abb"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "ABB joint venture with Mitsubishi Electric to expand position in Asia-Pacific markets - ABB",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWUQ5WU5SWEd5Wk5LV0JaR01UVXNTd2gwWUFzSmk1LTVDUDA0cm9ZTnJZWkd2WGZrdXpMVW5RTWo3R1RybTVIMlV6RVZFdkR2dzhqWkpxZVBoQ2ZwLXpKQWFlZ1h4dmwtTF9Ta00tSG",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWUQ5WU5SWEd5Wk5LV0JaR01UVXNTd2gwWUFzSmk1LTVDUDA0cm9ZTnJZWkd2WGZrdXpMVW5RTWo3R1RybTVIMlV6RVZFdkR2dzhqWkpxZVBoQ2ZwLXpKQWFlZ1h4dmwtTF9Ta00tSGNVbEltbWJvNWpCa3hmWnhfc3hqdWRQRVRIWHl1a2IzV1pWRmVRb1ljelF1QjJCdEpQY3oxWEphNTBveTVFTG42UjlzT0xXTTBRTERPM3I0Q0tSQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-20-006",
+    "date": "2026-10-20",
+    "companies": [
+      "mitsubishi_electric",
+      "abb"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ABB to pay $495M for 51% stake in low-voltage power distribution JV with Mitsubishi Electric - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNVzBrdERLajlaVVU5Q1BwOVREY1MtWllsRHNtQ2JmNzBZbHhKYV9NU0FfYXBVdDFpT2xVVm53N2FmdUZ1YkdwWnFvaDVYU2lrSVZaSXZOalpZVHdHWVVNb0pka2tMcng2cmw2dU1xbz",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVzBrdERLajlaVVU5Q1BwOVREY1MtWllsRHNtQ2JmNzBZbHhKYV9NU0FfYXBVdDFpT2xVVm53N2FmdUZ1YkdwWnFvaDVYU2lrSVZaSXZOalpZVHdHWVVNb0pka2tMcng2cmw2dU1xbzFQZE0zZFpiSHA5YkFXV085ZEpndElyVU1fYlMySHhiWlJXSW5GMjJOUE5ocDFoWmtVUEFZeUxGVnBxaVVVYzRlVVAwbjFKbTFBcG9JQk5LUV9aV0V1X3dB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-20-007",
+    "date": "2026-10-20",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn to Buy 50% of Mitsubishi Electric Mobility for ¥115 Billion - The EV Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOTkdDdXJBaE0yc0R3aWQtY0pkS1psUS1fQkdHVWdzcE5Nckl3bFRSX0k3eVY3ZGpWMnpGMUVuVVFlOEE0dEZBQmJZdGhJT3dHbUttVWVFOEwzaVJtaTVFRDhpUDZtTjFuUTlFZ181cH",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTkdDdXJBaE0yc0R3aWQtY0pkS1psUS1fQkdHVWdzcE5Nckl3bFRSX0k3eVY3ZGpWMnpGMUVuVVFlOEE0dEZBQmJZdGhJT3dHbUttVWVFOEwzaVJtaTVFRDhpUDZtTjFuUTlFZ181cHFSU2RHd3IyNThPLTlYd05uUzBnYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-20-008",
+    "date": "2026-10-20",
+    "companies": [
+      "mitsubishi_electric",
+      "abb"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ABB Announces JV with Mitsubishi Electric and Q3 Results - Data Centre Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOdW8zdVd4X2x6QWF2ci11R0FGTkRCTmczZ1F4VWUtb2lmSFh5VzUxSFZ3aENFSTJ3VVFCNWYzQzRneDdGRjMtRVJjdEdvbm12RlM0bmo3dVREMTNzVWxuUmJ0UVBlUmR1SWVEUFdjZk",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdW8zdVd4X2x6QWF2ci11R0FGTkRCTmczZ1F4VWUtb2lmSFh5VzUxSFZ3aENFSTJ3VVFCNWYzQzRneDdGRjMtRVJjdEdvbm12RlM0bmo3dVREMTNzVWxuUmJ0UVBlUmR1SWVEUFdjZkZRMnhkdUxBY00zQXBtdjNKSE9GMEdfYldxenZVREdNTVFya1BObFA4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-20-009",
+    "date": "2026-10-20",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn acquires stake in Mitsubishi Electric Mobility - electrive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2dfdVBNWU9rY2VPOFhEN0F6bHkzbTN0b2N6ZURQLV81VWZMaldfRTFISUVnNzRybmVrZlh5SzdMRnJEVEhjb3piUWNwS1hQWnhaaWxZYTh2WUljQUp5MndPeVhfVF95MUo2cVpxck",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2dfdVBNWU9rY2VPOFhEN0F6bHkzbTN0b2N6ZURQLV81VWZMaldfRTFISUVnNzRybmVrZlh5SzdMRnJEVEhjb3piUWNwS1hQWnhaaWxZYTh2WUljQUp5MndPeVhfVF95MUo2cVpxckI1Z2haM1h5UkVaN08zX0hPdUlsZmtMSjFEQnQyeVY5b29pS3BuMnp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-20-010",
+    "date": "2026-10-20",
+    "companies": [
+      "mitsubishi_electric",
+      "abb"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Swiss engineering firm ABB in joint venture with Mitsubishi Electric - SWI swissinfo.ch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNRVJQek0wdmYxWXB2bHBBVlNsT2J5ZTdlVVFXN1ZaYlpZM1J1ZjlCd0ZCNVRVWWo2WVU5VGdLc1QtQWxlOVZSX1Q1OHYxUWMtMzZqdUpyMGhZNTZ0UFRPaTM0bjNuaGR1a2ppQVBnak",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRVJQek0wdmYxWXB2bHBBVlNsT2J5ZTdlVVFXN1ZaYlpZM1J1ZjlCd0ZCNVRVWWo2WVU5VGdLc1QtQWxlOVZSX1Q1OHYxUWMtMzZqdUpyMGhZNTZ0UFRPaTM0bjNuaGR1a2ppQVBnakpxcG90OXM4YnVDb0dEaldCSU5HSmY1ckJGM3hmVDN2aXg2NjdPNWdBQkJ4b2pndGcwNVktRkl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-20-011",
+    "date": "2026-10-20",
+    "companies": [
+      "mitsubishi_electric",
+      "abb"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ABB Takes Control Of Mitsubishi Electric’s Power Distribution JV - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPS1RnLXdxUTVQcERGQnRjSjk5UDhMYjVIWmFFc0Yyblo5NWdkNVVFZGhoU1F5dV9vSmF5QW9MWktNM3poU1VHUmVmZnd5QkhOMF9pbzhiSU01QkR4ZzZsbWhpVEJXRm1fd3Y0Q2dJd1",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS1RnLXdxUTVQcERGQnRjSjk5UDhMYjVIWmFFc0Yyblo5NWdkNVVFZGhoU1F5dV9vSmF5QW9MWktNM3poU1VHUmVmZnd5QkhOMF9pbzhiSU01QkR4ZzZsbWhpVEJXRm1fd3Y0Q2dJd180YnVJcE1uQU9hM2VTTzBCdW50bXZ0WFQxVWpHSmJGc2JHQ3owUE5V?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-012",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "iPhone Maker Foxconn Is Betting Big on EVs With Mitsubishi - Autoblog",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNX3lyLVRNdXNfdXdiTU5iUzNOak9JS2J0aEhnbkQ3em5QNmo2MUY1SWtCeVY3dzEtODZjdU4taGNrNFNwTHJraTNId0RhVXkzbUhtaHBVQWhFQ2I3bXVMbHMya3BYWXVoSDdEZGlyb3",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX3lyLVRNdXNfdXdiTU5iUzNOak9JS2J0aEhnbkQ3em5QNmo2MUY1SWtCeVY3dzEtODZjdU4taGNrNFNwTHJraTNId0RhVXkzbUhtaHBVQWhFQ2I3bXVMbHMya3BYWXVoSDdEZGlyb3hHcXM3VG9WbFV2Z0Rkakx2dnRVMjVUaU9vU2d3RWE1Mjd6Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-20-013",
+    "date": "2026-10-20",
+    "companies": [
+      "mitsubishi_electric",
+      "abb"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "ABB créée une co-entreprise avec Mitsubishi Electric pour se renforcer en Asie-Pacifique - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3Yzk5MFlfWDRESTFubXdPUGJRenpWUkpzQTUtX1JRd3BHRnR0UllQQUdtM0NDN0prZF9wM2swYnZxUU5ScmlLdTJEWTFGZ3hObjVXTVZHWm1iYjZHOUtKT0prOA?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3Yzk5MFlfWDRESTFubXdPUGJRenpWUkpzQTUtX1JRd3BHRnR0UllQQUdtM0NDN0prZF9wM2swYnZxUU5ScmlLdTJEWTFGZ3hObjVXTVZHWm1iYjZHOUtKT0prOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-20-014",
+    "date": "2026-10-20",
+    "companies": [
+      "mitsubishi_electric",
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric, ABB Form Joint Venture Focused on Low-Voltage Power Distribution - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRkN5enBzQ0pBVVNRLTZDdWNoZENqUFBFd1IzdjZCa1k4c2xzRk1UUENEcWxWdFZPYldhWEJUYjkwaHJLTjFJTU14WWEzNldWcFFWNE1UM0NvMlJ5TkE0RUlscEhMbHNjcXZmY2c1MG",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRkN5enBzQ0pBVVNRLTZDdWNoZENqUFBFd1IzdjZCa1k4c2xzRk1UUENEcWxWdFZPYldhWEJUYjkwaHJLTjFJTU14WWEzNldWcFFWNE1UM0NvMlJ5TkE0RUlscEhMbHNjcXZmY2c1MGluYW16cThianRjd25WSEI4YlBKLUVWek5jd0VHMFhhaE82MHdTbDYxSzhWazFDZG9HNEI2enlXOGx5OXRRa0RTUWhGdnlUdXV2T0VaRnkyVEVuX1gxcTRGb2VHMEdESUx6ZnF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-20-015",
+    "date": "2026-10-20",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric, Foxconn Form EV Drive Unit Joint Venture, Buying Half Stake for approximately $723.8 Million - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE8ySXhMeGUtc1Y1TEVDMzdCUVpOZ0ZtbVlFdzBtR2J2MTg0OUotOEJIeVYwRF9zNF93OFBESmxEajZvczhHdFdGcTJLNjRoUnF3ZnVDZi1vTnVyZkl3QlM1WTBpTG0telRCTzdhaUJZdU",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8ySXhMeGUtc1Y1TEVDMzdCUVpOZ0ZtbVlFdzBtR2J2MTg0OUotOEJIeVYwRF9zNF93OFBESmxEajZvczhHdFdGcTJLNjRoUnF3ZnVDZi1vTnVyZkl3QlM1WTBpTG0telRCTzdhaUJZdUZGc2pMLVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-10-20-016",
+    "date": "2026-10-20",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ABB to buy 51% stake in Mitsubishi JV for $495M - Breakingthenews.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQX2ZtN0lGRVVMN09TMUp0QVpWVmhFWXk0R3dKQ2htMFE4WFoxd01GZmJxSGUxU1g4RG1rci1iS2Mzb2xwMDUwelkwUVotdXNTZGxmSVZlR0lVMElsbFNHNmZjdHNQaktBTjJKRndEcU",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX2ZtN0lGRVVMN09TMUp0QVpWVmhFWXk0R3dKQ2htMFE4WFoxd01GZmJxSGUxU1g4RG1rci1iS2Mzb2xwMDUwelkwUVotdXNTZGxmSVZlR0lVMElsbFNHNmZjdHNQaktBTjJKRndEcUozNFNTX1Y3a2FtNmtiNHAwWUkxSFdRbzY5T3RxektONDRzRGJJTzJSaWpnc0hpMnp3TmlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-20-017",
+    "date": "2026-10-20",
+    "companies": [
+      "mitsubishi_electric",
+      "abb"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ABB to Pay $495 Million for Controlling Stake in Mitsubishi Electric Unit - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnBaanQ2dDVFMnl6cElXcHRLcmpxOU5GUlVMQTE0M0hYSGdEaGxKVkF6V05mWlNkOU9TalN3ZG1KRkNwNWFPQV9NUXJiMTFxRzlrYVExdERkTHF3S1EwVzgzSU1TdjcxU1BZdUg5N0",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnBaanQ2dDVFMnl6cElXcHRLcmpxOU5GUlVMQTE0M0hYSGdEaGxKVkF6V05mWlNkOU9TalN3ZG1KRkNwNWFPQV9NUXJiMTFxRzlrYVExdERkTHF3S1EwVzgzSU1TdjcxU1BZdUg5N04yeWtPV0xBQ1lBbGkwbkkxa2UtWkQtS2JfZGFscjVhQ3BDbTY5RGV1aUZFS3o2SWJvMkxUdzVrTDFQaDZLeUU1TEtmT3U4NktmdzIxbjNnUEwxZFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-20-018",
+    "date": "2026-10-20",
+    "companies": [
+      "mitsubishi_electric",
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Switzerland's ABB Q3 revenue rises 14%, to form joint venture with Mitsubishi Electric - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNTExOUs5RjdMdzQxdHBvNDNkNmtVZjBYbEY4WlZINzJHc0toV1FEUnUySVpHcWZ2OFZINXR3TklZLV9fMHMxcjFjdWtMSVRyajhoRUhiaFlKdUt1RkpjckxPRklKZi1LTk1uM0lncE",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNTExOUs5RjdMdzQxdHBvNDNkNmtVZjBYbEY4WlZINzJHc0toV1FEUnUySVpHcWZ2OFZINXR3TklZLV9fMHMxcjFjdWtMSVRyajhoRUhiaFlKdUt1RkpjckxPRklKZi1LTk1uM0lncEVyWUFOUWRjQmNHbDkyZjdxWnRZbmtHR3VQWC1kRzBLaVp5NTJTaE9XQ2RhZ3ZyRWtCVVl0X0xkQno3Z2Nrc0QzbnZqa1FZLVFxNU9MWF9veGtpZzdpVUl2LWx2aDVWeDFEVDFwY0RRM2VfQklycE1ra000Y1E1SGkwU2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tongtai-2026-10-20-019",
+    "date": "2026-10-20",
+    "companies": [
+      "tongtai"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AI server demand lifts Tongtai drilling orders through 2027 - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZFV6aUc2ak84YWZNZE9EU2VmdU41TFZtSE9OUUxwMkZlR3VvWnJuQUo0QXJGdzVaR0c5NlE5RXBqZFQtVEllaDRPNm5GTXN5WWxlUDB0dFVFckx5VUlVZnFQRTdRXzZpdWFnNVU3dT",
+    "sources": [
+      {
+        "name": "tongtai",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZFV6aUc2ak84YWZNZE9EU2VmdU41TFZtSE9OUUxwMkZlR3VvWnJuQUo0QXJGdzVaR0c5NlE5RXBqZFQtVEllaDRPNm5GTXN5WWxlUDB0dFVFckx5VUlVZnFQRTdRXzZpdWFnNVU3dTl6ZEl5MzNWUDk0ZW54STlKTzNXQklXc0xXS0xTZg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tongtai-2026-10-20-020",
+    "date": "2026-10-20",
+    "companies": [
+      "tongtai"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan’s Tongtai unveils drilling system for AI server boards - Taiwan News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHZ0p5VjNXUFE1OVFqM0NDT1pJMzZKcTJ2NWhmSG9Udm1XWEY4QUEzbWV0MTlKRDhqN01aWGtVMmJITzV1UHdCYnEwTmdmOEV5aEVfRQ?oc=5\" target=\"_blank\">Taiwan’s Tong",
+    "sources": [
+      {
+        "name": "tongtai",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHZ0p5VjNXUFE1OVFqM0NDT1pJMzZKcTJ2NWhmSG9Udm1XWEY4QUEzbWV0MTlKRDhqN01aWGtVMmJITzV1UHdCYnEwTmdmOEV5aEVfRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-20-021",
+    "date": "2026-10-20",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock pre-market at EUR 240.45: industrial manufacturer - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHFDR2RHTGlhZnB1dVpreGM0YV9BcGRlcDZuVUdFbzNfRWp0VXJ0LU5MUnYydFduUEs4NmhhTXpYYTRSY3Rnc2VaTjdRREhWcDdhLVR4RzY0cWp0YkJpZWFWSkxqUmdGYTFCQk45aD",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHFDR2RHTGlhZnB1dVpreGM0YV9BcGRlcDZuVUdFbzNfRWp0VXJ0LU5MUnYydFduUEs4NmhhTXpYYTRSY3Rnc2VaTjdRREhWcDdhLVR4RzY0cWp0YkJpZWFWSkxqUmdGYTFCQk45aDRXLWJEWDktMEx3NVE2T0N4UmxRdWNFNjJZbVptcnRaMEpyWmpHc1BBSy15U1lWQU1peGRnYU5lZllKQlhCQlVBR2pldXpWVXB4QmpoaUZQaTlXeHNUY2c2TXdDWWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-20-022",
+    "date": "2026-10-20",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stifel cuts target for Parker-Hannifin stock to USD 1,002 - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQUWNBbW1mUGRfaDB3c25YU3Y3eUMycS1KTlZJOFRORTZNcjBKejBHWGc5RHJIdXk0YkozRURfTlcwOTdsb3VNZFVxYmpDX3FuUC1JY3czcnFXbDRia19rMndtUDZLVFV0VXVEVGZPMD",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUWNBbW1mUGRfaDB3c25YU3Y3eUMycS1KTlZJOFRORTZNcjBKejBHWGc5RHJIdXk0YkozRURfTlcwOTdsb3VNZFVxYmpDX3FuUC1JY3czcnFXbDRia19rMndtUDZLVFV0VXVEVGZPMDlaTEdGNnlsX25xV0xyaENMQ3EzM3d5el9Ec09ZRXFQOWl5OGdMTm1vUWhSdTlRb29Yak81c3doLWVyYldvejlUYnpTOFhMYXQtbnJwcg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-20-023",
+    "date": "2026-10-20",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin stock: Stifel cuts target pre-market on October 19, 2026 - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQMC1aTnVyMXU5MlpPOVU1T25XR0hueWVmaU9ZaUNiRl9qZ0M3d2g0WE5vdFNjalQxYVVfcVdWMFhWSHhKYVRnUVVHUC1sTVk5VllkenBoeUxJMTJnWGpGSTFTaDFOTS1wMDFJRDhjaT",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMC1aTnVyMXU5MlpPOVU1T25XR0hueWVmaU9ZaUNiRl9qZ0M3d2g0WE5vdFNjalQxYVVfcVdWMFhWSHhKYVRnUVVHUC1sTVk5VllkenBoeUxJMTJnWGpGSTFTaDFOTS1wMDFJRDhjaTJWVDVIeDhrYUhoa0o4bm13czlmYjl6dTFGd2ItVVd6NWFzdTZkOVFDaFFadVRaamk4UDRXaVVXdGtDSW5TbTJQRExGWnBXLWQwNnVtMjk2OG1QTFhXbUY0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-20-024",
+    "date": "2026-10-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "State Street SPDR Dow Jones (DIA) Sells Goldman Sachs and Caterpillar on Friday - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1FhcV81REcwU0JseUVJTEx3S0lINDhPMnE5NUNTdnQ3emdBOTNLNHJ2Ymtlb05sOHBZdExHRjd4TXZ6Z3c1eW1LSzdvY193WU94MktVR0hncF9mRkp6eGQzMkVZU2Y4ZFFSbjZnUH",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU1FhcV81REcwU0JseUVJTEx3S0lINDhPMnE5NUNTdnQ3emdBOTNLNHJ2Ymtlb05sOHBZdExHRjd4TXZ6Z3c1eW1LSzdvY193WU94MktVR0hncF9mRkp6eGQzMkVZU2Y4ZFFSbjZnUHl2cmNWbVRmQ1c3cFBfM2J0UXpncDNCdXhZVmxKZ213ek96YUs5MmM0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-20-025",
+    "date": "2026-10-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar vs. Deere: The Better Heavy Equipment Stock for the Data Center Boom - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXVvS2V6aFFqZWd3U0lUSTBsc1pPNG5QcG51cWhkNVFqSkwzZTlEejVEWHk5aDlQdnRUc201WnRDLXk3NmtfUjRIa0p5RThrN2xTNk9RMzI2d2xnTlRZNzA5REl4bGZZVm5uYjJhZG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXVvS2V6aFFqZWd3U0lUSTBsc1pPNG5QcG51cWhkNVFqSkwzZTlEejVEWHk5aDlQdnRUc201WnRDLXk3NmtfUjRIa0p5RThrN2xTNk9RMzI2d2xnTlRZNzA5REl4bGZZVm5uYjJhZGRPVFNNeUVvb1NYNUVjaXRIejVJcklRUk1yWmotR0gyWnM0TnlUcHFEaDlHTjAxUWs0Z0pKUzRvNEhpbE02ajNyVmdMUjNaaU9YazJnUVhuVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-20-026",
+    "date": "2026-10-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How to Level Up My Green Caterpillar 33428 Finale: Ultimate Guide to Beat the Last Stage - 白鲸出海",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mRGZoMV80YUJrNU54QVFjME9aWXl2d0FVZHlCN0FwMWlTQk16MVczc09BS0dJUVJrVjhxRTZoSjNZWHBQYzY2ZDFIeEdWVF85c3ZwSUV1X28yT2c?oc=5\" target=\"_blank\">How ",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mRGZoMV80YUJrNU54QVFjME9aWXl2d0FVZHlCN0FwMWlTQk16MVczc09BS0dJUVJrVjhxRTZoSjNZWHBQYzY2ZDFIeEdWVF85c3ZwSUV1X28yT2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-027",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How the UAE plans to bring robotics and automation into local factories - Fast Company Middle East",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQQzhiaXY4aTRYanN4MkVUdWhvWEo2bHBMX19SMlVxNnZIX1YwR3Y1WFdTajJuUEJiRV95X215emJGOWJqVXZLcHV5djFvMkZyQU1jVEpCM040c19CMy1TaUx5R2t2dGZrTlRiejVzdF",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQzhiaXY4aTRYanN4MkVUdWhvWEo2bHBMX19SMlVxNnZIX1YwR3Y1WFdTajJuUEJiRV95X215emJGOWJqVXZLcHV5djFvMkZyQU1jVEpCM040c19CMy1TaUx5R2t2dGZrTlRiejVzdFBNNDNRRmZIQ1JULXNydWJCOE1IREhuRXpQSllsU3Z2VUZhekkwMy1PTTB0OFc5bW53UTZtMXNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-10-19-001",
     "date": "2026-10-19",
     "companies": [
@@ -467,6 +1021,186 @@
       {
         "name": "google_news_machine_tools",
         "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOQzg4dlZkbUpyVVhZdWNqZmxTZUIxbDhpOGltYU5ZVWJfOV8xZG9xUnUyWV9sMlNpMFd0Qi1ubWQ4ekRMQlNoM1ZfRENPbzlIZ3Z4dEVEQmx2Z3NfS2pxblBwZmpZVnY5VV9LNU91VjkyZFlzMU9yY0gwUEdBaGI1dGNaMU9OTWNCNjNYT3Q3d2d5TnJ6ei05bGlXd0FrN19NZzlHLV94MnllbVJsMFRZd2dHaWcwMkwyZEl3SmF4bmZ2dmh4Q1FMWjUxeWJxWWIweDNUZlRhRkFVUGUwVmJHNzVtQ3I3cmhsRFhQYWlIXzd1MTdjMm43UnY5dEJmQ3BQcVhUNnBNQnc5UEJkRlFPWlN3VkR6Nnl4cDcxVw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-10-19-024",
+    "date": "2026-10-19",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics stock: Results are due October 29, 2026 for Delta Electronics stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSmYyaFg3Y3RrdF9tQnBCVmZySzF0eGJZX2w1bDBBNm1BWjVMWXhUakZCNVpRQzliaU1uWndWNWdHaklZTThiZmNLODJPZ0hBMkx4N0FLT2hpTldqRU1DbTNPakNtRUhOc25rdHZyS2",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSmYyaFg3Y3RrdF9tQnBCVmZySzF0eGJZX2w1bDBBNm1BWjVMWXhUakZCNVpRQzliaU1uWndWNWdHaklZTThiZmNLODJPZ0hBMkx4N0FLT2hpTldqRU1DbTNPakNtRUhOc25rdHZyS2pYb3ZTUkRwMmJxU3JjcnUxQ09rbXRlTFF3VXB4NnhEc3hKa0pBeGxmb3VfOXFkejgyOGJfd1BWQkttczQxNy1wdlpGei1TVk9CWDhBdHNIQXFUX1VoMGs2MGhlcUJ4TV84S013b1pxcTlsdDVQWC1V?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-19-025",
+    "date": "2026-10-19",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn pays $727M for half of Mitsubishi Electric’s car parts unit in EV push - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTJYZkNpUllnY3pJZlVLSXZGUU9KQWVSUmNSWkExZFBWSHIyTnByUGJvTlBtdUJKbUNmMXdaVjNiZC1XQVVlQTNYRTFLREoyUl9iTC1kY3V2NmZEYlprNTNoSjg0NmRYQmtPQ1Ftc2",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTJYZkNpUllnY3pJZlVLSXZGUU9KQWVSUmNSWkExZFBWSHIyTnByUGJvTlBtdUJKbUNmMXdaVjNiZC1XQVVlQTNYRTFLREoyUl9iTC1kY3V2NmZEYlprNTNoSjg0NmRYQmtPQ1Ftc2lsTXFfV3lLcW5QTmFaM0FnTkVzM094cWt3OU1GT05qYk1PNFA4QV9DVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-19-026",
+    "date": "2026-10-19",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Foxconn to acquire 50% stake in Mitsubishi Electric Mobility for Y115bn - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2FMdGpjN29BYjhjYWFybFBRbi1yaktRMDNkRk15c2tHcUc5bEYydy1aS2llMUhIVXZsaVFMQkxHYWo0WGg4QnpYdTVLd3lyaTFVZEtQSndlMTQzcjdwLVNNRHpBSHhmTXBicFlkd1",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2FMdGpjN29BYjhjYWFybFBRbi1yaktRMDNkRk15c2tHcUc5bEYydy1aS2llMUhIVXZsaVFMQkxHYWo0WGg4QnpYdTVLd3lyaTFVZEtQSndlMTQzcjdwLVNNRHpBSHhmTXBicFlkd19XcmNQSGhZUThycElxdk1fWk9lTHh3ZlZj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-027",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Beyond the machine - Aerospace Manufacturing magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ETGNpcjNqZGJsc0s1VkstZWZIVHNudUpGNDVZQl9hUmtmYlBKa1lwVWhCa095LUxUcm4yRVlrVGdaeEt0d21WcUpTSnRkRnEtVTBwbmlB?oc=5\" target=\"_blank\">Beyond the ",
+    "sources": [
+      {
+        "name": "okuma",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ETGNpcjNqZGJsc0s1VkstZWZIVHNudUpGNDVZQl9hUmtmYlBKa1lwVWhCa095LUxUcm4yRVlrVGdaeEt0d21WcUpTSnRkRnEtVTBwbmlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-19-028",
+    "date": "2026-10-19",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Faces Headwinds—2 Alternatives Stand Out - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWhtd2Z0WW9CaUdMdmZJckdYVTQ0ZGtXaEtuYTV3Q0dJdkZodGUtX3YzZVpmNXltdXF5V0FWekFjbGhOSVhQRHVra25telhheUViY2JpUjF1UUxrczVlVnlMdmFRTW43SXN0bG1mUW",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZWhtd2Z0WW9CaUdMdmZJckdYVTQ0ZGtXaEtuYTV3Q0dJdkZodGUtX3YzZVpmNXltdXF5V0FWekFjbGhOSVhQRHVra25telhheUViY2JpUjF1UUxrczVlVnlMdmFRTW43SXN0bG1mUWlwOW5RREU0VXZQeHFfckVaZDQxQmctdTItVHViMDRFbGw0LXQ4b1BZR250WXA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-19-029",
+    "date": "2026-10-19",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Stock Position Raised by Prairie Advisory LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYU5rQzN1TC1hcGdJa3MzX2pSMGJUYnh6d2NVTjRyYTZXVFNIVk9NTlFYZkNfVG4tTEp3RE9mTDMwQ1ExbnI2VE9ZLVdOaTRlOEtVWFozd3JMWGktellFYzJQblJ4bkEzbXBZSGxwSG",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYU5rQzN1TC1hcGdJa3MzX2pSMGJUYnh6d2NVTjRyYTZXVFNIVk9NTlFYZkNfVG4tTEp3RE9mTDMwQ1ExbnI2VE9ZLVdOaTRlOEtVWFozd3JMWGktellFYzJQblJ4bkEzbXBZSGxwSGF6emsxbXlBZ0xfV3dwSkNsa0gtcWJJX3EwWFZ0ZF83eXE4YkNBZkFQVFFTS1h4c1E4RkNVWVEzdDVQZWRKZi1LM05uakR4TVRpYTRjRFlzNDg3bGxsU04yc0NrUlV3X2FRUXY0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-19-030",
+    "date": "2026-10-19",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Caterpillar, Cummins, Quanta Services poised to gain from 2027 data-center growth: UBS (CAT:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNVjhKaGRxbVhkMFV4blJVX0x2WVVIUm9haDVCazVveW1mR1JPSG9ST2g1V0lGd3ZNVUE5anVlZ0VZQl9VR0ZZLWVWTlRpbWZxUExjTkllM2pIakZjUllNeU9YQmp3MkxiN0lrR0RFNG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVjhKaGRxbVhkMFV4blJVX0x2WVVIUm9haDVCazVveW1mR1JPSG9ST2g1V0lGd3ZNVUE5anVlZ0VZQl9VR0ZZLWVWTlRpbWZxUExjTkllM2pIakZjUllNeU9YQmp3MkxiN0lrR0RFNG0xSWpxZ3pwUUhjRllkNmhRcEtqQXJrcXdqQzB5bk1sQkFQSjFlY0RtQ0ZyTlZuT2JaMmhOV1VYYnRkX1V2OFVUMHRSSzhoRnh5WXBYZ0ZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-19-031",
+    "date": "2026-10-19",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar, Inc. Stock 12‑Month Price Target Cut to $964.84, Implies 32% Upside - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMTViZ0JDRXpJbkNPYXpDVHk5Rk0wam56R1loVE9UREtmNUdMN041b1pFdzJzTTU0QmdWam54UUZla1JQTWlWT09QSFVyUEZlZ3BiSTB5M2RmcWN6R2Q4Z2JmRm5SU3RKUnU0c2h3Uj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMTViZ0JDRXpJbkNPYXpDVHk5Rk0wam56R1loVE9UREtmNUdMN041b1pFdzJzTTU0QmdWam54UUZla1JQTWlWT09QSFVyUEZlZ3BiSTB5M2RmcWN6R2Q4Z2JmRm5SU3RKUnU0c2h3UjNNODl2RWVyRksyWnFhR1cxbjR2RWdkQ2JuT2xBS2hqb1hvQkdaX1pqTXdvbHVWMC13MTlnMm9rS3Y1TVhyMUVxdFRFSEFBdm9BYW5hOFlFSncwaGhLV2FnYTdGR21SY0l0YnNV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-19-032",
+    "date": "2026-10-19",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar gears up for launch of 22 t diesel-electric R3200 LHD - International Mining",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNWTBHeEh4UHZmRDBxdmxqb09NYmFEOEpkeFpPdUltcFJFeHJlbE5FejhtakZyVnR2RlpOR1VFWTZjSnlDS0FhVTVscVlrYmpLbl9Ma0Y0dmVfREN4cGVTU1g5TnhSa1p2LTRabEZQVj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWTBHeEh4UHZmRDBxdmxqb09NYmFEOEpkeFpPdUltcFJFeHJlbE5FejhtakZyVnR2RlpOR1VFWTZjSnlDS0FhVTVscVlrYmpLbl9Ma0Y0dmVfREN4cGVTU1g5TnhSa1p2LTRabEZQVjIyWk9ndFV5eWlKeXNfQmp2MlB0N20tRUI1cmE0dnFuWUJ3Q3A0czJReHFFVU5Xa3VT?oc=5",
         "type": "rss"
       }
     ]
@@ -1536,6 +2270,26 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZzVQUGVyc2VFZ1hzR2E5c0E3czN6bG15eXE0dFZUZ2UwanBrSDhWWW1MeDNLUUtua3BCeXBzX3BoaVN4WTZ2U1pLQVdHSFRIR0lyaXJyYVlWdzdFNEtNQ21MczhIdnd4LXFRcmtUTUNqeDliejVhY2kxSUxqYXd4Mjd2S2VqY2lnbWZKWjNlMUNHSVphNXRwbngtblFUNm5u?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-16-029",
+    "date": "2026-10-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Announces Leadership Transition In Resource Industries - Construction Equipment Guide",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPblFEZS15YjFBaVlqTmZpM3pGaC1qRTVGand3ekxseHdWbWhnWGYyQ3oyV2M0XzJ2eHQ5Zi1UUU81NXMwVzVXLWxkd3FjaDU3ZHVscXlENklGZDI4cVNnei16MFMyb0t0YWV4allWMT",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPblFEZS15YjFBaVlqTmZpM3pGaC1qRTVGand3ekxseHdWbWhnWGYyQ3oyV2M0XzJ2eHQ5Zi1UUU81NXMwVzVXLWxkd3FjaDU3ZHVscXlENklGZDI4cVNnei16MFMyb0t0YWV4allWMTVlVVdSSlNPaUQyclhUOUROVHhuNnY5cWhJdGxPbE16ZUJGSGpyeml0bU9nTnBtZ1RTTUxfbXZtdGNhdkczdGE5cW91TnZpUQ?oc=5",
         "type": "rss"
       }
     ]

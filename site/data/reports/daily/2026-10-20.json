@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T13:10:29.839915Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-10-20-005",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "ABB joint venture with Mitsubishi Electric to expand position in Asia-Pacific markets - ABB",
+      "companies": [
+        "mitsubishi_electric",
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWUQ5WU5SWEd5Wk5LV0JaR01UVXNTd2gwWUFzSmk1LTVDUDA0cm9ZTnJZWkd2WGZrdXpMVW5RTWo3R1RybTVIMlV6RVZFdkR2dzhqWkpxZVBoQ2ZwLXpKQWFlZ1h4dmwtTF9Ta00tSGNVbEltbWJvNWpCa3hmWnhfc3hqdWRQRVRIWHl1a2IzV1pWRmVRb1ljelF1QjJCdEpQY3oxWEphNTBveTVFTG42UjlzT0xXTTBRTERPM3I0Q0tSQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mitsubishi_electric-2026-10-20-006",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "ABB to pay $495M for 51% stake in low-voltage power distribution JV with Mitsubishi Electric - Seeking Alpha",
+      "companies": [
+        "mitsubishi_electric",
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVzBrdERLajlaVVU5Q1BwOVREY1MtWllsRHNtQ2JmNzBZbHhKYV9NU0FfYXBVdDFpT2xVVm53N2FmdUZ1YkdwWnFvaDVYU2lrSVZaSXZOalpZVHdHWVVNb0pka2tMcng2cmw2dU1xbzFQZE0zZFpiSHA5YkFXV085ZEpndElyVU1fYlMySHhiWlJXSW5GMjJOUE5ocDFoWmtVUEFZeUxGVnBxaVVVYzRlVVAwbjFKbTFBcG9JQk5LUV9aV0V1X3dB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-10-20-008",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "ABB Announces JV with Mitsubishi Electric and Q3 Results - Data Centre Magazine",
+      "companies": [
+        "mitsubishi_electric",
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdW8zdVd4X2x6QWF2ci11R0FGTkRCTmczZ1F4VWUtb2lmSFh5VzUxSFZ3aENFSTJ3VVFCNWYzQzRneDdGRjMtRVJjdEdvbm12RlM0bmo3dVREMTNzVWxuUmJ0UVBlUmR1SWVEUFdjZkZRMnhkdUxBY00zQXBtdjNKSE9GMEdfYldxenZVREdNTVFya1BObFA4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-10-20-010",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Swiss engineering firm ABB in joint venture with Mitsubishi Electric - SWI swissinfo.ch",
+      "companies": [
+        "mitsubishi_electric",
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRVJQek0wdmYxWXB2bHBBVlNsT2J5ZTdlVVFXN1ZaYlpZM1J1ZjlCd0ZCNVRVWWo2WVU5VGdLc1QtQWxlOVZSX1Q1OHYxUWMtMzZqdUpyMGhZNTZ0UFRPaTM0bjNuaGR1a2ppQVBnakpxcG90OXM4YnVDb0dEaldCSU5HSmY1ckJGM3hmVDN2aXg2NjdPNWdBQkJ4b2pndGcwNVktRkl3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mitsubishi_electric-2026-10-20-011",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "ABB Takes Control Of Mitsubishi Electric’s Power Distribution JV - Finimize",
+      "companies": [
+        "mitsubishi_electric",
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS1RnLXdxUTVQcERGQnRjSjk5UDhMYjVIWmFFc0Yyblo5NWdkNVVFZGhoU1F5dV9vSmF5QW9MWktNM3poU1VHUmVmZnd5QkhOMF9pbzhiSU01QkR4ZzZsbWhpVEJXRm1fd3Y0Q2dJd180YnVJcE1uQU9hM2VTTzBCdW50bXZ0WFQxVWpHSmJGc2JHQ3owUE5V?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "abb",
+      "to": "mitsubishi_electric",
+      "relation": "co_mention",
+      "co_mention_count": 9,
+      "topics": [
+        "automation_capex",
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 25,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 12
+      },
+      {
+        "id": "abb",
+        "count": 11
+      },
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "delta",
+        "count": 2
+      },
+      {
+        "id": "tongtai",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "automation_capex",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 384,
+    "dup_title": 196,
+    "too_old": 143,
+    "gate1_blocked": 1,
+    "gate2_blocked": 7,
+    "passed": 37,
+    "pass_rate": "19.7%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "Parker to Webcast Annual Meeting of Shareholders on October 28, 2026 at 9:00 a.m. Eastern",
+      "Fortescue decarbonises mining operations with Delta Electronics - Mining.com.au",
+      "Parker Hannifin Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Ran",
+      "Parker-Hannifin (PH) Has Investors Looking Closer After Its Latest Update - Simply Wall Street",
+      "Parker-Hannifin (NYSE:PH): A Quality Investing Case Study - ChartMill"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為Mitsubishi Electric、ABB、CAT相關動態：「ABB joint venture with Mitsubishi Electric to expand posi...」。主要關注主題為產業通用、財報、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ABB joint venture with Mitsubishi Electric to expand position in Asia-Pacific...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "ABB to pay $495M for 51% stake in low-voltage power distribution JV with Mits...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

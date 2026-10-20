@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-20",
+  "total_events": 27,
+  "by_company": {
+    "hiwin": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "delta": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "abb": {
+      "count": 11,
+      "sentiment_avg": 0.0
+    },
+    "mitsubishi_electric": {
+      "count": 12,
+      "sentiment_avg": 0.04
+    },
+    "tongtai": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "itw": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "parker_hannifin": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 14,
+      "sentiment_avg": 0.04
+    },
+    "industry_general": {
+      "count": 17,
+      "sentiment_avg": -0.03
+    },
+    "automation_capex": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "abb",
+      "to": "mitsubishi_electric",
+      "relation": "co_mention",
+      "co_mention_count": 9,
+      "topics": [
+        "automation_capex",
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ]
+}
