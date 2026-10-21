@@ -1,0 +1,16 @@
+{
+  "total_raw": 379,
+  "dup_title": 206,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 1,
+  "gate2_fail": 9,
+  "passed": 35,
+  "gate2_samples": [
+    "Parker to Webcast Annual Meeting of Shareholders on October 28, 2026 at 9:00 a.m. Eastern",
+    "Fortescue decarbonises mining operations with Delta Electronics - Mining.com.au",
+    "My first 45 days: Building the next chapter of Digital Customer Relationship",
+    "WXV Global Series 2026: DaLeaka Menin claims second Mitsubishi Electric Player of the Week - Women's",
+    "Parker Hannifin Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Ran"
+  ]
+}

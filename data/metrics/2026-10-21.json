@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-21",
+  "total_events": 18,
+  "by_company": {
+    "delta": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "fanuc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "abb": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "mitsubishi_electric": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "itw": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "parker_hannifin": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 9,
+      "sentiment_avg": 0.11
+    },
+    "industry_general": {
+      "count": 15,
+      "sentiment_avg": 0.07
+    },
+    "automation_capex": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "cnc_technology": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "abb",
+      "to": "mitsubishi_electric",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "industry_general",
+        "automation_capex"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:20:44.899074Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-10-21-013",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Japan's Mitsubishi Electric, ABB plan power-distribution JV - MLex",
+      "companies": [
+        "mitsubishi_electric",
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRzhWRnJZcFBFWkFwWWNEdmN3RnNsNzJabW5maVp2LVNHZ2FFbUR5Wkl5TlMyNlFEa1dsSjU0QTZXUmdtb2RseFBieVJGVXFQSW5UNE9uN2JraktSUVFzOTE2dTJGWjZobFlpdjlXaUo4b0x5YXFqanVVM0kxR0Zjcm9uTTZZblZQUkR6SVNQaU1tY2FYLWRLZDJpaTJ6bF80Y1lJ0gFaQVVfeXFMT21BVnpiV05yZWtwdU9KRzFuVllfNTZyVUVldXU4dDB0YmFoMjFoUzQyaWhUeWQ3QmEyU3JhMl9NS2ZiaFRSa0lJb1hSMTkybzJoc1dRVFFMVTZn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-10-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Expands VP3000 Series with New VP3000-E Drives for Fluid Applications - Process and Control Today",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQlZLX3V1S09ZTG96S3hNbGVFTmQ4WExaSzhLcmhNZC11WDlqUURRR1FwM1JPdmxPRDA0N1pEcEdjUXFKUzRTLVBsT0o4X1U0ZmFYNTdpRXB5VHVtTFNKY19rUmQ2Z1oyblJwWGtjclNORXNrSzV6cFVzWmFSdGk1R2FvNWU2REM5NFI2U2V5YnB0SHY0MFVnRzlkNXRLWllRd0VtNGFn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "delta-2026-10-21-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics unveils AI power system before results for Delta Electronics stock - AD HOC NEWS",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcDNTNlkzeVprVVlFaURrLUJuRFNZOWJOSE1QOGFjZnhuUUs5Sk42YTI0R3Z2ZWFuZ2VLWWw3RjNPNlU4WWhkSmhXcWpKbmxsTEdrV25GS3d5dnpBbE1USzl4RHZ0SDh3TTJmal8tamlUUW5uR1dkYndCZDU5Z3RfSDUtT1M4T2MxdFNwaGF6WnN2MUVxOEtleGF5alFJT1dIMnAzWTNuckJOTG5IQVRkdS1ETmRvaE5RczU2bGdicDlwSGExR0E2UUVfNWUwakdmRDQ2RnYzR0dYYUpGWEJkcA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "delta-2026-10-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics, Delta Expands AX-5 Automation Platform with Integrated Functional Safety for Smarter Machine Automation - Process and Control Today",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQM21RTnNEZEVfOG5IR0Ztb0xTMTNOLVVobkIzSUlrOXJNUG4xRko0QzlWSXFlMk5sdXZpN3FlcUlHMTFXUjEyNWJwaU9teE5HOUpIOWpRck1NcDhfMWZsSllEZXE4MVVta0VvenAxU25NSDV4a1dJSVNRV1BPVW0zWDNKT2I4eGVnUlBJRzJOenktbkdzU0dSYmFNc2xoVEcwUkxqSzRpZGNuQ2p2YklTdWR0M2poUFNjQVJaWjhwZFBOLU1XaEh3SmhUeldnOTVQVk96N2xRbDY4WllHRjU2NTZ4OA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mitsubishi_electric-2026-10-21-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric Develops Physical AI System Linking Humanoid Robots With CNC Machines - AI Insider",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "cnc_technology",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU2V3WXRDTXFONHM3YzFvR1pEMjVSeUlyUDBCdjlWekZGZFBLYnphbi13cjdSbW9WcWMySXRpT0NLUjktU0x6S0xRaWRnMFlZdVJldnl0VjNnWVlWa01XenN3Y3pKT2lhaURwR204ZFdPRjItU1llTGp0cWFGVlAyRkowVnlEWkdRdUJYWTNUMFFtSzRuWVZQekY5RmlnQVYzaElkd3BFQ2tmYjNVSUhPc21BUndYRXlYaXJqNW9BRzM0eHlxSGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cnc_technology": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "abb",
+      "to": "mitsubishi_electric",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "industry_general",
+        "automation_capex"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 7
+      },
+      {
+        "id": "delta",
+        "count": 4
+      },
+      {
+        "id": "abb",
+        "count": 4
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "fanuc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "automation_capex",
+        "count": 9
+      },
+      {
+        "id": "cnc_technology",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 379,
+    "dup_title": 206,
+    "too_old": 128,
+    "gate1_blocked": 1,
+    "gate2_blocked": 9,
+    "passed": 35,
+    "pass_rate": "20.2%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Parker to Webcast Annual Meeting of Shareholders on October 28, 2026 at 9:00 a.m. Eastern",
+      "Fortescue decarbonises mining operations with Delta Electronics - Mining.com.au",
+      "My first 45 days: Building the next chapter of Digital Customer Relationship",
+      "WXV Global Series 2026: DaLeaka Menin claims second Mitsubishi Electric Player of the Week - Women's",
+      "Parker Hannifin Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Ran"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Mitsubishi Electric、Delta Electronics、ABB相關動態：「Japan's Mitsubishi Electric, ABB plan power-distribution ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Japan's Mitsubishi Electric, ABB plan power-distribution JV - MLex（自動化資本支出、財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Delta Expands VP3000 Series with New VP3000-E Drives for Fluid Applications -...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
