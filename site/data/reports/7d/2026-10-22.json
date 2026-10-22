@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-22",
+  "date_range": {
+    "start": "2026-10-16",
+    "end": "2026-10-22"
+  },
+  "generated_at": "2026-10-22T13:20:32.789321Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "mitsubishi_electric-2026-10-20-005",
+      "date": "2026-10-20",
+      "title": "ABB joint venture with Mitsubishi Electric to expand position in Asia-Pacific markets - ABB",
+      "importance_score": 0.95
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "abb",
+      "company_b": "mitsubishi_electric",
+      "co_mention_count": 17,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "automation_capex": {
+      "this_week": 35,
+      "last_week": 22,
+      "week_over_week_change": "+59%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 64,
+      "last_week": 55,
+      "week_over_week_change": "+16%",
+      "sentiment_this_week": 0.02
+    },
+    "industry_general": {
+      "this_week": 86,
+      "last_week": 62,
+      "week_over_week_change": "+39%",
+      "sentiment_this_week": 0.01
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "cnc_technology": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "delta": {
+      "event_count": 13,
+      "sentiment_avg": 0.08,
+      "rank": 5
+    },
+    "mitsubishi_electric": {
+      "event_count": 45,
+      "sentiment_avg": 0.01,
+      "rank": 1
+    },
+    "okuma": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "itw": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "parker_hannifin": {
+      "event_count": 18,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "caterpillar": {
+      "event_count": 18,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "hiwin": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "abb": {
+      "event_count": 18,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "tongtai": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "fanuc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 184,
+        "last": 188,
+        "change_pct": -2.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-16",
+      "event_count": 29,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-17",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 37,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 44,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 32,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-22",
+      "event_count": 15,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-16 ~ 2026-10-22）共 184 則事件，重點為「ABB joint venture with Mitsubishi Electric to e...」。產業通用、財報、自動化資本支出為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Delta Electronics",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Mitsubishi Electric",
+        "reason": "本週出現 45 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Okuma",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

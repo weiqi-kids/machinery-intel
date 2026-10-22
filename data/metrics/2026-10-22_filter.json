@@ -1,0 +1,16 @@
+{
+  "total_raw": 394,
+  "dup_title": 205,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 2,
+  "gate2_fail": 5,
+  "passed": 39,
+  "gate2_samples": [
+    "Fortescue decarbonises mining operations with Delta Electronics - Mining.com.au",
+    "From power to AI readiness: The architecture decisions behind TeraWulf’s AI & High-Performance Compu",
+    "My first 45 days: Building the next chapter of Digital Customer Relationship",
+    "Taking a look at the Caterpillar TUL100 stand-on mini track loader - Landscape Management",
+    "Weir names ex-Caterpillar exec Marc Cameron as President of Minerals Division - International Mining"
+  ]
+}
