@@ -1,0 +1,14 @@
+{
+  "total_raw": 384,
+  "dup_title": 216,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 1,
+  "gate2_fail": 3,
+  "passed": 29,
+  "gate2_samples": [
+    "HIWIN Technologies Unit Plans NT$360 Million Share Issue - www.marketscreener.com",
+    "From power to AI readiness: The architecture decisions behind TeraWulf’s AI & High-Performance Compu",
+    "Parker Hannifin Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Ran"
+  ]
+}
