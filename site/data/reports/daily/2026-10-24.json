@@ -1,0 +1,242 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T12:22:32.445988Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "abb-2026-10-24-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric, ABB form joint venture for power distribution business - digitimes",
+      "companies": [
+        "abb",
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzFMYW9USEhFTXFEX05zTjRZSjF2WC0wR1BwV0RJbVhiTzcxc1VGYWY0dHlsUENnZ2lfSlkzZTJLNURXemJkUmRRM2l3ZEU4YVZNdy03d210U3k5c0NScnpsRWpQODZFQ2pacTVFOXozTVVsOTMyRzlVeV9jOHdvT0pSUFdhVkQyTFQ3Z29kT19tWlBRMzFhS2FPQ2VLSU5KTldlVzVB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "abb-2026-10-24-003",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "ABB and Mitsubishi Electric to Form Joint Venture for Low-Voltage Power Distribution in Asia - Machine Maker",
+      "companies": [
+        "abb",
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUjZjOWhTLWdfLXBOektQZkxSYlhudVFwNkF5aFI2ajZIZVRTOTVfcTgyWlpETzFzaTBWdFQxQVc3S0ZlUVFrc0pkRmVkYlA5cFE0cGc1OGNwMFRtUDA4VWdyZ2pQNTBXSi1SOVBVUEJDYTlqaXQwdjEyODN6UkV1am5iU2RkMXl5QmF1SEEtOGlDVVVjTldSQ2VSWUtnanlhdmE4Y2JYeWZMNEdOc2F1VzRKaFRjYTlTTy02WHhZRmg1S08t?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "delta-2026-10-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Retail Investors Are Watching Delta Electronics Stock For AI Data Center Demand - Simply Wall Street",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbzExdVR0ZUIzQTZRNVhUaGd2dkVlZjBhZUdDdDU2eW5heWlLWE4zQmZSRnBZaXZLTmU0amtuNmllYWJMY21lck1wbmduWVhfR0pwSEpJNHVydS11dDg2cTJEWEZxREVjVHN2ZlJJSll6ckswQTM5MlkzeFlhS2VkR2FmMU9Ba1ZNcWZPTzBKMVNQTWM2Y2V3ZkUxRFhJUmVkNklaT3g0dV84ZWw1eVBpWk5DVG9WY2t0YTNMMnFUUUZvWEdlcmh3LW5oTjNfMGZpYmVkbTdLRDjSAdgBQVVfeXFMUG8xMXVUdGVCM0E2UTVYVGhndnZFZWYwYWVHQ3Q1NnluYXlpS1hOM0JmUkZwWWl2S05lNGprbjZpZWFiTGNtZXJNcG5nbllYX0dKcEhKSTR1cnUtdXQ4NnEyRFhGcURFY1RzdmZSSUpZenJLMEEzOTJZM3hZYUtlZEdhZjFPQWtWTXFmT08wSjFTUE1jNmNld2ZFMURYSVJlZDZJWk94NHVfOGVsNXlQaVpOQ1RvVmNrdGEzTDJxVFFGb1hHZXJody1uaE4zXzBmaWJlZG03S0Q4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tongtai-2026-10-24-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tongtai Machine & Tool Co., Ltd Estimates – TWSE:4526 - TradingView",
+      "companies": [
+        "tongtai"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsYlZJRWhlNjFFZFVGZ01QSVltWDgwUnZqVkJ1OE4yT3FyNFlrWm80Q25sbFpzVTM1VGQ3RExndkNyangwTW91cVpNYmFiWkJYYkprS2RpbHpPbkVESWVWcnVvMDlyY2tFVTFVaS13d2hiZHNpdkE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-10-24-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Caterpillar Is Quietly Becoming an AI Stock. Here's the Segment Growing 72% That Proves It. - Yahoo Finance",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTUNwa0o0U2pLQWMwbnJZWVAzREVDV2xVQ3NuX09BRlhBWmlzWVoyVEw4MHhITjdlQzM2UnUxYVFOSlNBa1A2bllCN25LUFFMdXpPbHdSVHdjVlgxblNtQnFVNjQzTThod1pvc1BVNmNXWGtLdWFzN3RIN1NHZ0YycHlva1NpT0ZvWFpydEUzUHhjLU5zaVUyTjVSSWtEVGY0Wm40?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "abb",
+      "to": "mitsubishi_electric",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "abb",
+        "count": 2
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 2
+      },
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "tongtai",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 387,
+    "dup_title": 223,
+    "too_old": 136,
+    "gate1_blocked": 2,
+    "gate2_blocked": 6,
+    "passed": 20,
+    "pass_rate": "12.2%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "HIWIN Technologies Unit Plans NT$360 Million Share Issue - www.marketscreener.com",
+      "Airtac International Group Estimates – TWSE:1590 - TradingView",
+      "Illinois Tool Works (ITW), What Is Behind The Mixed Signals Now? - Yahoo Finance",
+      "Illinois Tool Works Inc. Estimates – HAM:ILT - TradingView",
+      "Parker Hannifin Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Ran"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為ABB、Mitsubishi Electric、Delta Electronics相關動態：「Mitsubishi Electric, ABB form joint venture for power dis...」。主要關注主題為產業通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mitsubishi Electric, ABB form joint venture for power distribution business -...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "ABB and Mitsubishi Electric to Form Joint Venture for Low-Voltage Power Distr...（財報、產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
