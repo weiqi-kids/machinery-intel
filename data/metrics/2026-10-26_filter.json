@@ -1,0 +1,16 @@
+{
+  "total_raw": 396,
+  "dup_title": 230,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 2,
+  "gate2_fail": 8,
+  "passed": 18,
+  "gate2_samples": [
+    "HIWIN TECHNOLOGIES CORP. Estimates – OTC:HIWNF - TradingView",
+    "HIWIN Technologies Unit Plans NT$360 Million Share Issue - www.marketscreener.com",
+    "Airtac International Group Estimates – TWSE:1590 - TradingView",
+    "Illinois Tool Works (ITW), What Is Behind The Mixed Signals Now? - Yahoo Finance",
+    "Caterpillar Just Dropped 10% in a Month. Is It Time to Sell, or Load Up? - TIKR.com"
+  ]
+}

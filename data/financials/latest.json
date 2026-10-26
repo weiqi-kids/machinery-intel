@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-25T12:52:52.268321Z",
-  "quarter": "2026-03-31, 2026-06-30",
+  "updated_at": "2026-10-26T14:42:29.984802Z",
+  "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
       "id": "abb",
       "name": "ABB",
       "ticker": "ABBN.SW",
       "currency": "CHF",
-      "ar": 8033000000,
-      "ar_prev": 7606000000,
-      "ar_qoq": "+6%",
+      "ar": 8169000000,
+      "ar_prev": 8033000000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 6471000000,
-      "inv_prev": 6056000000,
-      "inv_qoq": "+7%",
+      "inventory": 7024000000,
+      "inv_prev": 6471000000,
+      "inv_qoq": "+9%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "airtac",
@@ -109,17 +109,17 @@
       "name": "發那科",
       "ticker": "6954.T",
       "currency": "JPY",
-      "ar": 170775000000,
-      "ar_prev": 156804000000,
-      "ar_qoq": "+9%",
+      "ar": 166504000000,
+      "ar_prev": 170775000000,
+      "ar_qoq": "-3%",
       "ar_period": "QoQ",
-      "inventory": 292186000000,
-      "inv_prev": 298082000000,
-      "inv_qoq": "-2%",
+      "inventory": 291462000000,
+      "inv_prev": 292186000000,
+      "inv_qoq": "-0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "goodway",
