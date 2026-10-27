@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T13:47:26.147876Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-10-27-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "DELTA: 9M revenue and profit advanced, led by Power Electronics, despite higher tax and Mobility losses - TradingView",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMXVkMHhEN3Y2SFhWX0x0QW9VSFNjM1hNc1ZndVRvc3AyWTRUREtyY2JmOVNza18zQ0dMT3NkMkc4Mnk4NFNvbVRlVExvNTAwYkxIUDFuMTJfaENBV2lJMGZZd3EwdFVUVkJSOS1ybGlCdm55Q3B5S1JRandMb2tPUVMxVS1ocUZkanNyOVE4c05zZG82MmFJaTM4X1BMaDhyeHBROUJpUk1FNk54bXEtQWo5c3NYSWVJcXBUWWF2NHhEWVgybVZ4b19pelJadkZSM1Zrd2FTcGkwdTBqT2prSUxVdFJxZ1d6TFl0SjhqOVNmWXMyMVJ3UFRpVmhuV3pNaV9DOXlRTV9oa0IyakhIMQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "itw-2026-10-27-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Illinois Tool Works (ITW) Surpasses Q3 Earnings Estimates - Yahoo Finance",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeEd5OUJ5WnBLN1dVSVJtTjdRdUtaMnNhTS1fZVg5Qkh0TWlTUWdXbHQ1S3NyYXVzTTdZYnNETURISldQeWJmNlFQV0lnczkxVGZpVUYwVW1uS2xxeGpQcTVMQzhrbWg0QkVFanB1d0l2Q1Z3RnlwMWF6OWlNWkY5MzhUamN3VVRLM2VlTTJNN1RoSm9NNm1zOG44dUl1V3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itw-2026-10-27-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Illinois Tool Works Reports Record Q3 Operating Income, Raises 2026 EPS Guidance - TradingView",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaUozUG15ZjBSMHRidE1YbnJCdG04bWw4WGlJdUJHdVZIWndDNVdHaU1xU0RiWlVVbWYxcVE3QUZmaVoxNE94b3VjVDhmTXljTVJpcEx5NFNQNDNDMjdQckdLWnpyZXNhTTRKUk1ZQ1NiakZYckxLNDlaN05FLW5GSnVjS2VTbExzTU0waUtqNlhmWll0ZzQtU2w5RlFRb0lUMUVnQ0ItQ0QydUxIRXo2UTdRb29XZ2p3bU9IWG80ako1VUY3dFhOQlpHV1BObjZ1cldhSlI5bTM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "delta-2026-10-27-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics (Thailand) to Inject INR1.97 Billion in Indian Unit - marketscreener.com",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT2FoeVRYUmZpdHN6cUd2RHNSMEY5c2hNYTJGTlU0bHRURjM2bE91Wk9vNHE3ZXJOU00yTzZna3FOM08zRmt3OWNuZkEtWWhhU1dEamFKQ1F4R2NpUkpnQUxZUmFILVZ0TTlfVFI2WEd3dXNQR1lXLUxXSmZ4akhyeldRRkIyRXhSOURCY1Uybl9feG1GQVZvdm1ueWdaZkhBSTlPQ3I1aGxnQjJLcmVEN2JXcUR5bTZUMFpxMA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "mitsubishi_electric-2026-10-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric Obtains ISO/IEC 42001 Certification Under International Standard for AI Management Systems - WebWire",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zcHd0U1ZlXzB5Zkdld0pHc2FCYUdfajFqc3JzSC1JVHlvaXZzVGpYZE9Ncm9RLUQ3aVk0bE5hMnB5dmNfVEdNRnFHQTZfcGpQZC1sRVJ5STY2VFh5d2Z5UzYwZ291Uk5BMVduX1g5OA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 20,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "itw",
+        "count": 13
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 3
+      },
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "delta",
+        "count": 2
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 21
+      },
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "automation_capex",
+        "count": 10
+      },
+      {
+        "id": "guidance",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 363,
+    "dup_title": 189,
+    "too_old": 129,
+    "gate1_blocked": 2,
+    "gate2_blocked": 8,
+    "passed": 35,
+    "pass_rate": "20.1%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "HIWIN TECHNOLOGIES CORP. Estimates – OTC:HIWNF - TradingView",
+      "HIWIN Technologies Unit Plans NT$360 Million Share Issue - www.marketscreener.com",
+      "Airtac International Group Estimates – TWSE:1590 - TradingView",
+      "Illinois Tool Works (ITW), What Is Behind The Mixed Signals Now? - Yahoo Finance",
+      "Parker Hannifin Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Ran"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為ITW、Mitsubishi Electric、CAT相關動態：「DELTA: 9M revenue and profit advanced, led by Power Elect...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "DELTA: 9M revenue and profit advanced, led by Power Electronics, despite high...（自動化資本支出、財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Illinois Tool Works (ITW) Surpasses Q3 Earnings Estimates - Yahoo Finance（自動化資本支出、財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

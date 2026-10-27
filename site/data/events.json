@@ -1,5 +1,491 @@
 [
   {
+    "id": "delta-2026-10-27-001",
+    "date": "2026-10-27",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "DELTA: 9M revenue and profit advanced, led by Power Electronics, despite higher tax and Mobility losses - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxNMXVkMHhEN3Y2SFhWX0x0QW9VSFNjM1hNc1ZndVRvc3AyWTRUREtyY2JmOVNza18zQ0dMT3NkMkc4Mnk4NFNvbVRlVExvNTAwYkxIUDFuMTJfaENBV2lJMGZZd3EwdFVUVkJSOS1ybG",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMXVkMHhEN3Y2SFhWX0x0QW9VSFNjM1hNc1ZndVRvc3AyWTRUREtyY2JmOVNza18zQ0dMT3NkMkc4Mnk4NFNvbVRlVExvNTAwYkxIUDFuMTJfaENBV2lJMGZZd3EwdFVUVkJSOS1ybGlCdm55Q3B5S1JRandMb2tPUVMxVS1ocUZkanNyOVE4c05zZG82MmFJaTM4X1BMaDhyeHBROUJpUk1FNk54bXEtQWo5c3NYSWVJcXBUWWF2NHhEWVgybVZ4b19pelJadkZSM1Zrd2FTcGkwdTBqT2prSUxVdFJxZ1d6TFl0SjhqOVNmWXMyMVJ3UFRpVmhuV3pNaV9DOXlRTV9oa0IyakhIMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-10-27-002",
+    "date": "2026-10-27",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics (Thailand) to Inject INR1.97 Billion in Indian Unit - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQT2FoeVRYUmZpdHN6cUd2RHNSMEY5c2hNYTJGTlU0bHRURjM2bE91Wk9vNHE3ZXJOU00yTzZna3FOM08zRmt3OWNuZkEtWWhhU1dEamFKQ1F4R2NpUkpnQUxZUmFILVZ0TTlfVFI2WE",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT2FoeVRYUmZpdHN6cUd2RHNSMEY5c2hNYTJGTlU0bHRURjM2bE91Wk9vNHE3ZXJOU00yTzZna3FOM08zRmt3OWNuZkEtWWhhU1dEamFKQ1F4R2NpUkpnQUxZUmFILVZ0TTlfVFI2WEd3dXNQR1lXLUxXSmZ4akhyeldRRkIyRXhSOURCY1Uybl9feG1GQVZvdm1ueWdaZkhBSTlPQ3I1aGxnQjJLcmVEN2JXcUR5bTZUMFpxMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-27-003",
+    "date": "2026-10-27",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Obtains ISO/IEC 42001 Certification Under International Standard for AI Management Systems - WebWire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5zcHd0U1ZlXzB5Zkdld0pHc2FCYUdfajFqc3JzSC1JVHlvaXZzVGpYZE9Ncm9RLUQ3aVk0bE5hMnB5dmNfVEdNRnFHQTZfcGpQZC1sRVJ5STY2VFh5d2Z5UzYwZ291Uk5BMVduX1g5OA",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zcHd0U1ZlXzB5Zkdld0pHc2FCYUdfajFqc3JzSC1JVHlvaXZzVGpYZE9Ncm9RLUQ3aVk0bE5hMnB5dmNfVEdNRnFHQTZfcGpQZC1sRVJ5STY2VFh5d2Z5UzYwZ291Uk5BMVduX1g5OA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-27-004",
+    "date": "2026-10-27",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Vietnam and Hitachi Digital Services complete SAP transformation - Vietnam Investment Review - VIR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlE1Q29jdG1OaEgwY3NpWXNHb2d5ejVmR0lNUUdMYzBUTDM5bGw4SmdwcXhOaGpQM2pDd0NnX294dG9uRTNBSHgtMTVjanc4cDhZZFctbzVudEc4YTdoSzd3SVdfeEFvem1EdFJwa0",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlE1Q29jdG1OaEgwY3NpWXNHb2d5ejVmR0lNUUdMYzBUTDM5bGw4SmdwcXhOaGpQM2pDd0NnX294dG9uRTNBSHgtMTVjanc4cDhZZFctbzVudEc4YTdoSzd3SVdfeEFvem1EdFJwa0FMV0gtekdCMTZIZUNtajBiSTJWaW9YX0E4RU4wWEtPVVRLSU5wVnoyT1R3UGtnY1pUaGZKT0N0OW5HQ043eG1VYXNMX3VpUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-27-005",
+    "date": "2026-10-27",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Opinion | Foxconn and Mitsubishi Electric: A Promising EV Alliance, but Execution Comes First - 橙新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc3hvNUdmUnJWcC1EZDFUa2tkMXJKLUlEajUydkFZY0JoQTlJRTYwYkhfMUF0cFZYMDA4NFpIQ0t4a1V6bVAxMDZ6dC1jU2lpeGY5ZzhEUk5iSV90QVVtYnJxQlJpSk5CNmlOeGVpRm",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc3hvNUdmUnJWcC1EZDFUa2tkMXJKLUlEajUydkFZY0JoQTlJRTYwYkhfMUF0cFZYMDA4NFpIQ0t4a1V6bVAxMDZ6dC1jU2lpeGY5ZzhEUk5iSV90QVVtYnJxQlJpSk5CNmlOeGVpRmhGUkdwLUdlbC1GYVRoOHJxY3l3NUpaVlVqRnJyQ2s4Vko5RjJVRTRXdkxZRWszX2ZxY1JOVFp6RVBQTTFubDFaOUZEbGdFbTF2VFgzVHNPSmlBT3BWdDlJcVRDZ2NueFl4SjY0TnduWTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-27-006",
+    "date": "2026-10-27",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works: Q3 Earnings Snapshot - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORWwyOVBHSXdnamdwOElzNVBUXzFIVl9TUnNJQ2J2UDFvMXEzazRBbVlpSEpQTXFDWENyeVp4SUVRdHA5SElKQTFLd1djaTg0dlotNllQVHptb0M5d2JzWG9pMDkyTlYzRkhWSGZqVD",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWwyOVBHSXdnamdwOElzNVBUXzFIVl9TUnNJQ2J2UDFvMXEzazRBbVlpSEpQTXFDWENyeVp4SUVRdHA5SElKQTFLd1djaTg0dlotNllQVHptb0M5d2JzWG9pMDkyTlYzRkhWSGZqVDNXRXUzQ0R2aEFUYjRBU3ozSVFBSzZ4Q09LUnZnT3BPa25wa3RCUEwxaHFtZy0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-27-007",
+    "date": "2026-10-27",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (NYSE:ITW) misses Q3 2026 sales expectations - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaU84NVJRQzVRS2RLMVBpR0ZILXQzOVh5Z0RxZUFZakREY0h5dndYZlJpZVdSTGk0anVndDFpblZMWWNLUk4tVDE5X2tySkZfQ2lxY0lhQ0FEUHA4MVR5ajhNRlRNRUFtRWZxbTQxMm",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaU84NVJRQzVRS2RLMVBpR0ZILXQzOVh5Z0RxZUFZakREY0h5dndYZlJpZVdSTGk0anVndDFpblZMWWNLUk4tVDE5X2tySkZfQ2lxY0lhQ0FEUHA4MVR5ajhNRlRNRUFtRWZxbTQxMmV3bGlacHFtcWhjSDRVbXA1X1RxSUliTV9vRXBaNmcxOFRzZW83M250R1Ntd1RjWlI3anNtQ25KeTQxQkV1VjVUX0kxT3Z5SDh0VkV4LWNndmw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-27-008",
+    "date": "2026-10-27",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works: Q3 Earnings Snapshot - Ottumwa Courier",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOanIyRkxtNFVjVEp0ODBSN1RwNTBFWTRqQ2lORi1pVlJraVhyQUJOeWlUeWlNb0JwTC1peGlpYlpJSlZsem9EbE9xalRZdlhlRWo3Y2JqMy1PcXI0OUhVQzZqMDRtVUF2cmVDNHhEY2",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOanIyRkxtNFVjVEp0ODBSN1RwNTBFWTRqQ2lORi1pVlJraVhyQUJOeWlUeWlNb0JwTC1peGlpYlpJSlZsem9EbE9xalRZdlhlRWo3Y2JqMy1PcXI0OUhVQzZqMDRtVUF2cmVDNHhEY25SSGxGUGJwSnFmLXRlM01SQ09fckZIYmxpSlJISV9QRlZwVF90eGtRVUswUndLWUFja2g4WEpyOC1RbWtCXzZobkdSU01JMGNaQmctY0RVd28yMlFMalpZYjdNWlB5UmhudDJBaFdxTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-27-009",
+    "date": "2026-10-27",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works: Q3 Earnings Snapshot - Clinton Herald",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc0FNQ25tekM0Q0paX0hYODhtN0pZUnpQZUxkcXo1cmw2djN2bGRUeUJRSHVjb1NOZDZsMzUtbUVzYm9ZNVZ1a2JDRGRNaWFGUXZLajBZNjVYSkFXdDhuY0hCb0ZnTUlEUHlWY3VHaU",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc0FNQ25tekM0Q0paX0hYODhtN0pZUnpQZUxkcXo1cmw2djN2bGRUeUJRSHVjb1NOZDZsMzUtbUVzYm9ZNVZ1a2JDRGRNaWFGUXZLajBZNjVYSkFXdDhuY0hCb0ZnTUlEUHlWY3VHaURVd3I3cFpUZE1BbERkOEJDcjlRbVFHZDlmTFdJTm5yNWFnVjZVQ0lYZ2E3Zm0zWWdUNkRnOWh0dkJZQ2o4NHRhT1V6MENYbFBNS19FWFVxZE9BV2YyRXlDVzZQaGxrV190UmJiWjlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-27-010",
+    "date": "2026-10-27",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works earnings beat by $0.03, revenue fell short of estimates - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOYmZ4dnprTDM4cl9hOFhpNkx3SFY1dFJwazJNM2VURnhyRkZsczBBbGNfcjlFU1hRbHV0QjdyYTJmRVNzMXhySkhpTUdpZEl2WlFqT0c4S2hGdTlzOUltMDV1eGpzbnNvajR0dE5zNl",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYmZ4dnprTDM4cl9hOFhpNkx3SFY1dFJwazJNM2VURnhyRkZsczBBbGNfcjlFU1hRbHV0QjdyYTJmRVNzMXhySkhpTUdpZEl2WlFqT0c4S2hGdTlzOUltMDV1eGpzbnNvajR0dE5zNll4MUtrMEp5amVhTkFMWmV3VGZ4Vmg0Q2pJbmFjMWFHZ3lOc3RqcUVDbzdaSXpTN29VWUpIQk95LXZXeTRBREk5VmxXN3hSTWd4bWdOcA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-27-011",
+    "date": "2026-10-27",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "(ITW) Illinois Tool Works Expects 2026 EPS Range $11.45 to $11.55, vs. FactSet Est of $11.43 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSDdMWVhrWFhCT3BrRGg0NVl4VlRlLW12Q2xJeFdaREJxM0pDZE5xU09RdUFZcnNITWdzWTNjU2tDOU5ZZEIyX1F3UllHTkFYckkybFdwemlGNmNXY0dLRzEtbWxFNkFBaWNfUkxsSE",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSDdMWVhrWFhCT3BrRGg0NVl4VlRlLW12Q2xJeFdaREJxM0pDZE5xU09RdUFZcnNITWdzWTNjU2tDOU5ZZEIyX1F3UllHTkFYckkybFdwemlGNmNXY0dLRzEtbWxFNkFBaWNfUkxsSEVaYl9fM2xxZE5hRzBVVFo0QXFlVEhSUmh6VGhPMWtlRm56VDROYWpqY19sX1VaaGMwb1l5eHE2ZUVPTnM3alkwSmkzRmhfV24zQW5kQ3lOZUpVQTB1TFRVazNpNGkyOUVvTEVrUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-27-012",
+    "date": "2026-10-27",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (ITW) Tops Q3 EPS by 3c ; Offers Guidance - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPN2kyemZrak5EbDRuN2g0bmNUQUgyR2diMWtUR1VwWWUtS0hfOWh0V3FSd08zXzViMTBFbkdTRUNZcDBwc2VTTFROaTU3YTYwYS1aczZXNG1Ldl9KM0o3MXEzanRwZVFUNzJZNmFuRE",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN2kyemZrak5EbDRuN2g0bmNUQUgyR2diMWtUR1VwWWUtS0hfOWh0V3FSd08zXzViMTBFbkdTRUNZcDBwc2VTTFROaTU3YTYwYS1aczZXNG1Ldl9KM0o3MXEzanRwZVFUNzJZNmFuRE4tMlBZRmUyOW1SZDgzckNBeUpFR1p2em1wYjltMVo3M29VQWh2X1pDbHVQMjNKUU1GM1hUQlcyUHZWcS1pU2prUUx6UHNidmRSbzhPYg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-27-013",
+    "date": "2026-10-27",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Illinois Tool Works (ITW) Surpasses Q3 Earnings Estimates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQeEd5OUJ5WnBLN1dVSVJtTjdRdUtaMnNhTS1fZVg5Qkh0TWlTUWdXbHQ1S3NyYXVzTTdZYnNETURISldQeWJmNlFQV0lnczkxVGZpVUYwVW1uS2xxeGpQcTVMQzhrbWg0QkVFanB1d0",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeEd5OUJ5WnBLN1dVSVJtTjdRdUtaMnNhTS1fZVg5Qkh0TWlTUWdXbHQ1S3NyYXVzTTdZYnNETURISldQeWJmNlFQV0lnczkxVGZpVUYwVW1uS2xxeGpQcTVMQzhrbWg0QkVFanB1d0l2Q1Z3RnlwMWF6OWlNWkY5MzhUamN3VVRLM2VlTTJNN1RoSm9NNm1zOG44dUl1V3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-27-014",
+    "date": "2026-10-27",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ILLINOIS TOOL WORKS ($ITW) Releases Q3 2026 Earnings - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNMHNWWXlmbF9yNUlheVByVjdYUk4zZC0tLXBJcWVCS3pDOVRIR3phRVdnU2YwY3d4dkFyY3NOT0didHRkbGppM0dwcng1cDZJWW1OYTI2RFZYc2JKejFtTnpkWEtYS0d3S2VvZU5CY2",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMHNWWXlmbF9yNUlheVByVjdYUk4zZC0tLXBJcWVCS3pDOVRIR3phRVdnU2YwY3d4dkFyY3NOT0didHRkbGppM0dwcng1cDZJWW1OYTI2RFZYc2JKejFtTnpkWEtYS0d3S2VvZU5CY2Jhb2dEREY1YmlqT3JaQUt1YjFhU0xHVVF4N05EbklWY1FYblNINXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-27-015",
+    "date": "2026-10-27",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "Illinois Tool Works Reports Record Q3 Operating Income, Raises 2026 EPS Guidance - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaUozUG15ZjBSMHRidE1YbnJCdG04bWw4WGlJdUJHdVZIWndDNVdHaU1xU0RiWlVVbWYxcVE3QUZmaVoxNE94b3VjVDhmTXljTVJpcEx5NFNQNDNDMjdQckdLWnpyZXNhTTRKUk1ZQ1",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaUozUG15ZjBSMHRidE1YbnJCdG04bWw4WGlJdUJHdVZIWndDNVdHaU1xU0RiWlVVbWYxcVE3QUZmaVoxNE94b3VjVDhmTXljTVJpcEx5NFNQNDNDMjdQckdLWnpyZXNhTTRKUk1ZQ1NiakZYckxLNDlaN05FLW5GSnVjS2VTbExzTU0waUtqNlhmWll0ZzQtU2w5RlFRb0lUMUVnQ0ItQ0QydUxIRXo2UTdRb29XZ2p3bU9IWG80ako1VUY3dFhOQlpHV1BObjZ1cldhSlI5bTM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-27-016",
+    "date": "2026-10-27",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Form 8K Illinois Tool Works Inc For: 27 October By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNnJjNEpfR0lIZmtQTTc0T0RjMWtZdFVGOWlKLUl1aUR5VEZyWjVHdHhuZkJmQmd2X0ZNRnBHS1pGczNQR2JFZHQ3NGsyT0FTbkJ0Nk16SkpUM21lTDFyc1AzelVKQS1pdlpGZkVYRU",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNnJjNEpfR0lIZmtQTTc0T0RjMWtZdFVGOWlKLUl1aUR5VEZyWjVHdHhuZkJmQmd2X0ZNRnBHS1pGczNQR2JFZHQ3NGsyT0FTbkJ0Nk16SkpUM21lTDFyc1AzelVKQS1pdlpGZkVYRUotT3BxTlZJVENiQ1BXVFVCNTNCOUZVYVBwY3FTNTVDVUQ2QWtiNDRHUzNiczhISmZxX3dFMHJNdUFSMmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-27-017",
+    "date": "2026-10-27",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works earnings beat by $0.03, revenue fell short of estimates - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV1pkckRFTjd0SmdLaHZSSjUzbk1WLTZON2FHeXl3UzhwOUxjVkxVS01pbk5qWlg3M183Zk50OU1tQU9SRE9FajVYMk85RXVfeUVrWERiYUU0YlFXZ0M0cFE5VE5wVmJLX2ZtOTlLb3",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV1pkckRFTjd0SmdLaHZSSjUzbk1WLTZON2FHeXl3UzhwOUxjVkxVS01pbk5qWlg3M183Zk50OU1tQU9SRE9FajVYMk85RXVfeUVrWERiYUU0YlFXZ0M0cFE5VE5wVmJLX2ZtOTlLb3hNcGxvb1dlQ0NvYnJmemM3b0hKaFVNOFUyVWQ3VmFRWFhwNmg1OHhOU3RzUnRUMjFkQkdXUmlTSE5ramg1bHI4Qzc1UVlLNkR2d2xn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-27-018",
+    "date": "2026-10-27",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Form 8K Illinois Tool Works Inc For: 27 October By Investing.com - Investing.com UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1lrX3RtcWJJX3V1TEpybXo4NElSRXBuQVpqeVJ2MDZVZ2F2LU1LTmpWNjhBZWNlcDVnRnAyYngyRHVEVWllV2R1QTM5ZkphcmdqamVldWxaaFpxN1VPV2c3MTZ5bUc2Ukc1YU10ZE",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1lrX3RtcWJJX3V1TEpybXo4NElSRXBuQVpqeVJ2MDZVZ2F2LU1LTmpWNjhBZWNlcDVnRnAyYngyRHVEVWllV2R1QTM5ZkphcmdqamVldWxaaFpxN1VPV2c3MTZ5bUc2Ukc1YU10ZEtucnFZajBPZzZIUVdJWWQtMzZJY1VuM3B3Z3dsQUEwQkFkU3BCTUFxcFppbTRKd3FxYkIzd2s3VFBzXzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-27-019",
+    "date": "2026-10-27",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Parker Hannifin Stock's Earnings Outlook Means For Shareholders - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOclNVeWlsSEhNWG84SFAxQUYwaWliTlN1TW9nX0psS1FBRlEtaWFuTHhKZV91SjMwNzlfTnhsMklvQWFqamdxa1FSTDhfRmV0aC0xLXZSQUVQLUlzaXJjN2JFQkpzSzR5X0xRbG16eF",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOclNVeWlsSEhNWG84SFAxQUYwaWliTlN1TW9nX0psS1FBRlEtaWFuTHhKZV91SjMwNzlfTnhsMklvQWFqamdxa1FSTDhfRmV0aC0xLXZSQUVQLUlzaXJjN2JFQkpzSzR5X0xRbG16eFNuQTVKaXhudTZJNF9EV1E5enFMZHplZUExQzdIQkFYb2t5RlFadHdWNTl2aTV3RnlaMGc2WW1vUGN6V0JxM09laEtuaFF4NHJRX2R0M1IyRXI0SW9jc0tOSlZjSi1tcUk30gHWAUFVX3lxTE42QzJEdmEwMW01enNvcjVEZlBxN1c0c1NwSkZlZ2JLWkN2Mm5nSm9sbllMeG13UXI5bjFYXzU0SGVoOUpodDVfeEdneVVENF9wSmc1MGJuMFd3bjJlc04yX1pfN0ZSRlFMNjVMTjJHY1BLOUljY25TSnJsT2pDQTgwTUtSY09NMlVzTVBhZkp1Nl9iZGYtbTFIcVJRa3F4RDRjR1JtclQ4WFhNOGFrTHZMOVhIcFl2RHg0dFRFRTN2UVBuenVweFM3Y1NxSzc3LTNKTXFyN1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-27-020",
+    "date": "2026-10-27",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Stock: Sigma Planning Corp Grows Position - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXZwRjg1bmRRYjdCTlQxS3dLNjFKRXhSWWoyb2dWSkh0clNkNXo4Qk1CY05EUXl6VEhKcHBLT3V0Rm92UzB5akRKZk12aVZzbkdNdjU5OTFjWFpCU18tUFB6S2VaVXlDbzNzMFE2c1",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXZwRjg1bmRRYjdCTlQxS3dLNjFKRXhSWWoyb2dWSkh0clNkNXo4Qk1CY05EUXl6VEhKcHBLT3V0Rm92UzB5akRKZk12aVZzbkdNdjU5OTFjWFpCU18tUFB6S2VaVXlDbzNzMFE2c1hfajF6QkNmYWN4bWo1a2xBLXYyb3VhSU5wWWxkcGRnTzJKOXNXemFTNkZOdGpIUUE1ZHh1UFg0OHZISnN3MElhQ3l5REV4QVEySTRDNFJ2QUxqMl94ZGdQUGlIejg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-27-021",
+    "date": "2026-10-27",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar mounts landmark legal test of UK’s post-Brexit tariffs - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0xWTlFHR3Y4MzBRSk1KSDZHaFI2amJZQnd6RGxRRXBmcFd0cmw5eHhvOEVHTzNQZkVjcmFaWW94enR1dXBGVlhxR2Fyd3VBaGRPSUVETS1xZ3ZPWmI5Z050clpDVHUxMXVmU0J5Mk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0xWTlFHR3Y4MzBRSk1KSDZHaFI2amJZQnd6RGxRRXBmcFd0cmw5eHhvOEVHTzNQZkVjcmFaWW94enR1dXBGVlhxR2Fyd3VBaGRPSUVETS1xZ3ZPWmI5Z050clpDVHUxMXVmU0J5Mk0wS3dPOVNPdTZiVGs1TF9EV3lIc1A?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-27-022",
+    "date": "2026-10-27",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar vs. Deere: Which Heavy Equipment Dividend Is Growing Faster? - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPbmNHSVh1NGRfTmNmSWkxbDBuR2xvMlVUNGNTWl9oYWVuUmRqNlp1NHNuTEJMelFmYjRfRjcwelRSdVdZSFlKWk1tYUNIY0xWMXJ2N25vTzI0RHhLUjJSRmt0RmxFM0ZEVkRTNEtKWW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbmNHSVh1NGRfTmNmSWkxbDBuR2xvMlVUNGNTWl9oYWVuUmRqNlp1NHNuTEJMelFmYjRfRjcwelRSdVdZSFlKWk1tYUNIY0xWMXJ2N25vTzI0RHhLUjJSRmt0RmxFM0ZEVkRTNEtKWW9GYTE0b0kxeHNxdm96VjhUb1RkaHFLaTZ4azdYX2hpblozQmNnMjVXYWlmWUNWWlIwR1pLd2UyY0thSlVadU5RWWNzdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-27-023",
+    "date": "2026-10-27",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analysts Have Conflicting Sentiments on These Industrial Goods Companies: Caterpillar (CAT) and Comfort Systems (FIX) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxNR2lfbEJUN1JIclB4dkVjVmFCb1RzNGQwUEtmQmRpRUt4WjdEakF5RnFLMlJ5NnVMdW8wa1FILVdXbHhKNUJ5cUxEeFctanlpekhRbXU0djlrZXk2SklONWR1MFNMVVBqYkVmSXZNZ1",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNR2lfbEJUN1JIclB4dkVjVmFCb1RzNGQwUEtmQmRpRUt4WjdEakF5RnFLMlJ5NnVMdW8wa1FILVdXbHhKNUJ5cUxEeFctanlpekhRbXU0djlrZXk2SklONWR1MFNMVVBqYkVmSXZNZ1ZQOWUtWVM4WXd6WnJlZXZ0ZVR0OWRPVlZiSnc1cFRXMkJiNUw0dHVGLTVBVzZ2bzQ0UFlTcVpUYXRsMVVtZE5Fb2Ewdk5NU1VPN0VRUnduVHFTdkpzU2ZTWnBOQnB6ekIzQ2dHMHp5ZUhsZ1JycUhhMXc2bnIxUnp5VHNDWWlRMENqc2V1eFV4OVJ5RWxIM3dDREZ6Z0VubE5kRVZBVzFrQ0YyZzgxV3hMNkRKT2VJOEdjZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mitsubishi_electric-2026-10-26-001",
     "date": "2026-10-26",
     "companies": [
@@ -273,6 +759,130 @@
     ]
   },
   {
+    "id": "mitsubishi_electric-2026-10-26-014",
+    "date": "2026-10-26",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric celebrates factory opening in Western Pennsylvania - Pennsylvania Business Report -",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWw0eVF6YW9BTlVsQmY2cjRvVS1ZYkFOM0x4U3V4a3Q5UlVfSmUyUGp2WjV0QXB2SE10MVNyOTJTQ0kzYURFbTdWWkUxeU9iVDFTTk1RZERWS0lGT2dmeEpMMnc4NmZEMVdySHkwX2",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTWw0eVF6YW9BTlVsQmY2cjRvVS1ZYkFOM0x4U3V4a3Q5UlVfSmUyUGp2WjV0QXB2SE10MVNyOTJTQ0kzYURFbTdWWkUxeU9iVDFTTk1RZERWS0lGT2dmeEpMMnc4NmZEMVdySHkwX21nekRiOG5yNUlPdzUzTzAzX3ByYlpCempGOVRXcC1vbWdKbXJJLUN2eGlPeHd6NnVfbHpUWEhQZ2FSN0V2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-015",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Gears Up to Report Q3 Earnings: What's in the Cards? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ1llbllxVmFhNFRwQUNRUFV4U2dQWDZ0ZVpIMk4weUctM0FSbDNzUHFTa05aX2p3X2pZdkJjS1drSXo5QVBFREItZHRvNVl2aG1oQkJocUNfY2NldUNodTBZMmxkWnRlNDFIMEJpUm",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ1llbllxVmFhNFRwQUNRUFV4U2dQWDZ0ZVpIMk4weUctM0FSbDNzUHFTa05aX2p3X2pZdkJjS1drSXo5QVBFREItZHRvNVl2aG1oQkJocUNfY2NldUNodTBZMmxkWnRlNDFIMEJpUm1JYUdoVkNsMm1UcjRZS2RCTVMxUUhNUmU0cDVfcGlvLUxkSFdTdTBIVWd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-26-016",
+    "date": "2026-10-26",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Illinois Tool Works earnings up next as growth faces PMI test - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPS3NOWmFNWG1IeTEzNGtVSHRfTlZQYmdYalZ2X0pyckdyaGhZLWo0ZjVVUG1ZeDYwNGdvSFR5cE9hLWJzRUlWT25pZERvTHc3bnB0N0dnSlpUc1dtQ1dFbWxqNjcxUkVtU0NHYVNhZ0",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS3NOWmFNWG1IeTEzNGtVSHRfTlZQYmdYalZ2X0pyckdyaGhZLWo0ZjVVUG1ZeDYwNGdvSFR5cE9hLWJzRUlWT25pZERvTHc3bnB0N0dnSlpUc1dtQ1dFbWxqNjcxUkVtU0NHYVNhZ0YyM29MUHp2OFJFT1pqUEVsd1NoVUppbXpydjdkcnlwcExxalllNXZJb1lzODVjSzhobTVHdVptdjlfRkF4eHhrWFQwTEM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-26-017",
+    "date": "2026-10-26",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar hosts 2026 tech days contractor panel - Equipment World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmRZMW5KakhDeWxXdDB6b3lSYlFFMmI0X2VPQjF4ajlDV0dRbTRsanFDdlpPdFRVUlVrakY0VHBQbjNFQW9EU3dmTU9HeUtQdXdhbkpkT2x3X2RWNGxnUW9mS0lNVHdrZnM1aHM0Mj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmRZMW5KakhDeWxXdDB6b3lSYlFFMmI0X2VPQjF4ajlDV0dRbTRsanFDdlpPdFRVUlVrakY0VHBQbjNFQW9EU3dmTU9HeUtQdXdhbkpkT2x3X2RWNGxnUW9mS0lNVHdrZnM1aHM0MjhNb2l6Rlp0N0lseV9UOFBYODZWTFJ3ZU1na1hzSzVPcVpVbGxjLUtVU09ESURGTFZ4bFczNW5IMGFLX2hy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-26-018",
+    "date": "2026-10-26",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "machine_tool_orders",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Stocks Move Higher Before Data-Center Backlog Test - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0w0bEhRZncxa09WTVBMTDd3SnltSDdMejJXQzR0RVpXU1Q2LXM1QmxpZDdTWTJKNnBvVWxybG9rQTZsWW9VSUV3eGs1QW5iYmt5eEUxOWF4WWhjWEs0V1hLR1FKNkNkYmJOVzQ2aV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0w0bEhRZncxa09WTVBMTDd3SnltSDdMejJXQzR0RVpXU1Q2LXM1QmxpZDdTWTJKNnBvVWxybG9rQTZsWW9VSUV3eGs1QW5iYmt5eEUxOWF4WWhjWEs0V1hLR1FKNkNkYmJOVzQ2aVVmUm84aXJ2cFNwcHViYjlSVjk1SzBzYi15VERxWUpQaGlRXzFBcjN5c3NUN2p0NjJOTjlQenRzYm1JTmhueXRhNzJfM0hsVG1tbjhJOEVNbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-26-019",
+    "date": "2026-10-26",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Set to Report Q3 Earnings: Buy, Sell or Hold the Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQMUFqOFpQTDhPdlFBajh6SDRjQkdiSERCTnhyeEc1LXo4a3BMV3hjaXFtcGtZS01iQVR5YkM3UkZkS2stcjU4ZGh3T1dpdk1wZVFValBuWU44cThnLVFQclQ4VWFrb0d1UGZzbUlBcl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMUFqOFpQTDhPdlFBajh6SDRjQkdiSERCTnhyeEc1LXo4a3BMV3hjaXFtcGtZS01iQVR5YkM3UkZkS2stcjU4ZGh3T1dpdk1wZVFValBuWU44cThnLVFQclQ4VWFrb0d1UGZzbUlBclVRc3djd1A2NjlJaXNlRXhJNzRjaG51aTBrVXNXajdMeDFkWkhjUzdLQmF0cU44QzNF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hiwin-2026-10-25-001",
     "date": "2026-10-25",
     "companies": [
@@ -439,6 +1049,49 @@
     ]
   },
   {
+    "id": "parker_hannifin-2026-10-25-009",
+    "date": "2026-10-25",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin (PH) Stock Looks Fairly Priced Following Its 216% Run - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRmZuSmRjUkRPNWtISlE3eHhWNXVMVkZLZnVhdEJJdnFrVjN0WmdjYU5lTGtNVWF4dXBna3RHX0tsVVI1WUxQZng5Yk9TSFFpcnV2SFdFa09YZEdaMk1jTVR0a3BRYUZLTFh3bFA5LV",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRmZuSmRjUkRPNWtISlE3eHhWNXVMVkZLZnVhdEJJdnFrVjN0WmdjYU5lTGtNVWF4dXBna3RHX0tsVVI1WUxQZng5Yk9TSFFpcnV2SFdFa09YZEdaMk1jTVR0a3BRYUZLTFh3bFA5LVJxUHVhczFVMHNkWFlJNTBudm5MN1NKbVJiS1Z1R3o4ZUR4a1dTNUtOMjczQ01HUnNKOHRuQW9fbG5vSFFPMFhEZE5FSXUxMmpNekR5ajhMX05CVG14NHJlQ1ZDWkRTcUV50gHWAUFVX3lxTE1McHc2S0RLX3psSDlObHJjSGItUXYwaG1SdGhJVnE5MndBcnVDZ2poZHdXWWpndVNITGxhSF9oZDBLYUNoQW1aemNibEtsQ3QyanRzLTM5aFVNR0FibTBiUk1ZbkZnMGI1SVRkdzcyWjctWnJwejI2WE93SFF1X2ktWUExX0p5WmVBalZUZXJZLVFBTHREaF9McHJRTkdPNXZYMU9felAwYkhzNG1tR1R2UHJKMV9LQVdOeFJwSU1kdlZlNjdGb1pPc3NlMHUzczZ1aUtGRkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-25-010",
+    "date": "2026-10-25",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "machine_tool_orders",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can Caterpillar’s $72B Backlog Save Its Stock From a 10% Slump? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQX21MNndFWVE3dG9HNnZHaFBCX042UlJMX2hYaDdfRlRUd1pkWXF5N3o2TXB4dlV3NTgzdWFtcFdiNU9fRDFBci1MbTJMc2ZxRS1GZGx0bHlEbEFYWW1PM0ZjUEZfMzZFMDNDeXB1MX",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX21MNndFWVE3dG9HNnZHaFBCX042UlJMX2hYaDdfRlRUd1pkWXF5N3o2TXB4dlV3NTgzdWFtcFdiNU9fRDFBci1MbTJMc2ZxRS1GZGx0bHlEbEFYWW1PM0ZjUEZfMzZFMDNDeXB1MXJWal9kVHRLME9VdVRmT3lWdnFILXdiYmlqdFlfYXNqOEdBaXZtcDlnLUFKZEhkWTdm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-10-24-001",
     "date": "2026-10-24",
     "companies": [
@@ -582,6 +1235,26 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1FlVEdpTUsxd3FBQ3VGVTNOZ1Z1TWNHUDBDWHlVYzJQMFBVaEtLQVdLZEZKTFpqemdqb0FTdno1ejVMR1d2dlItU0xZUmZZMXhXY2xTcWlWV2w4bzRZRXNUVHpyUllJR1pDVU9SS09samJNZ1ZDUXdiM3VKdFVXWFdwNWFjYjRiQmdmeFRDME5OcC1EUzVJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-24-008",
+    "date": "2026-10-24",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Inc. (ITW) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFX2FFXzZUYkowNFpqb25lSndrb2g2ZHM2WDI0RlVWQllWbzhQbmJkWkg3eWZIaXFXNTI5Xzk4S2YyZmxnX1J5NGc1d29id0tK?oc=5\" target=\"_blank\">Illinois Tool Works",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFX2FFXzZUYkowNFpqb25lSndrb2g2ZHM2WDI0RlVWQllWbzhQbmJkWkg3eWZIaXFXNTI5Xzk4S2YyZmxnX1J5NGc1d29id0tK?oc=5",
         "type": "rss"
       }
     ]
@@ -973,6 +1646,26 @@
       {
         "name": "itw",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJczlCMjEybDhKeDlyT1hnMXF6UG8yUzZxTmJkZDl2TjF4Nk1rRFN5dHQ0bEx3em9saVFySDVFVWxZVkJULU5xTnRZNGM1SzdRcVN0Zk9GZEVzTU1DdTgzWnU5RmhnQ1FsV0x5Y0lkYVI2dkVV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-23-020",
+    "date": "2026-10-23",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn to invest JPY115bn in Mitsubishi Electric Mobility - FinanceAsia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNNEppSVdUZS1QdVV3WUhubC1SVjlKMlA0UmU4azZHSGlKRGZVMi13UTVhM0JGNThQTWp3MlA2V3BQcWw0LUZ6SWlwdi1YdWpLQVVyQ3dWczRwN0Q4SGpMR3VMUXlBWWVuZHdBY2VMd2",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNEppSVdUZS1QdVV3WUhubC1SVjlKMlA0UmU4azZHSGlKRGZVMi13UTVhM0JGNThQTWp3MlA2V3BQcWw0LUZ6SWlwdi1YdWpLQVVyQ3dWczRwN0Q4SGpMR3VMUXlBWWVuZHdBY2VMd21tUGU4VFpoeElnU3E5LUlTeG9OOW01SUFyaDFYelVzRE5JRGRQZEp0Z0YwTG5oNlMtcDNJ?oc=5",
         "type": "rss"
       }
     ]
@@ -1675,6 +2368,27 @@
       {
         "name": "itw",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAweUhfeHB6RDk5NjVaM0VIT1ZfdjZKcjduSnY4Q0NueVhGN0wtcnZvWEhJUW4xWTRod0JkcDZYTGthaDdpazVHcDV3Vm45dUFyNm1DSGhXclhOaDJaakdOWk5BMVM2ckljTXZF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-22-035",
+    "date": "2026-10-22",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Power Products, Inc. Celebrates Opening of Advanced Switchgear Factory in Western Pennsylvania - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZjMwNGkwckd6YlJ5MEhjZEZYd1FwMGV2cFBPUGd5SlJBdFRYX0pxenNLTGVWeGlHc0JsRnZKcWphQ0VjRW5CMnR3c1VBdXV6ZXQ1T2Q1Rzg2NjJCX0ZUZS1nb1BObU93VUtDcmw0Y1",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZjMwNGkwckd6YlJ5MEhjZEZYd1FwMGV2cFBPUGd5SlJBdFRYX0pxenNLTGVWeGlHc0JsRnZKcWphQ0VjRW5CMnR3c1VBdXV6ZXQ1T2Q1Rzg2NjJCX0ZUZS1nb1BObU93VUtDcmw0Y1hkeTFKTEs2cWFnY1hNT1hEOEpFM05SUUp2M2R0dW5ZT2pYV3BhNTQzYjN6UEpZNWcxaVFTazN6UmpHcTFMNkRlZWh0Z1NlMmRtenZrckFBS05pUnZiWG5TRkU5aW9Sb0wtb0FteU1JdE1iUGdwLUhuVDhKNHZlMGIyREZzUDBBZTk5QW12ODdxaFpzX3hUZGM?oc=5",
         "type": "rss"
       }
     ]
@@ -3426,6 +4140,26 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPODI0bFRwSHhuR0c3cmo1T3M0WUlfQXFxZzFuVURQM3N0UTIxVDVrSVJtaHZxNmNLWmdMVDNjdHBIV0VRU2hfanQ2NEpHS0NweHhwYUVHS3B0MnJuM0ZXeDNvZ1JJWXhScU43WFFLSURsVUh1QTlyWXVzbndvd09wRVVjSm5oRWI5RjJmcm42UE4yWnp4SVoxXy02Y2xLcXVabmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-20-047",
+    "date": "2026-10-20",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn's latest EV push is a $727 million bet for half of Mitsubishi Electric's car parts business - TechSpot",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNR2ZrR3RNRFF2VTRNaVZ1SGpWNGJQd1RzVkJ4Q012SXA3SVJyV0RreGJUZGwyeTVOWkNneUxOTEFjRlJXOVd4YTdYbFoyQU1LeWwxUFpLMXV4MlduUFVaTFdZZ0t6RmNZamRkUHBHVm",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR2ZrR3RNRFF2VTRNaVZ1SGpWNGJQd1RzVkJ4Q012SXA3SVJyV0RreGJUZGwyeTVOWkNneUxOTEFjRlJXOVd4YTdYbFoyQU1LeWwxUFpLMXV4MlduUFVaTFdZZ0t6RmNZamRkUHBHVmpwRnlWNGtWZnVybWItVzEwTXhUckZfQzV2bFZqRklR?oc=5",
         "type": "rss"
       }
     ]
