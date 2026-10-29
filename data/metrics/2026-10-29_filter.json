@@ -1,0 +1,16 @@
+{
+  "total_raw": 378,
+  "dup_title": 190,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 2,
+  "gate2_fail": 10,
+  "passed": 43,
+  "gate2_samples": [
+    "HIWIN Technologies Unit Plans NT$360 Million Share Issue - www.marketscreener.com",
+    "Airtac International Group Estimates – TWSE:1590 - TradingView",
+    "[Podcast] AI agents work. Are you watching?",
+    "Cyber threat hunting: Attackers collaborate. Defenders should too",
+    "Illinois Tool Works (ITW), What Is Behind The Mixed Signals Now? - Yahoo Finance"
+  ]
+}

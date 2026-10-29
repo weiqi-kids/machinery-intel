@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-29",
+  "total_events": 31,
+  "by_company": {
+    "airtac": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "delta": {
+      "count": 6,
+      "sentiment_avg": 0.33
+    },
+    "mitsubishi_electric": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "parker_hannifin": {
+      "count": 6,
+      "sentiment_avg": 0.17
+    },
+    "caterpillar": {
+      "count": 14,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "automation_capex": {
+      "count": 13,
+      "sentiment_avg": 0.12
+    },
+    "earnings": {
+      "count": 26,
+      "sentiment_avg": 0.1
+    },
+    "guidance": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "industry_general": {
+      "count": 24,
+      "sentiment_avg": 0.1
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

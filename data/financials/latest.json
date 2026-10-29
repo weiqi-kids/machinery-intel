@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T14:43:22.301853Z",
+  "updated_at": "2026-10-29T14:48:16.988159Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -211,17 +211,17 @@
       "name": "林肯電氣",
       "ticker": "LECO",
       "currency": "USD",
-      "ar": 586348000,
-      "ar_prev": 598315000,
-      "ar_qoq": "-2%",
+      "ar": 603307000,
+      "ar_prev": 586348000,
+      "ar_qoq": "+3%",
       "ar_period": "QoQ",
-      "inventory": 690543000,
-      "inv_prev": 693938000,
-      "inv_qoq": "-0%",
+      "inventory": 699380000,
+      "inv_prev": 690543000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "makino",
