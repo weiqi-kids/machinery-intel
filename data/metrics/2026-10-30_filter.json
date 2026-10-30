@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 211,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 2,
+  "gate2_fail": 9,
+  "passed": 44,
+  "gate2_samples": [
+    "Airtac International Group Estimates – TWSE:1590 - TradingView",
+    "Delta Electronics Hosts Inaugural Future Industry Summit in Singapore and Inks Collaboration with th",
+    "[Podcast] AI agents work. Are you watching?",
+    "Cyber threat hunting: Attackers collaborate. Defenders should too",
+    "Mitsubishi Electric Becomes Title Partner of FIS Nordic Combined World Cup - Sportscape Magazine"
+  ]
+}

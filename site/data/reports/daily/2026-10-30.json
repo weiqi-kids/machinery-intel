@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:43:41.010526Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "dmg_mori-2026-10-30-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "[DMG Mori FY2026 Q3 Earnings Call] Orders Hit Record ¥522 Billion; Full-Year Plan Raised Again to ¥650 Billion or More, EBIT Up 46% - finance.biggo.com",
+      "companies": [
+        "dmg_mori"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RcEt3cUN5RzItY3cwMlBhTW9Ua2tRUHVmYXBfZnJuczhIbDdsWUhFWkRMb2RacUxSU2FLNzduak1IbVhzUjkwLWRvMDJxbVNKeXJSM1BiTUo3a3R5ekt0aQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hiwin-2026-10-30-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hiwin stock: Unit plans NT$360 million share issue - ad-hoc-news.de",
+      "companies": [
+        "hiwin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYkRrN2xteS1GRW5jX214VGxkb3F3dWExU0JxNFI4Q0pmc0cybERlOExHd0FxcnZtOWViSnpNYnppZnFDd2g0bWxyVHBYWGpoRWs5dU5WVk9TN3g3NHhEc1VjTFMtbzBvYnY2d0J1WFM4bk9uQ3lEekVCN2p2b194WVQ1dl95bUE5Vlg1Wnc5eDI4SDlneVp6ai1VSzVsSnlKRHh1NTdpSzNseW5z?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "airtac-2026-10-30-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan's Airtac Posts NT$44.14 EPS for First Three Quarters, Topping Full-Year 2025; Q4 Seen Stronger Than Usual Seasonal Lull - BigGo Finance",
+      "companies": [
+        "airtac"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56Z2FfVjdqMlhYdHd1RHg2UzR2Y2hqUmZ1M3VFSG93dU9paF8zWTE4dVdSVTF5Q0tHQ2lLa3Z0Uk5KS3cydVFGb19VLU5kbW95aFo4UDgtaUxtNUFJV2s0WDZ4dGhKdW5oWU9jUWpHM3hKbmdLM1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "delta-2026-10-30-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics expects 4Q26 to outpace 3Q26 as customer pull-ins drive inventory, profit - digitimes",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWN6eXdxeUdaV2U0cktqSWk2NlJxUmV0NzNCNmJ0amVzbXVSTno2MWF6ODlERVoxUUFqbFFiZFNkSVVBZmthMW14eDQ2RHFsYThob1phMmtkMGhqZXZyX1E0QTNaZHYtZjRzdFlvX25jcU5UOVlodWpnMlRNekhiOU5oYW9rajJJdFFNM2l5c3dXQURIUnpaUGJvb1ZONnZqYlE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "delta-2026-10-30-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan's Delta Electronics Posts Disappointing Q3 Results; Citi and Daiwa Cut Price Targets as Shares Hit Limit-Down, Nearly Halving - BigGo Finance",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Sdjl2U2dIZHZsTWdXUmNocEJycU14SWE1cllWRExfNW1FNmdKZF9DOVlmaWpuR0pKd2ZZXzd4cTNlUXJ5UHMwS2RRZVloUmtKakhHeFJoSzdUejY4YzZ0aDFjSUJKTE9qdnBmSFJiUzdHQjBuaGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 20,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 8
+      },
+      {
+        "id": "caterpillar",
+        "count": 6
+      },
+      {
+        "id": "delta",
+        "count": 4
+      },
+      {
+        "id": "hiwin",
+        "count": 1
+      },
+      {
+        "id": "airtac",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 17
+      },
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "automation_capex",
+        "count": 7
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 211,
+    "too_old": 137,
+    "gate1_blocked": 2,
+    "gate2_blocked": 9,
+    "passed": 44,
+    "pass_rate": "22.9%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "Airtac International Group Estimates – TWSE:1590 - TradingView",
+      "Delta Electronics Hosts Inaugural Future Industry Summit in Singapore and Inks Collaboration with th",
+      "[Podcast] AI agents work. Are you watching?",
+      "Cyber threat hunting: Attackers collaborate. Defenders should too",
+      "Mitsubishi Electric Becomes Title Partner of FIS Nordic Combined World Cup - Sportscape Magazine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為Mitsubishi Electric、CAT、Delta Electronics相關動態：「[DMG Mori FY2026 Q3 Earnings Call] Orders Hit Record ¥522...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "[DMG Mori FY2026 Q3 Earnings Call] Orders Hit Record ¥522 Billion; Full-Year ...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Hiwin stock: Unit plans NT$360 million share issue - ad-hoc-news.de（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T14:48:16.988159Z",
+  "updated_at": "2026-10-30T14:43:34.247673Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -177,17 +177,17 @@
       "name": "捷太格特",
       "ticker": "6473.T",
       "currency": "JPY",
-      "ar": 349546000000,
-      "ar_prev": 359847000000,
-      "ar_qoq": "-3%",
+      "ar": 332347000000,
+      "ar_prev": 349546000000,
+      "ar_qoq": "-5%",
       "ar_period": "QoQ",
-      "inventory": 244409000000,
-      "inv_prev": 259401000000,
-      "inv_qoq": "-6%",
+      "inventory": 253328000000,
+      "inv_prev": 244409000000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "keyence",
