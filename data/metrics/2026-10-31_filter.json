@@ -1,0 +1,16 @@
+{
+  "total_raw": 377,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 125,
+  "gate1_fail": 0,
+  "gate2_fail": 7,
+  "passed": 38,
+  "gate2_samples": [
+    "Delta Electronics sees growing opportunities in India’s solar, BESS and green hydrogen markets - pv ",
+    "Power shortages slow AI data-center builds as Delta expands HVDC, SOFC - digitimes",
+    "[Podcast] AI agents work. Are you watching?",
+    "Cyber threat hunting: Attackers collaborate. Defenders should too",
+    "Mitsubishi Electric Becomes Title Partner of FIS Nordic Combined World Cup - Sportscape Magazine"
+  ]
+}
