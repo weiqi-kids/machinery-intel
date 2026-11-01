@@ -1,0 +1,16 @@
+{
+  "total_raw": 401,
+  "dup_title": 234,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 0,
+  "gate2_fail": 10,
+  "passed": 16,
+  "gate2_samples": [
+    "Delta Electronics (Thailand) Public Company Limited (DELTA.BK) Seasonal returns chart - Yahoo Financ",
+    "Delta Electronics sees growing opportunities in India’s solar, BESS and green hydrogen markets - pv ",
+    "Power shortages slow AI data-center builds as Delta expands HVDC, SOFC - digitimes",
+    "[Podcast] AI agents work. Are you watching?",
+    "Cyber threat hunting: Attackers collaborate. Defenders should too"
+  ]
+}

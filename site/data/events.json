@@ -1,5 +1,45 @@
 [
   {
+    "id": "unknown-2026-11-01-001",
+    "date": "2026-11-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Metro Detroit battery storage expansion gets green light amid growing data center demand - MLive.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbHlQUXZEbXJ2YWw0bEtFTkFoNjVaOHN6em9iSEMyRDBqNHhFLUt3N2VZdlo1VmZCVU5DNzRWZTBFdzg1bWcwQVdwRHJMLXVjQnE0WWxKa09SWEMyandBa2dEc2UzalBBRjRoUktlWG",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbHlQUXZEbXJ2YWw0bEtFTkFoNjVaOHN6em9iSEMyRDBqNHhFLUt3N2VZdlo1VmZCVU5DNzRWZTBFdzg1bWcwQVdwRHJMLXVjQnE0WWxKa09SWEMyandBa2dEc2UzalBBRjRoUktlWGJQdmVCdS1lN0g4Q3pXejBoWjYwVThuTURvMU9PQTVyaEczVHNGeWlhXy1ZOGNyLU5qYTNQMFZkQWxERXlpR0hDQ04tdk81ajNVNk9iNUZKSE9hYUtNXzRWZV9mYVNDeEFTelE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-11-01-002",
+    "date": "2026-11-01",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Illinois Tool Works stock declines 1.01% amid mixed technical indicators - KuCoin",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmNQMl83Vmt6OGFTenhOa0tFXzVvemVoZE45enBrTlFnUXVoUlFtNER0bmt6MWVVYjJLUUJfMXY2QnZLRGF6aUJDQ1J3cFBxdzhteHdISHA1alBTS2Nfa09rYmdFaXpQRVFHamtYVW",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmNQMl83Vmt6OGFTenhOa0tFXzVvemVoZE45enBrTlFnUXVoUlFtNER0bmt6MWVVYjJLUUJfMXY2QnZLRGF6aUJDQ1J3cFBxdzhteHdISHA1alBTS2Nfa09rYmdFaXpQRVFHamtYVWpTWGxIcktQWm51Tjc5QjhERzIwbkZ0YlRCSWwxZ010MWJjYm83MmJSaHJabE85VUE1bEJVag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "mitsubishi_electric-2026-10-31-001",
     "date": "2026-10-31",
     "companies": [
@@ -141,6 +181,88 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLUZ5SjZWLXc3cU9lc3kyc0h2WGJSZlNiLTgwajhnUVUwV0dOcXZTdXhfVXpZb3pEZkxiV1hpZmFKMnFCeVJjREQxTHQ4R0k4ZXZDZUlwMW1Qa2xfMDI5X2NISkljTFFBN3pDVWxuSkhuMnpSUWVYSlYweGNpbHdxS0lEUDR3TXQ2ZzI2TUdFcHZmRGNyZVlMNjQ0S1ZlSHJXZlBtR0R5SHl6NElYdDFqWXVLN2xJcVQ0eDNsbA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "keyence-2026-10-31-008",
+    "date": "2026-10-31",
+    "companies": [
+      "keyence"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Earnings And Stock Split Change The Bull Case For Keyence (TSE:6861)? - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQTTdPaXhXVHpFdTBudW1OLW15ZGpmZ25qSGJoQmF2NnZDSFhGSkNDZFR0a1lCN0djY0lzbkFKaDgzM1IxdGpuQkdnRktfWi14ZnljMGZ0NHc1aXVVT2ZRdmdKeTFWbXMwT3VWTWRmb1",
+    "sources": [
+      {
+        "name": "keyence",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTTdPaXhXVHpFdTBudW1OLW15ZGpmZ25qSGJoQmF2NnZDSFhGSkNDZFR0a1lCN0djY0lzbkFKaDgzM1IxdGpuQkdnRktfWi14ZnljMGZ0NHc1aXVVT2ZRdmdKeTFWbXMwT3VWTWRmb1VsUi1WWkVsT0JRV0FyUVpob0N2eWN1Y2dWcEJOODNETGM4ajFzRkJWblR6RHppd0d0VzBNUE5sWjRTNkZTVnJrU2NHaGhSUXh3UGhkWjZsN2lRMGNOTjJqRG5R0gHKAUFVX3lxTFBNN09peFdUekV1MG51bU4tbXlkamZnbmpIYmhCYXY2dkNIWEZKQ0NkVHRrWUI3R2NjSXNuQUpoODMzUjF0am5CR2dGS19aLXhmeWMwZnQ0dzVpdVVPZlF2Z0p5MVZtczBPdVZNZGZvVWxSLVZaRWxPQlFXQXJRWmhvQ3Z5Y3VjZ1ZwQk44M0RMYzhqMXNGQlZuVHpEeml3R3RXME1QTmxaNFM2RlNWcmtTY0doaFJReHdQaGRaNmw3aVEwY05OMmpEblE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-31-009",
+    "date": "2026-10-31",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works stock falls 1.01% while its daily trend stays bullish - The Cryptonomist",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNNllQc1F1UUU5YVQ5TDZ0OUpDeVNvM3MtZ2lEZm94VWNWSWZCNlI2aVFCRHZ5a055NjVBV1BQdFJ0OHFxT1dqMkxNaGpFYnF1NTFOWlVEeXpUREhLMnhvdGt4Skg3RzZ3WWV2eV9OYk",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNllQc1F1UUU5YVQ5TDZ0OUpDeVNvM3MtZ2lEZm94VWNWSWZCNlI2aVFCRHZ5a055NjVBV1BQdFJ0OHFxT1dqMkxNaGpFYnF1NTFOWlVEeXpUREhLMnhvdGt4Skg3RzZ3WWV2eV9OYkZwTEdNUUJyWnFMeElZa3RlZmtHQkYxZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-31-010",
+    "date": "2026-10-31",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Stock Slides As Q3 Results Leave Tariff Questions - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMlBwYlpXM2FiMVFzcHJtem9USGJuVU04NGNROUJWM0t6SmkzcFdPUllPSElXYjRuaDAyY0hGcDdkN3Z3RUUtb1VOeWJ3c183X3VLNU5zYlhKcDllZVVXcTE3aVdrekNHVjBrYUpUMl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMlBwYlpXM2FiMVFzcHJtem9USGJuVU04NGNROUJWM0t6SmkzcFdPUllPSElXYjRuaDAyY0hGcDdkN3Z3RUUtb1VOeWJ3c183X3VLNU5zYlhKcDllZVVXcTE3aVdrekNHVjBrYUpUMlpQWl9uMElVbDFGSTdfdlNocERHZzhVMHZRVklvQ3hHYl9ZM19ZNWl1Nmt6dmg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-31-011",
+    "date": "2026-10-31",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Korean Machine Tools - [Used] Discharge Machining Device 400x300 Stroke - 다아라",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBlcnQ4NnFMN0hvajNuUkE2ZGZzdnZvNWsyV21qcVFWMVpmVDhLb2o0MFNIdGJBRU9kM1FxWUgwWFViNXFoZ0dkd0JtZkk5bGM2eG1Hb2VZeHhQZHNUbDVqemFzRnlqUTVqUXc?oc=5\" ",
+    "sources": [
+      {
+        "name": "google_news_machine_tools",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlcnQ4NnFMN0hvajNuUkE2ZGZzdnZvNWsyV21qcVFWMVpmVDhLb2o0MFNIdGJBRU9kM1FxWUgwWFViNXFoZ0dkd0JtZkk5bGM2eG1Hb2VZeHhQZHNUbDVqemFzRnlqUTVqUXc?oc=5",
         "type": "rss"
       }
     ]
@@ -1094,6 +1216,86 @@
       {
         "name": "google_news_machine_tools",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa19NajgycXNmU3R0amR3SkxLWmtlbjhVVm5jQXhGYkJqcGNCX1FoaVVHY2o3LURrZlhtaGtjN2JCRWMxU05GN0ZZOUJEdXhId3lfS1ZuTnhMSGNsbkp5QXVxeXU1WU5fSWI3RXhkcHhsUC1HN3hJSm0wejh4WGgwdzVac3V6Ukprc2lyOVF2VnFZenZ0amczeFFZdU5Nc0tpZk1RZHg4bFdfUjN1dzVQNHExNXdsVUdlZ3dtZC1NWWl2c0RJalo1UW5aVTVoSm84dHFzVHh3YjhOdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "airtac-2026-10-30-047",
+    "date": "2026-10-30",
+    "companies": [
+      "airtac"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Airtac International Group (1590.TW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UQXJZeFJtMWoyWVdpZ1Y5THR6eE1JVW83T1huMXhKRGFsU000TlJ6czRzU0tFU19xXzdfY3VqQkV1cTNWNWZYdDFzSkdTU0R1blRvMkhXWklZQmRCb2I5dGJkaU4xZw?oc=5\" targe",
+    "sources": [
+      {
+        "name": "airtac",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UQXJZeFJtMWoyWVdpZ1Y5THR6eE1JVW83T1huMXhKRGFsU000TlJ6czRzU0tFU19xXzdfY3VqQkV1cTNWNWZYdDFzSkdTU0R1blRvMkhXWklZQmRCb2I5dGJkaU4xZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-30-048",
+    "date": "2026-10-30",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Trane HVAC US Updates s-MEXT Precision Cooling Systems - Refindustry",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPNzBOeUs2Wk5sOWYyaktPMGRpcUU4MjRVZGhiSG5MbFB1Rlo4eVExLTFwclVwN1BDYzJLdWt1N0UyT1hKMXVLZWQ1akZvS3VUVGtCZkNZSTRZOXlNbDBGLWtYUTkxcklwT1lMa0JKbz",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNzBOeUs2Wk5sOWYyaktPMGRpcUU4MjRVZGhiSG5MbFB1Rlo4eVExLTFwclVwN1BDYzJLdWt1N0UyT1hKMXVLZWQ1akZvS3VUVGtCZkNZSTRZOXlNbDBGLWtYUTkxcklwT1lMa0JKbzJPRU5iQkxFRjJCR2ZuTmRzbnNObWwwbHVjZzNuMVUxVWI5enZXNEExUk41V2hBRjVaYmc3WmdtSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-30-049",
+    "date": "2026-10-30",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Sees FY Net Y465.00B - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQdGcwWHZFYk8tWFRKY2JOakJOUWZmcmxmOExDVWNVSDBwa0h0ZUZ5ZXZVaXpTdEpsNXBGS3RxWUhLdEc5NEVxM3VUb1lmUHU4SDJ5WTlKTXRDNnBDNmFBLTFBYmx0RFVDMnppa2VXWl",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdGcwWHZFYk8tWFRKY2JOakJOUWZmcmxmOExDVWNVSDBwa0h0ZUZ5ZXZVaXpTdEpsNXBGS3RxWUhLdEc5NEVxM3VUb1lmUHU4SDJ5WTlKTXRDNnBDNmFBLTFBYmx0RFVDMnppa2VXWlo3RGJfb3F1MXRzdmRveVd5UC1pODd0V1lVWVQwNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-30-050",
+    "date": "2026-10-30",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric raises profit outlook after beating estimates - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDVrR3gwaHQwMjNHOURRRVRWUE5zMm0teFJtZVI0ZnZwdVNQUHUtRTByQlJLUFJ2RG1rU0Yzc2szTHVJME8yUnAwVDdOeXFlTmF1VVZvTDkza3Z5djM5WkVqSWYyakpnMEYzUUY1en",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDVrR3gwaHQwMjNHOURRRVRWUE5zMm0teFJtZVI0ZnZwdVNQUHUtRTByQlJLUFJ2RG1rU0Yzc2szTHVJME8yUnAwVDdOeXFlTmF1VVZvTDkza3Z5djM5WkVqSWYyakpnMEYzUUY1enEzQm9JelFEd1g2WlVJaDRfMXhOY28wYm1zdGpmVG5LNG5GOGxuWjFrSkYxSHdYRlBaRElQdzVJLVhBUHNvWnRvUXdTTHo3NkxfRXc?oc=5",
         "type": "rss"
       }
     ]
@@ -2170,6 +2372,69 @@
     ]
   },
   {
+    "id": "delta-2026-10-29-052",
+    "date": "2026-10-29",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Delta Electronics Posts Second Straight Quarterly Revenue Record - TOKENPOST",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zSFJ3Q294c3FzUTl3MkNBaldXS09TRjVEQlNQSW5NMGhQTXJac0lGM21uS2lCV0IwYkMySHZFY3hTZ0xyd2lwNUFMMEkzdUR6NGMtVjM3TnQ?oc=5\" target=\"_blank\">Delta El",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zSFJ3Q294c3FzUTl3MkNBaldXS09TRjVEQlNQSW5NMGhQTXJac0lGM21uS2lCV0IwYkMySHZFY3hTZ0xyd2lwNUFMMEkzdUR6NGMtVjM3TnQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-10-29-053",
+    "date": "2026-10-29",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation (PH) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwWDl5elp1ajNWTks4dGFNc1dmMERyZzFUZXBCc0w0QktUdkdYdkt5aEN1WHk4NjFiMUhyUzhFelczVTdCYTdYbE1sWFBsNVE?oc=5\" target=\"_blank\">Parker-Hannifin Corp",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwWDl5elp1ajNWTks4dGFNc1dmMERyZzFUZXBCc0w0QktUdkdYdkt5aEN1WHk4NjFiMUhyUzhFelczVTdCYTdYbE1sWFBsNVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-29-054",
+    "date": "2026-10-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Slumps as Modest Beat Fails to Soothe AI Jitters - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNV082TVdHVmE0bDVJYzlWdkt6elBnQ2ZxYXY2RHBpNUkwSkJ3d0I2Q1lqdU5KSUdBSzJZcTFmRWtYWkZPXzlJZkJmZnBlck1iYjFneEhvdXl4c2E2YTZ5ZUluQUhjY2NaWmpKbzNFUG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV082TVdHVmE0bDVJYzlWdkt6elBnQ2ZxYXY2RHBpNUkwSkJ3d0I2Q1lqdU5KSUdBSzJZcTFmRWtYWkZPXzlJZkJmZnBlck1iYjFneEhvdXl4c2E2YTZ5ZUluQUhjY2NaWmpKbzNFUG96R1U3V1hwUGFkS2tON0QwblVYMzl5ZWhVLTB1RWZxd3JsZnl6R0V4YTU0SE1EeFdiUDl5VE5LcC16OURNbXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-10-28-001",
     "date": "2026-10-28",
     "companies": [
@@ -2758,6 +3023,46 @@
       {
         "name": "parker_hannifin",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMG5HazNHT3hha2huclZORjBQUkpJc0puWFQ2OGloTFN3V2FWbFVlSTBkSFhrZmFvMTdqNm1wMmxER095NXRMUnctWk5YS1F3aTlWVnNha3lRYkhya25oR0xPWmgtaDR1WGxoTTNFVUNIbUxBM1Z5MlhOTFNtMjBGem1VekgzNzI4MUtTTUUyYlVhcFlOOFpPRS1JMUhDdzdLQm9NU3U1aHpxN0RGOFBEbWtXcElBMUVpN1QyeVNQNFVCQVVhVVZMNWp2dnlxa1p6Q2JoMlRlMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-10-28-030",
+    "date": "2026-10-28",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB and CerilonSoft sign collaboration agreement on automation and power generation solutions - Process and Control Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2h4c1RSVDBBdW1tV1FhVVRRbFpPbjlxdUhMdTVqMmVJTUZ4UHg2U09DMmdCTFRhdkJQTUtIUjlSTjEzWW5LNlU2WlVrMFFiZWFNLWF3anRUc1I0WHUzbGtpZTdIQnpOVVBDMWRPST",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb2h4c1RSVDBBdW1tV1FhVVRRbFpPbjlxdUhMdTVqMmVJTUZ4UHg2U09DMmdCTFRhdkJQTUtIUjlSTjEzWW5LNlU2WlVrMFFiZWFNLWF3anRUc1I0WHUzbGtpZTdIQnpOVVBDMWRPSTNqNktxQlo5RlJVY1djc3NTZ2c2ZHZpZS1nVGdPUzhMbnZoeWc4T2doOTVTWEh4LXZINXd6MjAyT1hUS1QzTjZZQk1VT0o0d29oTXh4enoyZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-28-031",
+    "date": "2026-10-28",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPSDd5SzJrNnVxOFBpVjBSRFVRQ3FmYUxrX3FXanA3SkltVXhuY09LSDdPVlN1ODFIY1FLWDJpanVNNjlFem12VWkyX2FHc0pBcXJvSXRxM0J1SkU5NjlDeFQ5TUlTdlRBR1NXeFhpZm",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSDd5SzJrNnVxOFBpVjBSRFVRQ3FmYUxrX3FXanA3SkltVXhuY09LSDdPVlN1ODFIY1FLWDJpanVNNjlFem12VWkyX2FHc0pBcXJvSXRxM0J1SkU5NjlDeFQ5TUlTdlRBR1NXeFhpZm1SZEM4UG4wYVMwSk5IOWtBRlM1QzQ3N3VtYUtvNzMwQV8wM0N2?oc=5",
         "type": "rss"
       }
     ]
@@ -3829,6 +4134,25 @@
       {
         "name": "itw",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT284ZDMtTVE1VHN3dzBfdTlhNDJkcHEzRFNRSXNEcU5rN0J3YmJLMzNBWWxfN1h3cXltZ3ZrdDJ6a0tUNm42UTUyZTBTdlVuLTI3ZlBFbExCTUg2ZHNQOHh5WlYtUWRObnJDV2Y3Y0czaEMtZkxGR1RaakxIWWxaSHl0NTNYSG92TVNHb0dVOWdzcUs5anBZUS15VUQwa3Bmd1Zmd24yWmtWVS02aVlhaGhkQXptNzdOMDBUUXNKZm5ReTh2R1k0VlZVbFZTTmVybURjTkY5VW1fNnJPY2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-27-053",
+    "date": "2026-10-27",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Machine Tool Bids October 28 Open Auction Featuring 61 Lots of Metalworking Equipment from Across North America - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQbS1RN2pTcElZUGE3Z3hiNGJoSmpIX2hMZ2hKdHotNWVGQ3Z3WXEyQlpUS0x4ZlFIRURnM2JtUXVSLWlUVXJVc0hBYnJocHpQSlZNQmVGV3NkcmIwaEVJUjNSS1JaeGF1bXRVb2ROdF",
+    "sources": [
+      {
+        "name": "amada",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbS1RN2pTcElZUGE3Z3hiNGJoSmpIX2hMZ2hKdHotNWVGQ3Z3WXEyQlpUS0x4ZlFIRURnM2JtUXVSLWlUVXJVc0hBYnJocHpQSlZNQmVGV3NkcmIwaEVJUjNSS1JaeGF1bXRVb2ROdF9lbzlJd0ZKQkhhdEs0Um5nZU9NalJ4SjBCSWQ3YUFzamZtLU5ybGMwOXN5VklnNnNNb3RXeDRqTVBaT2tGRjNpSUh3TEtMekFKRVBxLUgweE9iR3NxQWdFV3JEQVY5VnpwREVCSDV6bTJQbm5ObFdNUDdjcm5PUEhmUFhQZzR0ZDRuZmZGWFMtZXc5STJseF9qb0E?oc=5",
         "type": "rss"
       }
     ]
