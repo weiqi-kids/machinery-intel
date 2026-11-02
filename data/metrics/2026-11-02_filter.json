@@ -1,0 +1,16 @@
+{
+  "total_raw": 376,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 1,
+  "gate2_fail": 5,
+  "passed": 28,
+  "gate2_samples": [
+    "Delta Electronics Hosts Inaugural Future Industry Summit in Singapore and Inks Collaboration with th",
+    "Delta SEAO Future Industry Summit Comes to Singapore - Pokde.Net",
+    "[Podcast] AI agents work. Are you watching?",
+    "Mitsubishi Electric seeks to expand North American grid foothold - Utility Dive",
+    "Parker-Hannifin Elects Directors as Record Fiscal 2026 Sales Top $20B - Yahoo Finance"
+  ]
+}

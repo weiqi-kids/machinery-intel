@@ -1,5 +1,434 @@
 [
   {
+    "id": "abb-2026-11-02-001",
+    "date": "2026-11-02",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Stock Price and Chart — NSE:ABB - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEdUVEWi04TEFMenp3dHNqTXM3ZmlLbGFkQU02MWpGblV1VjNKc21qZURnc2RkWmtxbXI3MmYwRTQtY1pHdzhDQndKZzNlQUdWS1FUcm9KTQ?oc=5\" target=\"_blank\">ABB Stock",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEdUVEWi04TEFMenp3dHNqTXM3ZmlLbGFkQU02MWpGblV1VjNKc21qZURnc2RkWmtxbXI3MmYwRTQtY1pHdzhDQndKZzNlQUdWS1FUcm9KTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-002",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "\"Writing AI does not make you an AI\" - www.calcalistech.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XaTJNeXc0ZjRBcU5sWWo3Mmx3a0lNSnQ2bUtHMXFZREM1WFNlMVkwNHdWbTZTb1pnVzNHTS1mVEwxV2xLeUpiOWRTVmVyVXNLd0JPNmxucDhiXy1namNaVERScnBfOVE?oc=5\" targ",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XaTJNeXc0ZjRBcU5sWWo3Mmx3a0lNSnQ2bUtHMXFZREM1WFNlMVkwNHdWbTZTb1pnVzNHTS1mVEwxV2xLeUpiOWRTVmVyVXNLd0JPNmxucDhiXy1namNaVERScnBfOVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "okuma-2026-11-02-003",
+    "date": "2026-11-02",
+    "companies": [
+      "okuma"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Okuma stock draws focus as orders reach JPY 75.3 billion - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjJ3Q0RxSl9obU5OMERSOG4weUJMb2pWV3VIcWRmTXBCcmF4dm9kakpLWDFZTHRqSTA4X1BjOGpvOUNLYU1NYkE5eDJYWUdQUTlMNlEwc2tLMHRWbXNPcFhyMVd1T3Z5WUxGOEI4Xz",
+    "sources": [
+      {
+        "name": "okuma",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjJ3Q0RxSl9obU5OMERSOG4weUJMb2pWV3VIcWRmTXBCcmF4dm9kakpLWDFZTHRqSTA4X1BjOGpvOUNLYU1NYkE5eDJYWUdQUTlMNlEwc2tLMHRWbXNPcFhyMVd1T3Z5WUxGOEI4XzlMblkyUUE0TkwxTnRWNWxBdWxnaTdLYlhheHhvR0szd0Y2X3NoMkI1TS1PcEU3MXJNSW1mcC1YSHE2Nkt5bFlsLXJpQjVWZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-11-02-004",
+    "date": "2026-11-02",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (ITW) Stock Price, Chart & Analysis - www.debelegger.nl",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BOTkwRjlvMzY5TmdhUlVfaDlIUUdYR0tEcVhTWDFOWG5LRVpmM2JmclJQQmotSjRUU1hMOURFZVB4WmJMdGxVVnhGeER5NDJPcEI0?oc=5\" target=\"_blank\">Illinois Tool W",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BOTkwRjlvMzY5TmdhUlVfaDlIUUdYR0tEcVhTWDFOWG5LRVpmM2JmclJQQmotSjRUU1hMOURFZVB4WmJMdGxVVnhGeER5NDJPcEI0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-02-005",
+    "date": "2026-11-02",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Set to Report Q1 Earnings: What's in the Offing? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPLXpSQ1A2VW5FY05yei15LV9WZlJsMllhQkJ6cHVMQWtkQm5paVNWWnVXT08wM2d0cHFGbHpSd2FGUjBTZmhFVXVOTFlCLWhGUFNaOU42eFBjQVg4dU5HaGJIRGtzQzdPTzhzUld0MG",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLXpSQ1A2VW5FY05yei15LV9WZlJsMllhQkJ6cHVMQWtkQm5paVNWWnVXT08wM2d0cHFGbHpSd2FGUjBTZmhFVXVOTFlCLWhGUFNaOU42eFBjQVg4dU5HaGJIRGtzQzdPTzhzUld0MGRQREdGdmdORU1iUDVDTXk5aEw4SFRKa3NHdU5Fb3Rjc0dORnhrRWQ1Z0hR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-02-006",
+    "date": "2026-11-02",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Unveiling Parker-Hannifin (PH) Q1 Outlook: Wall Street Estimates for Key Metrics - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnpfekxMNkdhN2FIUHJ5c0hoZVRVRnZqZnRUMVB0aXJxQm9LZmNCb1B3VE9MOE11MUU2M25hOF9Fdm1yUm1jNm5sRjRHS2N2c21yeFk1R25CdkhuNUJpYnFLdjhvN0pCa05lUzIyRz",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnpfekxMNkdhN2FIUHJ5c0hoZVRVRnZqZnRUMVB0aXJxQm9LZmNCb1B3VE9MOE11MUU2M25hOF9Fdm1yUm1jNm5sRjRHS2N2c21yeFk1R25CdkhuNUJpYnFLdjhvN0pCa05lUzIyRzM1SVd6OWhxcWRmaUxMODd3N0FXNC1LY1kwME1qUUxmeVR0UHNMdVpGMXJpcUY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-02-007",
+    "date": "2026-11-02",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Shares Acquired by One Way Holdings LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQczlWUEZEWVkyLUVNaTZpM196cW1VQmRxaWhpTE1tZ2VkYndWVGVPbVFOZDhHVzMzY2h3QWtGdXpPUi03ODhzbTNiVnNUWjVSRThKeTd5SlFsUWEzSGZPX1luQ3Q3b1ZVMDRvMFEwUF",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQczlWUEZEWVkyLUVNaTZpM196cW1VQmRxaWhpTE1tZ2VkYndWVGVPbVFOZDhHVzMzY2h3QWtGdXpPUi03ODhzbTNiVnNUWjVSRThKeTd5SlFsUWEzSGZPX1luQ3Q3b1ZVMDRvMFEwUFhsV1poQVVwdkYtQldHeE9IS2JYTC1MZ1duSThZS1BpR2o1MGotMWhuejJiSDZ4MGhXcS1fNFltZ0NmcEVsczlaUUh0UF9sZU1LQW9aaWZ4eGs2bjZWWEFYM05tZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-02-008",
+    "date": "2026-11-02",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Shares Sold by Sumitomo Mitsui Trust Group Inc. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTy0tZmtIbXRvR2d3MUZvMl9qR1RQR01PcEVVMUNLZktlMWY4WVlJTmFRWHFQS2lkUWEtRmlNVnJLd2J0bjJtdkdTM3lnQld5VmtxNWtjazNESlBtbjhUOVhGVHE2M21SbU9vX3l6b2",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTy0tZmtIbXRvR2d3MUZvMl9qR1RQR01PcEVVMUNLZktlMWY4WVlJTmFRWHFQS2lkUWEtRmlNVnJLd2J0bjJtdkdTM3lnQld5VmtxNWtjazNESlBtbjhUOVhGVHE2M21SbU9vX3l6b2NlNjN1QnVWTF9TZWZ6U1h0T1I3bUFBNndCcGNqSjVjb0dCTEhUNkgwMHBUcXZuQXh0cmxHbFpkM0tia0k5dGgzaXRIRzYwaU9JSUhuYkpVUFV1N09NWGR6S2NkRWhqUnptVE9SNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-02-009",
+    "date": "2026-11-02",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Stock Bought by MGO One Seven LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSm5UWHdyQktyYmZkWmYyUU9OM3owZVBZYW96U0FiSi1LRXVIdFU1dHhQeEtqTk0xUkp3cWI3dmFTVi0tUUZPelNiZjR5T0pNVE1ueXhLMW1vN3RtV0Z2bGluVDJyczZ5WmJSTlVCZE",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSm5UWHdyQktyYmZkWmYyUU9OM3owZVBZYW96U0FiSi1LRXVIdFU1dHhQeEtqTk0xUkp3cWI3dmFTVi0tUUZPelNiZjR5T0pNVE1ueXhLMW1vN3RtV0Z2bGluVDJyczZ5WmJSTlVCZEppd0dZOTgyMEhlR2p2R3JwbmdGY1FMdkNBTV9LdUlNZDBBOTZQcG15NGhkbThlMFU4X3NuSE5vcTlzcDQ2OURSWXJhN3FhQjU4dm1NMjlhY2FHYlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-02-010",
+    "date": "2026-11-02",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation $PH Stock: Bank Julius Baer & Co. Ltd Zurich Boosts Holdings - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeG1DTV9iZk5KS0VoNzI1cWFCT1NJTExXS1o2MDNYLWl1bHFnWnYyaGJIQV9lcFNnUGJPbnNRSXA2Qk5YUUFxTlg2eE1QM05YbjhNWk1RLVNIZjFkbzg2UURKX2x2bWwwX0I5aGpmUm",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeG1DTV9iZk5KS0VoNzI1cWFCT1NJTExXS1o2MDNYLWl1bHFnWnYyaGJIQV9lcFNnUGJPbnNRSXA2Qk5YUUFxTlg2eE1QM05YbjhNWk1RLVNIZjFkbzg2UURKX2x2bWwwX0I5aGpmUmZSeWxRUGc5aUJOZ044WG9neVFZdnpqb25ZUlZmOUlZTFVRdXh4WHN1bHRyc3VlQURVYjlRU09SRHZPYmcxUzM2cFg1eDFpbGF3STJXUUFvQ093R2tuaFRPdVA2ZllhVWhYbXdWdUMyVjhQbjBx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-02-011",
+    "date": "2026-11-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOczBoM1RiVlFwc1E0OWRieFowampidGljaEt2UGN3N095bzRxZFRiQ1I2N0U4V21weXc1Nm8zRzh3bzR5b21uZ0xwUzJUYUpDQUlrTUxTN0tlSWkyUjJKUlFjbTRvMVdfQnBrc0lBQn",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOczBoM1RiVlFwc1E0OWRieFowampidGljaEt2UGN3N095bzRxZFRiQ1I2N0U4V21weXc1Nm8zRzh3bzR5b21uZ0xwUzJUYUpDQUlrTUxTN0tlSWkyUjJKUlFjbTRvMVdfQnBrc0lBQnBCTjBTOHFxT1hkT3hnYkNYLVVlR3J5dkF4a0VBMGp3ZS1GT2I0OEdOaWxTT1Z4dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-02-012",
+    "date": "2026-11-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar acquires John Fabick Tractor Company, terms not disclosed - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOdUZyY2hsSkdjSEl4TmdEb2h2OXVfRkk5eF9UWEhHRW9Yc2hDUEJjMF9HWkJBU0cyWmhSdHVWZHdUYzFyeFJYc21kc25zSWpYbXVSaVBJamdqQ2dvbnB0dlVSSXFkb2hFLTZlbU1lSU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdUZyY2hsSkdjSEl4TmdEb2h2OXVfRkk5eF9UWEhHRW9Yc2hDUEJjMF9HWkJBU0cyWmhSdHVWZHdUYzFyeFJYc21kc25zSWpYbXVSaVBJamdqQ2dvbnB0dlVSSXFkb2hFLTZlbU1lSU96cHJ3RHo5eVlPTlVfVDdZZUpxMFZYWmpxVktSQnROQ0lVWVJVRGtEeTFyV2tfRTdwamdMOFB0dDVmUTBBNDhSeWdXRUpHTjZOTGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-02-013",
+    "date": "2026-11-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Crashed By 25% Over 6 Months But This Global Banking Giant Says 85% Gains Will Come - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkROdDhoUDNnTnpVcjhLWTdMWk91dk94d3o3T1JvbkdzeWphbjNLWTBpZU9GVkwtcTF2TFNTV0dvVnJRU3BVQ3BaNFFCNG56c2s3QUlZWnJKTHF6UDluV3VaaG1iblhCT1ZXVlV1UV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkROdDhoUDNnTnpVcjhLWTdMWk91dk94d3o3T1JvbkdzeWphbjNLWTBpZU9GVkwtcTF2TFNTV0dvVnJRU3BVQ3BaNFFCNG56c2s3QUlZWnJKTHF6UDluV3VaaG1iblhCT1ZXVlV1UVZrLWVyeEw5aFlXRGxJZUVGUXVYbnQ2S2VKNmtaVUZCMHNWMHotXzM5eTBn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-02-014",
+    "date": "2026-11-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Crashed By 25% Over 6 Months But This Global Banking Giant Says 85% Gains Will Come - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVzhxNkZpX3V1QVRLSVc5NGk4MEYyLW80aXJjNG9NLUVFeUZLZVNlNWtFVVdsNGppYmRLNVZOR3daR1dXWF9pTlZtSDlSLWo0Q3QwWWFHQzdrSlcyTlQ5ZkRLMzAzaWE1Ymp3UV9GST",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVzhxNkZpX3V1QVRLSVc5NGk4MEYyLW80aXJjNG9NLUVFeUZLZVNlNWtFVVdsNGppYmRLNVZOR3daR1dXWF9pTlZtSDlSLWo0Q3QwWWFHQzdrSlcyTlQ5ZkRLMzAzaWE1Ymp3UV9GSTJxMkp5aGhPMklzU0U2MVhIc1hkQ2NtZkxhajJzSHRlQmpVTVpuNW1nbElNLU9QY01Ta0JsN1ZJQTVKMTZtWkxPWk4xWWpmazY4Q0J6WDBPU0tPSms4aHJwR0pnaVc2aHJsMms4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-02-015",
+    "date": "2026-11-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Completes Acquisition of Fabick Cat Dealership, Names Steve Ferguson CEO - citybiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQeldabndCMFBNN2gxa1JuMGp5bjNTLUdOZkRXZERQQWhvRE9MeThScUVnNTdNWF9Ecnd1V21oM09fVFowVnF5OTZSMnBjR0lVU0Z0NkZyVUE3Ulo3dmk2dnNQV0tqNUVucnFvMnN2Zl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeldabndCMFBNN2gxa1JuMGp5bjNTLUdOZkRXZERQQWhvRE9MeThScUVnNTdNWF9Ecnd1V21oM09fVFowVnF5OTZSMnBjR0lVU0Z0NkZyVUE3Ulo3dmk2dnNQV0tqNUVucnFvMnN2ZlJMVllCazRTX1FhMFhXV1N2T3FpcEVRdFYxTVh2aHhjN0RRWVpFbWJ5WFNObXI0RzREUWVtTzlIdzBmWnVSdUNhRHIxanh1Y0k1UktGcTM1Yw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-02-016",
+    "date": "2026-11-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar acquires longtime dealer Fabick Cat - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzFtVjVEMi1XSGo5eWNQZUNQbmlaS0hiUWJMc1k5aTI0OEFUNEpqcHBrWmFGQjhqb2xfU1dFaE90U1FFVVAteWtiR2lMRDFtYktCRDdtV3YxTFZNcUpUbXRkOXRCTm81OEhIcVh4Vl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUzFtVjVEMi1XSGo5eWNQZUNQbmlaS0hiUWJMc1k5aTI0OEFUNEpqcHBrWmFGQjhqb2xfU1dFaE90U1FFVVAteWtiR2lMRDFtYktCRDdtV3YxTFZNcUpUbXRkOXRCTm81OEhIcVh4VlUtcnQtRmthUFdTR1pqRGxZTmc1d3NWc1FmaFVuZlpSZGtub1JPT1Z6OG01WnRyNU9XRXJHY1J2VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-02-017",
+    "date": "2026-11-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Inc. Acquires Fabick Cat Dealership - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRW1ZWW5TdkZXZkpBUlBkSG9RdG1lMEk1c2JsM19WcjdycnNUTV90R2s0WE13MkEyOC1tVlRTNXBwTmJNMzd3eldQRExJT0RkV29GbmFMYUFlYmxSNnFtdlJjNEtDQmF5NzZBM0NnYU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRW1ZWW5TdkZXZkpBUlBkSG9RdG1lMEk1c2JsM19WcjdycnNUTV90R2s0WE13MkEyOC1tVlRTNXBwTmJNMzd3eldQRExJT0RkV29GbmFMYUFlYmxSNnFtdlJjNEtDQmF5NzZBM0NnYUs0b3dKM0NHeWdCVFk2c3ltM1ktVjJHdGNtMWF1WXROY3NYR1dlT21CM3hYV2t5ZGJ6YlU0YjlKV3ZrMDcxbXVxU1NPLUljc3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-02-018",
+    "date": "2026-11-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Analyst recommendations: Adobe, Caterpillar, Fair Isaac, Regeneron Pharmaceuticals… - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPNG9yNTk2RjROdlQ1YTBZOC1WUlJ6TWctVG1Ec0hDN1RidVBDVEtCRV9wZlR2aWZMRk9tVXM4R091YTNBSzJQMnBMdlJwYzhZM1B4ZEIyRmpmVDA1Nlh5TGJkMTJfNmVvTUxNYlFuOV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNG9yNTk2RjROdlQ1YTBZOC1WUlJ6TWctVG1Ec0hDN1RidVBDVEtCRV9wZlR2aWZMRk9tVXM4R091YTNBSzJQMnBMdlJwYzhZM1B4ZEIyRmpmVDA1Nlh5TGJkMTJfNmVvTUxNYlFuOVRRMDNKOXZnWDczMmhqSGJpbjZ4Uml0dTNUS0tjUEsxZUJDb1h3akdkVklmeXVkMnVybUNwdFdqTlhJWlBvNWl3V0F5b0NabDRxVU9xelNsVUFLYUdkWG9BMEdNZHZZdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-02-019",
+    "date": "2026-11-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Inc. Acquires Fabick Cat Dealership - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPckJ3VTR0NElxcEZFekhsUkRac3VWR2hGWk9tNlhybF91WHF4OW9UbVY4d3RMWVI3UUFSdlZGWi1aLS11ZHd0UjhHcmJtaWFBVmotZ3hFdWpOaEY0QUw2QnVibUl4a3BRd2pWeEVpR0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPckJ3VTR0NElxcEZFekhsUkRac3VWR2hGWk9tNlhybF91WHF4OW9UbVY4d3RMWVI3UUFSdlZGWi1aLS11ZHd0UjhHcmJtaWFBVmotZ3hFdWpOaEY0QUw2QnVibUl4a3BRd2pWeEVpR0s3NVA1UjVXT01FZTM2UjRZYzRzTC1sbEhoVXpfM2hiYXlPcUFvQndjRVdfd3RxaUdjWHRZVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-02-020",
+    "date": "2026-11-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Completes Acquisition of Fabick Cat Dealer - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNN3Q0NVpIOERNbzRSb19yRTFvQmh0WlNoUkdhbGRaRTRjd2hocHBRamtmTE0xcFJGYWNVd25UeTlRZjdpLThQdllLLUJRcWdIQnVrY0YxWWVlUzFseEJ3M19qS3ROczdiS2JwUkowaD",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN3Q0NVpIOERNbzRSb19yRTFvQmh0WlNoUkdhbGRaRTRjd2hocHBRamtmTE0xcFJGYWNVd25UeTlRZjdpLThQdllLLUJRcWdIQnVrY0YxWWVlUzFseEJ3M19qS3ROczdiS2JwUkowaDYyM1ZBalVVejRaS0d5N3Z0THlMOEZjcWEzY0NTdDgwUXd5RW1LWXZjZXFOS252d1Q1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-02-021",
+    "date": "2026-11-02",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Spdr Dow Jones Industrial Avg ETF (DIA) Adds Goldman Sachs and Caterpillar on Thursday - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZGNJTExqc1VqMDd1T1lXZ0FiYXczVlNDTEVVeXlUZnZxcDlUZnE2NGxnT2FJR2JvMDJ4WTl4Q0RuVnVaSWNwZENLRDd3NWFSV1l6MDdmQmVRcWRCaTJrUHY2NkpCMjdyLW9SbWRMM0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZGNJTExqc1VqMDd1T1lXZ0FiYXczVlNDTEVVeXlUZnZxcDlUZnE2NGxnT2FJR2JvMDJ4WTl4Q0RuVnVaSWNwZENLRDd3NWFSV1l6MDdmQmVRcWRCaTJrUHY2NkpCMjdyLW9SbWRMM0ZnRjE1T1JydEpNUFJkRXVVMzBKSWE2cFRFNEN4VnNUZWljOVJDbGdoeGFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-11-01-001",
     "date": "2026-11-01",
     "companies": [],
@@ -35,6 +464,28 @@
       {
         "name": "itw",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmNQMl83Vmt6OGFTenhOa0tFXzVvemVoZE45enBrTlFnUXVoUlFtNER0bmt6MWVVYjJLUUJfMXY2QnZLRGF6aUJDQ1J3cFBxdzhteHdISHA1alBTS2Nfa09rYmdFaXpQRVFHamtYVWpTWGxIcktQWm51Tjc5QjhERzIwbkZ0YlRCSWwxZ010MWJjYm83MmJSaHJabE85VUE1bEJVag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-11-01-003",
+    "date": "2026-11-01",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DMG MORI (XTRA:GIL) Stock Could Be 27% Undervalued On Cash Flow Prospects - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPY3hjaXRheEhPYWM1X2ZJbUxMeEtrWFA5U00wZXVPV3R3bGVaa2xScUNNNEZuZW1teDBEcEQ2czdtUDJWRXN5cnFCV01YWHBTamZvaUNBZURXRTJLMGkyWU9keVRVZUNEUjhaSUhnSG",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY3hjaXRheEhPYWM1X2ZJbUxMeEtrWFA5U00wZXVPV3R3bGVaa2xScUNNNEZuZW1teDBEcEQ2czdtUDJWRXN5cnFCV01YWHBTamZvaUNBZURXRTJLMGkyWU9keVRVZUNEUjhaSUhnSG5tcThaLU5qeW1JTFFuTUpuclB4SktFUWNPZHQ4Tkdrc2Qxdw?oc=5",
         "type": "rss"
       }
     ]
@@ -263,6 +714,27 @@
       {
         "name": "google_news_machine_tools",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlcnQ4NnFMN0hvajNuUkE2ZGZzdnZvNWsyV21qcVFWMVpmVDhLb2o0MFNIdGJBRU9kM1FxWUgwWFViNXFoZ0dkd0JtZkk5bGM2eG1Hb2VZeHhQZHNUbDVqemFzRnlqUTVqUXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-10-31-012",
+    "date": "2026-10-31",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics, Inc. (2308.TW) stock price, news, quote and history - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jMDJoTHRRVFJ6YVpuTlljNzJoZnJ2aklMTHJvcTYwWDJNalRQWkZZVzdyTldkSlFKTXRKaFhuQ2RkdFFLajNiN09rQ2RZSC1xQnBaWkRn?oc=5\" target=\"_blank\">Delta Elect",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jMDJoTHRRVFJ6YVpuTlljNzJoZnJ2aklMTHJvcTYwWDJNalRQWkZZVzdyTldkSlFKTXRKaFhuQ2RkdFFLajNiN09rQ2RZSC1xQnBaWkRn?oc=5",
         "type": "rss"
       }
     ]
@@ -1296,6 +1768,69 @@
       {
         "name": "mitsubishi_electric",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDVrR3gwaHQwMjNHOURRRVRWUE5zMm0teFJtZVI0ZnZwdVNQUHUtRTByQlJLUFJ2RG1rU0Yzc2szTHVJME8yUnAwVDdOeXFlTmF1VVZvTDkza3Z5djM5WkVqSWYyakpnMEYzUUY1enEzQm9JelFEd1g2WlVJaDRfMXhOY28wYm1zdGpmVG5LNG5GOGxuWjFrSkYxSHdYRlBaRElQdzVJLVhBUHNvWnRvUXdTTHo3NkxfRXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-10-30-051",
+    "date": "2026-10-30",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Posts Higher Fiscal H1 Attributable Profit; Revenue Up - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ0dFeDlPN2wzQjVzODJXUkxTdG53ZHRFbHJqYU15akx2YklfWHZlaThEV2tBODl4LTlkNWhQTE55ZWo1enN6Q2lpZmg4Y3lJMjY1LTFuZWZ2V2FxME1Fd3ZnenNqclhZUS1yVUl1OH",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ0dFeDlPN2wzQjVzODJXUkxTdG53ZHRFbHJqYU15akx2YklfWHZlaThEV2tBODl4LTlkNWhQTE55ZWo1enN6Q2lpZmg4Y3lJMjY1LTFuZWZ2V2FxME1Fd3ZnenNqclhZUS1yVUl1OHhSTTUtWUp3ZXlMT0tYbVVxRVhCZ050TXpUbDJ3U3FONmR2cDVURXZlY00wOGVqRXNHZ1UzUzRxSzlQTXF6SDhoOVIzU2YtVmJnUGJ1cGpHbTcwVWVt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-10-30-052",
+    "date": "2026-10-30",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works (ITW) Declares Quarterly Dividend at $1.72, Yielding 2.45% - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPWEVXN1VKSFBUX3JKVk5LSHhXYWl3aUhtUEdUZ1BpaDRQdEFmcVE5M0w5bGp3RmxUVFR2WW52aURsazBMMVZhXzhIYjg4UlYtYVpXTHJJUk8xOTU1R25IaGUwQTZndDMyaUlpbFJmVj",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWEVXN1VKSFBUX3JKVk5LSHhXYWl3aUhtUEdUZ1BpaDRQdEFmcVE5M0w5bGp3RmxUVFR2WW52aURsazBMMVZhXzhIYjg4UlYtYVpXTHJJUk8xOTU1R25IaGUwQTZndDMyaUlpbFJmVjU4b0NhdHhPa2pYU3g3NlpRVTVQMVhaM2tvOGxBOWFEMW5MRUI0LVRHWVh1MGVja080OFltSWZMWUFIRDd2T2RV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-30-053",
+    "date": "2026-10-30",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar's Strong Earnings Power Remains Intact, BofA Securities Says - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQQnpUSkpRVm5Tb292UlZJUXoxdWNDZ1FzTTd5VDhqVVppMmt6MlE5YW5NZVI5TTFtR28zVTZKQ3lVX0sxeVNPNEVKYmdSVWtxcjRPSUoxaWhEVEZ0YllhMWNzMm85SW9FUGt3STZsYV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQnpUSkpRVm5Tb292UlZJUXoxdWNDZ1FzTTd5VDhqVVppMmt6MlE5YW5NZVI5TTFtR28zVTZKQ3lVX0sxeVNPNEVKYmdSVWtxcjRPSUoxaWhEVEZ0YllhMWNzMm85SW9FUGt3STZsYVM2eVBUUDRQU0hEeHNqLXNLSmYzTHRKVVVNQnRVTkpQLWdHNkdFMjU5R2VfSzZ5VVhQMmViQjBB?oc=5",
         "type": "rss"
       }
     ]
@@ -2430,6 +2965,45 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV082TVdHVmE0bDVJYzlWdkt6elBnQ2ZxYXY2RHBpNUkwSkJ3d0I2Q1lqdU5KSUdBSzJZcTFmRWtYWkZPXzlJZkJmZnBlck1iYjFneEhvdXl4c2E2YTZ5ZUluQUhjY2NaWmpKbzNFUG96R1U3V1hwUGFkS2tON0QwblVYMzl5ZWhVLTB1RWZxd3JsZnl6R0V4YTU0SE1EeFdiUDl5VE5LcC16OURNbXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "airtac-2026-10-29-055",
+    "date": "2026-10-29",
+    "companies": [
+      "airtac"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Earnings call transcript: AirTAC posts strong Q3 2026 growth as stock rises - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOdzBhNENYc1hFOXpRMVlXWTdRM3JKczUweEVXSnh5RTc0M2xYMzNDN3o4WFlPNE94cXZTb2Fnb1p2NGZzbXl6X2IyU2ZVQ21adkhfWFBrelpsR25KNm1tX2ZRR2xaRmV2MVFKVm1uRk",
+    "sources": [
+      {
+        "name": "airtac",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdzBhNENYc1hFOXpRMVlXWTdRM3JKczUweEVXSnh5RTc0M2xYMzNDN3o4WFlPNE94cXZTb2Fnb1p2NGZzbXl6X2IyU2ZVQ21adkhfWFBrelpsR25KNm1tX2ZRR2xaRmV2MVFKVm1uRkxvWEl4ZXJtNWJfVXZiQVJEQWlLWDZ2M0JJN0FZWVYtS1c5Ykd0eHprendfcU5VRnQ2YWRmaWVXZjMxcWhMMlBkaTZONG5OV0JsX1FBTXlWUVJGRjB4dF85WWtR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-10-29-056",
+    "date": "2026-10-29",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Caterpillar Sales Jump on Growing AI Demand, But Wall Street Wanted More - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPWHE3aHNuODdMb2JLRU1GMENOVkJhXzhyX1JLb2hiTG1uNjJ2ZUhkSjhTc3ZJZjFhTnI0eUFmSF9qUHRTYkN4cEhTV1hDeEZDd3V4Tkp0ZGxSRS1hbUJ3bS1lTXpQczZBeWRad0NWYj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWHE3aHNuODdMb2JLRU1GMENOVkJhXzhyX1JLb2hiTG1uNjJ2ZUhkSjhTc3ZJZjFhTnI0eUFmSF9qUHRTYkN4cEhTV1hDeEZDd3V4Tkp0ZGxSRS1hbUJ3bS1lTXpQczZBeWRad0NWYjU1RGhUTFkyeERSOWs5QjdWeS1UNnZ0cGc2UVlwUzlncktMZkhqMFI4UXRGT21wdw?oc=5",
         "type": "rss"
       }
     ]
