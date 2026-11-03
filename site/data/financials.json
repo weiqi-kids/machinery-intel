@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T17:35:53.914673Z",
+  "updated_at": "2026-11-03T15:39:07.362811Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -41,17 +41,17 @@
       "name": "天田",
       "ticker": "6113.T",
       "currency": "JPY",
-      "ar": 158052000000,
-      "ar_prev": 135756000000,
-      "ar_qoq": "+16%",
+      "ar": 136281000000,
+      "ar_prev": 158052000000,
+      "ar_qoq": "-14%",
       "ar_period": "QoQ",
-      "inventory": 157746000000,
-      "inv_prev": 164530000000,
-      "inv_qoq": "-4%",
+      "inventory": 171478000000,
+      "inv_prev": 157746000000,
+      "inv_qoq": "+9%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "caterpillar",
@@ -160,17 +160,17 @@
       "name": "Illinois Tool Works",
       "ticker": "ITW",
       "currency": "USD",
-      "ar": 3564000000,
-      "ar_prev": 3380000000,
-      "ar_qoq": "+5%",
+      "ar": 3516000000,
+      "ar_prev": 3564000000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 1756000000,
-      "inv_prev": 1726000000,
-      "inv_qoq": "+2%",
+      "inventory": 1823000000,
+      "inv_prev": 1756000000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "jtekt",
@@ -262,17 +262,17 @@
       "name": "大隈",
       "ticker": "6103.T",
       "currency": "JPY",
-      "ar": 45893000000,
-      "ar_prev": 36633000000,
-      "ar_qoq": "+25%",
+      "ar": 37351000000,
+      "ar_prev": 45893000000,
+      "ar_qoq": "-19%",
       "ar_period": "QoQ",
-      "inventory": 82108000000,
-      "inv_prev": 89555000000,
-      "inv_qoq": "-8%",
+      "inventory": 87420000000,
+      "inv_prev": 82108000000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "parker_hannifin",

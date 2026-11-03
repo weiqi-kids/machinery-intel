@@ -1,0 +1,16 @@
+{
+  "total_raw": 385,
+  "dup_title": 202,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 2,
+  "gate2_fail": 9,
+  "passed": 32,
+  "gate2_samples": [
+    "Delta Electronics sees growing opportunities in India’s solar, BESS and green hydrogen markets - pv ",
+    "Delta SEAO Future Industry Summit Comes to Singapore - Pokde.Net",
+    "Quality Is a Promise. AI Is Changing How We Deliver It.",
+    "Schneider Electric recognized with Esri IMGIS Partner Award for Network Management",
+    "Mitsubishi Electric seeks to expand North American grid foothold - Utility Dive"
+  ]
+}
