@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T15:53:18.681768Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "airtac-2026-11-04-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Airtac's October Revenue Hits NT$3.565 Billion, a Record High for the Month; Order Momentum Seen Strong Through 2027 - BigGo Finance",
+      "companies": [
+        "airtac"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1od3RMaFdGUXVHOE9rQjh3NHdPODQtcmtxTndjU1JoRjQzeVlqUU9yRzJNWVRqOU9Yc24wSUgzazR0cENROTNBRzUtWnVKaVlQSVYzY05hM1RvOTZQY0l5QVQxenEwMmJBc1I1d0xOMFZaejl0T2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-11-04-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why is Delta Electronics stock sliding today? - Investing.com",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQODhuaDM1Q2g3aUx1akhKdjE4OHZTd3czdUVFYW5qWV9vaHNFcFVSLUVIa3Rfd0lfenEzZ2JUWHRHbmZmaS1RS2Y1NndxSFBkUFdTZGNZWk0zTTQwZWJDTW1wWjFnZ3Y0bTBNNEtVajFtZW41MGFsZERpdlJCakpqQk1VMW0zaUR0NmdqbDJiWDNSZkt5Q2FUQUxYV3ZXNlRNVENWWndlaS04UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-04-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Energy is becoming telecom’s next competitive advantage - The Independent",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcWxVUlU2VmFQcE1DNklEd0FoTy0wV3dYQVpLMXlmc1hwcldmVHE3OG5sQ2pVZzlTYjc3Y2U0MXEyYVdBUUFKaUNlR1E3YVlKSFhRVjJ2cVRveVpKQ3hlOFJuWkp3bnp4TWp0Z2d4UFlvaVpXeE50QjhXUTdhZmdwWlBvNzJLdklzUmZQS2xMNG53eEVGNVVqY3VIUnV5Zks5YlpzdFFsRE9QV1l4MXBkdTBVSHdTS2FwR3FPSzBTaGNvM3JxVUtQYnhn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-04-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Machine Tools Excluded From First Wave of China Export Controls, but Syntec Still Posts Two Straight Limit-Down Days - BigGo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JOFdDTkF5NlVla1cyUHlIOUQ3T0hHZWMxWlhRNXJpT3M3dFV3TkJ2X3kyM1dFRVhGSHFQeGR3M21VNWpGSUMzVlQ3aWNqRFJXenhIdHVJSUx2VmZ4dVdsZkZ0eTVtUUZaNnZkMUQ5Rzd3OUlhTHc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-11-04-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker Hannifin Reports Soon: How Has The Stock Reacted To Past Earnings? - Trefis",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWGF4NFJiMWNWVER1R0xVV0txbFF5Zkg2Z05HalV5TGpiWkdIWTlZaGhhRW15dVVZcG5GQkRVUWxIYl85TUpvcjdUcnB1MXRmdE9XNXFoMndBZG9nSThjMTBBaWxaOHoyM0ZrNGFhVzNuejlQY19IT1BFVTRhRGlZcHFMNlZ0RERXRjZGbUo5LXd2U2JuemM4cVNfaFBZalBGTjgxZ0ZvdEJmeWRNNHpaVE9EM1AxTjJQVERYdDFhXzJvcUdfYXlmdFNR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "airtac",
+        "count": 1
+      },
+      {
+        "id": "delta",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "automation_capex",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 197,
+    "too_old": 147,
+    "gate1_blocked": 3,
+    "gate2_blocked": 5,
+    "passed": 17,
+    "pass_rate": "9.9%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "Quality Is a Promise. AI Is Changing How We Deliver It.",
+      "Schneider Electric recognized with Esri IMGIS Partner Award for Network Management",
+      "Mitsubishi Electric seeks to expand North American grid foothold - Utility Dive",
+      "What Parker-Hannifin Buyers Were Betting On - Simply Wall St",
+      "Parker-Hannifin Elects Directors as Record Fiscal 2026 Sales Top $20B - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Parker、CAT、AirTAC International相關動態：「Airtac's October Revenue Hits NT$3.565 Billion, a Record ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Airtac's October Revenue Hits NT$3.565 Billion, a Record High for the Month; ...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Why is Delta Electronics stock sliding today? - Investing.com（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

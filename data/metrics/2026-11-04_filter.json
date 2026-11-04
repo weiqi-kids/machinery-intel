@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 3,
+  "gate2_fail": 5,
+  "passed": 17,
+  "gate2_samples": [
+    "Quality Is a Promise. AI Is Changing How We Deliver It.",
+    "Schneider Electric recognized with Esri IMGIS Partner Award for Network Management",
+    "Mitsubishi Electric seeks to expand North American grid foothold - Utility Dive",
+    "What Parker-Hannifin Buyers Were Betting On - Simply Wall St",
+    "Parker-Hannifin Elects Directors as Record Fiscal 2026 Sales Top $20B - Yahoo Finance"
+  ]
+}
