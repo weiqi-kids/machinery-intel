@@ -1,0 +1,15 @@
+{
+  "total_raw": 367,
+  "dup_title": 185,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 3,
+  "gate2_fail": 4,
+  "passed": 34,
+  "gate2_samples": [
+    "From Genomics to Data Centres: How AI and HPC are shaping the Future of Research",
+    "Quality Is a Promise. AI Is Changing How We Deliver It.",
+    "Mitsubishi Electric seeks to expand North American grid foothold - Utility Dive",
+    "Form 144 ILLINOIS TOOL WORKS INC For: 4 November By Investing.com - Investing.com UK"
+  ]
+}

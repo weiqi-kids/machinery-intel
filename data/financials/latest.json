@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T15:53:13.958930Z",
+  "updated_at": "2026-11-05T15:57:57.855924Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "台達電",
       "ticker": "2308.TW",
       "currency": "TWD",
-      "ar": 140011086000,
-      "ar_prev": 126874481000,
-      "ar_qoq": "+10%",
+      "ar": 148562020000,
+      "ar_prev": 140011086000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 139394174000,
-      "inv_prev": 119107625000,
-      "inv_qoq": "+17%",
+      "inventory": 168202354000,
+      "inv_prev": 139394174000,
+      "inv_qoq": "+21%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-06-30"
+      "alert": true,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "dmg_mori",
@@ -194,17 +194,17 @@
       "name": "基恩斯",
       "ticker": "6861.T",
       "currency": "JPY",
-      "ar": 379590000000,
-      "ar_prev": 342170000000,
-      "ar_qoq": "+11%",
+      "ar": 438274000000,
+      "ar_prev": 397626000000,
+      "ar_qoq": "+10%",
       "ar_period": "QoQ",
-      "inventory": 85273000000,
-      "inv_prev": 87875000000,
-      "inv_qoq": "-3%",
+      "inventory": 117287000000,
+      "inv_prev": 101073000000,
+      "inv_qoq": "+16%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "lincoln_electric",

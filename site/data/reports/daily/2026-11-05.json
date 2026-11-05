@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T15:58:03.513191Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "parker_hannifin-2026-11-05-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Should Record Results Require Action From Parker Hannifin Stock Investors? - Yahoo Finance",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaWMweHlubVhweFA3NlUzLW5LWExzYnN3Q185clc4cHN3RGU0cXJSQzJXOVJWSWZLeWZkMW5CYnFjZ0ljSVZYSTZOZzVQaGMwejNGMGFjODNjTW9vdDk1b1BvM3pNanV2WXpOejBkYjFkZkZIX1dPZERZVHJhQW1QREdReFphNGRVeFRKSUtVbzVvTFEyMlk2QzNtbTlMdnFNVEpZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "parker_hannifin-2026-11-05-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin: Fiscal Q1 Earnings Snapshot - Yahoo Finance",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTdaS09wZF9ZbGkwTWpOWG43WTYxd0RHcjBTdlh4QXVYZVM4WnU2emdZYTdGR2wzcTRHaXdGSlA4MDB3MTRhTDdYWS1YOEhpT2xMSUVqakh0cGVvRjFqWXZmNDB1bXF1NjJuZjRCVE04QXZkVHFjektMdlkzcVhHaDBjVC1TRGVYb216LWFfRmd0UUFYMElEQnVPRGFvamQx?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-11-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker Hannifin shares jump as earnings beat estimates, demand speeds up (PH:NYSE) - Seeking Alpha",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPelF3SGdZSTREUXFUNHI0c0FDc3BFRUlza2xSTXJQUERsb25FX2I0S080NnhMQl9PTDBiOUZYenZybV9FLUp6cFBiYWczMmVqOWhsNXd5WjdDbThtdjRtWW5tcGp0eko0YkoyRG9DZE1vNXVrT3JIZWMtaFlBMWdTejFjM29IdVNBNWhBYlRwclNGZVJHOWgzQ0pXc3l5aEVlQ2dyblhnU2hLM2Z2alE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "parker_hannifin-2026-11-05-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin earnings beat by $0.69, revenue topped estimates - Investing.com",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeEhEWnFoMFZlbWRZNHNTcG5OZVI0Z2NLLW4xVHZNc2lNaUtEOTltOXo3SW0yOEJ3VjdfU05GTV9CNmt1bS10amdzZmJfeVh0ZlRlWmtPOUJ6M3dmanpyMUpvb3FXb1UwdWVzbDBJaVoxOWN0ejlsbEpaOG5DbzllT25KcjFLRGdicmZMQWVJUWtQZ3lXanlKZ2RDT2xLeEM1anNCSkxLTXl2ZlAy?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-11-05-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker Hannifin (PH) Q1 Earnings Beat Estimates, Revises Fiscal Guidance Amid Solid Growth - GuruFocus",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmpYYV90VmFQTFNUdGVuOXZCZzdGSEo2bFNkX2FlR2pfS2IyR0pUdVExTjdmQUlyQTlYMkNjOXVELTE4dlllMm5EUGdnc0pwY2dta2lNdFlyMnZ4Y0JXWk1rdkxpTm8zU2FIVFVuZEozUE1fZlhMcFZBaFctTVJrM05CdDk5U05Pcm1mZ2lOLXMwWkFOUDV3SUpMV1VoSnpGX3VNVm9VOHlUQWwtdWxmNGNnMkctUGtzSURfdkRBb0cxY1dv?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "guidance": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.13,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 15
+      },
+      {
+        "id": "caterpillar",
+        "count": 6
+      },
+      {
+        "id": "abb",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 17
+      },
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "guidance",
+        "count": 5
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 367,
+    "dup_title": 185,
+    "too_old": 141,
+    "gate1_blocked": 3,
+    "gate2_blocked": 4,
+    "passed": 34,
+    "pass_rate": "18.7%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "From Genomics to Data Centres: How AI and HPC are shaping the Future of Research",
+      "Quality Is a Promise. AI Is Changing How We Deliver It.",
+      "Mitsubishi Electric seeks to expand North American grid foothold - Utility Dive",
+      "Form 144 ILLINOIS TOOL WORKS INC For: 4 November By Investing.com - Investing.com UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為Parker、CAT、ABB相關動態：「Should Record Results Require Action From Parker Hannifin...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Should Record Results Require Action From Parker Hannifin Stock Investors? - ...（自動化資本支出、財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Parker-Hannifin: Fiscal Q1 Earnings Snapshot - Yahoo Finance（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

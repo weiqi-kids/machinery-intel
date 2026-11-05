@@ -1,5 +1,472 @@
 [
   {
+    "id": "parker_hannifin-2026-11-05-001",
+    "date": "2026-11-05",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Parker Delivers Record Fiscal 2027 First Quarter Results, Raises Full Year Outlook",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "abb-2026-11-05-002",
+    "date": "2026-11-05",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Blocks SoftBank’s $5.4Bn Acquisition of ABB Robotics - Retail News Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcXFpdkFRSTFVSUE1SE1zOUF5QWNIajdaRlE0ZkxneW5jakt6bE8xN1pldUp6MHJ0dFYweUswRm54M0h3LWJvRnR0VU54ek8tYkJFcmM5YkxLdEdMY0RQYVZKMHFwUkdzTVBIaENFS2",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcXFpdkFRSTFVSUE1SE1zOUF5QWNIajdaRlE0ZkxneW5jakt6bE8xN1pldUp6MHJ0dFYweUswRm54M0h3LWJvRnR0VU54ek8tYkJFcmM5YkxLdEdMY0RQYVZKMHFwUkdzTVBIaENFS2pwRWdwVHJ2WFM0eUpRVTQzTG05Z1ZyNVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-05-003",
+    "date": "2026-11-05",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin: Fiscal Q1 Earnings Snapshot - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTdaS09wZF9ZbGkwTWpOWG43WTYxd0RHcjBTdlh4QXVYZVM4WnU2emdZYTdGR2wzcTRHaXdGSlA4MDB3MTRhTDdYWS1YOEhpT2xMSUVqakh0cGVvRjFqWXZmNDB1bXF1NjJuZjRCVE",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTdaS09wZF9ZbGkwTWpOWG43WTYxd0RHcjBTdlh4QXVYZVM4WnU2emdZYTdGR2wzcTRHaXdGSlA4MDB3MTRhTDdYWS1YOEhpT2xMSUVqakh0cGVvRjFqWXZmNDB1bXF1NjJuZjRCVE04QXZkVHFjektMdlkzcVhHaDBjVC1TRGVYb216LWFfRmd0UUFYMElEQnVPRGFvamQx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-05-004",
+    "date": "2026-11-05",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin shares jump as earnings beat estimates, demand speeds up (PH:NYSE) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPelF3SGdZSTREUXFUNHI0c0FDc3BFRUlza2xSTXJQUERsb25FX2I0S080NnhMQl9PTDBiOUZYenZybV9FLUp6cFBiYWczMmVqOWhsNXd5WjdDbThtdjRtWW5tcGp0eko0YkoyRG9DZE",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPelF3SGdZSTREUXFUNHI0c0FDc3BFRUlza2xSTXJQUERsb25FX2I0S080NnhMQl9PTDBiOUZYenZybV9FLUp6cFBiYWczMmVqOWhsNXd5WjdDbThtdjRtWW5tcGp0eko0YkoyRG9DZE1vNXVrT3JIZWMtaFlBMWdTejFjM29IdVNBNWhBYlRwclNGZVJHOWgzQ0pXc3l5aEVlQ2dyblhnU2hLM2Z2alE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-05-005",
+    "date": "2026-11-05",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin earnings beat by $0.69, revenue topped estimates - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPeEhEWnFoMFZlbWRZNHNTcG5OZVI0Z2NLLW4xVHZNc2lNaUtEOTltOXo3SW0yOEJ3VjdfU05GTV9CNmt1bS10amdzZmJfeVh0ZlRlWmtPOUJ6M3dmanpyMUpvb3FXb1UwdWVzbDBJaV",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeEhEWnFoMFZlbWRZNHNTcG5OZVI0Z2NLLW4xVHZNc2lNaUtEOTltOXo3SW0yOEJ3VjdfU05GTV9CNmt1bS10amdzZmJfeVh0ZlRlWmtPOUJ6M3dmanpyMUpvb3FXb1UwdWVzbDBJaVoxOWN0ejlsbEpaOG5DbzllT25KcjFLRGdicmZMQWVJUWtQZ3lXanlKZ2RDT2xLeEM1anNCSkxLTXl2ZlAy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-05-006",
+    "date": "2026-11-05",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Parker Hannifin (PH) Q1 Earnings Beat Estimates, Revises Fiscal Guidance Amid Solid Growth - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmpYYV90VmFQTFNUdGVuOXZCZzdGSEo2bFNkX2FlR2pfS2IyR0pUdVExTjdmQUlyQTlYMkNjOXVELTE4dlllMm5EUGdnc0pwY2dta2lNdFlyMnZ4Y0JXWk1rdkxpTm8zU2FIVFVuZE",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmpYYV90VmFQTFNUdGVuOXZCZzdGSEo2bFNkX2FlR2pfS2IyR0pUdVExTjdmQUlyQTlYMkNjOXVELTE4dlllMm5EUGdnc0pwY2dta2lNdFlyMnZ4Y0JXWk1rdkxpTm8zU2FIVFVuZEozUE1fZlhMcFZBaFctTVJrM05CdDk5U05Pcm1mZ2lOLXMwWkFOUDV3SUpMV1VoSnpGX3VNVm9VOHlUQWwtdWxmNGNnMkctUGtzSURfdkRBb0cxY1dv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-05-007",
+    "date": "2026-11-05",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Fiscal Q1 Adjusted Earnings, Net Sales Rise; Raises Fiscal 2027 Guidance - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxONEV4WEVseWwyWE5CUTc4UEdWQ3RZQlRjclc2RTBZc0o0R0NBckpENURoaFkwVHdxaVRCX3owU1B4eHlUdFZUemdqcVhFQzFBVlgzZFdVMTVyaUxLcGp2eXk0RHFJdl9fblYxWXlpXz",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONEV4WEVseWwyWE5CUTc4UEdWQ3RZQlRjclc2RTBZc0o0R0NBckpENURoaFkwVHdxaVRCX3owU1B4eHlUdFZUemdqcVhFQzFBVlgzZFdVMTVyaUxLcGp2eXk0RHFJdl9fblYxWXlpXzVWaEZ1RXdZM0ViY1JzcXM3a3lYd0ZoMW81QXBrLW56RU13cjVWbE1BR1RtRWk2MlFSZktsT1RLcEVFUGIwWnFPVVpGVUFESTlpUXl0UXBJUVF6MzNOVUhCTGJ5dG5wT3BNV2wzUXNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-05-008",
+    "date": "2026-11-05",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (PH) Tops Q1 EPS by 69c ; Offers Guidance - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQTm01NWIydnpKcU1XUmdleFBoSENLMFVfUFQ4M3Zhdy1XSFNDdzItOG9KblNVOGM2OXJ5cUpTTjliRmlhZURIN1Q4MVNtTWUzVk0yMzRUSWE2M3I3WFE5MTVRWVd2Zlc1ZENaaTRqNW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTm01NWIydnpKcU1XUmdleFBoSENLMFVfUFQ4M3Zhdy1XSFNDdzItOG9KblNVOGM2OXJ5cUpTTjliRmlhZURIN1Q4MVNtTWUzVk0yMzRUSWE2M3I3WFE5MTVRWVd2Zlc1ZENaaTRqNWxXYnZ3MnB4UklsaWowZldzYkoyamZISVpEdzZGZ1JrUXpaNFJnaHd4RUVvVDQzMzFTSWNleTlpRVhFMzczbWExUWJWWXBoNUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-05-009",
+    "date": "2026-11-05",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (PH) Q1 Earnings and Revenues Beat Estimates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPeVJQdWxCZklZUlVUdTJ3RWtETzdaRUsyWTNvYk5PaXhfOElJUGpTV0Itd2FiUmVyTEVLdFhXUE5IS1hQSklzOHU4NGwzOGRyWDJDNHdXOHVtOUhLYnRHZkJ6NjdwSmN2Q0RkQjFCek",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeVJQdWxCZklZUlVUdTJ3RWtETzdaRUsyWTNvYk5PaXhfOElJUGpTV0Itd2FiUmVyTEVLdFhXUE5IS1hQSklzOHU4NGwzOGRyWDJDNHdXOHVtOUhLYnRHZkJ6NjdwSmN2Q0RkQjFCekxUdElrNFJXOTM3ZEhDTGNUa2FUNVZsdVpWSExZNFIxZzVaUlJPRzVaN3JtZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-05-010",
+    "date": "2026-11-05",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Parker Delivers Record Fiscal 2027 First Quarter Results, Raises Full Year Outlook - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYW9uOUt0ZWFobmpwNjN4NzB2TG1KcmRMa3NXUkNkbHRFbWFJWVZRUng3aXJiV3J3cTdzenljdk50NFNidllCUTBSU1J5MkRxc2JIenRQT1FBSUF2cV9HLVJURTZlNUk1d19QX3o3Nl",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYW9uOUt0ZWFobmpwNjN4NzB2TG1KcmRMa3NXUkNkbHRFbWFJWVZRUng3aXJiV3J3cTdzenljdk50NFNidllCUTBSU1J5MkRxc2JIenRQT1FBSUF2cV9HLVJURTZlNUk1d19QX3o3NllQajlYVDlqOVdkdmxnS3M5dHZpWk5VUFp3ZWxFYzBrRmNIanVxS29ac3ZuUHR3UkFCLUc5emVKeE1CM3NxWDBfYllZWklocVZDa3ljZkJySHl5dFpla212NGJEdTZuTEhtYUd3SzhFc3dOMFdiemNmdGhGeTZRcG9Z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-05-011",
+    "date": "2026-11-05",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin’s (NYSE:PH) Q3 CY2026: strong sales, stock soars - StockStory",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWtuQW5HZkxYc1hnVWlFYlJFUjdKWGgxVWdTOV9oMDNmcXgxMk90WDRLSE8zT0VQSV9RQ3FCOTQ3cWF6eUNOMTZrZUtQQnJnNm5mbFV5LVBDTURzVjdjdWtHYndsUnNDbTZsbEcyZH",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWWtuQW5HZkxYc1hnVWlFYlJFUjdKWGgxVWdTOV9oMDNmcXgxMk90WDRLSE8zT0VQSV9RQ3FCOTQ3cWF6eUNOMTZrZUtQQnJnNm5mbFV5LVBDTURzVjdjdWtHYndsUnNDbTZsbEcyZHhQNW5XdF82TmFxbGxaOEpjN01DbGZHY2gtaXhBWjB3R3ExWnk5OVV4bG93cTJ3WU9LcUVubm9qdmkxb0l5dGk4S0VXZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-05-012",
+    "date": "2026-11-05",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PARKER-HANNIFIN ($PH) Releases Q1 2027 Earnings - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQMDJHNEVwWFF0bnh4OTlmeWFTd2JPLVc1ZVF5UW9YdEE2eTJQd3JGTXRmMVBhbldCM21rOF9Cb29tQWtUZkRaSE5EUE12VG42NG9mb01FVXF5dVQ5Sjg2Q2xweFlWLXlzTjJnSm91V2",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMDJHNEVwWFF0bnh4OTlmeWFTd2JPLVc1ZVF5UW9YdEE2eTJQd3JGTXRmMVBhbldCM21rOF9Cb29tQWtUZkRaSE5EUE12VG42NG9mb01FVXF5dVQ5Sjg2Q2xweFlWLXlzTjJnSm91V25EcVk3dWo5MTFfblFLY1A5Uk9pMHdhQU1zdzQ0MHNobw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-05-013",
+    "date": "2026-11-05",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin earnings beat by $0.69, revenue topped estimates - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUG5raDV4dWRQRkUyRTdxZ20zUW0yeGZWRkpuWnJmVjhLMUFyaEUxRTZVQXB1eTk4SndSbkxlV05JQmFpQUVZRkpwcHZlTTN4YnU2Y3ZwRmxCYmEwbE5pRGlieGZwQktCZXRHTEtJM0",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUG5raDV4dWRQRkUyRTdxZ20zUW0yeGZWRkpuWnJmVjhLMUFyaEUxRTZVQXB1eTk4SndSbkxlV05JQmFpQUVZRkpwcHZlTTN4YnU2Y3ZwRmxCYmEwbE5pRGlieGZwQktCZXRHTEtJM0o1UHdmUWhCYzY5Q2wyV2k3TENvMFJDYmlIWUdIdGpDY1VBdWliUjVsMmdRUjVHY0ZvWHZweWc1dERjTVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-05-014",
+    "date": "2026-11-05",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Should Record Results Require Action From Parker Hannifin Stock Investors? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPaWMweHlubVhweFA3NlUzLW5LWExzYnN3Q185clc4cHN3RGU0cXJSQzJXOVJWSWZLeWZkMW5CYnFjZ0ljSVZYSTZOZzVQaGMwejNGMGFjODNjTW9vdDk1b1BvM3pNanV2WXpOejBkYj",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaWMweHlubVhweFA3NlUzLW5LWExzYnN3Q185clc4cHN3RGU0cXJSQzJXOVJWSWZLeWZkMW5CYnFjZ0ljSVZYSTZOZzVQaGMwejNGMGFjODNjTW9vdDk1b1BvM3pNanV2WXpOejBkYjFkZkZIX1dPZERZVHJhQW1QREdReFphNGRVeFRKSUtVbzVvTFEyMlk2QzNtbTlMdnFNVEpZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-05-015",
+    "date": "2026-11-05",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Form 8K Parker Hannifin Corporation For: 5 November By Investing.com - Investing.com UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNUVhPR3lxZnFxbGtkRm5hQWt3cWlKODIzZHJQcXhHWWY2eElnd1pvQ2toOXF2ejN6WDdwLVptcDJJeFFDOEE0M242Y3ROMjhLaG1sTzNCMk1xZHpJQ1Z6SjZiTm5xTGgyT2VDSEhHaW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUVhPR3lxZnFxbGtkRm5hQWt3cWlKODIzZHJQcXhHWWY2eElnd1pvQ2toOXF2ejN6WDdwLVptcDJJeFFDOEE0M242Y3ROMjhLaG1sTzNCMk1xZHpJQ1Z6SjZiTm5xTGgyT2VDSEhHaW5pSW5wWndONm1KQmJKTGNsMXBOX0VGTE5seExkTlZyNjBVVGx5QzdMWVFwRTVzdl9vdUFzNjFOd2xHaG9pNFhWMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-05-016",
+    "date": "2026-11-05",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin earnings beat by $0.69, revenue topped estimates - Investing.com South Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkFIQmIzWUFTRHhMOFZHYzR1ZHdRSFdxMjV1akpZRW9mRUFESjJfQnpOUWpTYjgyWFVtc1FoOWlIOHVhakNxMWVQZEpIZExMN1dtcXBreE5mM3ItYzh3YnJYazExN0RfTzZSY0VwMW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkFIQmIzWUFTRHhMOFZHYzR1ZHdRSFdxMjV1akpZRW9mRUFESjJfQnpOUWpTYjgyWFVtc1FoOWlIOHVhakNxMWVQZEpIZExMN1dtcXBreE5mM3ItYzh3YnJYazExN0RfTzZSY0VwMWo4eFJROFY4X0dEbU9aSHdqNjkyQXZyZ3p2clU5SmRnQ0ZGSWhIcGM2TEVRbWY1V3M3dFdLVE5MSGRiNXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-05-017",
+    "date": "2026-11-05",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Caterpillar seeking to expand production of large reciprocating engines and turbines to meet huge data center demand - Data Center Dynamics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdnhMRERFR1dsamJJLU5DOTIxVi1nUG9kXzI1UHNrQjIyWHB4TFA5RlJKQy1vMmktYXR1TVVNQS03VXpYdzgxbDJ3OTB6TFlRYWFNZ3pJMTU4TTBkRk5qdUVzalQzNVRQVkhONkdONj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdnhMRERFR1dsamJJLU5DOTIxVi1nUG9kXzI1UHNrQjIyWHB4TFA5RlJKQy1vMmktYXR1TVVNQS03VXpYdzgxbDJ3OTB6TFlRYWFNZ3pJMTU4TTBkRk5qdUVzalQzNVRQVkhONkdONjZISU1FRTM4RV9Nd1h5OU1wbHhMZHBTZVVONFZ1UzJnZUlmQ1JXOHlBaVlUQUZlSFpZd3FCdGFBaGhkNkFQeWxSdkMxbUdiQzM0M2JXMFdELWJybUI5YlhUeEFUTmJCcXBSZVVSVEhTU2VUSVRqX29jVjFCYVRnS0tzUEJscXhqVm5zQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-05-018",
+    "date": "2026-11-05",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Rides U.S. Demand for Data Centers, Mines - Industrial Info Resources",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPWUMyd2hybUUxbEhrSmhuUWRTdzBFOWk3Z0ktM1A3MGd1dm40TUdnNGJCWlNmcTlYZkVzZi02RGdOX2RVbF81cDJ0akFPRE80V1MwakN4eGpNQkRpZmd4RUJRZGlBQ3V6bWJmRUhKMG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWUMyd2hybUUxbEhrSmhuUWRTdzBFOWk3Z0ktM1A3MGd1dm40TUdnNGJCWlNmcTlYZkVzZi02RGdOX2RVbF81cDJ0akFPRE80V1MwakN4eGpNQkRpZmd4RUJRZGlBQ3V6bWJmRUhKMGFhMWxZTzlsRWEtU1AzTC1rYWlxM19WYWJLYkFGanVTeFJnaWJMRDJBZmJ3bzdUZ1BuZXpUMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-05-019",
+    "date": "2026-11-05",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Caterpillar's $1B Sanford Plant Fuels Raleigh-Durham Growth - Hoodline",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVpTbEJUZjhqeXBYeVNvTUpMSXBIdHZqOUU2bHJ1eXZEUkFyQkdnbHJFSzBnVXNKZUlNdllDSXp4cG1jdVFrcmZxUmZyTFpFUl92TW80dDluUThCSTV2dU9NR1BlZ3FCUmZCY2ZZVl",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUVpTbEJUZjhqeXBYeVNvTUpMSXBIdHZqOUU2bHJ1eXZEUkFyQkdnbHJFSzBnVXNKZUlNdllDSXp4cG1jdVFrcmZxUmZyTFpFUl92TW80dDluUThCSTV2dU9NR1BlZ3FCUmZCY2ZZVlUtcDY1NWpUUkZwaHFMYmhMOVQyLXBRbjVuMU9mSDM3UVV2c1pYbmctN2xYUTh3SGNMUkU1YXFYdGJtM0lo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-05-020",
+    "date": "2026-11-05",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Used To Build Legendary Truck Engines. Here's Why It Quit - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNRThVZGQ2emI0RWt1ZXdoUGo3VVBndTRtcGFzMEgwT0VqOGVFVklxOG9lOXBuZHBrbTA2Sk9VNmhETzZxUFd3ajZRX2pPU0YzU0UtaW1vMFlwMmNwdEdrdmh3dEoxSWZPVlBmSGNYY1",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRThVZGQ2emI0RWt1ZXdoUGo3VVBndTRtcGFzMEgwT0VqOGVFVklxOG9lOXBuZHBrbTA2Sk9VNmhETzZxUFd3ajZRX2pPU0YzU0UtaW1vMFlwMmNwdEdrdmh3dEoxSWZPVlBmSGNYY1plRE5JelJxbncwdURpQUhDMGs0YjdSX2d0M0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-05-021",
+    "date": "2026-11-05",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Spdr Dow Jones Industrial Average ETF (DIA) Sells Goldman Sachs, Caterpillar on Nov. 3 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNc1dNZm5FVHB4TnA4aTVzczQxcXZyakVrWng3VnhWa3pLcHYzNjZjeG1qTzZzaVNjWmxUcVpIN3FTUFFtSnVYaFozMnExcjM2Z1YxbWFvOC10a0dvNVdJd1BLNzk2dWtaTDBlM2g4TC",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc1dNZm5FVHB4TnA4aTVzczQxcXZyakVrWng3VnhWa3pLcHYzNjZjeG1qTzZzaVNjWmxUcVpIN3FTUFFtSnVYaFozMnExcjM2Z1YxbWFvOC10a0dvNVdJd1BLNzk2dWtaTDBlM2g4TC13eUFMeTR2V3hhcWxNT0FmZEQtZlRMNi0yZXo3SHVvZFl2XzR2ZmtEdk52V0EwTzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-05-022",
+    "date": "2026-11-05",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ETFs Are Net Sellers of Caterpillar (CAT) on Tuesday - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQbkJIaTgySU9QMzdjLXFyVjZNZmJVd3Zlb2RNUlpMLWk0cUpTeGFtLU1BMnNpYzJHUGpqb201WWFXTnpydWYxa0hpUGtRa1daYlNOZWZXRDB2OUw0MmFtUlB4dXBtNlQzLWFwRk1jLX",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbkJIaTgySU9QMzdjLXFyVjZNZmJVd3Zlb2RNUlpMLWk0cUpTeGFtLU1BMnNpYzJHUGpqb201WWFXTnpydWYxa0hpUGtRa1daYlNOZWZXRDB2OUw0MmFtUlB4dXBtNlQzLWFwRk1jLXZDamJkbFlhZ0dFZnRndXY3YWNoYkNfN05BNHFHSEFORWE5a0RIMmdMX1JGSVlLZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-023",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Texas Instruments stock adds industrial networking products - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQT01IVExnRWhLbUw2WTg5Vkw2OF9sVkc4ZEtzVnFJbUhMTE0yZkc1X19RYUhuZ19jd3lpeEt1cExEOFB6Z1o2Mms4V19ZUGtRNVRRZVo5WGo4ZFFXM3ZwRU1PZm8yZzNXR3hPLTdjaT",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT01IVExnRWhLbUw2WTg5Vkw2OF9sVkc4ZEtzVnFJbUhMTE0yZkc1X19RYUhuZ19jd3lpeEt1cExEOFB6Z1o2Mms4V19ZUGtRNVRRZVo5WGo4ZFFXM3ZwRU1PZm8yZzNXR3hPLTdjaTBIbVozcWZRdkxjYkxfUVk1NmJMSjhodVZPWEs3WU5KUTJIaG4yNzlHNVVNQ1AxWDU5Tm83blNFR0VCbXUtNkFxUlNwZ1RxZ01nSF9UM19Xaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "airtac-2026-11-04-001",
     "date": "2026-11-04",
     "companies": [
@@ -202,6 +669,167 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0RoVjhpYmZwS3o2c3N5SVlzR3VBTlJIMUg4WkJqSVBYSXpsZlJxVm9HNTVXNFZDUmJleFZleExfU3AwYmlWdjNjNUU0dDRfU3kyelp6N2pvNlgzeEt3cEdrYnNXMml1M3g1MHR0QTBITV9WUnVFLVAwMWNCZ05leDdXYU8zbGhyeXRnUGhnVS1qOW0tNm5oQ3RsMzVmajg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-011",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Partnerships for Innovation: Why DC-ready buildings start behind the walls",
+    "summary": "<p>Strip away the solar panels, batteries, EV chargers, and digital controls, and each new electrical architecture comes down to one question: can the building move power where it needs to go? And the",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/innovation/2026/11/04/partnerships-for-innovation-why-dc-ready-buildings-start-behind-the-walls/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-11-04-012",
+    "date": "2026-11-04",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric (TSE:6503) Stock May Be 13% Overvalued Despite Energy Software Deal - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFVzclFFcVVyLWNwQlhJVmtKX2pZc2diMVpKdEM2dkFZYTJpSlByemVWV2toeExrS1VBR1FyLXlBeXVpd2QwYjBiWHJhbmhqcWpTLVM2ank1SW1UcjVJbG1XbFZHMF9LR0x3ZFZycH",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFVzclFFcVVyLWNwQlhJVmtKX2pZc2diMVpKdEM2dkFZYTJpSlByemVWV2toeExrS1VBR1FyLXlBeXVpd2QwYjBiWHJhbmhqcWpTLVM2ank1SW1UcjVJbG1XbFZHMF9LR0x3ZFZycHY2NHgwMkR1RVU1Z1NzWWdIY0lNUHVYZGZtbG0zZXFsaWtiS0h2MXNXOEF4YVhjb095?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-04-013",
+    "date": "2026-11-04",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Parker Hannifin Shareholders Approve Directors and Executive Compensation - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPY2JYaU8ycmFOd3hQUndzQ0ZnY3h1ZXBGeXJJU3dMY1hyZnJoME9YZE90X3I3T214cW80bjItRlRQNGQtRy1QZy1tNW5Ta081d3VMbGhrT1drdzVvdU5TRjBlZ0k3a0FiWVlWY0J1X1",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPY2JYaU8ycmFOd3hQUndzQ0ZnY3h1ZXBGeXJJU3dMY1hyZnJoME9YZE90X3I3T214cW80bjItRlRQNGQtRy1QZy1tNW5Ta081d3VMbGhrT1drdzVvdU5TRjBlZ0k3a0FiWVlWY0J1X1h4MFk2eWJ1cUlzb21UWVFpXzhNODl4YjlLTnNBSy1XNm15UDkxTVFSZG9jY2FHYUtQVGVQQWs5YWJRMnpxemNkY3pIbmcxaUt3LW92YUxLN2N6cmRwVzdWaTh3aGJKSTAtZDBlTUpIM0tPaE5BV0c1ZlVkcW5pZ3dhakE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-04-014",
+    "date": "2026-11-04",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin earnings in focus as semiconductor bets loom - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHdLcjZ1cFBIeDJYRk1pZklITWNpTi1iYUpxLUVKY25pNTlHWGtzaWlPaHAydGhCRG43RU9fYUxlWHRibHFsaFZYajhraWN1UW1ZNjBLYjNCTzJneHRSSk9hWnItd0VhZE55VEd2MG",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHdLcjZ1cFBIeDJYRk1pZklITWNpTi1iYUpxLUVKY25pNTlHWGtzaWlPaHAydGhCRG43RU9fYUxlWHRibHFsaFZYajhraWN1UW1ZNjBLYjNCTzJneHRSSk9hWnItd0VhZE55VEd2MGd1QUdGcXozMlhrWW1ZNGxUMmVwTFBSX2p1aVhiRnpic1pXVkI0Z3ZzODNkUl8ybEpLSjUyajU4Ymx3alhQaHBaMk93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-04-015",
+    "date": "2026-11-04",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "machine_tool_orders",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Caterpillar Stocks Decline 4.45% as $78.1 Billion Backlog Meets Capacity Constraints - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXY4VVVaWXFEdTc3ZVVFejlQM2tjbFFVVlo4WnZHamdIOXZaemFiWF9SbUQ3U3Jyd3NKNFFLOUxFc1pvMFJiNEFNV0Q1dGVtME1UOTZqUjdHNlMwaW5FbW02Q2habVlqcUhCNnlmQ3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXY4VVVaWXFEdTc3ZVVFejlQM2tjbFFVVlo4WnZHamdIOXZaemFiWF9SbUQ3U3Jyd3NKNFFLOUxFc1pvMFJiNEFNV0Q1dGVtME1UOTZqUjdHNlMwaW5FbW02Q2habVlqcUhCNnlmQ3JRMWpmN2ZaMzdiQkJ5Q1R0bzNuNUZmbEZqTy1naEZhdnNZRjZtZWp1TTAxU1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-04-016",
+    "date": "2026-11-04",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "$5,000 Reward Offered For Caterpillar Motorgrader Stolen From Hesperia Construction Site - VVNG",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEpQQk8tWlBoQWhtMl9PTDFrbmE1M2JZbE5GRlRKdGdxUUVHNlcwOUdGRGtGc0pBRkRmTklCOUhQSHhZY01iQ2lqdXBOWUJXQlNNZTM4N3dOYnRIYkQwNVlqVVJoV3BaNXRfRmsyMj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEpQQk8tWlBoQWhtMl9PTDFrbmE1M2JZbE5GRlRKdGdxUUVHNlcwOUdGRGtGc0pBRkRmTklCOUhQSHhZY01iQ2lqdXBOWUJXQlNNZTM4N3dOYnRIYkQwNVlqVVJoV3BaNXRfRmsyMjg2NERYZklkS0pNX3o1bU5NMUYtYUZDZW81OXpielR3SXN2SzllbVFlNjRXSTlTNXQtNmY0M0tpSkFYYmlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-04-017",
+    "date": "2026-11-04",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Sinks 6% as Democrats Win Congress: “Caught Up in This AI Trade” - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFJxdnRmak1iczZlZ1ZEOTZYVUtHbFhoNzBBS3RiLW56M3lWbmU0Mlh5clg5NjA1bVI1RHppcWpZaFItWEdsLVY4MlhoNFRXZEd0V3JfallIeVM3dkppd0dSUmJYTmp2ZHNDdHliOW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFJxdnRmak1iczZlZ1ZEOTZYVUtHbFhoNzBBS3RiLW56M3lWbmU0Mlh5clg5NjA1bVI1RHppcWpZaFItWEdsLVY4MlhoNFRXZEd0V3JfallIeVM3dkppd0dSUmJYTmp2ZHNDdHliOWkxVlQwRnFHbHIxbHNyaDFDTWJrX1ZEbXowNkFZcExtR1RiZ3lXd3R3TERmTUg5UnA3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-018",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Michael Burry’s favorite stock gets a 26% Morgan Stanley reset - TheStreet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN0NmeTgxRXlKbzZnOGt2dVM3dkVXOUo2SXRpOWVHWENjSGpxd0J3Z1JsUmZIaW1rYzRhQUNRaEROWHpYR0lpVko3R0t5a3gtcC1uZF9xc20wQ3JrZUJNOFVmSGd6aVMySGNybDh1TV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN0NmeTgxRXlKbzZnOGt2dVM3dkVXOUo2SXRpOWVHWENjSGpxd0J3Z1JsUmZIaW1rYzRhQUNRaEROWHpYR0lpVko3R0t5a3gtcC1uZF9xc20wQ3JrZUJNOFVmSGd6aVMySGNybDh1TVJwaEhnU1JEbHJuM2hDVkJrOWN1bVJ1cUJmTzFqODFSeVJLcmk2RGg2RzZFSFFVU3BZOXBSOXVSUHFaM2loTURWdlpJd0RYMEF5N2NZa21EbTg0Rlo1Mm9zTkJvMUZidnhjYTdQdmZ0cGJrWmhvOHc?oc=5",
         "type": "rss"
       }
     ]
@@ -516,6 +1144,63 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGhRRWg2NHRxa3JSTUxKSldaaGd0b0tILXRqQkdTTXMyMFp0X0dYNUFGcU9mUDFEcno1cTJnUHNaNFRyZ1VZSFJvX1FXVE1hNDZWZUNjMzBmVm1YS3QyWmdhMXU1cVpwVnA0aDgzRW1NS2pRSmM0aWZBOVRFQlNid1lNd1M0VHJlTW5tdUxQTGYycFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-03-016",
+    "date": "2026-11-03",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why uptime can outweigh energy savings for critical buildings",
+    "summary": "<p>A pharmaceutical cleanroom is quiet except for the hum of the line: status lights remain green, and every dashboard says the facility is doing exactly what it was built to do. Then, a quality check",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/buildings/2026/11/03/why-uptime-can-outweigh-energy-savings-for-critical-buildings/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-03-017",
+    "date": "2026-11-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The future of aviation is electric: How airports can modernize without disrupting operations",
+    "summary": "<p>Airports worldwide are caught between several major challenges: surging demand for air travel, which could double by 2050; a need to modernize aging, energy-intensive infrastructure without disrupt",
+    "sources": [
+      {
+        "name": "schneider",
+        "url": "https://blog.se.com/energy-management-energy-efficiency/2026/11/03/the-future-of-aviation-is-electric-how-airports-can-modernize-without-disrupting-operations/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-11-03-018",
+    "date": "2026-11-03",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "About Illinois Tool Works xStock - Coinbase",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQc0pxdVZiUThlUU1OaHdLZWRndHh5YlllV2RjbFdYd2pyNzBPNzVsNUVDUFVkd3lNX2dKUzdqRi1Jdm9DSWRfWWVSZVZKb21IZFNDTnYzTE50SXFZZC10eV9MZkhQd0RpVmFMZFQyaX",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc0pxdVZiUThlUU1OaHdLZWRndHh5YlllV2RjbFdYd2pyNzBPNzVsNUVDUFVkd3lNX2dKUzdqRi1Jdm9DSWRfWWVSZVZKb21IZFNDTnYzTE50SXFZZC10eV9MZkhQd0RpVmFMZFQyaXUxMnUteFhLR3VUejc3enhFVVpoXzR4dw?oc=5",
         "type": "rss"
       }
     ]
