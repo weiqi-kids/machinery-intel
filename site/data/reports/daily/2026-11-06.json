@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T15:30:21.101848Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "parker_hannifin-2026-11-06-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Parker-Hannifin Reports Record Q1 Sales of $6 Billion, Boosts Gr - GuruFocus",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQalBzdXg1OHAtbU1uclBwcFQtZElDb3dCQ3FqbFBPbGlKdXhDSWhXSkhsOS1PdFRQNlU0bzlQMURDeHpMdmpxbVpaXzJKU283endkeVhEVXQyaUZXNVUwaEpjNTFqTzB0TzR1UEZ3RS1HN3UxVUVUeTA4cUNvOHhpNUhOZ3lseDFWNVRIbmZSLVNPOG1CTGlsM2FGbWJha0s3Zld4VW80c0hONDh4eXZQR01ndUJmUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "parker_hannifin-2026-11-06-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Parker Hannifin Corp (PH) Q1 2027 Earnings Call Highlights: Record Sales of $6 Billion, Raised ... - Yahoo Finance",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVG1TT3E2ZGVPNDhiNGd6dVJfbVNuM1Vfa0l6WUtDczZJbWdJQkdSTW1CajJQRU9ER0ZRcldEUWJheFY1aEw0N01YdGItdUkwalBpNmMxRmRpNW5MUWRGaWVrODF1VGFfbkpabDlIVVQ0SllzQTlfOWx3YVlUZ2RYNHYtUmFyQjRaakd4T0x1LTJQMUVGVXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "delta-2026-11-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why is Delta Electronics stock plunging 6% today? - Investing.com",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdzVWVkRqWS1HcmZrTkZINW0xNDh1ZlhFbVZHZmZZc09qdkJHV3g4amZmX1lRVDNmbHA5dndmT1pCWGRWSW16LTg3NkJCdjJYZDJ3dmJOWFlBM0ZmMXlraXhGTDlIbHV3OGlCcXVZOFBFckVYb0F3NURHWEVYeE52YU9LbDVjR3U5cElNdlRuTVZfdDU0V0pwbHFZb1ZJdHhFaDZwSzRpdF84Q2YtOUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "delta-2026-11-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Plymouth Township approves Delta Electronics battery expansion, with cost and timeline undisclosed - Detroit Metro Times",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGt2NlQ3V1hmRjNDby1nWjJtN1RJMWJ1V01ucnh3VV93alFWVHk5YVd1Y01JRXR6dGhaS28xY3R6OVZVcFB6bWZwR0oxb1pmRlVlRnEzSnBScjJqWU1zRFpmUlVHQlJhclZ1Z2g3SXFxUHFEOGJpaWdXd3NLOExvMDU1M09iZktNZm84TGdyM2daRHJrbnN6eGNsZ0FUNzFRMWxKc0ZBV3k?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "delta-2026-11-06-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics Grants NT$9.47 Billion Civil Construction Contract - marketscreener.com",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEZ6YlM0S3o4S1lkUzYxLTJ4blIxRFV4TkFldG1DLU9IMGlwdzV6a2NoNDFfOVVESy1ZakdWQTVCQ1FsQmliRWpTNnNLbmJueFFHQXJEamVia1YzanZTQllTRTU4TVJRMUFMTnpTd3pIb0NtdXJ1cmZJc1JXQnBnWEdoTzBwNDVSeUlHak4wbkhJeDFjOVg2Z1pqZ0Z6bFFDN1pmMDFVZHBRcTVsa1A5dG9Zamk1dWoyZHRMQkZR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "automation_capex": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "cnc_technology": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 18,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 5
+      },
+      {
+        "id": "delta",
+        "count": 4
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 4
+      },
+      {
+        "id": "abb",
+        "count": 2
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 17
+      },
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "automation_capex",
+        "count": 7
+      },
+      {
+        "id": "cnc_technology",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 369,
+    "dup_title": 190,
+    "too_old": 137,
+    "gate1_blocked": 2,
+    "gate2_blocked": 6,
+    "passed": 34,
+    "pass_rate": "19.0%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Hiwin Technologies Corporation (2049.TW) Seasonal returns chart - Yahoo Finance Singapore",
+      "From Genomics to Data Centres: How AI and HPC are shaping the Future of Research",
+      "Quality Is a Promise. AI Is Changing How We Deliver It.",
+      "Mitsubishi Electric seeks to expand North American grid foothold - Utility Dive",
+      "Caterpillar Group President of Construction Industries Rod Shurman... - Quantisnow"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為Parker、Delta Electronics、Mitsubishi Electric相關動態：「Parker-Hannifin Reports Record Q1 Sales of $6 Billion, Bo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Parker-Hannifin Reports Record Q1 Sales of $6 Billion, Boosts Gr - GuruFocus（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Parker Hannifin Corp (PH) Q1 2027 Earnings Call Highlights: Record Sales of $...（自動化資本支出、財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

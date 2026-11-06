@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T15:57:57.855924Z",
+  "updated_at": "2026-11-06T15:30:16.403109Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "卡特彼勒",
       "ticker": "CAT",
       "currency": "USD",
-      "ar": 24032000000,
-      "ar_prev": 21890000000,
-      "ar_qoq": "+10%",
+      "ar": 24491000000,
+      "ar_prev": 24032000000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 20627000000,
-      "inv_prev": 19626000000,
-      "inv_qoq": "+5%",
+      "inventory": 22214000000,
+      "inv_prev": 20627000000,
+      "inv_qoq": "+8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "delta",

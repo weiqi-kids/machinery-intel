@@ -1,0 +1,16 @@
+{
+  "total_raw": 369,
+  "dup_title": 190,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 2,
+  "gate2_fail": 6,
+  "passed": 34,
+  "gate2_samples": [
+    "Hiwin Technologies Corporation (2049.TW) Seasonal returns chart - Yahoo Finance Singapore",
+    "From Genomics to Data Centres: How AI and HPC are shaping the Future of Research",
+    "Quality Is a Promise. AI Is Changing How We Deliver It.",
+    "Mitsubishi Electric seeks to expand North American grid foothold - Utility Dive",
+    "Caterpillar Group President of Construction Industries Rod Shurman... - Quantisnow"
+  ]
+}
