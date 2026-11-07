@@ -1,0 +1,16 @@
+{
+  "total_raw": 372,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 2,
+  "gate2_fail": 6,
+  "passed": 13,
+  "gate2_samples": [
+    "Hiwin Technologies Corporation (2049.TW) Seasonal returns chart - Yahoo Finance Singapore",
+    "From Genomics to Data Centres: How AI and HPC are shaping the Future of Research",
+    "Mitsubishi Electric seeks to expand North American grid foothold - Utility Dive",
+    "Deep dive into Caterpillar's AI assistant on a mini excavator - Equipment World",
+    "Freedom Capital Markets Cut Its Caterpillar Target to $800. It Still Sees 30% Upside - TIKR.com"
+  ]
+}

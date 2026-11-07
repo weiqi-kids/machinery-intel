@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T15:30:16.403109Z",
+  "updated_at": "2026-11-07T14:32:03.932157Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -279,17 +279,17 @@
       "name": "派克漢尼汾",
       "ticker": "PH",
       "currency": "USD",
-      "ar": 3170000000,
-      "ar_prev": 3161000000,
-      "ar_qoq": "+0%",
+      "ar": 3492000000,
+      "ar_prev": 3170000000,
+      "ar_qoq": "+10%",
       "ar_period": "QoQ",
-      "inventory": 3166000000,
-      "inv_prev": 3179000000,
-      "inv_qoq": "-0%",
+      "inventory": 3640000000,
+      "inv_prev": 3166000000,
+      "inv_qoq": "+15%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "rockwell",

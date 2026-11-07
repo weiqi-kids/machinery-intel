@@ -1,5 +1,45 @@
 [
   {
+    "id": "parker_hannifin-2026-11-07-001",
+    "date": "2026-11-07",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (NYSE:PH) Stock Rating Lowered by Wall Street Zen - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWJxNGw5d3Y4dUJzdWZwRkRfTnlBRmpkamw3cHpkTnFYM1JoeENPNmxfbVNkRnZxVkFTM0lLMHU5U1NHcDQ1T3BEd2YybWxwcDFoUnVpb2o2TjM1VURfaVpYYV8yd2UxSkdFa3RqWj",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWJxNGw5d3Y4dUJzdWZwRkRfTnlBRmpkamw3cHpkTnFYM1JoeENPNmxfbVNkRnZxVkFTM0lLMHU5U1NHcDQ1T3BEd2YybWxwcDFoUnVpb2o2TjM1VURfaVpYYV8yd2UxSkdFa3RqWjFPYUtZRzczenBpU0paM01VUHVkOUNMQzdwVVY2OXVpMk91WmZ0cUNsQ1FUVEJwc0hfRHFUS2ZvaDlpZW1XVXQtbEpCOGduR0hMWjgxU2hCcC03UUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-07-002",
+    "date": "2026-11-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corrales, NM Author Introduces Young Readers to Friendship and Change - PRLeap",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVVVcmpEZnh3V0xEYjBfYnREa0ZzeGRQVnRsQ25fVElPZ0lpM05JZlJhbEl6Z2I2Rm1DSFJKTzIzUWh3dnZxa19LVVNicUNpb1RMT0Q3Si0tZ0lKSU9yXzkxS0RRWEItM05sUUpWS1",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVVVcmpEZnh3V0xEYjBfYnREa0ZzeGRQVnRsQ25fVElPZ0lpM05JZlJhbEl6Z2I2Rm1DSFJKTzIzUWh3dnZxa19LVVNicUNpb1RMT0Q3Si0tZ0lKSU9yXzkxS0RRWEItM05sUUpWS1pUUjBxR1pweEZidUQ1VXV4M2NJbTg4M3dqYXdjVjEwRUhHclNIZjMxaFFhdk5Bd1hab0Fr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-11-06-001",
     "date": "2026-11-06",
     "companies": [
@@ -463,6 +503,187 @@
       {
         "name": "google_news_machine_tools",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNakxTejJhNU9yaU9EVmIzUm5iR28wQjQ2S0JqMTZNZE5ydVBIdjdmREM2QmdyZ2JpaF9xU0ZYc2lRM0o2dlJIZUtObGQ5UmxqM1prNEYzRmJrTnR5d01lU1NwWl8tT0RadHJsZTBWRlFJNzVwbFFqWS1va0FVUGRmcjZ5Vm00bm50c201YzdVSWJEVm1ZVVJnOC11Z0gtQWZiQ080VXphWFg0NGIwZV9rODlZTTFlUGtDb2s1c2tiRUxEeUc3TlF1V2UtOURVT2thX2NOQ2YtUk9kYWpneUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-06-024",
+    "date": "2026-11-06",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Scheduled to Present at Robert W. Baird Global Industrial Conference on November 10 at 10:50 a.m. Central Time (11:50 a.m. Eastern Time)",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "abb-2026-11-06-025",
+    "date": "2026-11-06",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB Robotics Launches Blueprint For Physical AI Education At NVIDIA GTC Berlin - Automation World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxONzAtRS1YNjJBNUhpdEVRNmpIWWpjQzJhZ2wzTG1aTjE2NVYzMnBvZ0hPVkZ3dXpfNWsweGlHdlVuSGVJeGlKdFJ1QzVSMUljX1Z1N1lLc2RaZVo4cUFldi1hQTVnZEFqRW0wWDZQdU",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONzAtRS1YNjJBNUhpdEVRNmpIWWpjQzJhZ2wzTG1aTjE2NVYzMnBvZ0hPVkZ3dXpfNWsweGlHdlVuSGVJeGlKdFJ1QzVSMUljX1Z1N1lLc2RaZVo4cUFldi1hQTVnZEFqRW0wWDZQdUVmUzRBbXFWbVVidkxMOXoxTVRfazh1cVNFY1BmWTViX29fVE81Q1JfeUFidjJmdm0xNVJZYkpWT1B4cnp5ZU5tN3RxYnVYWHJDY3JSeUotbXkyd0lldXpSMXVaRXFtLTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-11-06-026",
+    "date": "2026-11-06",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics - The Robot Report",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaDdhMDVXZEUxaWRuT1hxNk1GaVRSeHJPdk1OS2NnZXY5c3h3X0dMTHduNlZTbjVub1FFbjJJZ0RYTi1Yc0plVkVJMWRabnhSeXFOTWZ1c3NVMXJWMGtoSHdBMmpvd3FzNGhlUEs1WE",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaDdhMDVXZEUxaWRuT1hxNk1GaVRSeHJPdk1OS2NnZXY5c3h3X0dMTHduNlZTbjVub1FFbjJJZ0RYTi1Yc0plVkVJMWRabnhSeXFOTWZ1c3NVMXJWMGtoSHdBMmpvd3FzNGhlUEs1WExHSkg3cVRfTjFKaWdCWm5HcHd4LWxReEpqZXdJb2FybDlOSTlPZnBFak1NaldPRFRlYTk5elRGbmY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-11-06-027",
+    "date": "2026-11-06",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric Corporation (MIELY) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4YkRfblo4SmI0aVkycFBzOVhKd1NqUWZTWS1wcDVMbkpWQTVOUVh5YXBISzdfdHVVTXlsWnRDS3ZiSXVLR211NFJZMlRvYlVrQU9B?oc=5\" target=\"_blank\">Mitsubishi Elec",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4YkRfblo4SmI0aVkycFBzOVhKd1NqUWZTWS1wcDVMbkpWQTVOUVh5YXBISzdfdHVVTXlsWnRDS3ZiSXVLR211NFJZMlRvYlVrQU9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-11-06-028",
+    "date": "2026-11-06",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric, MUFG Bank invest in GHGSat - SpaceQ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9fV05FOGhDbElmdHhGSkh5dlRYZkU3OVRIMG4zenIzSUxfaTVOMmRBMy1iWnM4c3Vna1NfLVZ0WDk3WVVrS0ZDeHNHM1NrY0JiNFhQdGN1TnJXZFNpZFMtNzFJcFFZY0xlcklHZnZn?o",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fV05FOGhDbElmdHhGSkh5dlRYZkU3OVRIMG4zenIzSUxfaTVOMmRBMy1iWnM4c3Vna1NfLVZ0WDk3WVVrS0ZDeHNHM1NrY0JiNFhQdGN1TnJXZFNpZFMtNzFJcFFZY0xlcklHZnZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-11-06-029",
+    "date": "2026-11-06",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A 3,489-share gift accompanies a director's stock sales at Illinois Tool Works (ITW). - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOQjlZaWdDaWpvaUxBYldQcW1UQ1UxUzVnYm9VaUpyR0I3MFFVLUlrTm1EUDRGX2FRdS11ZUdtSDJIa25ZVzZIeGNXNXBsR04xdFZCRlN3QkVQQndSSXNQbmhsdERjbDVSR29VM29FTG",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQjlZaWdDaWpvaUxBYldQcW1UQ1UxUzVnYm9VaUpyR0I3MFFVLUlrTm1EUDRGX2FRdS11ZUdtSDJIa25ZVzZIeGNXNXBsR04xdFZCRlN3QkVQQndSSXNQbmhsdERjbDVSR29VM29FTGhMbktrM0pFT1R6ZDdxVDlfS0xhenNsRTItenhGTjJhVHpTbjhKRktjbTlzWXFlTUppb3lSZEZPclRXWE4yU1NMZzJUS013ZkU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-06-030",
+    "date": "2026-11-06",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Here’s How Much You Would Have Made Owning Parker Hannifin Stock In The Last 10 Years - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSk5TRGZ2WDNsZkkxS0o1TzFYcU1xRlVnV1NWU3ZWVGlaN3hCLVNpSkZHNV8zT3N6Z01kN1NHaWUxU3hraElyeXlRS0FCX094NEJsbS01dWp5NkJVMktYU2IteV96ekZQZC1zSWJEeH",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSk5TRGZ2WDNsZkkxS0o1TzFYcU1xRlVnV1NWU3ZWVGlaN3hCLVNpSkZHNV8zT3N6Z01kN1NHaWUxU3hraElyeXlRS0FCX094NEJsbS01dWp5NkJVMktYU2IteV96ekZQZC1zSWJEeHFJM2pSRVNTUnppZjc2SHV0NWVURjFvUDJzQVdpYWJlenhHRDZoVy0wSXh6bXhGUXhCWjViUE1PU3dJb2Nob3YtRnlweUEwYl9VRzBwbUNXZWY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-06-031",
+    "date": "2026-11-06",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Stock’s (CAT) Sell-Off Has Gone Too Far. Here’s Why - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjM0clMzSlJzQzhJVml5LXFZOUYtaVNQNGFWZXNnRXNHMURDbHVSUndROGRzY0dUZlp0aXp4dl9mdlFLbVU2eFgxQzJCSE9jeHdZanQ0amYtSnRjaE9iVF9ZTXdxUDAzS3FmRVVVVk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjM0clMzSlJzQzhJVml5LXFZOUYtaVNQNGFWZXNnRXNHMURDbHVSUndROGRzY0dUZlp0aXp4dl9mdlFLbVU2eFgxQzJCSE9jeHdZanQ0amYtSnRjaE9iVF9ZTXdxUDAzS3FmRVVVVkFCMG02RWx2SFE2c2JkSzBzd1NzUDhxWEhScjRyeTJjMkd6cGFFVkhmLTNMZ24?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-06-032",
+    "date": "2026-11-06",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "cnc_technology",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "▶️ CATERPILLAR - IMDb",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zemdYUjhjNGMxUE1naTY1bnhMT3ptZG9yaHI4cXhwck1icnctU3BORmUtbi11MDY0ZkRjb2lyS3l2MjFLYm8wbjBReC1WUWZtTHc?oc=5\" target=\"_blank\">▶️ CATERPILLAR</",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zemdYUjhjNGMxUE1naTY1bnhMT3ptZG9yaHI4cXhwck1icnctU3BORmUtbi11MDY0ZkRjb2lyS3l2MjFLYm8wbjBReC1WUWZtTHc?oc=5",
         "type": "rss"
       }
     ]
@@ -1159,6 +1380,46 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQzhYZC1Sa0FOeHItcC1RcF9qclJQcl9JbTRJWXAtTTZZbGZMQUdzRi0xaVgtSThWZlBIaXhMUTRHNEVWdWxYVU5kR21BV2k5aU9hYUpMYWVCR2VJenZBZjkzZGdkaXgyUFdjN0o2bkg4VWJaYVJPQ2RFWTdFVG4zZll5TGNjeEowV3JCcVhIQmFWR0tvemcwZVpMLW5rUkVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-05-035",
+    "date": "2026-11-05",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Corporation (PH) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UTjdIOW1pZXhpdGxBdTRsQ3VsWVE2WEtQaDNHeXpiYUQ3MG1aZTFKd3BmNWRKTUxVTWVld0pWV2ZVMTZ4RUVVSm1uenVkWWxHR016WFdteHZGdktSeTAw?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UTjdIOW1pZXhpdGxBdTRsQ3VsWVE2WEtQaDNHeXpiYUQ3MG1aZTFKd3BmNWRKTUxVTWVld0pWV2ZVMTZ4RUVVSm1uenVkWWxHR016WFdteHZGdktSeTAw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-036",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TI launches new industrial communications devices to simplify factory networking - New Electronics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd21yN0JXZUg0dktla0FyR09lZW5qeXlFNk5TSmxrVW43Uk1VMWV6d0hWY29CcDUweS11Y3BtMWFtTTlrYmRnU3VUV3pXTWEzcTFwWm1KQWlSRF9ZOUthMWowMFMyVVVKSmwzRk9seV",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd21yN0JXZUg0dktla0FyR09lZW5qeXlFNk5TSmxrVW43Uk1VMWV6d0hWY29CcDUweS11Y3BtMWFtTTlrYmRnU3VUV3pXTWEzcTFwWm1KQWlSRF9ZOUthMWowMFMyVVVKSmwzRk9seVMwclNTT0FEaXFFRDFIblNnUlJWT0NyaGdudkRUX3E2djRFRTNiQ2ltMS1xOGV5VnhWRDk0ejdVc0xDN19hRXF3QUNRQ1dDekswQUlJcVRCeW15NncxX3F1YlVzWGJjR01xd2VtWQ?oc=5",
         "type": "rss"
       }
     ]
