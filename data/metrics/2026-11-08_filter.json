@@ -1,0 +1,15 @@
+{
+  "total_raw": 372,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 141,
+  "gate1_fail": 2,
+  "gate2_fail": 4,
+  "passed": 16,
+  "gate2_samples": [
+    "Hiwin Technologies Corporation (2049.TW) Seasonal returns chart - Yahoo Finance Singapore",
+    "From Genomics to Data Centres: How AI and HPC are shaping the Future of Research",
+    "Mitsubishi Electric seeks to expand North American grid foothold - Utility Dive",
+    "What Mattered Most In Caterpillar’s Latest Quarter? - Trefis"
+  ]
+}
