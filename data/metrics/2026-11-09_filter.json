@@ -1,0 +1,16 @@
+{
+  "total_raw": 372,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 1,
+  "gate2_fail": 6,
+  "passed": 25,
+  "gate2_samples": [
+    "Hiwin Technologies Corporation (2049.TW) Seasonal returns chart - Yahoo Finance Singapore",
+    "Delta Participates in COP31 and CBD COP17, Supporting Electrification and Biodiversity Conservation ",
+    "From Genomics to Data Centres: How AI and HPC are shaping the Future of Research",
+    "Mitsubishi Electric claims world-first GaN advance to reduce power consumption - Yahoo Tech",
+    "Mitsubishi Electric seeks to expand North American grid foothold - Utility Dive"
+  ]
+}

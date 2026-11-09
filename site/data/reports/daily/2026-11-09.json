@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T18:00:35.785867Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-11-09-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Taiwan's Delta Electronics October Revenue Tops NT$74.6 Billion, a Record High; AI Data Center Demand Puts Full-Year Results on Track for Third Straight Quarterly Peak - BigGo Finance",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9felNIbkxNS0ZJendwTC02M1hna2c1dnY2Skk0UUNtdmlZNHByaERxYXcyc0c1c0hHX0lYejJhc1FYVkpsTkQydWFpYzdTNmJMQjJTVHVEMnRybVlZSmhsdkxwSVFoSlpSdHhsbnNzbk5MSElZWFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-11-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics Reports Higher October Sales - marketscreener.com",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZlR1TWZfd1pHcGlXbzVUM3E2M2xaQ1ZDWC02OUVyS1FDbktzRHU4ZDM2S3dVTkV5NFVQRU9ZT1Z4R2NtQTNicWdDV2doczQxUU5OeUNKSUUtdGxELVFPLWZnOXo3SS1zTDFQUnN5SlZSMmZYbmEwZUVyUTZPZmdzb3lLdTh2Ui1PaEFEck5RT3VfWVVkYXV2UUFYNnQ1aExN?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itw-2026-11-09-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings Beat Might Change The Case For Investing In ITW Stock - Simply Wall St",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMWNLSXZDRFFxNFYwTl9EeFB6eWR3UDktSHhZYmdFYm1lWGx1Q2otSVJ6dXRBcFpBcy02YVdnSUJRR0dobTFxcXRkbEZwc0V2STJjbnItemlveXRYbF9oRWZJLU5OUUtqeWxzQnRaNlEzb2ItMGttVXpQVlBmRDN2UWlXN2JvVTNIY2pVc0p1elhFTklPNkJDWGtSTzFkanotV1RzOTFUeUhXaU5lMlR0Wkt2SGVKaFV4eHlSQ2NLR0h2ejgwcVZjOW1UNDhfUHFuYUdFLU4tRdIB3AFBVV95cUxQaUpITm5TODFDaGxrLXVqVjc1Mm1xcnVDQWNIcTBwaTJweGJ0WEphQ1c5Qy13eFhCQXV4aG9wQks4WGpIRXNUM2RJZ2RyZXhyY1BIYkRhc0dXOWlMWDB6clZxTE1BdnVmMGN3NjRnOTZWSGZKX01EdkJaMGd0MWRxbk15S2NCclpNVXB1VVp5N0hrUGpuQnZSRUFUQTExMTdIZy16UlRWOG40LURyTXBPVzZfUmpTQnBIZ2k1ZnE5WTc2a1NBMFBjZkk1MHZyNmxYTnFiLUdCQUJVQUMt?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "parker_hannifin-2026-11-09-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bernstein reiterates Parker-Hannifin stock rating on margin strength - Investing.com",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDRtamFjNEJ3WUtBZzY1YVJUQTJCTjQ3UWJNOEhaVUpzWDVxVS1ZU2t3R1hzQ0ZhdkhSanVBTTRteERYLXNXbkFUZFhlMzFSbjlZWDZFNzNWc1V0QlctU2huMkdwV0hqbGstaDQzeXo3YTN2WnlRTzlkUDd0Xy1nbnJIcXdiUEVrMjhmaEFvMkU4V1U5T0RKc2ZNVmtDLTVkNFNhMTV0aWQ3QVR2N0YzZldjT3V5dG5rVkVEVHRlTjdIekZVekE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-11-09-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Goldman Sachs Adjusts Price Target on Parker-Hannifin to $1,114 From $1,165 - marketscreener.com",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3RkeTdrMXVEQ3laN3dkYVRtZjZXQVlGc3dwUFRwRlQtaFo4MHNIQ0xwR1JleExiYk9vRTRGRGlCX3V2R3VraTE4RjhHTHlRSDZNTzdUY0Q2QXVRUVdELTJYVUktX2thVE1iUTlMWkVkZVVhRWNsZ3Q3bkFCZEhWd2ZGd1VwaHVqM2JzS1lpelBGb3ZQSEtsTmxjVlp6d1pLV0pkRERmeHEtczJxT2F2SXNJbWFYbV9vVWJvZVhodVhiN0hJ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "cnc_technology": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 9
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 3
+      },
+      {
+        "id": "delta",
+        "count": 2
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "abb",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "automation_capex",
+        "count": 5
+      },
+      {
+        "id": "cnc_technology",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 372,
+    "dup_title": 200,
+    "too_old": 140,
+    "gate1_blocked": 1,
+    "gate2_blocked": 6,
+    "passed": 25,
+    "pass_rate": "14.5%",
+    "gate2_block_rate": "3.5%",
+    "gate2_samples": [
+      "Hiwin Technologies Corporation (2049.TW) Seasonal returns chart - Yahoo Finance Singapore",
+      "Delta Participates in COP31 and CBD COP17, Supporting Electrification and Biodiversity Conservation ",
+      "From Genomics to Data Centres: How AI and HPC are shaping the Future of Research",
+      "Mitsubishi Electric claims world-first GaN advance to reduce power consumption - Yahoo Tech",
+      "Mitsubishi Electric seeks to expand North American grid foothold - Utility Dive"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為CAT、Mitsubishi Electric、Delta Electronics相關動態：「Taiwan's Delta Electronics October Revenue Tops NT$74.6 B...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Taiwan's Delta Electronics October Revenue Tops NT$74.6 Billion, a Record Hig...（財報、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Delta Electronics Reports Higher October Sales - marketscreener.com（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
