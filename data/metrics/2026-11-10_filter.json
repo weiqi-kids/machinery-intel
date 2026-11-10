@@ -1,0 +1,16 @@
+{
+  "total_raw": 374,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 1,
+  "gate2_fail": 6,
+  "passed": 30,
+  "gate2_samples": [
+    "Hiwin Technologies Corporation (2049.TW) Seasonal returns chart - Yahoo Finance Singapore",
+    "From Genomics to Data Centres: How AI and HPC are shaping the Future of Research",
+    "Mitsubishi Electric claims world-first GaN advance to reduce power consumption - Yahoo Tech",
+    "Michael Burry trims Caterpillar bearish bet after puts nearly quadruple (CAT:NYSE) - Seeking Alpha",
+    "Dow Jones Gainers Today: Caterpillar, Cisco and Goldman Sachs Lead US Session - ChartMill"
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T15:58:18.080867Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hiwin-2026-11-10-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hiwin Technologies: Q3 sales rose 35% YoY as gross margin reached 36.3% and net profit jumped 176% - TradingView",
+      "companies": [
+        "hiwin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRFYtZmNlcnpQZk1ZRUpvZGRDdFZpa21YN2dOdklUX01TNm56aEx2Zk9SbjRYN1JhMld3b3dGT1JVWkxkaUEwZHNEZ0NoTjZEN2JZUmVDYmFLVENVdTl0M0pXS181SVhKdWFhOWZiWFk1UTVIcmxSSDFLZ0h0SHYxSlRISzhNcnExUlRlakVveVB2VmYwSmNMWEpBVDY3Zk5MNnRYOUFOR2JLdzg4V0kxMTFuXzlWUk9JYVdqbjRlYTA5dDVUQktqWklUU0t1UTdxcUpuSHZhcVR0Y0g1bWdPWUtyVERYaU9mVE1BUm90U3hnbjdadXJhVmtlWUFMWUN2eExWcHcwcWE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hiwin-2026-11-10-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "[Hiwin Technologies FY2026 Q3 Earnings Call] Taiwan's Hiwin Q3 Profit Surges 176%, EPS NT$3.48; Chairman Cho Wen-heng Says Q4 to Escape Slow Season, 2027 Double-Digit Growth \"About Right\" - finance.biggo.com",
+      "companies": [
+        "hiwin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2aXdwOE5kNHdIamMwT1JabElhMU94V1hxejBxZEJVS3VwSW1UMHdrR1BWbS11ZjJVYWZsTC15NDBYeXpoVGpfWnVyaGJLbXVfQmszSEgzc1JtcWlyWERUNzJ3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "hiwin-2026-11-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan's Hiwin Q3 EPS NT$3.48, Gross Margin Climbs to 36.3%; Chairman Cho Wen-heng Says Orders Booked Through Mid-2027, Full-Year Operations to Beat Last Year - BigGo Finance",
+      "companies": [
+        "hiwin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2aUNxTmFlME9LMnI2bXJtV29FY2hLZVNvV0ZMNFNCLUszVkI3MkhiUDVGc25xcHZNZ29ibDAyaHRvQVFFRnVMNF9FOHYxdHRrU2h6Z1VXQkhWblVxaVRzR0ltWXRWTF82Q0dYUFZJeHpRSTZheFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "delta-2026-11-10-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan Stocks Surge 1,460 Points in Early Trading Before Giving Back Nearly 1,000; Delta Electronics Notches Second Straight Limit-Up as TAIEX Slips Back Below 43,000 - BigGo Finance",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tRld3d1NteGhzZ2lEXzE2em5nR3FaOWhzRGpIdXNzTnRUWUYtLWhyZXFYRzBzN2Q4cy1qck1na2J2TUZlMEdSVDJhdXJieFZxellIUkhra3M0ZElXbXlrZVJhOTZUaldOSEd4QmJwUmZHNmVBeVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "abb-2026-11-10-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABB Stock And 2 European Automation Shares For Factory Upgrade Demand - Simply Wall St",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObVc2bmVCb2RXVzFzcy1UTmxRenBYcnVRY3JJd1pLZ3I4dzRXb0FvLTJrUGg2dmo2S3RERThObFVseEExLTF1ZFBZcUxEeEdzOFF3cFZxaEp6S3pmYzdCOHBtQzNOSXk1c0tXRDluSzFEWktRZU9obGpfRnRhRXFoUzZrMGNDVlUyVWJnZHNDS1BOcGIzUjRpYU5YQjY2dXNUUnFZTUpvN1ZNREhZSHU4eDY2aThtUU1lNXV2UlhlSmN2Qm44RnZnTnZscHdodXNXbGd4Q0N6cTDSAd4BQVVfeXFMT1V5eEl0em5VZWhTVk1XOWlaeXA5ZVZ3V1hURXVhVzNaU3VaOWNZSGhrNTQ2TjQ1NWVqa0otN2pFZlBYVTFNa1R1WFVpamRWMXBYUXN1a241dG0tTnBzOFQxU19aYlotcHc1amtqbHF1czAtVzllNzBsWkx6TmFXaVphb1lZMzBtejdCRWljdGdYOU9hN2lUckx3dDBkcmxfbnNPNDlSeUNaazhNdWVUT01ibFdtaU5RZllwLVNRRU1BZEZFZ2FsUmtkeUU3TDgtTlFRX19nLUFTcnFQdXZ3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 8
+      },
+      {
+        "id": "hiwin",
+        "count": 3
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "delta",
+        "count": 2
+      },
+      {
+        "id": "abb",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "automation_capex",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 374,
+    "dup_title": 197,
+    "too_old": 140,
+    "gate1_blocked": 1,
+    "gate2_blocked": 6,
+    "passed": 30,
+    "pass_rate": "16.9%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Hiwin Technologies Corporation (2049.TW) Seasonal returns chart - Yahoo Finance Singapore",
+      "From Genomics to Data Centres: How AI and HPC are shaping the Future of Research",
+      "Mitsubishi Electric claims world-first GaN advance to reduce power consumption - Yahoo Tech",
+      "Michael Burry trims Caterpillar bearish bet after puts nearly quadruple (CAT:NYSE) - Seeking Alpha",
+      "Dow Jones Gainers Today: Caterpillar, Cisco and Goldman Sachs Lead US Session - ChartMill"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為CAT、Hiwin Technologies、Parker相關動態：「Hiwin Technologies: Q3 sales rose 35% YoY as gross margin...」。主要關注主題為產業通用、財報、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hiwin Technologies: Q3 sales rose 35% YoY as gross margin reached 36.3% and n...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "[Hiwin Technologies FY2026 Q3 Earnings Call] Taiwan's Hiwin Q3 Profit Surges ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
