@@ -1,0 +1,16 @@
+{
+  "total_raw": 380,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 2,
+  "gate2_fail": 7,
+  "passed": 28,
+  "gate2_samples": [
+    "Hiwin Technologies Corporation (2049.TW) Seasonal returns chart - Yahoo Finance Singapore",
+    "Winning Secrets: Delta Electronics puts employees in the driving seat of workplace engagement - Huma",
+    "From Genomics to Data Centres: How AI and HPC are shaping the Future of Research",
+    "Mitsubishi Electric claims world-first GaN advance to reduce power consumption - Yahoo Tech",
+    "Caterpillar (CAT) Is Amongst The Notable Names Insiders Are Loading Up On After the Recent Crash - Y"
+  ]
+}

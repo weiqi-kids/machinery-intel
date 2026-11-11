@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T15:58:13.224612Z",
-  "quarter": "2026-03-31, 2026-06-30, 2026-09-30",
+  "updated_at": "2026-11-11T15:43:54.058946Z",
+  "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
       "id": "abb",
@@ -245,34 +245,34 @@
       "name": "三菱電機",
       "ticker": "6503.T",
       "currency": "JPY",
-      "ar": 1296784000000,
-      "ar_prev": 956206000000,
-      "ar_qoq": "+36%",
+      "ar": 1070298000000,
+      "ar_prev": 1296784000000,
+      "ar_qoq": "-17%",
       "ar_period": "QoQ",
-      "inventory": 1262131000000,
-      "inv_prev": 1370529000000,
-      "inv_qoq": "-8%",
+      "inventory": 1298250000000,
+      "inv_prev": 1262131000000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "okuma",
       "name": "大隈",
       "ticker": "6103.T",
       "currency": "JPY",
-      "ar": 37351000000,
-      "ar_prev": 45893000000,
-      "ar_qoq": "-19%",
+      "ar": 43925000000,
+      "ar_prev": 37351000000,
+      "ar_qoq": "+18%",
       "ar_period": "QoQ",
-      "inventory": 87420000000,
-      "inv_prev": 82108000000,
-      "inv_qoq": "+6%",
+      "inventory": 85351000000,
+      "inv_prev": 87420000000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "parker_hannifin",

@@ -1,0 +1,240 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:43:58.623412Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hiwin-2026-11-11-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hiwin sees strong 2027 as orders stretch into midyear - digitimes",
+      "companies": [
+        "hiwin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQelRZdXpWb1VzbkRkZUZPRUlyYUQzMWxKV0tkbnJQeGlPUWk2QVRuYS1PVXhESGl5YnE1MG13SEdGS2MySV9qSzFYVGhPZVVuaU9sQldKcWZzVElla2RuSXFOYlFXNHF3Mi16aHJKUnBQNm1pQjJHSmdDcWJQcVNmR2txQ29NWEV6a2tZdF9TbWRxUFlscERFSHVGWmg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "hiwin-2026-11-11-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hiwin Technologies profit outpaces revenue as gross margin hits 36.3% - digitimes",
+      "companies": [
+        "hiwin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX01DODdFb25PS0hQb1lRaDZYeHFCRDlTT05qbFUtdjVQUEdKYzFUWDhIb2ZWLWVsT1RnN0VONGh3OXN2a0tBcHhDcTdZZjJ4V253ZElKVVFxYVFTazBsbG0ta25CbndqWUJPODlCLWg0LU9rTElmVklZOVRIbEtyLTh0cDZsWWozY09PUEVna0haMnlJ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "itw-2026-11-11-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Form 4 Illinois Tool Works Inc: David Byron Smith Jr (Director) For: 6 November By Investing.com - Investing.com India",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb0ZERXpILVI2ZEFTTWJVMEc0NHRHVENmeWQ1SFFoLWtydXMwdVZQVVItbzl1bGtyLXdDdDNUMzBWNzRvTHpVV2pLcE5ta3NqdVpfcUNxc1RvQ3UzS01tSjJ2MU5uWF9xMjBVaElyZk50S1hfSS1WV1Z6V1JGNGI5bkprVzVBeVY1ZFROZGpIT1pobFNRR2lqOHJncGpFMFFYR0lPTDJDMGpWbU8yNHF3dFBwaXRSN01aTG9iWDhnY2p0TlNtM2wta0tzdE1wZkU4a2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "itw-2026-11-11-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Form 4 Illinois Tool Works Inc: Susan Crown (Director) For: 6 November - Investing.com UK",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWEk4QzRnWXkyRlQtX2lNeTdRX3JOZ05ncXFOSkIzNG9wbFFORHpBUlcyYjhjWTVrbGtDbDZjeXEyQzBuY3J3Ul90dHlqRVhvSUJTNkVDVDVPZTByVHVYRjVJdDRfX0JNUnQ2R2tVS3FkQldJODRITk54blpUWFlJdHV5b0lTY0hmSjhHdHYtcnVRUWlsNFRZTExRZW5wNG1lenFjWnpidVZwa3o3bzBYckZIX0F1VEh0aUd5Q3M3S0VCNUFreVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-11-11-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "\"The Big Short\" investor Burry offloads Caterpillar (CAT.US) put options: slashes short positions by 75% after value quadruples - Moomoo",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdG1iRDktT1Z0WjRKeEx2bENER09BVzQ2YVM1LUpTX2lFYUZHRllvTlNlWWNjdkl1UU5PQ2V0cmEyN19UQWxtNG9uRHV4MzJyLUZfWTU1cmRtYWFkSHZLRzliVzFmdTBocEFVa3dQam45czRSak5hY3l2VzFnVTRSWUtnWC1TclNNZC13cG5DVnRST0tlZnpUcmg1VUtnNFFVbF9xUWx5T3p0R0xPdHBqaQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 3
+      },
+      {
+        "id": "hiwin",
+        "count": 2
+      },
+      {
+        "id": "delta",
+        "count": 2
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 2
+      },
+      {
+        "id": "itw",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "automation_capex",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 380,
+    "dup_title": 201,
+    "too_old": 142,
+    "gate1_blocked": 2,
+    "gate2_blocked": 7,
+    "passed": 28,
+    "pass_rate": "15.6%",
+    "gate2_block_rate": "3.9%",
+    "gate2_samples": [
+      "Hiwin Technologies Corporation (2049.TW) Seasonal returns chart - Yahoo Finance Singapore",
+      "Winning Secrets: Delta Electronics puts employees in the driving seat of workplace engagement - Huma",
+      "From Genomics to Data Centres: How AI and HPC are shaping the Future of Research",
+      "Mitsubishi Electric claims world-first GaN advance to reduce power consumption - Yahoo Tech",
+      "Caterpillar (CAT) Is Amongst The Notable Names Insiders Are Loading Up On After the Recent Crash - Y"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為CAT、Hiwin Technologies、Delta Electronics相關動態：「Hiwin sees strong 2027 as orders stretch into midyear - d...」。主要關注主題為產業通用、財報、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hiwin sees strong 2027 as orders stretch into midyear - digitimes（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hiwin Technologies profit outpaces revenue as gross margin hits 36.3% - digit...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
