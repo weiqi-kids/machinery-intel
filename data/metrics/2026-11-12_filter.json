@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 3,
+  "gate2_fail": 7,
+  "passed": 32,
+  "gate2_samples": [
+    "Hiwin Technologies Corporation (2049.TW) Seasonal returns chart - Yahoo Finance Singapore",
+    "The mission continues: How veterans and military spouses are building careers at Schneider Electric",
+    "Mitsubishi Electric claims world-first GaN advance to reduce power consumption - Yahoo Tech",
+    "Parker Hannifin To Invest US$60 Million in Toluca - MEXICONOW",
+    "Caterpillar (CAT) Is Amongst The Notable Names Insiders Are Loading Up On After the Recent Crash - Y"
+  ]
+}

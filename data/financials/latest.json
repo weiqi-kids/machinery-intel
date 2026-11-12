@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:43:54.058946Z",
+  "updated_at": "2026-11-12T16:28:35.405966Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -109,17 +109,17 @@
       "name": "發那科",
       "ticker": "6954.T",
       "currency": "JPY",
-      "ar": 166504000000,
-      "ar_prev": 170775000000,
-      "ar_qoq": "-3%",
+      "ar": 145144000000,
+      "ar_prev": 166504000000,
+      "ar_qoq": "-13%",
       "ar_period": "QoQ",
-      "inventory": 291462000000,
-      "inv_prev": 292186000000,
-      "inv_qoq": "-0%",
+      "inventory": 300712000000,
+      "inv_prev": 291462000000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "goodway",

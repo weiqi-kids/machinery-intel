@@ -1,5 +1,354 @@
 [
   {
+    "id": "delta-2026-11-12-001",
+    "date": "2026-11-12",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics bets on ‘grid-to-chip’ strategy to power Asia’s AI data center boom - CRN Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOVll3VmEwY0cxZkQ4R0VPOWdHZXk0OENUUC1DOXVrNXU2YjAxeGJkM1dSRU9nUlpFall1YUdzUEt2MzRLYTR2SjhlMjFJOFBRaE9xaUR5UFZPRkUzaTJoWm02NGR0MmVVY01VdzZ1ZH",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVll3VmEwY0cxZkQ4R0VPOWdHZXk0OENUUC1DOXVrNXU2YjAxeGJkM1dSRU9nUlpFall1YUdzUEt2MzRLYTR2SjhlMjFJOFBRaE9xaUR5UFZPRkUzaTJoWm02NGR0MmVVY01VdzZ1ZHpPVWFiN2piWWNnN3pkOU4zMXg0WGtoVGt2ZHNsQWtVY1Q4WWZXZHZ1RUdtSkp6dG93MURqOGlHRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-11-12-002",
+    "date": "2026-11-12",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric and Nozomi Networks team up to deliver cybersecurity solutions to OT and IoT environments - Control Engineering Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVE9wYnFMWVFSdmdUZVNyZ2EwODhPcG92SWZqb2pVTHFNUXRMQjJzYUNjQmpMRUtVTEZHUzkyd2JVM0VYMThMeUpfMkVzWjJIM1pWdnBtOExsYWYtRlFNaFU4c0V2ZXFNeU5QM2d1bk",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVE9wYnFMWVFSdmdUZVNyZ2EwODhPcG92SWZqb2pVTHFNUXRMQjJzYUNjQmpMRUtVTEZHUzkyd2JVM0VYMThMeUpfMkVzWjJIM1pWdnBtOExsYWYtRlFNaFU4c0V2ZXFNeU5QM2d1bkkzaWJNNGxjVVRXai1nbkFJTV9VMkhtcVctdTdyNFNkZ0U5ZmsydklhZ1BKNWk0ZFNtVzlRWHBvUjBzYkt3czVEU3IxRVduUzNiRUU2MTYtdXNVd3JJb2lBN1UtTzR5SFhWWFNNOGVidU5yWnVWRW81SGszNlVoOUJDNEJ0bS1iRElJU1Ez?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-11-12-003",
+    "date": "2026-11-12",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric develops technology for using tap water as wireless communication antenna - Asia News Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOFlMNkRNeHBFN05jT2tGNHdSWGN1TnFpaUZpODlwbS1haDV1QVF2M2k1QmJhVERiT2V4UFN5OU1HVDF2NGtzOVB1RjBTUW9KWjNJRlBucHYwRFZSNFVRX2dWcHA2a2NnTUc4MjJCQ2",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOFlMNkRNeHBFN05jT2tGNHdSWGN1TnFpaUZpODlwbS1haDV1QVF2M2k1QmJhVERiT2V4UFN5OU1HVDF2NGtzOVB1RjBTUW9KWjNJRlBucHYwRFZSNFVRX2dWcHA2a2NnTUc4MjJCQ29ISktGYWJaUjRBdmlVY1ZFMm84WmQ0RjdnY2IycG1DYWJnZV9SUEZZaDA1bkNXQWNCOXlWUDlGc3FsYjNWNlEydE85dEFrQjFSdHJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-11-12-004",
+    "date": "2026-11-12",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Marusan Securities Adjusts Mitsubishi Electric's Price Target to 7,900 Yen - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPNkY4d1lvc0RxTWZESHRDREVtNkF3dWFWTVo0MG5nbUxsMWk1QVV2bjJUOEVGbUR4TjdqalQyVGNub1R5YVBFTWZsMnBaeC15dXlac3R6MmFnVGVpanNzYTRidmZ4Y0VJajlrSi1QVT",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNkY4d1lvc0RxTWZESHRDREVtNkF3dWFWTVo0MG5nbUxsMWk1QVV2bjJUOEVGbUR4TjdqalQyVGNub1R5YVBFTWZsMnBaeC15dXlac3R6MmFnVGVpanNzYTRidmZ4Y0VJajlrSi1QVTBwYlZtVXUwMUl3VC1hVldlQkR0QWwtcmNEQTlkZGNtZzZiQlZneEVUbVRGaVRKTk1EWHppb3VxTEtCdTdWUHk1SWg5dlFlUjZjamplRlBXREtMT1k5QXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-11-12-005",
+    "date": "2026-11-12",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric develops transparent tap water antenna, succeeds in first mobile communications test - 디지털투데이",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTG9wN05SMGp4LTNIY3V2d29NZzNHZ2dka2xlbUVsX1pzb29YbDZQOVVXcVRONnBxMC03WHFQZnV0dXJZbDlWV3RzMFd2UEJOTkpCcDdlMmxIbHV5d2ZmeGVfSzdKUnJHalItN1VScH",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTG9wN05SMGp4LTNIY3V2d29NZzNHZ2dka2xlbUVsX1pzb29YbDZQOVVXcVRONnBxMC03WHFQZnV0dXJZbDlWV3RzMFd2UEJOTkpCcDdlMmxIbHV5d2ZmeGVfSzdKUnJHalItN1VScHBoSk5ERjJrS3RkVm85MHp6Ny10enUweTJwQjVlbXI0NkF3SGJjbXgxQVg0aFFvc0phUDNNWW1RLVQ2RjZZcFJVWndVS29RN0tBZnlHS3MzQzVEZVlJNnR1aGtMQlB1MmFRUGw0ZVoyZEhvSXEyOGp6WVN3Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-006",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Buy this Mitsubishi if you want a Zeekr 7X rival to follow - Drive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQRDQ5UWd6MDdYYVhmU2M5MklJQnl4MFVIQTFTWExybW1EUGxBc21pVHgzTE51NlpkNGp2djJQbVkyZUcycXhyNG9XcWJHa3FGQ2VQeUp0dG1HdnROa1BjT1F4RWtZNzFmMHE1azZNU3",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRDQ5UWd6MDdYYVhmU2M5MklJQnl4MFVIQTFTWExybW1EUGxBc21pVHgzTE51NlpkNGp2djJQbVkyZUcycXhyNG9XcWJHa3FGQ2VQeUp0dG1HdnROa1BjT1F4RWtZNzFmMHE1azZNU3BvcVFVZkRiY0hjX282R01zRi1lVDE2eUpTTnpBTVZuaE1JSk1Mb1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-11-12-007",
+    "date": "2026-11-12",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric develops water-based antenna for wireless communication - Borneo Bulletin",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0EyaGpOVm1JZ3g5QmtlMktDNzN6aFlQQXdZVG0yTlNTd2xvYm5FbGNNcHhPS01kWmx1Z0V3UjFRNnlEcUUwSWlYcmFKOC1xT1BUbmVjUERiUGJpYUMwQzdpbXR6T3pJNEFPOHJRRE",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN0EyaGpOVm1JZ3g5QmtlMktDNzN6aFlQQXdZVG0yTlNTd2xvYm5FbGNNcHhPS01kWmx1Z0V3UjFRNnlEcUUwSWlYcmFKOC1xT1BUbmVjUERiUGJpYUMwQzdpbXR6T3pJNEFPOHJRRENfbFFhX0R1YTExcG9ZT2lHX3BOSC10WVFQTkQtNGxHVElGOU5KaDVpSDZUd1ZCSGZtMmthWU9qRUw2UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-11-12-008",
+    "date": "2026-11-12",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Did New Full Year Guidance Just Shift DMG Mori's (TSE:6141) Investment Narrative? - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM0xsMFBOSEVTSV9kNWhvNWJqNVlFQVFTTk80a1Q4c1E1VFg1ZDdhZ25MVmJZbmhLRjRVYU5xSkhvQ3pyV3dTamRyQWYzSWFGSGluN21JVVVPZ2FzSTVPalh2ZEE5VHNBZTdRLWtFR1",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM0xsMFBOSEVTSV9kNWhvNWJqNVlFQVFTTk80a1Q4c1E1VFg1ZDdhZ25MVmJZbmhLRjRVYU5xSkhvQ3pyV3dTamRyQWYzSWFGSGluN21JVVVPZ2FzSTVPalh2ZEE5VHNBZTdRLWtFR1FXMWd0NEFFaU92SzA0bnA0Y2hEM1RoVE1BQnVWOUZlR1ZCalZ3ckxKWWlWWTIzTkdMTjhYMUFCNktVX3Y2RzNibWtTb3h0VjA0QkoxejRvN0tCR0xOSU5LczdGTWRMekYzN2fSAdcBQVVfeXFMT3lJaWdIUEVyQ1pub2QwYWFMQlJONzhsOGlKc0d5UV81dWoyeVVWY3R6SkhrRWROa1F2NlU4RzRwYmpwNklqU2ZKUWtEQllHRXFvMkJtdEQyLWc5QWVyRjhqSFVVVVBlbUMwcnUxQ1ZRVzdES2piRUgxNm5JLVFTV29pVlZyRmZ5ZFF6Y3paNDRjSEJUS3FPVGtha28tLVc5dDB2MEVKNGNtN0tjeVpWOUwwSjNnUXRkaUpCVFVOX2QycUgtbi1PX2tmSGhnSExsSHBab0VxTEk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-11-12-009",
+    "date": "2026-11-12",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Inc. (ITW) stock price, news, quote and history - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE82Qk9WcXFONjdMdUlGNGRKd3JDSE5sTHI1aFN0V1hZUWt0cV9wR3gza2RrMTI4NFl3Z2VxSEN6NGRYSl9VU2F6ZUI3VTFtMkRw?oc=5\" target=\"_blank\">Illinois Tool Works",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82Qk9WcXFONjdMdUlGNGRKd3JDSE5sTHI1aFN0V1hZUWt0cV9wR3gza2RrMTI4NFl3Z2VxSEN6NGRYSl9VU2F6ZUI3VTFtMkRw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-12-010",
+    "date": "2026-11-12",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Parker raises outlook after record first-quarter results - European Rubber Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUJvbTNpSGEyRHN2S09kNjBjTGRKSnFSQTd4WVNOWHdiR245YkppNHlBd0pvQkQ3S0E1V3lJZ3ZFVFJEZlRsMFo4dkNMVzgyaXh0ZUJFcE5xWDE4SVFYWU16WDRCQXFvQnRtYy15VT",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUJvbTNpSGEyRHN2S09kNjBjTGRKSnFSQTd4WVNOWHdiR245YkppNHlBd0pvQkQ3S0E1V3lJZ3ZFVFJEZlRsMFo4dkNMVzgyaXh0ZUJFcE5xWDE4SVFYWU16WDRCQXFvQnRtYy15VThMX2FmbmNDSTJCWG9zOXFJcGFSQzhoTkl3UkNwZktndm5DRkNkYzBRVFEtN0JFN3FHSnNzUnV6M3U2dkpaVWF2VEVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-12-011",
+    "date": "2026-11-12",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Will Earnings Beat Change Parker Hannifin's Narrative For Parker Hannifin (PH) Stock - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc1o3LTZPR0Z6NlphYnp6aGNzM3Z0VnBabkt1RHktZzNqeTJxY3c4dDZSUHdEdHlZYkRkd1RJQlJ0T2tzWUl3QmZtaWpJQUI2VWs3LXpyMUoyUmtmQmQ1cmltQ0pYWV9MSFVDQ282RW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc1o3LTZPR0Z6NlphYnp6aGNzM3Z0VnBabkt1RHktZzNqeTJxY3c4dDZSUHdEdHlZYkRkd1RJQlJ0T2tzWUl3QmZtaWpJQUI2VWs3LXpyMUoyUmtmQmQ1cmltQ0pYWV9MSFVDQ282RW1vSzg4N2V6cmN5RnB4VmMxa2JYUW9iS1RZS0R0TERGRUxya2ZQNlpEdlZLeTlOR252b3V5MnJIY1RQWDFtZzRVR0JwQ0FlQmFVSmlDcjFmbkF5OF85bGFscHRSVnJwZDho0gHWAUFVX3lxTE1kbDZoTjdxdHFVWUU3VkVWSWdXNkdKWS03alpFZ19CS0lQcDJOSkc5eU4wNnZtWGdlODhvNGdGTEFNOGVtRGlhUU5ZRTRPQ0VNdzFfa0g2VmNYU0VSWlMyQnp5ejYtRVBmZFgzbkNrcFdibXg2emFUc3pDd3N5WkdQVHZrY1laYmtwZWNfa2poYjE2Rk5hWER1dHExeDA4TEpyRFlSbUEwcnNIcUZmMXpwbnhMc25OVEVGLUdQYTM5N3BIVjVfemo1bzRnNkUtWU1oWjQ1NHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-12-012",
+    "date": "2026-11-12",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (NYSE:PH) Stock Rating Raised to \"Strong-Buy\" at Zacks Research - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZkJoQ3ZBMGFKVjVpaTJDZ0d2ZkFjZ2lPMW5IOUNhSnI2R0JyTFoxTEpmUW43MF9IUTRZSTl4VS1rVEVhYnZaOVpfLWNKYkd4d0Y5YzdaNlFFVXBVUzI4Yk9seHI5d0FJUFRFdGRNS2",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZkJoQ3ZBMGFKVjVpaTJDZ0d2ZkFjZ2lPMW5IOUNhSnI2R0JyTFoxTEpmUW43MF9IUTRZSTl4VS1rVEVhYnZaOVpfLWNKYkd4d0Y5YzdaNlFFVXBVUzI4Yk9seHI5d0FJUFRFdGRNS2hNMW5QLXVCV0c5QlNYYl92VU9vWXNNUVpuS0RkZlhsb25IMFVaZEt5d0FmZkQxSk9vNmx6a0gwV05UX3MtNDNwQkFYb3ZZdkljTEczSzhfaUc3OFpicnBoakc1QVVEeXhZV0NZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-12-013",
+    "date": "2026-11-12",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "machine_tool_orders",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "CAT's Record $78B Backlog Signals Strength: Can Growth Continue? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVNHWU1sc0hUQmZUbzZtVWNNR0kwUFdBRERhb1dFV0t5THFXM0VPZ3dQdGhYNmNVbGpRZFlhVFZfR3JZU2diOVpmTDRMRmV1X1ZlRUlYUWxpeUxUeEI5Wm94SS16NGpWb21lSGZfMU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVNHWU1sc0hUQmZUbzZtVWNNR0kwUFdBRERhb1dFV0t5THFXM0VPZ3dQdGhYNmNVbGpRZFlhVFZfR3JZU2diOVpmTDRMRmV1X1ZlRUlYUWxpeUxUeEI5Wm94SS16NGpWb21lSGZfMUJfVzQ5alpBNVU1TTdfeHR4V1l0SFhkUVlqRlBsS2NWZ2RDelVWeVVLVG44YnY4Qy1jWjlwb3RZS1VTTmVuSndWTV9Bc0RlQ2JE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-12-014",
+    "date": "2026-11-12",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar stock stalls below resistance as rebound odds stay low: weekly forecast - Traders Union",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOOU9QcGNnMmxuTElXU1RkQkpXdjJ4YjB0ZElXUHN1SGlJS3RyaWV0Uy1nNkJHeEFjM1ZhUFkwVjZacUpXaGgtbnFVaUJRZHk2dkpJRWFZOWctNmg4SU93RklrWTdMcXBwel9abElmZX",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOU9QcGNnMmxuTElXU1RkQkpXdjJ4YjB0ZElXUHN1SGlJS3RyaWV0Uy1nNkJHeEFjM1ZhUFkwVjZacUpXaGgtbnFVaUJRZHk2dkpJRWFZOWctNmg4SU93RklrWTdMcXBwel9abElmZXUwTkN5bzQyc3Nkd2VMZDhmcEpIQ0NoaXVwT0JjWS1uNmxmWWd4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-015",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2027 System Integrator of the Year: Complex control system integration, software-defined automation",
+    "summary": "<p>George T. Hall Company is the winner in the under $10 million system integration revenue category.</p>\n<p>The post <a href=\"https://www.plantengineering.com/2027-system-integrator-of-the-year-compl",
+    "sources": [
+      {
+        "name": "plant_engineering",
+        "url": "https://www.plantengineering.com/2027-system-integrator-of-the-year-complex-control-system-integration-software-defined-automation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-016",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2027 System Integrator of the Year: Beer, process controls, electrical and automation",
+    "summary": "<p>GreyLogix is the winner in the $10 million to $40 million system integration revenue category.</p>\n<p>The post <a href=\"https://www.plantengineering.com/2027-system-integrator-of-the-year-beer-proc",
+    "sources": [
+      {
+        "name": "plant_engineering",
+        "url": "https://www.plantengineering.com/2027-system-integrator-of-the-year-beer-process-controls-electrical-and-automation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-017",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2027 System Integrator of the Year: SCADA, cloud quality management, controls integration",
+    "summary": "<p>GrayMatter is the winner in the over $40 million in system integration revenue category.</p>\n<p>The post <a href=\"https://www.plantengineering.com/2027-system-integrator-of-the-year-scada-cloud-qua",
+    "sources": [
+      {
+        "name": "plant_engineering",
+        "url": "https://www.plantengineering.com/2027-system-integrator-of-the-year-scada-cloud-quality-management-controls-integration/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "hiwin-2026-11-11-001",
     "date": "2026-11-11",
     "companies": [
@@ -237,6 +586,267 @@
       {
         "name": "schneider_blog",
         "url": "https://blog.se.com/datacenter/2026/11/11/cooling-orchestration-software-a-welcome-addition-to-ai-data-center-operations/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-11-11-013",
+    "date": "2026-11-11",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Delta Electronics Stock Is In Focus As AI Data Center Spending Climbs - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVhlUjNuX3JNRDlDWWZndGxkNzlYb041T2JqZEo1ZzFfWVNpaTRsVk5KNWJteDZUTG8zMFBudWdzelNmUnhWWVE5LXRBZWJEX2xwS0VzVEVtbmx1M3VmR0hSYTFSc3dpb2hMQ3ROcH",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVhlUjNuX3JNRDlDWWZndGxkNzlYb041T2JqZEo1ZzFfWVNpaTRsVk5KNWJteDZUTG8zMFBudWdzelNmUnhWWVE5LXRBZWJEX2xwS0VzVEVtbmx1M3VmR0hSYTFSc3dpb2hMQ3ROcHNGenZrWjYycThJQnQxbzZzbUZadFZNZGh5TW5pLVNXd2pnMGd6MWt2SnRnVVNBcmlOTWxENXlMVnBnNzJqSlBYNmVCRnA1OHAwY05LY183dU5vSERLVUhpYnNRZE5KU3lMYlFR0gHYAUFVX3lxTE14V29ZUkRxZ0RqOUJCNWJIaE5IenFUMWg4R3pTTXo0VlZQaFhyRlA0N2s3WlltbHhWV0RjVGpNNkI1NE9VdHJfLW9NeWx2RVdIV3NOcDV4a2Q5cldQODk3cG9nS2Ewek54OXBwMkVzc1ZlZHN2T1FiUDVLVFpjeGQ0V1VkNUdNZ3d2U0VEaEFsbEpXMTZZdERlRkZlbTRQVjBfNGp1dTNkNmN4RExOd3hBd2gwSDlnMllNRk8xMG15Y2otLWstWXhZN3k1RG82U2x4OVI2Wm0xZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-11-11-014",
+    "date": "2026-11-11",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Delta showcases AI data center cooling and power solutions at Electronica 2026 - Data Centre Solutions",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQNnF4d1JZdzF3bVFZMUlSLTNjVXVhd2J4Y0w5dVZNeUlHUEk5VkRZUExzR2Y0ZlFvcUJydmpERG01X1RUWU1jT29aMi1GSk5WWnFCUmdrdTVVVTF6VzItZmFrbEZYZGY3VFhKSGxfOU",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNnF4d1JZdzF3bVFZMUlSLTNjVXVhd2J4Y0w5dVZNeUlHUEk5VkRZUExzR2Y0ZlFvcUJydmpERG01X1RUWU1jT29aMi1GSk5WWnFCUmdrdTVVVTF6VzItZmFrbEZYZGY3VFhKSGxfOUEtQUYwdjFsQ1BmdVdKVFNNWmhqbUZSLTI3WjA3TzdyamhuMV9RMlA2eWJjY2ZEZ0NaNDE5UXRfSkpEanczVXkxY1czMXo5bFQyVHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-11-11-015",
+    "date": "2026-11-11",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Delta Unveils 'From-Grid-to-Chip' Cooling Innovations for AI Infrastructure and for New 800 VDC, ±400 VDC Architectures at SC26 - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdTZjcVQ5dS1renlZWmNiMUhLdUhjN1d4OEtnZkd4cUpEa0x0OFpqRmlxY0ZXS3NWTHFHaXpxRVJMRVcwZUV5dmpyd1ZEaDhSVHE4R0Y3OXlWVmZhdDFoZTNtNHdLb3hIOFowVFFwTV",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdTZjcVQ5dS1renlZWmNiMUhLdUhjN1d4OEtnZkd4cUpEa0x0OFpqRmlxY0ZXS3NWTHFHaXpxRVJMRVcwZUV5dmpyd1ZEaDhSVHE4R0Y3OXlWVmZhdDFoZTNtNHdLb3hIOFowVFFwTVVRekxyVFVaY3dheWZXRDFqa0RqNVRxdHE3ZUpXWlRVcW40MUJOTHpGVG9COWpxUU9wUnNCNW9EX2djaGQ1Mk4xUDJJQ1VyOEhYMTRIWFlXOC1sOWFoMzVzMWRQUEkta19NdGZRbU53N0lLc1R4UkoyaWpJbEszZUNpT3VyYkZob2txY3UtMGNDdm9xYkdVLXItU0ZLOGRwem9Ga2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-11-11-016",
+    "date": "2026-11-11",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BMW orders more than 1,700 ABB robots for next-generation vehicle production - Robotics & Automation News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcG1XVENRVWlRUU1ETmpEazBOeHFmUW1pdkEwdE1DU3Z6eVVBYjhGVzBuYVQxbkxKQm8xWDNld2VUUGRGYXR0SVNMOThqODJ0REhTUXVkT3lGajZMTlZzdk03UHJOZ3NmMEh3N1N0Wl",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcG1XVENRVWlRUU1ETmpEazBOeHFmUW1pdkEwdE1DU3Z6eVVBYjhGVzBuYVQxbkxKQm8xWDNld2VUUGRGYXR0SVNMOThqODJ0REhTUXVkT3lGajZMTlZzdk03UHJOZ3NmMEh3N1N0WllIR1VsMHNYZnNIQWNoUWhoSkpmZUZnVU0xZXNCRzRzTHBKUGV2VUFhbUpTZDhuZEMydXJvcUlCN0xscUpBM0hxLThxWHA5cC02Vjd4RkZtN0pRU0prVTlCMGNlUGhIT0hOWDIxV2VCaHRwbHpacGpMUTNuVmhCS1U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-11-11-017",
+    "date": "2026-11-11",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Join ABB Robotics UK’s 2026 Collaborative Automation Day - Control Engineering Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkhZc0ktTjNIVk1WN25QaTl6OTBoandWSE1TTkdMakNxbHZ4eGhtaThVTnNhSzRlWTlxd2ZEbjY4d2IzbFZpM1B0LVlvZmpNMWFIV08xOTAyX29rZmQxamt6UU95WlplQlRjUXVJUT",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkhZc0ktTjNIVk1WN25QaTl6OTBoandWSE1TTkdMakNxbHZ4eGhtaThVTnNhSzRlWTlxd2ZEbjY4d2IzbFZpM1B0LVlvZmpNMWFIV08xOTAyX29rZmQxamt6UU95WlplQlRjUXVJUTE2SU13dHFETzZtNVVHS3JudnpWNzFTb195OWdnUTQyNWdFeXk0YVRvMWJHc2tOaDA2eXRTaVlXeEJBMWxKX3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-11-11-018",
+    "date": "2026-11-11",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric launches ‘The Little One’ heat pump - Installer Online",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVE4QXN0S1FlZmxEUllaZ09VaUpLSGQ2MUZCQU1kUHQ4SG4xUnhZWXFCQk9aSWc4bHBYNVhlYUF2UWJ6Qm5saHZWc19NVDJXVC1DcGVRTVRSN1dSSWJMOU1oR3NVSUxsTnpVWk9udU",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVE4QXN0S1FlZmxEUllaZ09VaUpLSGQ2MUZCQU1kUHQ4SG4xUnhZWXFCQk9aSWc4bHBYNVhlYUF2UWJ6Qm5saHZWc19NVDJXVC1DcGVRTVRSN1dSSWJMOU1oR3NVSUxsTnpVWk9udUFURGVoQ1p3NkItZmJoTnZZdXUwaE5sLW9tUnN6RWZBTHFvc2hmaXdjTjJMSng0M2lVN0cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dmg_mori-2026-11-11-019",
+    "date": "2026-11-11",
+    "companies": [
+      "dmg_mori"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dmg Mori Co Ltd (0MO.HM) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SSFN4LTVyQ0hPTFJNODJZN2lfZTJBV3dkRzc1WF9VSTFCLUE5VDNZemRScFFyUm5WMEdJcU1rb2YwOFJGaFNxS1dPUFBoTkVPN2NyaQ?oc=5\" target=\"_blank\">Dmg Mori Co L",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SSFN4LTVyQ0hPTFJNODJZN2lfZTJBV3dkRzc1WF9VSTFCLUE5VDNZemRScFFyUm5WMEdJcU1rb2YwOFJGaFNxS1dPUFBoTkVPN2NyaQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-11-020",
+    "date": "2026-11-11",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Many Stocks Have Matched Parker Hannifin’s Winning Streak? - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcThFZGZLYlE1ai1mVTA3Zm84OUVkNXpFQWw5Y245emt6YXJ5UkdweHkyLUFKejhtTDZZbUJuTVFsOGgxRmxpaTBzb1pzSjVIRVJSVnFXUldMdTB0NzZWVFpYSkw3UEMtLUVLeWp5Nl",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcThFZGZLYlE1ai1mVTA3Zm84OUVkNXpFQWw5Y245emt6YXJ5UkdweHkyLUFKejhtTDZZbUJuTVFsOGgxRmxpaTBzb1pzSjVIRVJSVnFXUldMdTB0NzZWVFpYSkw3UEMtLUVLeWp5NlBFWGJETkJlY2lHdC01QlJXVXRlOFExblp6TU9lMlkyVzdxajZCRWIyeGZRU0hHVjJjVGx1c09FOUk0NF8wRjJyX05TUzJ0djgzVnlJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-11-021",
+    "date": "2026-11-11",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Michael Burry just made a big move on Caterpillar stock - TheStreet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjNSWWZwMzh1LUlsNXBWZzNKM3pDWGhHT1RVX0FKSGNHY1dRakNoVmlDUmJvSDFvbjl1aExGYl9CNHBmNlEzSmw3a2xia3FVNHduanYzdDRVczJFUEthMlRQXzNmTDJWVHEyc3pQX2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNjNSWWZwMzh1LUlsNXBWZzNKM3pDWGhHT1RVX0FKSGNHY1dRakNoVmlDUmJvSDFvbjl1aExGYl9CNHBmNlEzSmw3a2xia3FVNHduanYzdDRVczJFUEthMlRQXzNmTDJWVHEyc3pQX2hWQVpwMVg3WEtzWlp2Vk1JOGNyR0M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-11-022",
+    "date": "2026-11-11",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can Caterpillar Stock Hit $820? - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxORWs4Q3hRZGdKWVNuNTRqWUlwNWtTcEllc1ptbW9UcUxtM1N0N2FpRllKSjJ6UTZraFNmcFBldEwxNXNVQlljNDZOY2JaaUdMNmJmTHNCM2F2MTlyWXhaYTlwSnJvWV9RM0Q3b2JlTW",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORWs4Q3hRZGdKWVNuNTRqWUlwNWtTcEllc1ptbW9UcUxtM1N0N2FpRllKSjJ6UTZraFNmcFBldEwxNXNVQlljNDZOY2JaaUdMNmJmTHNCM2F2MTlyWXhaYTlwSnJvWV9RM0Q3b2JlTWJpeUpHT1p0dTEwbDFKbjFVLXkyaE9zM2twQWtoSk5uUGpIdmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-11-023",
+    "date": "2026-11-11",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar faces further valuation risks despite machinery strength, Bank of America warns - Proactive financial news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOS1pkbWp6aGlxOGJGWTlVZ3M5bU14N25Mei1XVm9QYmVNOHkzY1d1TDBSRTRKZmJ0N1lZbmRpV2dmb3hfbThROWNha1l4QUdFeXdhTms1cmxCdkZTZlEyVHVfMlU4aFNnOXhveWZ4Q0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOS1pkbWp6aGlxOGJGWTlVZ3M5bU14N25Mei1XVm9QYmVNOHkzY1d1TDBSRTRKZmJ0N1lZbmRpV2dmb3hfbThROWNha1l4QUdFeXdhTms1cmxCdkZTZlEyVHVfMlU4aFNnOXhveWZ4Q0dJaVB0cjFrM2xfOUFtX2YzZFdrS1lzLUNNVDcxQTJxZnJEZE5UbWZrZWNFRzVveDFTaXZYQTlYZ01IRzRIaVIwUzUwaEJKaXBPd2YxU0VTR2Z6MGdQT0dXb0oyX1BQUWlCVVM4dk14RjNCWHJZZDAzNXR0NHRHUm5NUXRMSXBZQm01WW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-024",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Russia’s War Machine Has a Western Technology Problem China Still Can’t Solve - UNITED24 Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOQUkycjJtX2tSTlRkOVlvUUFJcC03RGFXcjNURlEzRkJaMGgwYnk2a2M4M19qOFQ1cDZadWRNLTYzSEl0dGloYzc0S1h0TzM2N2VtSmZKNkc3TTByNlVxalNEazd1NTZoTHNwTGNmaH",
+    "sources": [
+      {
+        "name": "google_news_machine_tools",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQUkycjJtX2tSTlRkOVlvUUFJcC03RGFXcjNURlEzRkJaMGgwYnk2a2M4M19qOFQ1cDZadWRNLTYzSEl0dGloYzc0S1h0TzM2N2VtSmZKNkc3TTByNlVxalNEazd1NTZoTHNwTGNmaHhvekdjcFJscEhONEFDQ3FHdU9PajhEQTNlcmV2Y1dYanpTXzBWN1M3MnFnY0VPbmxIWXBmNGkwRDlDbVpFTnJiN28tdVJWdlcxVmlhWDRkaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-025",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Serbian Industrial Machinery Found Its Way Into Russia’s Iskander Missile Production Network - UNITED24 Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWEwtbFZPR2c3RU05a2xDUkxfZUE5VzRYVmxTTFE3OEdSMWtWdjdmTWlHb0tacS1ud0diS2VRc21pVmZ0RnlsZ2FHa1dPbWRIS0VQRUx6QzRfSEhVY3BaZjZBSjhYeWJDT0xCTF9RdG",
+    "sources": [
+      {
+        "name": "google_news_machine_tools",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWEwtbFZPR2c3RU05a2xDUkxfZUE5VzRYVmxTTFE3OEdSMWtWdjdmTWlHb0tacS1ud0diS2VRc21pVmZ0RnlsZ2FHa1dPbWRIS0VQRUx6QzRfSEhVY3BaZjZBSjhYeWJDT0xCTF9RdGxPUUR6WW5HSF9BS1ZneTEwZ0RSU3otMWZPQ3VCcEM3U1RvV0xDMVYtRGtVaEduUG9paEdfQTZTeldsT1Q5Q1FKQmFmMlFMekVHMmx4NVB2VFV2S1NnNHpLMFZUR0trN2YyZ1JBOVJvaVhzQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -916,6 +1526,27 @@
     ]
   },
   {
+    "id": "caterpillar-2026-11-10-034",
+    "date": "2026-11-10",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is The Market Underpricing Caterpillar Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPSzZUOTVXRk5ObmpOb3Nqdld4NC0tMC0weUdJYy1vWXpDUVBfeFNVakJRMHhFaUpIRUdhNjZ2OUZ1Snl3aDk1b3gtSmVLY1NwQWloZWRjNENCaEhnMHJpR0pkNFZDVDRzYXlaaUExaT",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSzZUOTVXRk5ObmpOb3Nqdld4NC0tMC0weUdJYy1vWXpDUVBfeFNVakJRMHhFaUpIRUdhNjZ2OUZ1Snl3aDk1b3gtSmVLY1NwQWloZWRjNENCaEhnMHJpR0pkNFZDVDRzYXlaaUExaTFKc2NDM3RyS3VidGZtTmFrbDlkOGRWcWVfWUhzanVicm14eTdKZGFNZ3NjNUxwYVU1R0Ficg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-11-09-001",
     "date": "2026-11-09",
     "companies": [
@@ -1432,6 +2063,27 @@
       {
         "name": "schneider_blog",
         "url": "https://blog.se.com/digital-transformation/artificial-intelligence/2026/11/09/podcast-the-art-and-science-of-industrial-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss_campaign",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-09-027",
+    "date": "2026-11-09",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar stock support and resistance levels after 5.8% rebound - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0FJUWFpendQbkprZVZPc0diTWpPY2hMMy1TOUQ2bUY5dFJjZmlyeW9KRnlVNVFkemN6X25rb3RWYVBIdk1jbVpHbW9vQ1p2VHdOV2tncDJHcVl5Wlo0NE01TDM4YTdFdTU1Q2xwUj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0FJUWFpendQbkprZVZPc0diTWpPY2hMMy1TOUQ2bUY5dFJjZmlyeW9KRnlVNVFkemN6X25rb3RWYVBIdk1jbVpHbW9vQ1p2VHdOV2tncDJHcVl5Wlo0NE01TDM4YTdFdTU1Q2xwUjlUbE5JSXVWby1DNFdHNXVlYUNJSUlOY1h5VzVfdlpERlAzb2VIaHFRR1RMMm1hTXhSZ0EtMFRLNHhsNTlV?oc=5",
         "type": "rss"
       }
     ]
