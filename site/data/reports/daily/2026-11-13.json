@@ -1,0 +1,243 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T15:49:00.804489Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-11-13-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Japanese consortium including Mitsubishi Electric, and NTT, explores mega-satellite constellation business - W.Media",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWTlCZGZDdE9LajJxc3piaHk5QmF1bnNyN0pFQ3MteHdOYmp3U01VVmxxbzVQREVqb2JnRUs0aEdQbXFaX3lyWE5kYnpKb2ZTLUNyTG1PZmxhV0tsOUhoYnRjczhaUDZqSUJiNFM5dWpEYjBxTUhPd1RuaXlQdVB6OFkxMlBjOHJKdndJbWlSUlRCQk5KRldleUgtcTVQNjk4b01hZlJwSGZDR0c0dmFXZEVwSGVOTkhxRkdWckNn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "parker_hannifin-2026-11-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin (PH) Lifted Full Year Guidance, Is The Stock Fully Priced? - Yahoo Finance Singapore",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUkxVR25DTEctYmw4Nm4tRDQ3ZndNOW4xSDJqZk50QlRWZzNxTmZjaW1pdUp0V3hydXFhTm4tQ3lsTzVwZUpZTG1uZ1BlZ0ZmVWNINkstT3R4djVIYnpBSE9kTUptZnBOMXVyRkg1UGcwUXE2STMxalBDTnlYR2NtT3FDZjdhQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "parker_hannifin-2026-11-13-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Parker Hannifin (PH) Is Back In The Spotlight - Simply Wall St",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSDMzNllBX1VfdHVrUXBycWpZRmpFQU82c0VJUTU3SnBUUlR6TzNtUjkyR0x6b0hMS0U1aE51dlpWaHJWczVpVDJXVFVCY2pHaWJjX0RSLXFiR25ObUstNDkxNUYwN01zZTJmWjJPQ2FYX0dwazNCOGdDbnhIVzYtV3FTZ1dvUnlfYmdrbUtKNll6N2FrZ2FWakNtQjg4YVZQRm9SdUFBcXBKQm90TzU2VVpwRTNteG9oUE14UnpHSdIBxAFBVV95cUxNYWVyX2RrSmdmLUZUeE9tczNJUzVKa211amVaQ2lqX19LQTF3VEI4YzI2RVRXYUdQbUJLcmVjN21MREhrbDhFZVdWS2t0aUdnUml6X2hvMmZhTHdiZ2lPMUJBNXZyWjdLdkpSeHo4bl9UNFZDb1BicVMzNGxIVXJGYTdrVVRybTljR01oMVFLWUxFZ3RwUTFWcWJfbWJCa1RScmpKZ25qemp3dmpwSUtxT3JYRmRoZzdmMVoxNFhsMEdVcXZm?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "delta-2026-11-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Delta Participates in COP31 and CBD COP17 Supporting Electrification and Biodiversity Conservation - Business Focus Magazine",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRC1YSWxLVkJ1eVZndFBWajN0NFZfZ1h6ZGlFbWMtQWhvX1I1QWJKZVJKVjhydURPdXVDTU9EWFF6MXJLMEpqM2NDV2t5cEt5aVU4WnNac3p6a2V0dmJCRHhQMUltNmhOVDdNcHZpZVdOMnV1UkV4d0pqV3lDWXd4UWRwV3dpdG5kSGJoakI5S0NjR0JqWEpuTFFHbnAyem00T2pNaGNiY3lsZU9VMTN2UDdBXzMyTWhqNnVTYWtXSEdZUzJJbE9ScjVPNFN4UmZWczZjVGtOZ1R5UDlO?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-11-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "21,761 Parker-Hannifin Corporation $PH Shares Acquired by Eurizon Capital SGR S.p.A. - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVWNLN3hVZDJYOFJ0aXk2X0tOUmlldUdxWWdKanJabElfLXh3cTZubWhrbVdKaFJqTS1KVmxVczYyYm0tYXVLS0hNdTVrZU9QX3NoVEsxX0JDeGh6MWd1MXJ5dFAxcFN0ZmRjeHBuQTM1Mkp4Z1VGZDNQVmNPOGhqYkVMbVVuMHhDWC1FT0lPMmF0eUY1RHJvY2VGcWJhdGZhRjZORjZwNi1CS2hlLVRJLTRoekRzMm5jVVlrLUNadkNMQkRNSGcyaHVKX19CQWpQRFhtbXpFSQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 3
+      },
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 358,
+    "dup_title": 201,
+    "too_old": 137,
+    "gate1_blocked": 2,
+    "gate2_blocked": 6,
+    "passed": 12,
+    "pass_rate": "7.6%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "The mission continues: How veterans and military spouses are building careers at Schneider Electric",
+      "Mitsubishi Electric invests in GHGSat - LNG Industry",
+      "Parker Hannifin To Invest US$60 Million in Toluca - MEXICONOW",
+      "Michael Burry trims Caterpillar bearish bet after puts nearly quadruple (CAT:NYSE) - Seeking Alpha",
+      "Caterpillar (CAT) Is Amongst The Notable Names Insiders Are Loading Up On After the Recent Crash - Y"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為Parker、Delta Electronics、Mitsubishi Electric相關動態：「Japanese consortium including Mitsubishi Electric, and NT...」。主要關注主題為產業通用、財報、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Japanese consortium including Mitsubishi Electric, and NTT, explores mega-sat...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Parker-Hannifin (PH) Lifted Full Year Guidance, Is The Stock Fully Priced? - ...（財報、展望、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

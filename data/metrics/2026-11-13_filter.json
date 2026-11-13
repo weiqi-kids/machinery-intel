@@ -1,0 +1,16 @@
+{
+  "total_raw": 358,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 2,
+  "gate2_fail": 6,
+  "passed": 12,
+  "gate2_samples": [
+    "The mission continues: How veterans and military spouses are building careers at Schneider Electric",
+    "Mitsubishi Electric invests in GHGSat - LNG Industry",
+    "Parker Hannifin To Invest US$60 Million in Toluca - MEXICONOW",
+    "Michael Burry trims Caterpillar bearish bet after puts nearly quadruple (CAT:NYSE) - Seeking Alpha",
+    "Caterpillar (CAT) Is Amongst The Notable Names Insiders Are Loading Up On After the Recent Crash - Y"
+  ]
+}

@@ -1,5 +1,110 @@
 [
   {
+    "id": "delta-2026-11-13-001",
+    "date": "2026-11-13",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Participates in COP31 and CBD COP17 Supporting Electrification and Biodiversity Conservation - Business Focus Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRC1YSWxLVkJ1eVZndFBWajN0NFZfZ1h6ZGlFbWMtQWhvX1I1QWJKZVJKVjhydURPdXVDTU9EWFF6MXJLMEpqM2NDV2t5cEt5aVU4WnNac3p6a2V0dmJCRHhQMUltNmhOVDdNcHZpZV",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRC1YSWxLVkJ1eVZndFBWajN0NFZfZ1h6ZGlFbWMtQWhvX1I1QWJKZVJKVjhydURPdXVDTU9EWFF6MXJLMEpqM2NDV2t5cEt5aVU4WnNac3p6a2V0dmJCRHhQMUltNmhOVDdNcHZpZVdOMnV1UkV4d0pqV3lDWXd4UWRwV3dpdG5kSGJoakI5S0NjR0JqWEpuTFFHbnAyem00T2pNaGNiY3lsZU9VMTN2UDdBXzMyTWhqNnVTYWtXSEdZUzJJbE9ScjVPNFN4UmZWczZjVGtOZ1R5UDlO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-11-13-002",
+    "date": "2026-11-13",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japanese consortium including Mitsubishi Electric, and NTT, explores mega-satellite constellation business - W.Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPWTlCZGZDdE9LajJxc3piaHk5QmF1bnNyN0pFQ3MteHdOYmp3U01VVmxxbzVQREVqb2JnRUs0aEdQbXFaX3lyWE5kYnpKb2ZTLUNyTG1PZmxhV0tsOUhoYnRjczhaUDZqSUJiNFM5dW",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWTlCZGZDdE9LajJxc3piaHk5QmF1bnNyN0pFQ3MteHdOYmp3U01VVmxxbzVQREVqb2JnRUs0aEdQbXFaX3lyWE5kYnpKb2ZTLUNyTG1PZmxhV0tsOUhoYnRjczhaUDZqSUJiNFM5dWpEYjBxTUhPd1RuaXlQdVB6OFkxMlBjOHJKdndJbWlSUlRCQk5KRldleUgtcTVQNjk4b01hZlJwSGZDR0c0dmFXZEVwSGVOTkhxRkdWckNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-13-003",
+    "date": "2026-11-13",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin (PH) Lifted Full Year Guidance, Is The Stock Fully Priced? - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUkxVR25DTEctYmw4Nm4tRDQ3ZndNOW4xSDJqZk50QlRWZzNxTmZjaW1pdUp0V3hydXFhTm4tQ3lsTzVwZUpZTG1uZ1BlZ0ZmVWNINkstT3R4djVIYnpBSE9kTUptZnBOMXVyRkg1UG",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUkxVR25DTEctYmw4Nm4tRDQ3ZndNOW4xSDJqZk50QlRWZzNxTmZjaW1pdUp0V3hydXFhTm4tQ3lsTzVwZUpZTG1uZ1BlZ0ZmVWNINkstT3R4djVIYnpBSE9kTUptZnBOMXVyRkg1UGcwUXE2STMxalBDTnlYR2NtT3FDZjdhQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-13-004",
+    "date": "2026-11-13",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Parker Hannifin (PH) Is Back In The Spotlight - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPSDMzNllBX1VfdHVrUXBycWpZRmpFQU82c0VJUTU3SnBUUlR6TzNtUjkyR0x6b0hMS0U1aE51dlpWaHJWczVpVDJXVFVCY2pHaWJjX0RSLXFiR25ObUstNDkxNUYwN01zZTJmWjJPQ2",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSDMzNllBX1VfdHVrUXBycWpZRmpFQU82c0VJUTU3SnBUUlR6TzNtUjkyR0x6b0hMS0U1aE51dlpWaHJWczVpVDJXVFVCY2pHaWJjX0RSLXFiR25ObUstNDkxNUYwN01zZTJmWjJPQ2FYX0dwazNCOGdDbnhIVzYtV3FTZ1dvUnlfYmdrbUtKNll6N2FrZ2FWakNtQjg4YVZQRm9SdUFBcXBKQm90TzU2VVpwRTNteG9oUE14UnpHSdIBxAFBVV95cUxNYWVyX2RrSmdmLUZUeE9tczNJUzVKa211amVaQ2lqX19LQTF3VEI4YzI2RVRXYUdQbUJLcmVjN21MREhrbDhFZVdWS2t0aUdnUml6X2hvMmZhTHdiZ2lPMUJBNXZyWjdLdkpSeHo4bl9UNFZDb1BicVMzNGxIVXJGYTdrVVRybTljR01oMVFLWUxFZ3RwUTFWcWJfbWJCa1RScmpKZ25qemp3dmpwSUtxT3JYRmRoZzdmMVoxNFhsMEdVcXZm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-13-005",
+    "date": "2026-11-13",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "21,761 Parker-Hannifin Corporation $PH Shares Acquired by Eurizon Capital SGR S.p.A. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVWNLN3hVZDJYOFJ0aXk2X0tOUmlldUdxWWdKanJabElfLXh3cTZubWhrbVdKaFJqTS1KVmxVczYyYm0tYXVLS0hNdTVrZU9QX3NoVEsxX0JDeGh6MWd1MXJ5dFAxcFN0ZmRjeHBuQT",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVWNLN3hVZDJYOFJ0aXk2X0tOUmlldUdxWWdKanJabElfLXh3cTZubWhrbVdKaFJqTS1KVmxVczYyYm0tYXVLS0hNdTVrZU9QX3NoVEsxX0JDeGh6MWd1MXJ5dFAxcFN0ZmRjeHBuQTM1Mkp4Z1VGZDNQVmNPOGhqYkVMbVVuMHhDWC1FT0lPMmF0eUY1RHJvY2VGcWJhdGZhRjZORjZwNi1CS2hlLVRJLTRoekRzMm5jVVlrLUNadkNMQkRNSGcyaHVKX19CQWpQRFhtbXpFSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-11-12-001",
     "date": "2026-11-12",
     "companies": [
@@ -344,6 +449,124 @@
       {
         "name": "plant_engineering",
         "url": "https://www.plantengineering.com/2027-system-integrator-of-the-year-scada-cloud-quality-management-controls-integration/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-018",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi’s Little One targets new homes - Cooling Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3BlRERfR0x6WkdIdlBtSXlZdl9OWGJObmdSWUhScHhubWFfRlVoYmRfQmRWNWRVOU5Ca1lmWDFGWGdBNlFGb2dtOFV1SlpYaVJMWjg3engzeEtlQTZzbjIydUVYcFQ1M2ZoSkMwZH",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV3BlRERfR0x6WkdIdlBtSXlZdl9OWGJObmdSWUhScHhubWFfRlVoYmRfQmRWNWRVOU5Ca1lmWDFGWGdBNlFGb2dtOFV1SlpYaVJMWjg3engzeEtlQTZzbjIydUVYcFQ1M2ZoSkMwZHMyMm8tandyMjZPS1J5TlpGeHd3WGE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-019",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2027 Mitsubishi Eclipse Sportback EV - Vicarious Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5yUDdkUXNTM0lKREhBVkp2TDJjQWd5ZFRwcjJ5VngwYW1lOXcySnJHOGRheXlEVnpaMEV4R1hGbThvT1dfWkFOQVFoWUZjNUkzV1lodHdITlYxX003N2hKU2NmdTd5U2VISHpXX3pXSk",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yUDdkUXNTM0lKREhBVkp2TDJjQWd5ZFRwcjJ5VngwYW1lOXcySnJHOGRheXlEVnpaMEV4R1hGbThvT1dfWkFOQVFoWUZjNUkzV1lodHdITlYxX003N2hKU2NmdTd5U2VISHpXX3pXSk9iTF9M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-12-020",
+    "date": "2026-11-12",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin (PH) Stock Seems About Right After A 206% Run - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkNZWFEzdm9oMkdsSXFIZ3FyQ2pDT3dnR3ZkclhCVEVwQ3RDbl9MVF9VZElsUnUxc1VGVXdBT09mcHpoeVZIMU5PU3ZNY3ZJZDQ3UUEtRDZpVzlocndCZi1DWldSLTEzN1Bmdk4tRl",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkNZWFEzdm9oMkdsSXFIZ3FyQ2pDT3dnR3ZkclhCVEVwQ3RDbl9MVF9VZElsUnUxc1VGVXdBT09mcHpoeVZIMU5PU3ZNY3ZJZDQ3UUEtRDZpVzlocndCZi1DWldSLTEzN1Bmdk4tRllVSmhIRDVqNEZsYUVDMXl2bEFVdFo3dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-12-021",
+    "date": "2026-11-12",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Much Downside Is Left In Caterpillar Stock? - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWttSGhmRERHM05vVC1YZVRZZTVYRDJxNkxwV0dxeDhncEVFNjNzaERER1Y4dnM3azNHZXMwZURDbmVhNW1POWdCNmd6ejZQdV8wekZrSV8za0JXZzlqNGw5Q01yeEI2cWF0VFo5b1",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaWttSGhmRERHM05vVC1YZVRZZTVYRDJxNkxwV0dxeDhncEVFNjNzaERER1Y4dnM3azNHZXMwZURDbmVhNW1POWdCNmd6ejZQdV8wekZrSV8za0JXZzlqNGw5Q01yeEI2cWF0VFo5b1V5emZFWmVfREtDZjMzSXlVMlpxbmxScEoyM1ptZmxrLVVkM0xWOEY5ZFBVcUliOEF1bjRERDByR2hFUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-12-022",
+    "date": "2026-11-12",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Has Fallen 44% From Its June High, but $1,000 Invested Ten Years Ago Is Still Worth $7,785 - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeWFZNDFiQlI1NVJUZjl3UlRmYXI2d3BfMFdNR1liaF9QWWc4WHo3cnJOZkoxQUtTeUJIZG1lNDEwUDNIN3VadTdyM0NoOFF5RHlLMXFlNzhfanhpaEFnNEFrWEpvQk14VTYyWlJVNV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeWFZNDFiQlI1NVJUZjl3UlRmYXI2d3BfMFdNR1liaF9QWWc4WHo3cnJOZkoxQUtTeUJIZG1lNDEwUDNIN3VadTdyM0NoOFF5RHlLMXFlNzhfanhpaEFnNEFrWEpvQk14VTYyWlJVNVNRRVRjMHVXYnRRSlo4dThtMnp5bTY5RzRBSWh6LXg5MGdKdVZMNVVTbHl0NDhhRHVaWVM4Tl93dG94SVJLLTN1ZnptWXlINlhnX05DS0RJNi1MSWlYcFJzT2ZsUkZWSjItWXA4ZXd0MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-12-023",
+    "date": "2026-11-12",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Caterpillar expands 3600 engine production as gas compression demand grows - CompressorTECH²",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOSkd4R2tBNFdmbWk0M1pWVVlmSTV5VVM3ZUNWX1hzMFpwU0ZpY181ZHdvdWFvdDJpNnVkXzlJaE43b25rRVJfSjk4djY0LTMzZjdraXl3Yk5scm5Ccjc5cjUwX1ozZVRYMzlPVlgwS3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSkd4R2tBNFdmbWk0M1pWVVlmSTV5VVM3ZUNWX1hzMFpwU0ZpY181ZHdvdWFvdDJpNnVkXzlJaE43b25rRVJfSjk4djY0LTMzZjdraXl3Yk5scm5Ccjc5cjUwX1ozZVRYMzlPVlgwS3ZhR3dXQ2xKNEdzR2paZV9UVlI3WnIxbmczOWxNV2FaUnJmNzhKSGhtZ0prMWxFWVJYODkyY0UyQVdkUjB5VThzblM0djNDcnlFVHhYSFhTbTJpT1Nid3c?oc=5",
         "type": "rss"
       }
     ]
@@ -847,6 +1070,26 @@
       {
         "name": "google_news_machine_tools",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWEwtbFZPR2c3RU05a2xDUkxfZUE5VzRYVmxTTFE3OEdSMWtWdjdmTWlHb0tacS1ud0diS2VRc21pVmZ0RnlsZ2FHa1dPbWRIS0VQRUx6QzRfSEhVY3BaZjZBSjhYeWJDT0xCTF9RdGxPUUR6WW5HSF9BS1ZneTEwZ0RSU3otMWZPQ3VCcEM3U1RvV0xDMVYtRGtVaEduUG9paEdfQTZTeldsT1Q5Q1FKQmFmMlFMekVHMmx4NVB2VFV2S1NnNHpLMFZUR0trN2YyZ1JBOVJvaVhzQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-11-026",
+    "date": "2026-11-11",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can Caterpillar Stock Hit $820? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQQjdURzJLRzFLaTVWaEFkcU9tQVBiNVFibDNLVDBYcWRkVVR5dkxKMzdPYWo5MFMtUGtRZy1VWVg1empVTjJmNE42RFNhRG1FSDZtZnVXRHJlUmZSMFpfcXhZbldDaFE3LWlJNGNPa0",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQjdURzJLRzFLaTVWaEFkcU9tQVBiNVFibDNLVDBYcWRkVVR5dkxKMzdPYWo5MFMtUGtRZy1VWVg1empVTjJmNE42RFNhRG1FSDZtZnVXRHJlUmZSMFpfcXhZbldDaFE3LWlJNGNPa0ZOQXJpNTU2RUtXQ0IxbHY1bGFPcUc5SXl6bEdac3gtLUpuN1dh?oc=5",
         "type": "rss"
       }
     ]
