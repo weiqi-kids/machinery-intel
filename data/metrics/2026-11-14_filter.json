@@ -1,0 +1,13 @@
+{
+  "total_raw": 356,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 2,
+  "gate2_fail": 2,
+  "passed": 15,
+  "gate2_samples": [
+    "The mission continues: How veterans and military spouses are building careers at Schneider Electric",
+    "Caterpillar (CAT) Is Amongst The Notable Names Insiders Are Loading Up On After the Recent Crash - Y"
+  ]
+}

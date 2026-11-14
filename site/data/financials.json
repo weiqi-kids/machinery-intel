@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T15:48:56.267453Z",
+  "updated_at": "2026-11-14T14:40:03.207934Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -177,17 +177,17 @@
       "name": "捷太格特",
       "ticker": "6473.T",
       "currency": "JPY",
-      "ar": 332347000000,
-      "ar_prev": 349546000000,
-      "ar_qoq": "-5%",
+      "ar": 337880000000,
+      "ar_prev": 332347000000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 253328000000,
-      "inv_prev": 244409000000,
-      "inv_qoq": "+4%",
+      "inventory": 246925000000,
+      "inv_prev": 253328000000,
+      "inv_qoq": "-3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "keyence",
@@ -228,17 +228,17 @@
       "name": "牧野",
       "ticker": "6135.T",
       "currency": "JPY",
-      "ar": 63370000000,
-      "ar_prev": 60934000000,
-      "ar_qoq": "+4%",
+      "ar": 70963000000,
+      "ar_prev": 63370000000,
+      "ar_qoq": "+12%",
       "ar_period": "QoQ",
-      "inventory": 116068000000,
-      "inv_prev": 109007000000,
-      "inv_qoq": "+6%",
+      "inventory": 121803000000,
+      "inv_prev": 116068000000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "mitsubishi_electric",
@@ -296,17 +296,17 @@
       "name": "洛克威爾自動化",
       "ticker": "ROK",
       "currency": "USD",
-      "ar": 1937000000,
-      "ar_prev": 1883000000,
-      "ar_qoq": "+3%",
+      "ar": 1891000000,
+      "ar_prev": 1937000000,
+      "ar_qoq": "-2%",
       "ar_period": "QoQ",
-      "inventory": 1243000000,
-      "inv_prev": 1225000000,
-      "inv_qoq": "+1%",
+      "inventory": 1316000000,
+      "inv_prev": 1243000000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "schneider",
