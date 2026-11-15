@@ -1,5 +1,47 @@
 [
   {
+    "id": "delta-2026-11-15-001",
+    "date": "2026-11-15",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Thailand Short Interest Weekly (Nov 13th): PTT GlobalChem, KCE Electronics, Delta Electronics - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFRRNzNzTERISXN4a0VHRmN0bDNvN0VvNmtObVEwa0RMY2ZoZ19qRmx1elBOcmhJNHFsODlQeV9udGYxdXZwZXVMOU1RY2wyNlN4LVBHaVpIcC1SbEwzM3RmX0xzc2d3UVhiblpKaz",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcFRRNzNzTERISXN4a0VHRmN0bDNvN0VvNmtObVEwa0RMY2ZoZ19qRmx1elBOcmhJNHFsODlQeV9udGYxdXZwZXVMOU1RY2wyNlN4LVBHaVpIcC1SbEwzM3RmX0xzc2d3UVhiblpKazNjaERoT0RsTDk0aVBLLXJyT0s3ZVZ5aWNVQkstdnh2SS1MOVJWcDBscndpOHVRUWpsdWVRTEZ0a1owb0tQdGt6b2cxYVdPeVUtb0FYOFpaM3JMaURCY3Q2bXF5Q0VDaEpJc0xIa1FlU2RqSmFLbHc1dk5qYkdRN0Q5Z1ZN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-15-002",
+    "date": "2026-11-15",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar challenges UK excavator tariffs: pricing and supply impacts for project teams - Geomechanics.io",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT1VLUWliUGlBN0hoemdfZmRpM3pxblhFZkMyVlRfMk9sWWdvSTZnYlQ0QlFVandJQV9BMUtGc1ExZVEwSHE2cXpmQkRKMjE5bFV5U29ZbHd3NzZMSVAzQkpVcUZtUWR3M0RFdjBzWG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT1VLUWliUGlBN0hoemdfZmRpM3pxblhFZkMyVlRfMk9sWWdvSTZnYlQ0QlFVandJQV9BMUtGc1ExZVEwSHE2cXpmQkRKMjE5bFV5U29ZbHd3NzZMSVAzQkpVcUZtUWR3M0RFdjBzWGdiVjg3YjI1UDVBNDRqU3lJbG83RmgyMzZULUdneDVKSHZjMjIzVUhMWUNtR3pvMmlEVGY2VEFrWGNhQ0tJYzVsRkMtb2hlRUdCQ2FBb1gzNWVZVkFvSXpxdQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-11-14-001",
     "date": "2026-11-14",
     "companies": [
@@ -303,6 +345,26 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQVJBS0ZrM2JJVWlPYl82WFNxcWZiRkk4VXhZclFtVjdUeHlGRHowYklrXzFpRnRwelZPeG1aUVJPNlNwUHczdHo5YV8weUtIUUNVWU9VTU5FYmU0RUxBQW1vb1R5b2JrTzNsWlhicFgtMWJPbF8xWEs4aldWRXFpQ1NnOVY2ODFHRFBudGF3V2NXcURfNW5KRXZwTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-13-011",
+    "date": "2026-11-13",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Final Trades: Caterpillar, Amazon, eBay and the 10 Year Treasury - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWJLbnViOVc5OEZjcmIzYmhpZTZpZVVxVmZMRXpxaWlRRkJ4a1hYTTMtcENGNjFKUDBNN2NVdUJiY2hXOTh1OWtvMzljd3RQMkhpMEpkRllPUUhEdU5TRlIyRFRfWnBlbnZydXVOVD",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWJLbnViOVc5OEZjcmIzYmhpZTZpZVVxVmZMRXpxaWlRRkJ4a1hYTTMtcENGNjFKUDBNN2NVdUJiY2hXOTh1OWtvMzljd3RQMkhpMEpkRllPUUhEdU5TRlIyRFRfWnBlbnZydXVOVDU4S3NDdDdSeEEzdmxUSzdVQjVJWW1OUDNLNG1nTUhBMHoxUEpRcmVQTEliN1FULUFaNWMtUUNKYw?oc=5",
         "type": "rss"
       }
     ]
@@ -1356,6 +1418,26 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHVXQm5YSjNZLU9OdHJaU3E2blFWOEI2LUM1ajR0eTlOOVNxVlAtcERmRmp1c0hZYXJEZl8zVkhYLUlHV2wxUk5OZmVqN044UmROeklfV1NHRWwwZV81amJCdEZKNDFGcXdyODc0T2thTkR6a0tLSV9faVg3dWpVYlhKSk9CY29OLVZSRWl6RnJhbzFWeHNRZURXeWZYMWtwSmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-11-029",
+    "date": "2026-11-11",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CAT Stock Price and Chart — NYSE:CAT - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE12MTlwOUp6cjlobmN1d1dWRXFZc3VxWEpmbE9iQlFzdF9iczNObmdPX19jekM5RjBnUi1ZTF8tYUQ0cEs3MXZQTXpjcGl4RUI2SVFQYXQwRVk?oc=5\" target=\"_blank\">CAT Stoc",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12MTlwOUp6cjlobmN1d1dWRXFZc3VxWEpmbE9iQlFzdF9iczNObmdPX19jekM5RjBnUi1ZTF8tYUQ0cEs3MXZQTXpjcGl4RUI2SVFQYXQwRVk?oc=5",
         "type": "rss"
       }
     ]
@@ -2926,6 +3008,45 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQejZtY3VabmQ4VHhlRU9zZ1owV3F5dkpmSWEtYzFGR0dQLTVKcGtvMUloR1QyejZoSHFGdk80Q1EwU1Z6WUlyZWFIc0xvRUJfNm5KWXBFSGV1MjFyUjdXLUp4TVhXelBraEI5QVREMVBQdTFPVzE5WUZ3X19yaENmbUdSaTNWSFNuOXhabU1yMnVnd3ljejkwdkp4OWtVZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hiwin-2026-11-08-015",
+    "date": "2026-11-08",
+    "companies": [
+      "hiwin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Hiwin Technologies: Sequential profit growth in Q3 2024 offset by ongoing margin and sales pressures year-over-year - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxQSUt3QUc3dGhpaVBNQkY4bjNmR0sxS2dsZzhEbmdHOWE1UEtvYXVTaXItZUhfMnYweU01OGV0YkFmWF9DS21oNmpTTUNTTExlSjR3cWM4X1dzbTVxdEx3RVpPNGUwY2ZseE9WVDhtUV",
+    "sources": [
+      {
+        "name": "hiwin",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQSUt3QUc3dGhpaVBNQkY4bjNmR0sxS2dsZzhEbmdHOWE1UEtvYXVTaXItZUhfMnYweU01OGV0YkFmWF9DS21oNmpTTUNTTExlSjR3cWM4X1dzbTVxdEx3RVpPNGUwY2ZseE9WVDhtUV84QjAyNDdEUUNmblVYVDZwNDhDclZwNm9rSGs3Njh4TmVoVUR2UlU4RWpwWEZXeDFIOVY1NllwaUc1NHlBY0FCQnkwcmtsMnBUT0tpaG44Smw2bmZDRXVyLXBMRlJZS1NNRkhzdUVNQVJ3RDFGZGlYVVBjOHN0ZUd4NzVCQ3RxZ2hvOW5qaklwZXNGcHNlQjdpTkNueTBSUlVfemJyTUVfRW9hdUJkMHBCZERzNjQ2M3Nxam8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-08-016",
+    "date": "2026-11-08",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rechi Precision Co., Ltd. (4532.TW) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RMzZkWk9LdnRWQjBJSTBGVFhNMHJ0ekl6cW9vRzFRMXV6ZXVVRDJISjRhWUVqNW1BSHVVTldKWG90V3o1NlFpQlFvX3l2aEEwY3FaZ1RKT004cFcwYktUcTdWZTJVZw?oc=5\" targe",
+    "sources": [
+      {
+        "name": "goodway",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RMzZkWk9LdnRWQjBJSTBGVFhNMHJ0ekl6cW9vRzFRMXV6ZXVVRDJISjRhWUVqNW1BSHVVTldKWG90V3o1NlFpQlFvX3l2aEEwY3FaZ1RKT004cFcwYktUcTdWZTJVZw?oc=5",
         "type": "rss"
       }
     ]
