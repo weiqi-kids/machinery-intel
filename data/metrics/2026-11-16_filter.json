@@ -1,0 +1,16 @@
+{
+  "total_raw": 356,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 2,
+  "gate2_fail": 5,
+  "passed": 22,
+  "gate2_samples": [
+    "The mission continues: How veterans and military spouses are building careers at Schneider Electric",
+    "Caterpillar's 34% Slump Over 6 Months: Wall Street Desk Says It Sets Up 90% Gains Within a Year - 24",
+    "Caterpillar to Power New $110M Western New York Hunger-Relief Campus with 3-MW Gas-Fired Microgrid -",
+    "Caterpillar to Equip Construction Equipment With Collision Warning, Mitigation Tech in 2027 - www.ma",
+    "Caterpillar vs. Deere: CAT leads on value, DE offers recovery upside - Investing.com"
+  ]
+}

@@ -1,5 +1,372 @@
 [
   {
+    "id": "delta-2026-11-16-001",
+    "date": "2026-11-16",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics Unveils 800 VDC and 2.5 MW Liquid-Cooling Portfolio for AI at SC26 - CASRAI",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQQWJlVlpjeThXWUtnN1dUYmFkS2thbEQ4SnNzUG5GMDBUcGpSeDZhS05PZnpFTTJQTWRCc3Z2aDY0aTQyYjV2OExRM2h4SVllbHdmTlY4dVRFRG1sS0ZIM0pwTVduME9ZaWtSU3diNk",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQWJlVlpjeThXWUtnN1dUYmFkS2thbEQ4SnNzUG5GMDBUcGpSeDZhS05PZnpFTTJQTWRCc3Z2aDY0aTQyYjV2OExRM2h4SVllbHdmTlY4dVRFRG1sS0ZIM0pwTVduME9ZaWtSU3diNk1tODNrN2lVeUM2Ymx0amFsUTdCcGYzbm8tbHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-11-16-002",
+    "date": "2026-11-16",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Brings High-efficiency Power and Thermal Management Solutions for AI Data Center - Process and Control Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2FsRXVLTGFpNUwwRlJCTVhsWXA1YmxEOXQ5YVo0cWVFeEZ2YmhhRTBVN3Q1US10SVhnQ3RwV01saEVXVDRtbXE2S2NmX3RZWUNyLTIwNnF2MlJld25EZmFlVmlqWG93cE1jemFQdm",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2FsRXVLTGFpNUwwRlJCTVhsWXA1YmxEOXQ5YVo0cWVFeEZ2YmhhRTBVN3Q1US10SVhnQ3RwV01saEVXVDRtbXE2S2NmX3RZWUNyLTIwNnF2MlJld25EZmFlVmlqWG93cE1jemFQdmpvZzVyOEo3MnlKWHNLd3pYdEo3X2g0SzJnb2UxWXBGakpQQXNxSldxLXlKWHNuUy1pVk9heE9wc0FvbHpVYTY2cEVfMGY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-003",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Jensen Huang Resignation Storm: Taiwan Stocks Plunge 2,635 Points in Second-Worst Drop in History - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE82aEhqZGdQTUNmeEhoMHZQNmdRTzhDQkh4U1FaazFSaENTRTh2Wk9KMWI4MWU5ekU1TFphQkF4WXFXNk1VOGFlVU5OQU5rR0YwTDNIUU5PS0pfQ0xTUTl2LU9XWDVpbThJWjBVNkJ6Wm",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82aEhqZGdQTUNmeEhoMHZQNmdRTzhDQkh4U1FaazFSaENTRTh2Wk9KMWI4MWU5ekU1TFphQkF4WXFXNk1VOGFlVU5OQU5rR0YwTDNIUU5PS0pfQ0xTUTl2LU9XWDVpbThJWjBVNkJ6WmJxblQ0Y1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-11-16-004",
+    "date": "2026-11-16",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JIJ and Mitsubishi Electric Selected for JHPC-quantum Program to Evaluate Hybrid Computing - The Quantum Insider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNV2hqb2RleWdkOG9CUmdwMmdWUno5WUVqWlBKUHZja0gwRVZJYTdWeHpuSlUwenFiZ0I3VWpIM2VzWllRclN6SThaS2ZHRDlHeVNYd05oWGhvUlg1SGVVeHJ3NkJHQ0dZczc4d0tjRX",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV2hqb2RleWdkOG9CUmdwMmdWUno5WUVqWlBKUHZja0gwRVZJYTdWeHpuSlUwenFiZ0I3VWpIM2VzWllRclN6SThaS2ZHRDlHeVNYd05oWGhvUlg1SGVVeHJ3NkJHQ0dZczc4d0tjRXgtbkRwS1hXSDBwZDVrYjNhYUdCQ1FiVG1QZzhDLUdlQnI2UVp3WkpRa2k0OFd6aXhoOXJZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-16-005",
+    "date": "2026-11-16",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Zacks Industry Outlook Highlights Parker-Hannifin, IDEX, Crane and Applied Industrial - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlR6T3VwamR6Vl9ndzk3M0Q5dFVsMWV1b2JnUzBXbjZlclhraTczcjVJSEQweXJxSTI1T3Jna2lZaEVibHc2dldzUDB1N1I5eVRLZjNIalJvbWR0VjdWTk5DZFN1S2pHS25fSXFVZ1",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlR6T3VwamR6Vl9ndzk3M0Q5dFVsMWV1b2JnUzBXbjZlclhraTczcjVJSEQweXJxSTI1T3Jna2lZaEVibHc2dldzUDB1N1I5eVRLZjNIalJvbWR0VjdWTk5DZFN1S2pHS25fSXFVZ1J3aHA5SWppbTdFWjF6ek9NSWE4QTgxVUpOUmZjc0p4cWlzbmZPbFVnSUVfUkgwODZ1ZEhhYTMzbDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-006",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart appoints Caterpillar CEO Joe Creed to its board of directors - Fashion United",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOQU5YNmFwTmJ4VzZGNGJHYUJUVDh2SXNGQzVUV21zUC12TUlpc3BWajNoT29iUDhjWTJNNFRzaTFTRjlNTkFKUFd4UzVjZnpiSW5CNkpYbHNwVXJVR0pucjI2alVOYzZCdnFGT1psUG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQU5YNmFwTmJ4VzZGNGJHYUJUVDh2SXNGQzVUV21zUC12TUlpc3BWajNoT29iUDhjWTJNNFRzaTFTRjlNTkFKUFd4UzVjZnpiSW5CNkpYbHNwVXJVR0pucjI2alVOYzZCdnFGT1psUGZqRHVzU29nZjB1TXlsMG5YRXVzc29rRjNDcGgxUzg3ZUotM0k3bXBvQ1lRN3U5bkNhdGhNMDBOR2tyWjcxREItSUZQYzdRNzNUeEVwTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-007",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EBay, Amazon, Caterpillar and More on CNBC’s ‘Final Trades’ - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPclBKZlljLW5sWm0tMUhtMVJJNGw5c01VTU9fNS1RNkNPNzliY2c3ZWozWXg3S2ppbDhaeE1lUGJSRTVDbnBEd0ZHMUVRY3Ztdk1feVpDY2VVaDBvRXpnUjRJVG1MYjBSYmZUWkdZaF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPclBKZlljLW5sWm0tMUhtMVJJNGw5c01VTU9fNS1RNkNPNzliY2c3ZWozWXg3S2ppbDhaeE1lUGJSRTVDbnBEd0ZHMUVRY3Ztdk1feVpDY2VVaDBvRXpnUjRJVG1MYjBSYmZUWkdZaFE3V0YwN0daN05lRXpkeV94THdGNDdxeXRFUFl0SjNNQUVfeVpXLWEyNHRTQ2hRTi1GVXByZkhQS2lMenh6dlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-008",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart names Caterpillar CEO Joe Creed to its board - Mass Market Retailers",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNX2ZJMjlkUV9RZm5YYlg5R2lyT2xpTGpLU20xT09vTW4yVDZCYndrUHB2LTg1SlBLVVdFTGZVV296TEVjSDhvNlBYQzBQQllqdnI3YVplX0FMUktyT281eHRjMkhPeEp5QkdBM25kZ3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX2ZJMjlkUV9RZm5YYlg5R2lyT2xpTGpLU20xT09vTW4yVDZCYndrUHB2LTg1SlBLVVdFTGZVV296TEVjSDhvNlBYQzBQQllqdnI3YVplX0FMUktyT281eHRjMkhPeEp5QkdBM25kZ3Jzbktrc0gwTmlLSnZIaEx6SkdEZ3dSRWM5TDRIZWx3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-009",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Stock Offers a Backdoor Route to a Potential AI Recovery - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbndQdmY0Rld2RzhjdFZEM3dac3l0NHN4OXlWTlRxRzZsT3hZM0VWb2JNMWFpRVk3MmtBS2pMdnZXM1hfS2NSYUw5YjVOcUY1TEV6NTVGVVZJYTN5ZVQxaGdxX0pkRlRrd1A0MWp2cG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbndQdmY0Rld2RzhjdFZEM3dac3l0NHN4OXlWTlRxRzZsT3hZM0VWb2JNMWFpRVk3MmtBS2pMdnZXM1hfS2NSYUw5YjVOcUY1TEV6NTVGVVZJYTN5ZVQxaGdxX0pkRlRrd1A0MWp2cGF0Qi1DaDFSMXhtWE5rNGFJbHlRb05kSFpLUDFWYVdQWHhEV3JYcDVfcHhzR3BBX0IyV2ZwZmFCYUFuR1lNdk9Tbnh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-010",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Trending Stock Caterpillar Inc. (CAT) a Buy Now? - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVDF5OFhjanZXNEFXN1ViWTNMMElYc2JOUmx2WkxXSnlNRzhlRVhTeHp2TE1xVUxFOFA3YjZPOHdGWnVlVy1GYjdpdThaYUIxbXRtd1M4V0ZvOFVnd0d1bGNlU19kcnlXNUJxdFRadG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVDF5OFhjanZXNEFXN1ViWTNMMElYc2JOUmx2WkxXSnlNRzhlRVhTeHp2TE1xVUxFOFA3YjZPOHdGWnVlVy1GYjdpdThaYUIxbXRtd1M4V0ZvOFVnd0d1bGNlU19kcnlXNUJxdFRadGJxakRTdHR1ZVF2eXBGYlc1dy1ZX1pNZU9xWUtN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-011",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Gets Swept Up in a $4.2 Trillion Market Rout - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNN1J0LWloWkNoSkZRaUpQVGN3dlBRZnFrcUVhX0dwUjZ3Zk0zS3VqVFpTMnJsQUNGN2hnakRFX0tsaXBBRVNYQ2phTEhXNExkcEgtTC03WWRRRFFSUUxyY1JfVmMyOUkzR1dkUE5pcm",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN1J0LWloWkNoSkZRaUpQVGN3dlBRZnFrcUVhX0dwUjZ3Zk0zS3VqVFpTMnJsQUNGN2hnakRFX0tsaXBBRVNYQ2phTEhXNExkcEgtTC03WWRRRFFSUUxyY1JfVmMyOUkzR1dkUE5pcmVuVG1LUmtpdjUyNjg0UGRvaC11MGthTGJfVU5fNzFBal9laFBqN1AwU2RwbjNDeHl6MzNtNkQ2SEFfTVlLWm5DYXkzck9uUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-012",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "A Key Power Supplier to AI Data Centres Has Record Orders. Its Stock Is Down 44% - BeInCrypto",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1Yel9tdTk4NnJ6YTgyWGZiWDdpQUpQV0UyTkNGcGZWZ3BpYVdTYjlUYWhLRlV1NGZsVWFuZkFxUDFmeUFuaE81UU9IT1pORC1OVW5nWXkyTkk5eEMxSnc0MkVkc1cyOVJDUzJFYUdDSX",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Yel9tdTk4NnJ6YTgyWGZiWDdpQUpQV0UyTkNGcGZWZ3BpYVdTYjlUYWhLRlV1NGZsVWFuZkFxUDFmeUFuaE81UU9IT1pORC1OVW5nWXkyTkk5eEMxSnc0MkVkc1cyOVJDUzJFYUdDSXJLMV9MY29vRw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-013",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Walmart adds Caterpillar CEO Joe Creed to board of directors - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYjVjcEF6cHVybDNxMHIzN0xxYmk2VUc1X3N2bTFaZW5rS1E1SDhJQWNhQURPTzlsckZ3Vm1MSmh3X25TVkU4amV3LTV6aTVSTldJUFhZeFpMZnlLZlFpcWV1ZFhhOERQQ1Y4azNjdk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYjVjcEF6cHVybDNxMHIzN0xxYmk2VUc1X3N2bTFaZW5rS1E1SDhJQWNhQURPTzlsckZ3Vm1MSmh3X25TVkU4amV3LTV6aTVSTldJUFhZeFpMZnlLZlFpcWV1ZFhhOERQQ1Y4azNjdk01ckpIQkNuamk5ZkRtNWRVMU9UX1p5TG1SSHcwbEt4TUtLVTYxakJHYzMzZS1vUjJSWjhmdWVIY3Jhb0lBVTJsUktOcEF6UXI1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-014",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar to make collision safety tech standard on new machines - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWTFsd3NSbFpVaGswVGtkekh2UG1uanlybXJjVzJ4MVpKVW9qc3cwMXpxamt2SmMxeFFCT3d4M0NqdEJ6M1JXaU0zemJ1VnBtb0RHQV9fYnpKNHYwSTlPSm5zeV9TWjhGQ01TR3RJWk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWTFsd3NSbFpVaGswVGtkekh2UG1uanlybXJjVzJ4MVpKVW9qc3cwMXpxamt2SmMxeFFCT3d4M0NqdEJ6M1JXaU0zemJ1VnBtb0RHQV9fYnpKNHYwSTlPSm5zeV9TWjhGQ01TR3RJWkpNUjN2TzJaZ0xHUno3TFljTjZZVXZ0eVRMdGh1dWpuVExvWDREREVIaXlFbnVvcTZELWw0UVZyaG1rclFrdnh2UlpwMXFGRkhlRmpJVjhUbVFkc2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-015",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Dow's 450-Point Drop Led By Losses For Shares Of Caterpillar, NVIDIA Corp. - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQk5ibXJLTXlEaTdCRjNTZGptRElTRFBBV3YxOTY4YjRkMXBfdUdxSjhJTHEzRndOX2VjcGtsaWZnSEYzbTRnX1VxS1lmOTZOU1hDeDBfWnFhUGpla2d4elFlMFY0bDllRFpYaFhOZz",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQk5ibXJLTXlEaTdCRjNTZGptRElTRFBBV3YxOTY4YjRkMXBfdUdxSjhJTHEzRndOX2VjcGtsaWZnSEYzbTRnX1VxS1lmOTZOU1hDeDBfWnFhUGpla2d4elFlMFY0bDllRFpYaFhOZzlZY3V3SnBDRDc5cWFCeGZicjZqVUx2eVRrbGdia0VyUUo3Qk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-016",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Makes Advanced Safety Technologies Standard on Construction Equipment - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZGFaZVl2emlRckNkTi1uNTdIbGdPakdkUUJfeHNERi1kMmlHU2VyQVRMVzdsY3E4QjJqZmRDRjdDTHdRLVhhWXFLcTAzcHhYZUNLeGYyZUluTm16Z3VhZnNJWVVrZDlvYjM5ZHAtcT",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZGFaZVl2emlRckNkTi1uNTdIbGdPakdkUUJfeHNERi1kMmlHU2VyQVRMVzdsY3E4QjJqZmRDRjdDTHdRLVhhWXFLcTAzcHhYZUNLeGYyZUluTm16Z3VhZnNJWVVrZDlvYjM5ZHAtcTZMdno5LTNFalNvcW9SR0VKZVZJaVVTNlZESmRRTnRHZDVySkpscDd5RVV6ZFBaTk5QaEduSE9IR3pocjh6YlNhdUJrMVBDZWJOejgyOGt5VFF3N05KOHRBZ0lFZ3hPX3ZIOUl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-017",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar to make collision safety tech standard in 2027 - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnJqcDViaVdRX29zODZGUWdvaXlyR1prY1BpQ3F2RFZIMTI2ZTRYckdKNk5IMjhtRW40M0xwLTFyNEE5Z3JjWEdSUGtaY0pzMnpzWms2amxrR2hfVTk0LS14aHM4X3QzZkJlMW9HWE",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnJqcDViaVdRX29zODZGUWdvaXlyR1prY1BpQ3F2RFZIMTI2ZTRYckdKNk5IMjhtRW40M0xwLTFyNEE5Z3JjWEdSUGtaY0pzMnpzWms2amxrR2hfVTk0LS14aHM4X3QzZkJlMW9HWENVWjJ2am1xVUJCVmZHREU2d2JOR2RNczRweEhReVhBbWZNRFlXelJEMWdfYlowUFNncm5lRzBUOHZOajV1WFA4Tl94dWFfUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-16-018",
+    "date": "2026-11-16",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Walmart Appoints Caterpillar CEO Joe Creed to Board - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPNllHaWo0LTZPQlhFYUp1c2I1WkY4VE45NmRwNzF4ZV9QMmJEQnRKWXdZOXU1d3VidlJ2VDNHNVg5Y3huSklTdjN2Y0tTNEg2TWV6N3EyUnYzYlgzNlhDTEp3Q1BWZk9oeTBDOU1aeF",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNllHaWo0LTZPQlhFYUp1c2I1WkY4VE45NmRwNzF4ZV9QMmJEQnRKWXdZOXU1d3VidlJ2VDNHNVg5Y3huSklTdjN2Y0tTNEg2TWV6N3EyUnYzYlgzNlhDTEp3Q1BWZk9oeTBDOU1aeFJrTEFkR2dHYUkyR2ZKaTBEbnZnb0NPZjhjaVR0MWowcV9BaXYtT3JXNVpmVjlRNWliTzhBUy1iTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-11-15-001",
     "date": "2026-11-15",
     "companies": [
@@ -37,6 +404,67 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT1VLUWliUGlBN0hoemdfZmRpM3pxblhFZkMyVlRfMk9sWWdvSTZnYlQ0QlFVandJQV9BMUtGc1ExZVEwSHE2cXpmQkRKMjE5bFV5U29ZbHd3NzZMSVAzQkpVcUZtUWR3M0RFdjBzWGdiVjg3YjI1UDVBNDRqU3lJbG83RmgyMzZULUdneDVKSHZjMjIzVUhMWUNtR3pvMmlEVGY2VEFrWGNhQ0tJYzVsRkMtb2hlRUdCQ2FBb1gzNWVZVkFvSXpxdQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-11-15-003",
+    "date": "2026-11-15",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta shifts to higher-value manufacturing - Bangkok Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQNHhPbmJSMUVnTlFsMXhYaHNoRHJCVXp6MjFJS2xJcXREeTE0Q3hmZzR1dnZVNUlOdEdtcUhCWm5YbXNpRXI0d2JsZy0yb0NQV3JGa1BSRzlEMlBjWk5zajBDdVJqS2d4SmdTYnFSU1",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNHhPbmJSMUVnTlFsMXhYaHNoRHJCVXp6MjFJS2xJcXREeTE0Q3hmZzR1dnZVNUlOdEdtcUhCWm5YbXNpRXI0d2JsZy0yb0NQV3JGa1BSRzlEMlBjWk5zajBDdVJqS2d4SmdTYnFSU1REX2w0Tno5QWRBM2VEV0Nfalh0SFZlOXY2aVhXX29hUjU4Qjc2VjcxNWJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-15-004",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "I've owned this stock for a decade. AI slowdown fears gave me an opportunity to buy more - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9KNlBEQk50RjhrMmswTUltREEzSlk3d0VKdjJiM0REUndNejB3dTI5UW1jTU5wUXBDUXlzWFZucU9KTUU3MThXaW9fNmVDa3UxeXMyNWk0ZDN3TE1pLVJKaFNBc0dRcVR0cU5tcjNQTk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KNlBEQk50RjhrMmswTUltREEzSlk3d0VKdjJiM0REUndNejB3dTI5UW1jTU5wUXBDUXlzWFZucU9KTUU3MThXaW9fNmVDa3UxeXMyNWk0ZDN3TE1pLVJKaFNBc0dRcVR0cU5tcjNQTkI1ckpP?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-15-005",
+    "date": "2026-11-15",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Caterpillar seen as buy on AI infrastructure exposure after share decline - Traders Union",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOUUJzdlh0MTViVlkzalByU3FPZlJDYS1nSUR5RzFjeTUwOEdfWGpyX2Q4Z0VJUlJHbE9DXzBIekNxaFdtZENtLWE4dkpxNHlxVFFCOTA1Ulp0TjlVNXBqMmtBeWJJWjFZamZFNy1ReD",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUUJzdlh0MTViVlkzalByU3FPZlJDYS1nSUR5RzFjeTUwOEdfWGpyX2Q4Z0VJUlJHbE9DXzBIekNxaFdtZENtLWE4dkpxNHlxVFFCOTA1Ulp0TjlVNXBqMmtBeWJJWjFZamZFNy1ReDJmYVdLS0JkWmZWbVREVmNpUmtOR09WUDdYNmF2Mm1RNFVEcEJFd2c?oc=5",
         "type": "rss"
       }
     ]
@@ -853,6 +1281,27 @@
       {
         "name": "delta",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kMU5TYUNmT2NLQXZtN3Bfcnk4dXdpbkpqeUVLTlFCNWN3b25nQWRBMFpkaDNLQlVRLS1YdE5oZ096aU83Njc5d2dJRkVmY2Rfa1YySzRhaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "airtac-2026-11-12-025",
+    "date": "2026-11-12",
+    "companies": [
+      "airtac"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Airtac International Group Says Jan-Sept Net Profit T$8.83 Biln - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOOHdBVXNjRFRQMGR1bkpGcG9BLVd3QmpCVmFSYmQwQzRlazFFbDI2bXV2ajEwVDlJeVozRTh5SjVmaE1MYTZ5QTEzSTVBRElWVUpZcWsxOEtXSkFfZjlZSzRiU3VyZjZabVNWeTFLSE",
+    "sources": [
+      {
+        "name": "airtac",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOHdBVXNjRFRQMGR1bkpGcG9BLVd3QmpCVmFSYmQwQzRlazFFbDI2bXV2ajEwVDlJeVozRTh5SjVmaE1MYTZ5QTEzSTVBRElWVUpZcWsxOEtXSkFfZjlZSzRiU3VyZjZabVNWeTFLSENzd2Q3Ty1zbHJJTjEybjk0QTRUcERqU3hxYS0xdF9TS3haWVM5b18tRTMyTlItdXc4Y2h4REFyWTR2emt6SjNLWWNnSGtlRjlRZGJKTWhHaVdVcFBjVGJCQWJfdjBMZw?oc=5",
         "type": "rss"
       }
     ]

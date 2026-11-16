@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-16",
+  "date_range": {
+    "start": "2026-11-10",
+    "end": "2026-11-16"
+  },
+  "generated_at": "2026-11-16T17:42:12.464784Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "parker_hannifin-2026-11-12-010",
+      "date": "2026-11-12",
+      "title": "Parker raises outlook after record first-quarter results - European Rubber Journal",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 44,
+      "last_week": 66,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.03
+    },
+    "industry_general": {
+      "this_week": 61,
+      "last_week": 62,
+      "week_over_week_change": "-2%",
+      "sentiment_this_week": 0.02
+    },
+    "automation_capex": {
+      "this_week": 21,
+      "last_week": 26,
+      "week_over_week_change": "-19%",
+      "sentiment_this_week": -0.05
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 7,
+      "week_over_week_change": "-29%",
+      "sentiment_this_week": 0.2
+    },
+    "machine_tool_orders": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.75
+    }
+  },
+  "company_7d_summary": {
+    "hiwin": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "delta": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "abb": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "mitsubishi_electric": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "itw": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "parker_hannifin": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 2
+    },
+    "caterpillar": {
+      "event_count": 28,
+      "sentiment_avg": 0.01,
+      "rank": 1
+    },
+    "schneider": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "dmg_mori": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 128,
+        "last": 162,
+        "change_pct": -21.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-10",
+      "event_count": 35,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-11-11",
+      "event_count": 29,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-12",
+      "event_count": 25,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-11-13",
+      "event_count": 11,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-14",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-15",
+      "event_count": 5,
+      "sentiment_avg": -0.3
+    },
+    {
+      "date": "2026-11-16",
+      "event_count": 18,
+      "sentiment_avg": -0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-10 ~ 2026-11-16）共 128 則事件，重點為「Parker raises outlook after record first-quarte...」。產業通用、財報、自動化資本支出為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Hiwin Technologies",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Delta Electronics",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Mitsubishi Electric",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

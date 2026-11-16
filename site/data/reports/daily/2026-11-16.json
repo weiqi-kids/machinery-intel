@@ -1,0 +1,251 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T17:42:12.369024Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-11-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics Unveils 800 VDC and 2.5 MW Liquid-Cooling Portfolio for AI at SC26 - CASRAI",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQWJlVlpjeThXWUtnN1dUYmFkS2thbEQ4SnNzUG5GMDBUcGpSeDZhS05PZnpFTTJQTWRCc3Z2aDY0aTQyYjV2OExRM2h4SVllbHdmTlY4dVRFRG1sS0ZIM0pwTVduME9ZaWtSU3diNk1tODNrN2lVeUM2Ymx0amFsUTdCcGYzbm8tbHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-11-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Brings High-efficiency Power and Thermal Management Solutions for AI Data Center - Process and Control Today",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2FsRXVLTGFpNUwwRlJCTVhsWXA1YmxEOXQ5YVo0cWVFeEZ2YmhhRTBVN3Q1US10SVhnQ3RwV01saEVXVDRtbXE2S2NmX3RZWUNyLTIwNnF2MlJld25EZmFlVmlqWG93cE1jemFQdmpvZzVyOEo3MnlKWHNLd3pYdEo3X2g0SzJnb2UxWXBGakpQQXNxSldxLXlKWHNuUy1pVk9heE9wc0FvbHpVYTY2cEVfMGY?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "mitsubishi_electric-2026-11-16-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "JIJ and Mitsubishi Electric Selected for JHPC-quantum Program to Evaluate Hybrid Computing - The Quantum Insider",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV2hqb2RleWdkOG9CUmdwMmdWUno5WUVqWlBKUHZja0gwRVZJYTdWeHpuSlUwenFiZ0I3VWpIM2VzWllRclN6SThaS2ZHRDlHeVNYd05oWGhvUlg1SGVVeHJ3NkJHQ0dZczc4d0tjRXgtbkRwS1hXSDBwZDVrYjNhYUdCQ1FiVG1QZzhDLUdlQnI2UVp3WkpRa2k0OFd6aXhoOXJZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "caterpillar-2026-11-16-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Walmart appoints Caterpillar CEO Joe Creed to its board of directors - Fashion United",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQU5YNmFwTmJ4VzZGNGJHYUJUVDh2SXNGQzVUV21zUC12TUlpc3BWajNoT29iUDhjWTJNNFRzaTFTRjlNTkFKUFd4UzVjZnpiSW5CNkpYbHNwVXJVR0pucjI2alVOYzZCdnFGT1psUGZqRHVzU29nZjB1TXlsMG5YRXVzc29rRjNDcGgxUzg3ZUotM0k3bXBvQ1lRN3U5bkNhdGhNMDBOR2tyWjcxREItSUZQYzdRNzNUeEVwTQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "caterpillar-2026-11-16-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "EBay, Amazon, Caterpillar and More on CNBC’s ‘Final Trades’ - Benzinga",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPclBKZlljLW5sWm0tMUhtMVJJNGw5c01VTU9fNS1RNkNPNzliY2c3ZWozWXg3S2ppbDhaeE1lUGJSRTVDbnBEd0ZHMUVRY3Ztdk1feVpDY2VVaDBvRXpnUjRJVG1MYjBSYmZUWkdZaFE3V0YwN0daN05lRXpkeV94THdGNDdxeXRFUFl0SjNNQUVfeVpXLWEyNHRTQ2hRTi1GVXByZkhQS2lMenh6dlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 12
+      },
+      {
+        "id": "delta",
+        "count": 2
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "automation_capex",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 356,
+    "dup_title": 177,
+    "too_old": 150,
+    "gate1_blocked": 2,
+    "gate2_blocked": 5,
+    "passed": 22,
+    "pass_rate": "12.3%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "The mission continues: How veterans and military spouses are building careers at Schneider Electric",
+      "Caterpillar's 34% Slump Over 6 Months: Wall Street Desk Says It Sets Up 90% Gains Within a Year - 24",
+      "Caterpillar to Power New $110M Western New York Hunger-Relief Campus with 3-MW Gas-Fired Microgrid -",
+      "Caterpillar to Equip Construction Equipment With Collision Warning, Mitigation Tech in 2027 - www.ma",
+      "Caterpillar vs. Deere: CAT leads on value, DE offers recovery upside - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為CAT、Delta Electronics、Mitsubishi Electric相關動態：「Delta Electronics Unveils 800 VDC and 2.5 MW Liquid-Cooli...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Delta Electronics Unveils 800 VDC and 2.5 MW Liquid-Cooling Portfolio for AI ...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Delta Brings High-efficiency Power and Thermal Management Solutions for AI Da...（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
