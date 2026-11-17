@@ -1,0 +1,16 @@
+{
+  "total_raw": 366,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 4,
+  "gate2_fail": 5,
+  "passed": 31,
+  "gate2_samples": [
+    "Delta Electronics Unit Invests MYR491 Million in Malaysia Unit - marketscreener.com",
+    "The mission continues: How veterans and military spouses are building careers at Schneider Electric",
+    "Caterpillar Makes Advanced Safety Technologies Standard on Construction Equipment - Morningstar",
+    "What Has Changed In Caterpillar’s Story? - Trefis",
+    "Caterpillar to standardize collision safety tech - Pit & Quarry"
+  ]
+}
