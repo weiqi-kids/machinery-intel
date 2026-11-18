@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T16:50:58.539373Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-11-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Taiwan's Delta Electronics to raises Malaysian unit's capital by $120M - TNGlobal",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYnI2NW51cy04R0RRcno2eUE0d0JIa3hUWHE2RDdzcDMxRUt0VUhyUWxuZXU1Q1EyUVFSc3F4ZnpwMjQxN3pMNlJEMFk2bTVsQUVwM2l0ajRNekE3bUNLSDk4T2VIc1RkVHRESEJTdi0xdkI3Y2p6cVNBRVBTdkdmU3NaU0hqZEhVTDFDLWhqR0syQ3pTN0c4SGVrNjI0aEhJdEk4cTN3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "mitsubishi_electric-2026-11-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PLD Space wins 1st commercial launch deal with Mitsubishi Electric (EUAD:BATS) - Seeking Alpha",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMDNhNVEtbzQ2bVFqWGFYSmRqNUw1ZEs1TGN1VXRoaTlYdGZCOUNtUko0TDBGR0QxNXNqT0pxVG9wWEQxalk2SnhfeHdRa2szaW5ld2Vaa0RPYXJFVm9RMW1CVTBaVlZCbWVMS2RVUkFiblZpX1oxQ21vMFVHU1lRcnB0d3dwTW0zV04zaF9kdGxoSjNzNXE3Rko2eWc4c1UtX3dGak9nWHZ3aE5XejNna05rVzlYTjhzQllESzY0X1g?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-18-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PLD Space Investor Mitsubishi Buys Ride - Aviation Week",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHZranR5aGRNX1NCLVNWSm1rd2tyR1FLWmFfYWV6VHBJQkZEaGJPSElkalpZTHQ3T0pINFZRSjVzRXIxRUxSRzVDR0Vfa1BLT1cwaUg3b3U4YVBsWGM3bFI1T1R1M21rNDhZaTFHa0ZIY1FUYVB6WWV3bktRdld2RDZQaHhyWU5Ob2FHT3d1dHdTdjdvaXMyVWRKOTh0dw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "mitsubishi_electric-2026-11-18-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "PLD Space signs first commercial launch contract with Mitsubishi Electric - Mezha.net",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aX0F3bG5uTFpGcTlhbFBqdlpyeXFVUEFCcVpKbHJvQ1doOWtxZUNLSVlqN3NDd3FfM2xUTE5ZRkRaWDBWVWMyU1pEaUxicjF4UjBYY0t6c0xRMnpuYTBCdkFDZjFxRUJKaWlMaVBCV3kyMGV1d0FCbFRleXJpeUU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "parker_hannifin-2026-11-18-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Parker-Hannifin Corporation $PH Shares Acquired by Voya Investment Management LLC - MarketBeat",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYVc2UVNGQzNoNERMYU92VGpGS0FXd3NpU2NKVE9XOTQtVXhqZElIVE5oVTN4UnhHQTAwQVdRYmgzQXY4M21IN0ZtN0tmeHUwNGlaVWZvWWMtTG9UTGIxalBwd1kxWGZTVmx0cFJwYzgweGg2S2o3VmplT1pXTG41UThuazRmN3dwSnQzVlM3VVlPYjhQcnQzVVF0Zmxab0E1SXR5MlY5S1Fmc2ZvREVjQm5JbFlJTWJfSXNncjdlQ2Uwc2stbHRSdEotWnc4Z2hnUjZRaFdDUXM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "mitsubishi_electric",
+        "count": 4
+      },
+      {
+        "id": "caterpillar",
+        "count": 4
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "delta",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "automation_capex",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 364,
+    "dup_title": 189,
+    "too_old": 146,
+    "gate1_blocked": 2,
+    "gate2_blocked": 5,
+    "passed": 22,
+    "pass_rate": "12.6%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "Delta Electronics Unit Invests MYR491 Million in Malaysia Unit - marketscreener.com",
+      "Liquid cooling and approval readiness for a sustainable data centre in India",
+      "Caterpillar’s AI Boom Went Bust. Why Smaller Equipment Could Spark a Comeback. - Barron's",
+      "What Has Changed In Caterpillar’s Story? - Trefis",
+      "$100 Invested In Caterpillar 10 Years Ago Would Be Worth This Much Today - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為Mitsubishi Electric、CAT、Parker相關動態：「Taiwan's Delta Electronics to raises Malaysian unit's cap...」。主要關注主題為財報、產業通用、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Taiwan's Delta Electronics to raises Malaysian unit's capital by $120M - TNGl...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "PLD Space wins 1st commercial launch deal with Mitsubishi Electric (EUAD:BATS...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

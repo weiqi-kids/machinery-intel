@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T17:14:23.962346Z",
+  "updated_at": "2026-11-18T16:50:53.839780Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -364,17 +364,17 @@
       "name": "東台",
       "ticker": "4526.TW",
       "currency": "TWD",
-      "ar": 1960522000,
-      "ar_prev": 1650706000,
-      "ar_qoq": "+19%",
+      "ar": 2110433000,
+      "ar_prev": 1960522000,
+      "ar_qoq": "+8%",
       "ar_period": "QoQ",
-      "inventory": 4324331000,
-      "inv_prev": 4257391000,
-      "inv_qoq": "+2%",
+      "inventory": 4608745000,
+      "inv_prev": 4324331000,
+      "inv_qoq": "+7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     }
   ]
 }
