@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-19",
+  "total_events": 20,
+  "by_company": {
+    "delta": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "mitsubishi_electric": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "parker_hannifin": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "caterpillar": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    }
+  },
+  "by_topic": {
+    "automation_capex": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "earnings": {
+      "count": 13,
+      "sentiment_avg": 0.12
+    },
+    "industry_general": {
+      "count": 18,
+      "sentiment_avg": 0.11
+    },
+    "cnc_technology": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 365,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 3,
+  "gate2_fail": 6,
+  "passed": 35,
+  "gate2_samples": [
+    "Deploying enterprise AI: How Schneider Electric and AMD are helping turn AI ambition into operationa",
+    "Liquid cooling and approval readiness for a sustainable data centre in India",
+    "What Has Changed In Caterpillar’s Story? - Trefis",
+    "Caterpillar's 34% Slump Over 6 Months: Wall Street Desk Says It Sets Up 90% Gains Within a Year - 24",
+    "Caterpillar’s AI Boom Went Bust. Why Smaller Equipment Could Spark a Comeback. - Barron's"
+  ]
+}
