@@ -1,0 +1,12 @@
+{
+  "total_raw": 239,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 2,
+  "gate2_fail": 1,
+  "passed": 11,
+  "gate2_samples": [
+    "Deploying enterprise AI: How Schneider Electric and AMD are helping turn AI ambition into operationa"
+  ]
+}

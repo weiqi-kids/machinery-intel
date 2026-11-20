@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T16:57:58.134134Z",
+  "updated_at": "2026-11-20T16:31:45.217773Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -41,17 +41,17 @@
       "name": "天田",
       "ticker": "6113.T",
       "currency": "JPY",
-      "ar": 136281000000,
-      "ar_prev": 158052000000,
-      "ar_qoq": "-14%",
+      "ar": 148158000000,
+      "ar_prev": 136281000000,
+      "ar_qoq": "+9%",
       "ar_period": "QoQ",
-      "inventory": 171478000000,
-      "inv_prev": 157746000000,
-      "inv_qoq": "+9%",
+      "inventory": 166927000000,
+      "inv_prev": 171478000000,
+      "inv_qoq": "-3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "caterpillar",
@@ -92,17 +92,17 @@
       "name": "德馬吉森精機",
       "ticker": "6141.T",
       "currency": "JPY",
-      "ar": 76830000000,
-      "ar_prev": 80729000000,
-      "ar_qoq": "-5%",
+      "ar": 80835000000,
+      "ar_prev": 76830000000,
+      "ar_qoq": "+5%",
       "ar_period": "QoQ",
-      "inventory": 216781000000,
-      "inv_prev": 201821000000,
-      "inv_qoq": "+7%",
+      "inventory": 220055000000,
+      "inv_prev": 216781000000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "fanuc",
