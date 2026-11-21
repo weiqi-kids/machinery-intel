@@ -1,0 +1,13 @@
+{
+  "total_raw": 370,
+  "dup_title": 192,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 3,
+  "gate2_fail": 2,
+  "passed": 20,
+  "gate2_samples": [
+    "Deploying enterprise AI: How Schneider Electric and AMD are helping turn AI ambition into operationa",
+    "What Has Changed In Caterpillar’s Story? - Trefis"
+  ]
+}

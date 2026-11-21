@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-21",
+  "date_range": {
+    "start": "2026-11-15",
+    "end": "2026-11-21"
+  },
+  "generated_at": "2026-11-21T15:49:01.271932Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "caterpillar-2026-11-15-005",
+      "date": "2026-11-15",
+      "title": "Caterpillar seen as buy on AI infrastructure exposure after share decline - Traders Union",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 51,
+      "last_week": 46,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.01
+    },
+    "industry_general": {
+      "this_week": 65,
+      "last_week": 63,
+      "week_over_week_change": "+3%",
+      "sentiment_this_week": -0.02
+    },
+    "automation_capex": {
+      "this_week": 26,
+      "last_week": 23,
+      "week_over_week_change": "+13%",
+      "sentiment_this_week": -0.06
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "cnc_technology": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "reshoring_supply_chain": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "delta": {
+      "event_count": 16,
+      "sentiment_avg": -0.09,
+      "rank": 3
+    },
+    "caterpillar": {
+      "event_count": 33,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "mitsubishi_electric": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "parker_hannifin": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 139,
+        "last": 152,
+        "change_pct": -8.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-15",
+      "event_count": 5,
+      "sentiment_avg": -0.3
+    },
+    {
+      "date": "2026-11-16",
+      "event_count": 34,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-11-17",
+      "event_count": 24,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-18",
+      "event_count": 28,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-19",
+      "event_count": 27,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-11-20",
+      "event_count": 14,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-11-21",
+      "event_count": 7,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-15 ~ 2026-11-21）共 139 則事件，重點為「Caterpillar seen as buy on AI infrastructure ex...」。產業通用、財報、自動化資本支出為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Delta Electronics",
+        "reason": "本週出現 16 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "CAT",
+        "reason": "本週出現 33 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Mitsubishi Electric",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
