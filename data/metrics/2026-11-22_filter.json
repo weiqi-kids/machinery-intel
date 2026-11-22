@@ -1,0 +1,16 @@
+{
+  "total_raw": 371,
+  "dup_title": 194,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 2,
+  "gate2_fail": 5,
+  "passed": 9,
+  "gate2_samples": [
+    "Deploying enterprise AI: How Schneider Electric and AMD are helping turn AI ambition into operationa",
+    "A wasp left about 80 eggs inside a caterpillar in a few seconds. Then the larvae chewed their way ou",
+    "Caterpillar Sinks 11% in a Week to a New 52-Week Low. Is the Selling Overdone? - TIKR.com",
+    "What Has Changed In Caterpillar’s Story? - Trefis",
+    "Caterpillar’s AI Boom Went Bust. Why Smaller Equipment Could Spark a Comeback. - Barron's"
+  ]
+}

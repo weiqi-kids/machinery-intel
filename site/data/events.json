@@ -1,5 +1,46 @@
 [
   {
+    "id": "delta-2026-11-22-001",
+    "date": "2026-11-22",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TWSE Foreign Holding Weekly (Nov 20th): TSMC, MediaTek, Delta Electronics, Nan Ya Plastics - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPUVBZMG54cllMM3FsUDVibTlVb0c0ZTRTXzU2eGl5QnRNOXNvOGRXR1pLcHhfZmRmclpSd3ltZlRPTS1VcVlmYS0wZERjNHJ4aVNBSUZKYXhaSlBEWjc0WGdqNjVkSDhodTZnNzJBSl",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUVBZMG54cllMM3FsUDVibTlVb0c0ZTRTXzU2eGl5QnRNOXNvOGRXR1pLcHhfZmRmclpSd3ltZlRPTS1VcVlmYS0wZERjNHJ4aVNBSUZKYXhaSlBEWjc0WGdqNjVkSDhodTZnNzJBSlNjZXFqUm5Pemt6U0xFaklhRDM5c1VPczY0YmxCWXYzVXhJaHFWdi1ub1A2RjN4d1hrdHFfQThJYmhscEVKRW5MM1lmOUljRE9zdGJYSA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-22-002",
+    "date": "2026-11-22",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A venomous caterpillar can lurk on Texas trees. Here’s what to know - MySA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOZU9sY0hXSXltZlJxZk14UXlHakVwTzFDQ2hCaldlbWhPQW9EQjdzd1NMQWFvMmh4RDBhbVB5UWJxbndicURIeWNvbU1EZnpxcEcyT1prbjZWZENjM2ptQ0toWjl4LUt0MXB2N3dqZ3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZU9sY0hXSXltZlJxZk14UXlHakVwTzFDQ2hCaldlbWhPQW9EQjdzd1NMQWFvMmh4RDBhbVB5UWJxbndicURIeWNvbU1EZnpxcEcyT1prbjZWZENjM2ptQ0toWjl4LUt0MXB2N3dqZ3cxejVONzlJc0dNd3JOekFwOTM5aEloX3RqWjNPSkZNdEtlc19ybnIyWDRZck0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "parker_hannifin-2026-11-21-001",
     "date": "2026-11-21",
     "companies": [
@@ -134,6 +175,47 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQTJoc1p5MGNtLW1Da29lLXB2VWR3MkM3dXFSVXZiNnBMYU1pVlVuTTZaUVNZSUl3b1JDNG1PaTZhWk9Pbmc4TWlhRXFtakl6blc5Y3BfbS1pbWFwVS1maVZlV09uN0pPZ3JIQk8xZXRTTUhRcVloN1pERm9kSUlBelRpZFc2NUlfRmZMb0NxNUdrZy1VcTVRQWFxVDJINDJWMkpjZEhiakxvYkZSTU90TENoN21obmREeTNzMHdZN25TdHJ5c056bEJqNEpSbG15THBiNm5aQ1pSeXo3OEQ3ZVJZTlZhYXlH?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-11-21-008",
+    "date": "2026-11-21",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "RTX, 3M and Illinois Tool Works Just Fell. Their Dividend Stories Are Still Growing - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYWlCT01zMzgwcDlRLVB0UnloaFNDY2ZrUGxpc2hMbXF2VVJVYkxaWXpCMUlXY0dMTkY4aUJudUhtQWdlNi1PNWRUd3EwYUJ2VV9SMHNmRTJrTTItVTVRNm9RN3JJU0F6U1Y4U09TRn",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYWlCT01zMzgwcDlRLVB0UnloaFNDY2ZrUGxpc2hMbXF2VVJVYkxaWXpCMUlXY0dMTkY4aUJudUhtQWdlNi1PNWRUd3EwYUJ2VV9SMHNmRTJrTTItVTVRNm9RN3JJU0F6U1Y4U09TRnJtMVl4YWVNUUhRN3VmOE9nNXFlUHJDOFNEYnRtX281OGFKeHh3MU5kQnd3OVh4SFlYYjZsaHFJRUhBdlRpU2ZlWHJyMVRHdnA3Q1lQdkVyVnVSM00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-21-009",
+    "date": "2026-11-21",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "From Caterpillar to Butterfly: Sara Farrar’s 'Only God Can Give You Wings' Children’s Book Series - EIN Presswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYkR3cGhWWGk1RGRMYkRISVRGbW0wcGFkbmZtRnF2VERHcUt0YW5VZmtmTTlON0RORE9ISmwxQ2tMZUJCRUhTZE40T0lDTGpOM01ySTloR2NvcWk4UU1xWHc5a3A5Q3ZIQy12bFgyUT",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYkR3cGhWWGk1RGRMYkRISVRGbW0wcGFkbmZtRnF2VERHcUt0YW5VZmtmTTlON0RORE9ISmwxQ2tMZUJCRUhTZE40T0lDTGpOM01ySTloR2NvcWk4UU1xWHc5a3A5Q3ZIQy12bFgyUTZGUi1XbHNZeklZdndkc3hISy1yblUwemswaXRwX2V0LTJEcjFYLUJyWURQZnByYW5GTHc0OGN1R3VNZU15RkJMcHVFandXMVdONjAyYVVPWlVLTnJzQXRZcXUtSW9ScDBmaGgxZXdCVGg?oc=5",
         "type": "rss"
       }
     ]
@@ -418,6 +500,67 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSzFVenNHb0Q5dEgwYU43by1GSXFCM19ESEh0VGx5dnFCb1hhamRxcmtOMWpKdkNwU05yNWsyVzZIVlVRVVA5clBmWWtjVWtVYkpMTTMzZGpBVkh2OEFfb1ZOWk1GbXNCWElJc1p5VnJsdEFPd3NuMmZZd2hmaTZqcmJ1UUlEamJ0VUJvbEE5dFFfR3ZHU1NTb3p6T2RLandza0ItdWVEbzZ1R0VjZHhBRDFwWlhTTlUwUWk2bV91WE14Q1dlYVkwU21DeFNyQjFVSWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-11-20-015",
+    "date": "2026-11-20",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Better Dividend Stock: UPS vs. Illinois Tool Works - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUJNU1Z2eDR0LS1Od01DWWpkRU1nelRNTUx0UURVRDJXLVpWX19HSm41ejBiOUNsYlRYZVFGQXFvQWxPNUlEZTNZampVMl84SDcwaWZYOW40RnpBVzlTNl8xYlphTWsxT1VkbkZKMT",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUJNU1Z2eDR0LS1Od01DWWpkRU1nelRNTUx0UURVRDJXLVpWX19HSm41ejBiOUNsYlRYZVFGQXFvQWxPNUlEZTNZampVMl84SDcwaWZYOW40RnpBVzlTNl8xYlphTWsxT1VkbkZKMTNYblNPWTZLZG1GUHVjMWNTM0hHUThiWGpvajNXNWxSbzY0MWxBMGktNQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-20-016",
+    "date": "2026-11-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar's 35% 3-Month Downturn: This Sell-Side Firm Predicts 90% Returns From Here With Another Close Behind - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUFRvOXhUU0hwYWpwMUNJUkRnM1ZscUpEb1FWT05fT0I1SlJNb1BIRkpDR0lqOS1jRUJvM2xNbVllZHB6NUdvbEFmT1FKYWUwUUItZUJJQm9SbTZHNGRLTmVYYzBVR2JJSjRESVoxM1",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUFRvOXhUU0hwYWpwMUNJUkRnM1ZscUpEb1FWT05fT0I1SlJNb1BIRkpDR0lqOS1jRUJvM2xNbVllZHB6NUdvbEFmT1FKYWUwUUItZUJJQm9SbTZHNGRLTmVYYzBVR2JJSjRESVoxM1R6ZzNaMlFseUJmQUJraTc0M1VBOFcyLXkxdFE2NEF1SmRHLVZQNnZZcWRQZHZUX0ZnYUZXRDRVMHFORENhZThyd3NBNE4xOVE5TDFTZlZmb1E3Vzd5Q2owWUFBU3JKOFlUYkY1c3J3SVI5YU5BNnJmWHROcGVpbDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-20-017",
+    "date": "2026-11-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Caterpillar Stock Plunges 50% From June Peak to 52-Week Low - EBC Financial Group",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE52ajdnUXV0LUp0NzctQ2tNWWFkY0phUTlvSUlRdElWUTZOS0hySl94MEs3US1NZTB0WWxTLXkybnRadkZjcU04T2RIYldKUDVYSXBvWWlfN08tQVk1QldRX0xMMzYwdHQzRG52SzhPbk",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52ajdnUXV0LUp0NzctQ2tNWWFkY0phUTlvSUlRdElWUTZOS0hySl94MEs3US1NZTB0WWxTLXkybnRadkZjcU04T2RIYldKUDVYSXBvWWlfN08tQVk1QldRX0xMMzYwdHQzRG52SzhPbklzNldtdllEVFV6NA?oc=5",
         "type": "rss"
       }
     ]
@@ -967,6 +1110,47 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmhGUFRKME5vZ0FqLWlMLUFEcjdaNUtlS0pnS2JtWEdxZ2hCM2Z5MnpMS1NjQjZ2Rnk5UjE1REFMYWFRTkV4WnVpcmk3V3VxdnUzbFpQMGFyeHlhbnRmMFYtcUUwTWZlMXIzVWFKSW9zY1luYWVpMTZVb1FTOW41WHRUSmZLenRZMEpGOXNyTEJQcVAyREZtVENJVGFWX3ExS1hxc1ZwX0l4Tmhqc29tYkRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-19-028",
+    "date": "2026-11-19",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar CEO Joe Creed joins Walmart board of directors - Peoria Journal Star",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmpiYV96cWt0dk1KQW8tU0txckJPX2txZWNfR25UYVRRTTB2OTRBaFNzMTJxUmo1M2RwSy05b0dVSU5fYnJsTEpqNTBkMlBmYWtpVU95Y3JFcnB0dWphYzZoeWVpaUxyWndqRWs4Q1",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMmpiYV96cWt0dk1KQW8tU0txckJPX2txZWNfR25UYVRRTTB2OTRBaFNzMTJxUmo1M2RwSy05b0dVSU5fYnJsTEpqNTBkMlBmYWtpVU95Y3JFcnB0dWphYzZoeWVpaUxyWndqRWs4Q1AybkxfcTlzYVNrcFVLUWFUbGtTV1lJdGdrZF9odDJXWWVqLUhIQ0lPT2VxMmpIZ3p4b1AzNjRET1d1dDd1ZWNaX1c5NjhyS1o0aWNzOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-19-029",
+    "date": "2026-11-19",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar stock hits 52-week low at 537.0 USD - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXlXRmlXSjVRMm5fa0U5OXlrLUo4ZHB4aFdEb2NsWXR6NC1ZbWhwUmlYbVVBSGt2bl9tSGRNb200ZnN1eGdGekk5d3R0VUVSQWtQYjFZQ0N3N1hhY1NhVEd5Z1pfaTVyaklIaE1RLX",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXlXRmlXSjVRMm5fa0U5OXlrLUo4ZHB4aFdEb2NsWXR6NC1ZbWhwUmlYbVVBSGt2bl9tSGRNb200ZnN1eGdGekk5d3R0VUVSQWtQYjFZQ0N3N1hhY1NhVEd5Z1pfaTVyaklIaE1RLXdZSGUxOF9ZNlpFdU42cG5OUFRlY1RVR05OMHFSYVJEVzRqazBBOFhMS1k3R0Z0VFg1U1NwRw?oc=5",
         "type": "rss"
       }
     ]
