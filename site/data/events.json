@@ -1,5 +1,209 @@
 [
   {
+    "id": "delta-2026-11-23-001",
+    "date": "2026-11-23",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics opens Iberia HQ in Madrid - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNNEZoc0VHQmhiNjI1ZkkxYTZnSXd0dEhxSDVhVUJGT1JGSTI3N0Jxek1HQW5PVlBxQzVvazgtTWdUWV9LRmNVeEJXM1NyMUhFcEVPZzNfZS0zaDg5bGJMUDloZE15SkxZMndWNWlmMG",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNEZoc0VHQmhiNjI1ZkkxYTZnSXd0dEhxSDVhVUJGT1JGSTI3N0Jxek1HQW5PVlBxQzVvazgtTWdUWV9LRmNVeEJXM1NyMUhFcEVPZzNfZS0zaDg5bGJMUDloZE15SkxZMndWNWlmMGRRV3JoaDdKal9LN0ZKbUR3aWNKbEk0VHZSSzVfTm9rbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-11-23-002",
+    "date": "2026-11-23",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Mitsubishi Electric Expands US Manufacturing and Technology Investments - https://news.brgbuildingsolutions.com/",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPLXdEWVV5c1RLdkpJQUJDeXpjMHlpZWF2Z1JsTVlMM1ozVzl3YVdIQTdxdXJxLXlRWXBaOERWZVUwYUpvT2F0cFI2eklkSGV1TVBmSnhWYlc3MEN2ZjhpYmNaZFFlVlJkZ3NObV9wV3",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLXdEWVV5c1RLdkpJQUJDeXpjMHlpZWF2Z1JsTVlMM1ozVzl3YVdIQTdxdXJxLXlRWXBaOERWZVUwYUpvT2F0cFI2eklkSGV1TVBmSnhWYlc3MEN2ZjhpYmNaZFFlVlJkZ3NObV9wV3A3RkRUaFB0XzB3dTJEd3NSYm5SZUhNNDQ4aVB4SVg5bnRNX0lfOThscVhDem43V045dUV2VUJDdkhfbEE4NnFQRkJSVVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "okuma-2026-11-23-003",
+    "date": "2026-11-23",
+    "companies": [
+      "okuma"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Okuma opens $22 million Global Repair Center in Charlotte - Today's Medical Developments",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXZtakgzVVhZdU96cjI5TmZQZmpTVVFLN0FYdDRweVZvMUFQUk1hQ0Z0Q01mWVA0TkxjdE1SVlRVeGU1eGVkWWV0b0Rtb0hjVmFici14WlRudV80YjZZZnk1OEVrM2lRQ0k2ZzBPej",
+    "sources": [
+      {
+        "name": "okuma",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXZtakgzVVhZdU96cjI5TmZQZmpTVVFLN0FYdDRweVZvMUFQUk1hQ0Z0Q01mWVA0TkxjdE1SVlRVeGU1eGVkWWV0b0Rtb0hjVmFici14WlRudV80YjZZZnk1OEVrM2lRQ0k2ZzBPejVwdGFOaTljY1EtVUZLUklNeVBLWGlsc0I4eFBSMjZxN1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-23-004",
+    "date": "2026-11-23",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What's behind Parker-Hannifin's latest stock surge? - Traders Union",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEhrOERsakE1aWlNMDR6TW02bFdvY05tS3BDblhEd1BqRjJaQWpKZktUR09qbjRfRU5kLTMyMjV3ZTNZREV2cFhZQ1pCYjQ0aEliMkJZN3pRR1k3MUdlcUNyYkk2Y0F0MzExaHZOM0",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEhrOERsakE1aWlNMDR6TW02bFdvY05tS3BDblhEd1BqRjJaQWpKZktUR09qbjRfRU5kLTMyMjV3ZTNZREV2cFhZQ1pCYjQ0aEliMkJZN3pRR1k3MUdlcUNyYkk2Y0F0MzExaHZOM0xVc2QzMFdjR092VGE3ZE5nQVBNb24wSkZXNTl3STdLRk1kZDVveWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-23-005",
+    "date": "2026-11-23",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Parker Hannifin (NYSE:PH) on the Radar as US Stocks Reset? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWZYcUZ3cDNRZk8wSUZva1pJcm9sTy1DbElEazhIQXpRSlBMcjJUMWstMVpqVXpqSFNMUjl0MXROSEJHd3E5QUJQSXRBeEI3S1JoNnRERXpxaWhoZ1UtM21JUG11TTJLSWJrdzg1Zl",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWZYcUZ3cDNRZk8wSUZva1pJcm9sTy1DbElEazhIQXpRSlBMcjJUMWstMVpqVXpqSFNMUjl0MXROSEJHd3E5QUJQSXRBeEI3S1JoNnRERXpxaWhoZ1UtM21JUG11TTJLSWJrdzg1ZlRaQkluRzdLbktva2YzU1lHU0pGR2lsWFBHM3pya1NfNnFMLVBnbngzMEI5amdNOFVGSEdWT1REck42c2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-23-006",
+    "date": "2026-11-23",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Caterpillar Stock Falling? - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3FOd0ZwTjh1elhhQzBHa3Q4VHRJTXVRRHc2b0pQekdtZVZUeHQyYjlqUnNUZF9aTGR5M0dzNFVzVUIwY1RuMUdRWGxnVTRRRUUxVURpT3BMMjhyNVJFamZMeDhqUl91bVhrV3NpNV",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3FOd0ZwTjh1elhhQzBHa3Q4VHRJTXVRRHc2b0pQekdtZVZUeHQyYjlqUnNUZF9aTGR5M0dzNFVzVUIwY1RuMUdRWGxnVTRRRUUxVURpT3BMMjhyNVJFamZMeDhqUl91bVhrV3NpNVBxc2tpNU1YcDRrZWtoUEZTYlZkazFzQXhaZ0MwcDRXamN0V00tMUQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-23-007",
+    "date": "2026-11-23",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar shares technical analysis: Oversold RSI hints at potential rebound - Traders Union",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQNml0ZllsOGtkelBZX0pXQVZEWHJIUU1RUVRMcFhZWXVEeWdYLVJMSEZjRG1fUVZxNmhRdlI1a2JjaGdRc25BZ3k2SHdoT1BuVXh6R0xPNElJeU5Xc3FoWWdFcVhCS1pleUcxaWpsdn",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNml0ZllsOGtkelBZX0pXQVZEWHJIUU1RUVRMcFhZWXVEeWdYLVJMSEZjRG1fUVZxNmhRdlI1a2JjaGdRc25BZ3k2SHdoT1BuVXh6R0xPNElJeU5Xc3FoWWdFcVhCS1pleUcxaWpsdnhielJZMldTdFFFTFZPMDA1aTZsM1p5cFRGc2hEQUFtZF9naHprRmdWYg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-23-008",
+    "date": "2026-11-23",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar shares jump on renewed AI sentiment - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPSnJwN0JEWXNNRFc2a3h3bVdndFVlM2dkM1ZScW8zbGhLeDk4MWpfdWRGM2FVWGdqSTlSbVJ3d3Z3UVJxbDVUdFUxUW1SNVNZNlBFTGU0OW9KNndqU1B0b09VSFFiNF9MRENTaU5hYj",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSnJwN0JEWXNNRFc2a3h3bVdndFVlM2dkM1ZScW8zbGhLeDk4MWpfdWRGM2FVWGdqSTlSbVJ3d3Z3UVJxbDVUdFUxUW1SNVNZNlBFTGU0OW9KNndqU1B0b09VSFFiNF9MRENTaU5hYjF0eHZocWtPUlY3eE5BTG42VUpMNDhHX3lVbFNWblU2WjNDSzJiejh5Y3ZHa2NDTi1MZzdv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-23-009",
+    "date": "2026-11-23",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Inc Stock (CAT) Moved Up by 7.38% on Nov 23: What Signal Does It Send? - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPZGxaaW1TS0Nld3NJcHBySU1zNjlQeDZUemxXOTRrMjBjQjhIcUlKY0M4QW94ZXplWnhmVld6d2F2X3M2VWtMMU1jaWJaX3BFZzFDakJxNG83c0xnMVZ4WTU2MEtrOUlYWlo1ME90dS",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZGxaaW1TS0Nld3NJcHBySU1zNjlQeDZUemxXOTRrMjBjQjhIcUlKY0M4QW94ZXplWnhmVld6d2F2X3M2VWtMMU1jaWJaX3BFZzFDakJxNG83c0xnMVZ4WTU2MEtrOUlYWlo1ME90dS1ERG9CV3loZTJ3dGw1VmFWelE5UVNCUXpnWGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-010",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BofA says buy these 3 stocks heading into 2027 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNRUs0VVQyOTl1bExLSU5ESWJYNHN1bDBxa3laYzVDdmVTSWh3djBwdXdGOGZOaEZYNDh6Tk1DenFXQjdvUG81Sy1qbnJTZUJZY0tKOXNla21rWWhiYVp6aEJSUFhvM0ZvMHM2eExnb2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRUs0VVQyOTl1bExLSU5ESWJYNHN1bDBxa3laYzVDdmVTSWh3djBwdXdGOGZOaEZYNDh6Tk1DenFXQjdvUG81Sy1qbnJTZUJZY0tKOXNla21rWWhiYVp6aEJSUFhvM0ZvMHM2eExnb21yV2cwUUxiWXBGTFVJVXpXeW1fakloMGZQRjBEYTFnS3RpQXdmSjZySjRueGt3a2VsZnNfbHZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-11-22-001",
     "date": "2026-11-22",
     "companies": [
@@ -36,6 +240,69 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZU9sY0hXSXltZlJxZk14UXlHakVwTzFDQ2hCaldlbWhPQW9EQjdzd1NMQWFvMmh4RDBhbVB5UWJxbndicURIeWNvbU1EZnpxcEcyT1prbjZWZENjM2ptQ0toWjl4LUt0MXB2N3dqZ3cxejVONzlJc0dNd3JOekFwOTM5aEloX3RqWjNPSkZNdEtlc19ybnIyWDRZck0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hiwin-2026-11-22-003",
+    "date": "2026-11-22",
+    "companies": [
+      "hiwin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hiwin deepens South Korea localization to capture semiconductor expansion - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPMEhVTDF5dGN6MDE5NmZPVTVNVXdsXzlqUml6TFMtZ2YyRzRIaGUxX202dVZMcVBXUDZ1S0JsSGRvUVFvYlctTXoyZjNSQzU3dlRCUzBHLTE5ZkxtYmFNN2Q2d3FmaFV1MmRFbVZ0TV",
+    "sources": [
+      {
+        "name": "hiwin",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMEhVTDF5dGN6MDE5NmZPVTVNVXdsXzlqUml6TFMtZ2YyRzRIaGUxX202dVZMcVBXUDZ1S0JsSGRvUVFvYlctTXoyZjNSQzU3dlRCUzBHLTE5ZkxtYmFNN2Q2d3FmaFV1MmRFbVZ0TVBfdXgzclg2ZXNxcm1MVkI1SncxTVFtaDVlWFMxdE9WZnVORTRpT3ZxMnBoODcwbGdJN0VwZlB2MFBKdUVKaThsQS1B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-11-22-004",
+    "date": "2026-11-22",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Mitsubishi Electric expands US manufacturing and technology investments to $2.9 billion - Robotics & Automation News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbUZzVmRtQm9rUENmTGt0a3pIRjVzNHVrYnFjUFB0SkFITkwxTmRRRmNjaF9TUWUzeVBiYWh5d2MzbFVhcVExZHUzblRZM0xhS0RuTDNhaU8wN2t1bEdlQkxyNkdsNktxUkV2QzJERU",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbUZzVmRtQm9rUENmTGt0a3pIRjVzNHVrYnFjUFB0SkFITkwxTmRRRmNjaF9TUWUzeVBiYWh5d2MzbFVhcVExZHUzblRZM0xhS0RuTDNhaU8wN2t1bEdlQkxyNkdsNktxUkV2QzJERUs3S2t2Z3JJZUxJNzBfdGNBWFRUUUVPb3N0Mng0OEE5dkVBWGFCVFdfSzJ2LVdfaEVDakRmWFZPVlpCUXFZdW1CVTNrcnpoSFFfSjlHUjhQbHVTZy1adGlzb2NpQy1IVlkwNDVjQlg1U1ZwaW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-22-005",
+    "date": "2026-11-22",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "5 Engine Brands Owned By Caterpillar - SlashGear",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBPcXdhNTM2SURLMnBSQ2ZtMGhfZzJKQ1oyN21YYXlpM2E0ZmtmQ1Yxa2RoU2U5alpIdFg3cy1YZktGWGdpYmQ1T0hWTHliNzY4ZlRRclVpWkVhTmZ5VV9hZ1pNTl9ob083cjlFU2FvVE",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPcXdhNTM2SURLMnBSQ2ZtMGhfZzJKQ1oyN21YYXlpM2E0ZmtmQ1Yxa2RoU2U5alpIdFg3cy1YZktGWGdpYmQ1T0hWTHliNzY4ZlRRclVpWkVhTmZ5VV9hZ1pNTl9ob083cjlFU2FvVEV2OEFfdVY1eQ?oc=5",
         "type": "rss"
       }
     ]
@@ -561,6 +828,44 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52ajdnUXV0LUp0NzctQ2tNWWFkY0phUTlvSUlRdElWUTZOS0hySl94MEs3US1NZTB0WWxTLXkybnRadkZjcU04T2RIYldKUDVYSXBvWWlfN08tQVk1QldRX0xMMzYwdHQzRG52SzhPbklzNldtdllEVFV6NA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-20-018",
+    "date": "2026-11-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Spain’s PLD Space Signs First Commercial Miura 5 Launch Contract - mediasat.info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRvSzlMNlVqX1JwbTB1MGQzekVPNTNGVXI5Zm84QWt1bVlRT0VMZXB5amJtYXBHaWNMNVZGeFdTZ0dtNnRPTmJuSmRQOGc0dXAtQ1NfR01zd0M2OHY3WHktbXprMFRDakZKWnEya0",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTDRvSzlMNlVqX1JwbTB1MGQzekVPNTNGVXI5Zm84QWt1bVlRT0VMZXB5amJtYXBHaWNMNVZGeFdTZ0dtNnRPTmJuSmRQOGc0dXAtQ1NfR01zd0M2OHY3WHktbXprMFRDakZKWnEya0VVYVJQNElkSkw3M0JZVlVDandIMmkyTm91RzdEcTFqUk5oUUtVOFRxU0xRVWZUcGIzUXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-20-019",
+    "date": "2026-11-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar’s R2900 XE moves into industrial minerals mining at K+S Borth - International Mining",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0N3TUdQd1IwZUlUZW9pWVdSVkhFRklmc2FTUUhQc3dvQmlpeGpFWHVMMHlFNTdCZm1md2tRTEsxLXNNVU5jR2RrYnRtVG5jdEU4TDJ4MGEwclI5U3hKenRWYzRLSHFJREwwcGozak",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0N3TUdQd1IwZUlUZW9pWVdSVkhFRklmc2FTUUhQc3dvQmlpeGpFWHVMMHlFNTdCZm1md2tRTEsxLXNNVU5jR2RrYnRtVG5jdEU4TDJ4MGEwclI5U3hKenRWYzRLSHFJREwwcGozakRUVEcwemZSeVEwOWdlNEdyLXJpMUg3TnpvV0FrXzItOE5FeFRaUFZrRUNrMVgtNjFrQU1HQy1zeHE?oc=5",
         "type": "rss"
       }
     ]
@@ -2214,6 +2519,29 @@
       {
         "name": "google_news_industrial_automation",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZXowLWhBdFlNYVhpNXpCWDRkbVRKY09waHdpMlJoVE9kOHFWY05RMjVDbHZWbGJ0eE9Ha0RiS0hpMzltSkxocW9adWpwenNVVWRULTd6MG5Ob1NrUnZhZDBpenZyNXVZQ2hSNHhXRmdPUVpjdG16M0JYRHFkUEVCb1lBb19WMjhkdlpuaThvYU1lNGRncktzblBtRkwyMTh4d1BBc19iVWxpWXllQ1drZVJZaHpiZjkxMlJWcDZ2Z1NtWUFkWnhuTlVqMnhWSFRST3BKdWhBa0ZGWXhqOGgwU3VIVUN6aVJ0VldoRGJOUklnRFBMbEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "mitsubishi_electric-2026-11-17-025",
+    "date": "2026-11-17",
+    "companies": [
+      "mitsubishi_electric"
+    ],
+    "topics": [
+      "automation_capex",
+      "cnc_technology",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric US and Novineer evaluate AI-powered reverse engineering for DED repair - Metal Additive Manufacturing magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRG51R1AxaWhudkZJVi10NFB5dE5rRVZUUTdiWEw4dHVCRG13Z2NWVmRkUnNhcURicHRRcjNJVk1VdFh2ZXp2UWFuUGpNU3p4WTZRNE4tMjNIRlQ1R3B3YlRxc2NuOGVhU0hES2RMbX",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRG51R1AxaWhudkZJVi10NFB5dE5rRVZUUTdiWEw4dHVCRG13Z2NWVmRkUnNhcURicHRRcjNJVk1VdFh2ZXp2UWFuUGpNU3p4WTZRNE4tMjNIRlQ1R3B3YlRxc2NuOGVhU0hES2RMbXRlUmJiTkxZb2dMdzhEZFpzYkduZnZoU1M4aFNrXzh2cHctTUI2Q3lQbmI2ekZRVGVuQ0F2bkNlZEpRVWdOaTdGSTgxaUtOOXc?oc=5",
         "type": "rss"
       }
     ]

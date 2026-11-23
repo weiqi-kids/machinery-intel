@@ -1,0 +1,235 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T19:41:06.255759Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "mitsubishi_electric-2026-11-23-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi Electric Expands US Manufacturing and Technology Investments - https://news.brgbuildingsolutions.com/",
+      "companies": [
+        "mitsubishi_electric"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLXdEWVV5c1RLdkpJQUJDeXpjMHlpZWF2Z1JsTVlMM1ozVzl3YVdIQTdxdXJxLXlRWXBaOERWZVUwYUpvT2F0cFI2eklkSGV1TVBmSnhWYlc3MEN2ZjhpYmNaZFFlVlJkZ3NObV9wV3A3RkRUaFB0XzB3dTJEd3NSYm5SZUhNNDQ4aVB4SVg5bnRNX0lfOThscVhDem43V045dUV2VUJDdkhfbEE4NnFQRkJSVVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "parker_hannifin-2026-11-23-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What's behind Parker-Hannifin's latest stock surge? - Traders Union",
+      "companies": [
+        "parker_hannifin"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEhrOERsakE1aWlNMDR6TW02bFdvY05tS3BDblhEd1BqRjJaQWpKZktUR09qbjRfRU5kLTMyMjV3ZTNZREV2cFhZQ1pCYjQ0aEliMkJZN3pRR1k3MUdlcUNyYkk2Y0F0MzExaHZOM0xVc2QzMFdjR092VGE3ZE5nQVBNb24wSkZXNTl3STdLRk1kZDVveWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "caterpillar-2026-11-23-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Is Caterpillar Stock Falling? - Trefis",
+      "companies": [
+        "caterpillar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "automation_capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3FOd0ZwTjh1elhhQzBHa3Q4VHRJTXVRRHc2b0pQekdtZVZUeHQyYjlqUnNUZF9aTGR5M0dzNFVzVUIwY1RuMUdRWGxnVTRRRUUxVURpT3BMMjhyNVJFamZMeDhqUl91bVhrV3NpNVBxc2tpNU1YcDRrZWtoUEZTYlZkazFzQXhaZ0MwcDRXamN0V00tMUQw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "delta-2026-11-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Delta Electronics opens Iberia HQ in Madrid - Telecompaper",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNEZoc0VHQmhiNjI1ZkkxYTZnSXd0dEhxSDVhVUJGT1JGSTI3N0Jxek1HQW5PVlBxQzVvazgtTWdUWV9LRmNVeEJXM1NyMUhFcEVPZzNfZS0zaDg5bGJMUDloZE15SkxZMndWNWlmMGRRV3JoaDdKal9LN0ZKbUR3aWNKbEk0VHZSSzVfTm9rbw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "okuma-2026-11-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Okuma opens $22 million Global Repair Center in Charlotte - Today's Medical Developments",
+      "companies": [
+        "okuma"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOXZtakgzVVhZdU96cjI5TmZQZmpTVVFLN0FYdDRweVZvMUFQUk1hQ0Z0Q01mWVA0TkxjdE1SVlRVeGU1eGVkWWV0b0Rtb0hjVmFici14WlRudV80YjZZZnk1OEVrM2lRQ0k2ZzBPejVwdGFOaTljY1EtVUZLUklNeVBLWGlsc0I4eFBSMjZxN1k?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "caterpillar",
+        "count": 4
+      },
+      {
+        "id": "parker_hannifin",
+        "count": 2
+      },
+      {
+        "id": "delta",
+        "count": 1
+      },
+      {
+        "id": "mitsubishi_electric",
+        "count": 1
+      },
+      {
+        "id": "okuma",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "automation_capex",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 373,
+    "dup_title": 200,
+    "too_old": 152,
+    "gate1_blocked": 2,
+    "gate2_blocked": 3,
+    "passed": 16,
+    "pass_rate": "9.2%",
+    "gate2_block_rate": "1.7%",
+    "gate2_samples": [
+      "Deploying enterprise AI: How Schneider Electric and AMD are helping turn AI ambition into operationa",
+      "Caterpillar Sinks 11% in a Week to a New 52-Week Low. Is the Selling Overdone? - TIKR.com",
+      "What Has Changed In Caterpillar’s Story? - Trefis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為CAT、Parker、Delta Electronics相關動態：「Mitsubishi Electric Expands US Manufacturing and Technolo...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Mitsubishi Electric Expands US Manufacturing and Technology Investments - htt...（自動化資本支出、財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "What's behind Parker-Hannifin's latest stock surge? - Traders Union（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

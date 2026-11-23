@@ -1,8 +1,8 @@
 {
   "hiwin": {
     "earliest": "2007-12-31",
-    "latest": "2026-11-20",
-    "count": 4630,
+    "latest": "2026-11-23",
+    "count": 4631,
     "history_complete": true
   },
   "thk": {
@@ -13,8 +13,8 @@
   },
   "airtac": {
     "earliest": "2010-12-13",
-    "latest": "2026-11-20",
-    "count": 3894,
+    "latest": "2026-11-23",
+    "count": 3895,
     "history_complete": true
   },
   "keyence": {
@@ -25,8 +25,8 @@
   },
   "delta": {
     "earliest": "2000-01-04",
-    "latest": "2026-11-20",
-    "count": 6685,
+    "latest": "2026-11-23",
+    "count": 6686,
     "history_complete": true
   },
   "fanuc": {
@@ -37,26 +37,26 @@
   },
   "siemens": {
     "earliest": "2000-01-03",
-    "latest": "2026-11-20",
-    "count": 6872,
+    "latest": "2026-11-23",
+    "count": 6873,
     "history_complete": true
   },
   "abb": {
     "earliest": "2000-01-03",
-    "latest": "2026-11-20",
-    "count": 6825,
+    "latest": "2026-11-23",
+    "count": 6826,
     "history_complete": true
   },
   "rockwell": {
     "earliest": "2000-01-03",
-    "latest": "2026-11-20",
-    "count": 6763,
+    "latest": "2026-11-23",
+    "count": 6764,
     "history_complete": true
   },
   "schneider": {
     "earliest": "2000-01-03",
-    "latest": "2026-11-20",
-    "count": 6909,
+    "latest": "2026-11-23",
+    "count": 6910,
     "history_complete": true
   },
   "mitsubishi_electric": {
@@ -97,44 +97,44 @@
   },
   "tongtai": {
     "earliest": "2003-09-15",
-    "latest": "2026-11-20",
-    "count": 5721,
+    "latest": "2026-11-23",
+    "count": 5722,
     "history_complete": true
   },
   "goodway": {
     "earliest": "2008-01-24",
-    "latest": "2026-11-20",
-    "count": 4613,
+    "latest": "2026-11-23",
+    "count": 4614,
     "history_complete": true
   },
   "itw": {
     "earliest": "2000-01-03",
-    "latest": "2026-11-20",
-    "count": 6763,
+    "latest": "2026-11-23",
+    "count": 6764,
     "history_complete": true
   },
   "lincoln_electric": {
     "earliest": "2000-01-03",
-    "latest": "2026-11-20",
-    "count": 6763,
+    "latest": "2026-11-23",
+    "count": 6764,
     "history_complete": true
   },
   "parker_hannifin": {
     "earliest": "2000-01-03",
-    "latest": "2026-11-20",
-    "count": 6763,
+    "latest": "2026-11-23",
+    "count": 6764,
     "history_complete": true
   },
   "caterpillar": {
     "earliest": "2000-01-03",
-    "latest": "2026-11-20",
-    "count": 6763,
+    "latest": "2026-11-23",
+    "count": 6764,
     "history_complete": true
   },
   "etf_robo_etf": {
     "earliest": "2013-10-22",
-    "latest": "2026-11-20",
-    "count": 3291,
+    "latest": "2026-11-23",
+    "count": 3292,
     "history_complete": true
   }
 }
