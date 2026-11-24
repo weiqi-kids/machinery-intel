@@ -1,5 +1,438 @@
 [
   {
+    "id": "parker_hannifin-2026-11-24-001",
+    "date": "2026-11-24",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Parker Completes Acquisition of CIRCOR’s Commercial and Defense Aerospace Business",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "delta-2026-11-24-002",
+    "date": "2026-11-24",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics, Inc. (2308.TW) stock price, news, quote and history - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aY0Z1VEc2UVMzWXR1YlNMOENRVkktTnVsN0Qxa281Wlc5VHA0dDJVLVJGcUh4NDd3WExHX19TR1pIQ3JCcDNmeUZpOTl4Q3VuNDhrOUJR?oc=5\" target=\"_blank\">Delta Elect",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aY0Z1VEc2UVMzWXR1YlNMOENRVkktTnVsN0Qxa281Wlc5VHA0dDJVLVJGcUh4NDd3WExHX19TR1pIQ3JCcDNmeUZpOTl4Q3VuNDhrOUJR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "delta-2026-11-24-003",
+    "date": "2026-11-24",
+    "companies": [
+      "delta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics opens new Madrid office - Evertiq",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOOG5tUWY5MDlOX3ctb2Z3VzA0VlJKMmlzZUtHSFlBN0tDYlpVeGtxRXJReUJsWXVOSVRKX3F5MDhhTXhReDFpdTZIZkllNkx2UEVhSkpVdzBtZ0lqT1Y4c0VBejNJYWpKV1NCbm5NYV",
+    "sources": [
+      {
+        "name": "delta",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOG5tUWY5MDlOX3ctb2Z3VzA0VlJKMmlzZUtHSFlBN0tDYlpVeGtxRXJReUJsWXVOSVRKX3F5MDhhTXhReDFpdTZIZkllNkx2UEVhSkpVdzBtZ0lqT1Y4c0VBejNJYWpKV1NCbm5NYVFsTzFFTUQ4TXQ0X0hLNVhNajFmOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "abb-2026-11-24-004",
+    "date": "2026-11-24",
+    "companies": [
+      "abb"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABB launches ‘world’s first’ industrial motor with built-in AI - Robotics & Automation News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQMVlVZDZBa2VnbXdJUWN3eEQ2MkRZWFpiTzQyTHRDUzFIRG0zd19WQzVnbklLOWthRFI1S0M3RTExOEVzaXpSNTRPRm1qSVB3dGlHNXRwQTlDSkhkXzVRcFNfT3JSUkNsOVE0Q2hKb0",
+    "sources": [
+      {
+        "name": "abb",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMVlVZDZBa2VnbXdJUWN3eEQ2MkRZWFpiTzQyTHRDUzFIRG0zd19WQzVnbklLOWthRFI1S0M3RTExOEVzaXpSNTRPRm1qSVB3dGlHNXRwQTlDSkhkXzVRcFNfT3JSUkNsOVE0Q2hKb0Joa2gyUEJ4Z2dheXUyMTdFd0hpTE1nbnloOW1kWUxkM1JJRWlTOGxuM09vakVqZlBBakEyeUpycGVKN1BScGE5NnRhNHhLRjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-005",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi’s long-awaited second EV in Australia touches down - CarExpert",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFVPS2Z3OWRTdFkzM2Q4dHZ0YXBibTUyN2NjSTlzUjFWMXV0MjEtZzEwTDJjTFM3eUVMMkpkN214ZVJIcFV4WHBHYVgwOHVncXc1U0NfZkVRTFlPY2VHMXZiYk9uNXhQcDdERlhTSU",
+    "sources": [
+      {
+        "name": "mitsubishi_electric",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFVPS2Z3OWRTdFkzM2Q4dHZ0YXBibTUyN2NjSTlzUjFWMXV0MjEtZzEwTDJjTFM3eUVMMkpkN214ZVJIcFV4WHBHYVgwOHVncXc1U0NfZkVRTFlPY2VHMXZiYk9uNXhQcDdERlhTSU1Wdzk5VXYzeTBsMG16ZWo1NTFDdjRFWmk1c3lrSEpwT0Q0Mkgtb2t5eFB3cHZ3UFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-006",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "cnc_technology",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Additive manufacturing reaches industrial maturity - PES Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUlhGb0Fpd19HUURUTGY0RUJzbkhOVEpiNU5LRmh4WW5yNXg5VjhyaFNGYVlnUV81alRMRm5ldWlmUFRWaVNsME1tOVIyaHBkRXpFa05kaFVwMm82SWhRQXctRERMWVNQdVM0b21jQU",
+    "sources": [
+      {
+        "name": "dmg_mori",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUlhGb0Fpd19HUURUTGY0RUJzbkhOVEpiNU5LRmh4WW5yNXg5VjhyaFNGYVlnUV81alRMRm5ldWlmUFRWaVNsME1tOVIyaHBkRXpFa05kaFVwMm82SWhRQXctRERMWVNQdVM0b21jQUpHdUlwSG0tSTN4NTVqRFRkNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-11-24-007",
+    "date": "2026-11-24",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Stock: Is Wall Street Bullish or Bearish? - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPX21RNEJYM3ZLOW42eEdZV2dkNzhiSjZRMGNYaEs4dVdMRWxReFBLajRDWDh3N3QybmQ0ZUx2ZElZcGJnWVcwRFIyc2xDR2lnQVpYeVFJQVVFMlJsdkNDQkxxWEdyYWZLYUllcTRrcW",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX21RNEJYM3ZLOW42eEdZV2dkNzhiSjZRMGNYaEs4dVdMRWxReFBLajRDWDh3N3QybmQ0ZUx2ZElZcGJnWVcwRFIyc2xDR2lnQVpYeVFJQVVFMlJsdkNDQkxxWEdyYWZLYUllcTRrcWFoaFlSOEN0ZWNxQmxRSGpyMDdELTFuQXRISnh1dVh4aE9WRHdHZU9td2pUTHJIQ3dOWHVncTJR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-24-008",
+    "date": "2026-11-24",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Are Wall Street Analysts Predicting Parker-Hannifin Stock Will Climb or Sink? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOWEkwZi0xVko4OGFuZnhEX0lfQXFLWVBOMW5GZTJCZnhyQU1UNnV3VWEyS1JvQTR6TFZDSWU5OHdFWFg4eVJwLUdJSEhySVlEcnB2Q0xaMldjQWpjcUtRLUg5X1JCdUJDX1Bfc1E0bn",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWEkwZi0xVko4OGFuZnhEX0lfQXFLWVBOMW5GZTJCZnhyQU1UNnV3VWEyS1JvQTR6TFZDSWU5OHdFWFg4eVJwLUdJSEhySVlEcnB2Q0xaMldjQWpjcUtRLUg5X1JCdUJDX1Bfc1E0bnNVeklURnpEVFRRdkx0a2Y0amFxMXJEZHN6d0d3MTZ3OGZtWXpBVEs4cWFPUTlZOXVRQVl4eHF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-24-009",
+    "date": "2026-11-24",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin Completes Acquisition of CIRCOR Aerospace, Adding $270 Million in Annual Sales - citybiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2NzcE93YW5EVm9qSWNjTU54QU9xcDZ5a0NzVGoxdmJsd1E5UkYxSnlIaVZwRGE5Rk02Nm1JWncwSlpYYVBGZmFLWDB6QjdMalB2cnhmcUkwNWxFV1dfeUhhZkdzZWFLamJOSDZNOV",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2NzcE93YW5EVm9qSWNjTU54QU9xcDZ5a0NzVGoxdmJsd1E5UkYxSnlIaVZwRGE5Rk02Nm1JWncwSlpYYVBGZmFLWDB6QjdMalB2cnhmcUkwNWxFV1dfeUhhZkdzZWFLamJOSDZNOVVFbDJ1aFl5QmNSNzM0UVZwb2hUTnJ2X09wWlgzbEVBNll5QWRQN0gzdjlqcnVPa3lENHVEX1RqdFNVZlV1N3h0VFlnTmpwRTNZbTk3QXpHbjA5V080QXNfMS1FOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-24-010",
+    "date": "2026-11-24",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin closes $2.55B buy of CIRCOR Aerospace from KKR - Dealroom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOREVJWFdJRFI2V3BpdGtpUHFhSHVTMlhkY21tcHU2WnVRZjZoSk85c3BWejZDRktUSlBqSlFjN2RRZExhMTBqaFpJVWZQNVV3eV9kcnFfMXk5SlJyT1c2ZUZuQUR3WEtMdU9aMGdTcD",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOREVJWFdJRFI2V3BpdGtpUHFhSHVTMlhkY21tcHU2WnVRZjZoSk85c3BWejZDRktUSlBqSlFjN2RRZExhMTBqaFpJVWZQNVV3eV9kcnFfMXk5SlJyT1c2ZUZuQUR3WEtMdU9aMGdTcDNibVpmWEFVbXpod19wT1FKQkp1cmt2c1FXTU5uTnZTQ1NmbXRVSnRCRFY4VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-24-011",
+    "date": "2026-11-24",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker-Hannifin completes CIRCOR aerospace acquisition: Can PH break above $924.11? - Traders Union",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFp4VHg5SVY4bnE3Q2xTUFZibUwwLS1LTjRDb3VGbU5MUEtZQW5STXB5eS02WGlpWV9HS0RQT3d6dGdta2gtTDhtVHBRbHZ6Wll4X0RLQXR6MW5TaEtfOEI0NXhjTU9lTGdQYTZ5Yn",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFp4VHg5SVY4bnE3Q2xTUFZibUwwLS1LTjRDb3VGbU5MUEtZQW5STXB5eS02WGlpWV9HS0RQT3d6dGdta2gtTDhtVHBRbHZ6Wll4X0RLQXR6MW5TaEtfOEI0NXhjTU9lTGdQYTZ5YnJ1UFlhNnhuXy1IeGI0VWh3ZjV6bTUyUUthd0piX1p0S25DNnNrMzV1S05tLTl0MlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-24-012",
+    "date": "2026-11-24",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Parker Hannifin completes CIRCOR Aerospace acquisition - Crypto Briefing",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPTk1HOVFXNWlFS1hPMjc3ZjB3RHZua2FlR05wN0hMeThtTWVGaW1TejdMelcxRER3ZGN4YWpvSHNCUEpRUVR6bnc3SjVBSDhPN3JHYnJVT0trY0hvMmJ4VkRHSG56V1IwMk5JUXhPOG",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTk1HOVFXNWlFS1hPMjc3ZjB3RHZua2FlR05wN0hMeThtTWVGaW1TejdMelcxRER3ZGN4YWpvSHNCUEpRUVR6bnc3SjVBSDhPN3JHYnJVT0trY0hvMmJ4VkRHSG56V1IwMk5JUXhPOGNqNkRmMUxCZGREazkwbUZpNTNGSjFhYTZXT0M3eGd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-24-013",
+    "date": "2026-11-24",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Parker-Hannifin Closes CIRCOR Aerospace Business Acquisition - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPVlhkZW5WeDNMNzNhWTktejJVZ2taUENWamZEaUdQSGU5V29ybWhpRnRob2tFdlBQSFpmWUxiUmM0ay1iOHdUX21SUDUxUWlqWWtmeEJvWGl6aU1SWUZfd05malAwWGdHZWt3bjU1WE",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVlhkZW5WeDNMNzNhWTktejJVZ2taUENWamZEaUdQSGU5V29ybWhpRnRob2tFdlBQSFpmWUxiUmM0ay1iOHdUX21SUDUxUWlqWWtmeEJvWGl6aU1SWUZfd05malAwWGdHZWt3bjU1WEppVW4wcVVZYllzUUtWc2tfQWpMLWNWam5YWmt4WDRmT04tNzEtXy1yWURRZWY2aVlFTnJ1MnRONm1jWlNSa1l0M3Qzaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-24-014",
+    "date": "2026-11-24",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rethinking voltage in GSE, by Parker Hannifin's Jay W. Schultz - www.groundhandlinginternational.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDAwSWczcWFKMVpaRWhGa2pWWHBRMlRXa1VjNHlBeEZvVTdmSXpJTmlUQW5hZHVQTHh6U2pseWRJWFpreHI1aWFhVmtfWW9CODE1YXNsR3M3VmNMYnYtcjRIVEZyQ3A4ZzE4MlZHbz",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDAwSWczcWFKMVpaRWhGa2pWWHBRMlRXa1VjNHlBeEZvVTdmSXpJTmlUQW5hZHVQTHh6U2pseWRJWFpreHI1aWFhVmtfWW9CODE1YXNsR3M3VmNMYnYtcjRIVEZyQ3A4ZzE4MlZHbzlTTEdubllLdTdsaXJNLUk2NjlBVFJqaFJSOHAzM2lRMVlsMkpaQTlpeGstSldBVWsyemVEUnBYS2Q0cU5HR21GVDBvdTAwc1ZPS1Zj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-24-015",
+    "date": "2026-11-24",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin Completes Acquisition of CIRCOR Aerospace - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNkFIRnM1WkJfdDJyQXRiZHBueFl3NmtTa0hndXVmWjJ3akZMSzJPSVlKMVdWSjBLa0lQZVN3OF82WEpYT2hxOV8xM0MyS3RpTTl2M2dqOFlVbXVxTTRBeEZoeHdNYnczVXpnSl9pZn",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNkFIRnM1WkJfdDJyQXRiZHBueFl3NmtTa0hndXVmWjJ3akZMSzJPSVlKMVdWSjBLa0lQZVN3OF82WEpYT2hxOV8xM0MyS3RpTTl2M2dqOFlVbXVxTTRBeEZoeHdNYnczVXpnSl9pZnJjQ3VJRkRBSGg1dVF4ZkhLX0Z0OFNTOFlFRl9nOFNBdnIxM20x?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-24-016",
+    "date": "2026-11-24",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "KKR Completes $2.55 Billion Sale of CIRCOR Aerospace to Parker Hannifin - citybiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPSUxPY0JBZXVOQjQ1clpiNFNDcVh2eS1FNFpmeXNjWmthYlc1TGhvNzllMHdWQ2t3T3kwWTVuR2NjOHU5aFpUSmNIWjIyTm9hZXZZYzdGdGRTYVFvYWtXbVZrV2pwTVRJNy12RFB4ek",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSUxPY0JBZXVOQjQ1clpiNFNDcVh2eS1FNFpmeXNjWmthYlc1TGhvNzllMHdWQ2t3T3kwWTVuR2NjOHU5aFpUSmNIWjIyTm9hZXZZYzdGdGRTYVFvYWtXbVZrV2pwTVRJNy12RFB4ek1WVXBQQUtlWGdBOURKekpsc19fQTRSMGlfNnlCTEVVdUtWY3FjbzBoLW9TX2d3d0cya2Nwb3ZhZTZfMUFCRkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-24-017",
+    "date": "2026-11-24",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Parker Completes Acquisition of CIRCOR’s Commercial and Defense Aerospace Business - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQczRZRmlQaGlYa2hyUEhtMEFmUE13YUZKbXZvcmtXMkRHYWNtN3ZiYVBzVmZLMEJNdnk1cVZfN3BjNWVNcGpzRzZsREZEN1dXbEQ0MEZaVDBYd2Q0NGZDU2g2SXNhYlZjWGxPbzB0Yk",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQczRZRmlQaGlYa2hyUEhtMEFmUE13YUZKbXZvcmtXMkRHYWNtN3ZiYVBzVmZLMEJNdnk1cVZfN3BjNWVNcGpzRzZsREZEN1dXbEQ0MEZaVDBYd2Q0NGZDU2g2SXNhYlZjWGxPbzB0YkR0bXpHbGlCNHp3VlRianJ6VWFrWEpJbGZWSVBiSG1Sbl9aUUlDVVJ5VjZKQXBDbFY1NWVJYy1DNDFLODU4SVdqUkx5aERkSUltSElHWWJqRVRhbExpMkdseG5UTnY3UUtCelVXYWxRUERJNkd6MzloaVNyMmRSZzcwSWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-24-018",
+    "date": "2026-11-24",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "An aerospace business Parker just bought is expected to add about $270 million in annual sales. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQTVF0NzV4ZUoxTlk2NzVsNlBVWHNvSmQwZzFFcF94Nk9iRGxoNzY0czljVE5oT0dEa0xGOExvQXlzLW5DYnhNRUQ1WUdZNV9ZeWpLOEl2WUVNRnRWV3hSRkE0MG9yU2ZDLURTV2JUdD",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTVF0NzV4ZUoxTlk2NzVsNlBVWHNvSmQwZzFFcF94Nk9iRGxoNzY0czljVE5oT0dEa0xGOExvQXlzLW5DYnhNRUQ1WUdZNV9ZeWpLOEl2WUVNRnRWV3hSRkE0MG9yU2ZDLURTV2JUdDNUOFBHa3FqV1pqTEt0RU1wZVdjQm4yMWZFb3NLc0hfbVQ2NlV5STdWRzZqMmJUWUpRSDlEUGV0aHFuVjFDcUszNXlEQVMtaUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-24-019",
+    "date": "2026-11-24",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "KKR Closes Sale of Circor Aerospace to Parker Hannifin for $2.55 Billion - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjlydmhLVFozcnQyUi1PVUlqRVdfTmxBQ3pjTl9xNC03MUlOc2RnV0lPRXZ4Snk2WFJlb3FUOGhJTFBWM3lpZXpUbV9Fc0RqdGNWZXFNQ2pDM084bnpKR09VZlRieG00eF9MUFJKUG",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjlydmhLVFozcnQyUi1PVUlqRVdfTmxBQ3pjTl9xNC03MUlOc2RnV0lPRXZ4Snk2WFJlb3FUOGhJTFBWM3lpZXpUbV9Fc0RqdGNWZXFNQ2pDM084bnpKR09VZlRieG00eF9MUFJKUG5MMDhXeTJKajlDRkNFdjhkYnA5WE5hNUJLRTBpN1F2WW4yeV9NUTl6UTVlb09xaWNBRmNmb3Jrdy1uNGpwdEx6QWpDdURNSmdtOFpjdGI0bUJuQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-24-020",
+    "date": "2026-11-24",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar Inc Stock (CAT) Moved Down by 3.17% on Nov 24: Key Drivers Unveiled - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFQxeVVzdEp2V0w2MVZZQUt2MzBTWEJNYllYSk51S0VRVWdjdEtpb2tzQ2tPWWpuRmtPeUVpTDVIaWVpYTUzUW43cy1wY0QyMjFOSFgtelE3V2poblVIRDloaEtHM2t6d3ZYNW9wYU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFQxeVVzdEp2V0w2MVZZQUt2MzBTWEJNYllYSk51S0VRVWdjdEtpb2tzQ2tPWWpuRmtPeUVpTDVIaWVpYTUzUW43cy1wY0QyMjFOSFgtelE3V2poblVIRDloaEtHM2t6d3ZYNW9wYU90ZEZFVHk3bGRDQkdoZDR4RFYxR3VFNjVROXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-24-021",
+    "date": "2026-11-24",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CAT 789C Mining Truck: Up to 207-Ton Payload Get a close-up look at the CAT 789C mining truck at Thompson Creek Mine in Custer County, Idaho. Built for high-production mining and haulage, this giant off-highway truck is powered by a Cat 3516B EUI 16- - LinkedIn",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGZ2YV9razZHN2ZpN2hkM3hrZ1BkRUNwaUlDQkhsdVotNkdydExuSmFBT2N5Mk5UMlRXWkkzRU4wNFlSVHpZYmFEX095b1dYOTdhaFgxTUoxbTNvOXp3Wm1Falc3OUt5U1hrZWRkM2",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGZ2YV9razZHN2ZpN2hkM3hrZ1BkRUNwaUlDQkhsdVotNkdydExuSmFBT2N5Mk5UMlRXWkkzRU4wNFlSVHpZYmFEX095b1dYOTdhaFgxTUoxbTNvOXp3Wm1Falc3OUt5U1hrZWRkM2M3djdUTXBhNkRpYXVzY1AyeGNYQ1FxOUFwb2dWc0ZqN0ZWbG1XLWxwNTB4Z2F5X20tLXUzSXFCZzhWb1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-24-022",
+    "date": "2026-11-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The ROI of system integration: Connecting systems to business value",
+    "summary": "<p>Delivering ROI in automation, controls and instrumentation requires expertise in industrial processes and the ability to align advanced technologies with business objectives. System integrators ena",
+    "sources": [
+      {
+        "name": "plant_engineering",
+        "url": "https://www.plantengineering.com/the-roi-of-system-integration-connecting-systems-to-business-value/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "delta-2026-11-23-001",
     "date": "2026-11-23",
     "companies": [
@@ -199,6 +632,144 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRUs0VVQyOTl1bExLSU5ESWJYNHN1bDBxa3laYzVDdmVTSWh3djBwdXdGOGZOaEZYNDh6Tk1DenFXQjdvUG81Sy1qbnJTZUJZY0tKOXNla21rWWhiYVp6aEJSUFhvM0ZvMHM2eExnb21yV2cwUUxiWXBGTFVJVXpXeW1fakloMGZQRjBEYTFnS3RpQXdmSjZySjRueGt3a2VsZnNfbHZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-23-011",
+    "date": "2026-11-23",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Scheduled to Present at the UBS Global Industrials and Transportation Conference on December 1 at 11:20 a.m. Eastern Time",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "okuma-2026-11-23-012",
+    "date": "2026-11-23",
+    "companies": [
+      "okuma"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Okuma opens $22 million Global Repair Center in Charlotte - Aerospace Manufacturing and Design",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmdXV1NtVlZCZE9QaGNHOHdyR0JQbDBYXzlNWkFpbDhZQkYyTTdBN01PT3lSRWVJOHVqenB1QU5qWFlGcWh6VWZ4N00yZEwxRnJNQU1XZl9qVkxzX0F6Q0doWUdGSl9iM04xaWVMQn",
+    "sources": [
+      {
+        "name": "okuma",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmdXV1NtVlZCZE9QaGNHOHdyR0JQbDBYXzlNWkFpbDhZQkYyTTdBN01PT3lSRWVJOHVqenB1QU5qWFlGcWh6VWZ4N00yZEwxRnJNQU1XZl9qVkxzX0F6Q0doWUdGSl9iM04xaWVMQnRGZF85SDk0cWFySTkwVjRQVkpCSEdscGx2QS1pR3NvbTI2YUFQdWRXMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-11-23-013",
+    "date": "2026-11-23",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Inc. stock rises Monday, still underperforms market - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU19YQUJCa0VIUE9wUW9xWEUxdll6bXY2cUdTRW1aVi1lclY1SzgtSDZHalU0enB2cnBKa3o3bTVldUw0aTBPTWEwV2VRbXRyOWpSMzBrM3dqYWkyTTNRYUI5cTVwRHBpZXN0YkpjYT",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU19YQUJCa0VIUE9wUW9xWEUxdll6bXY2cUdTRW1aVi1lclY1SzgtSDZHalU0enB2cnBKa3o3bTVldUw0aTBPTWEwV2VRbXRyOWpSMzBrM3dqYWkyTTNRYUI5cTVwRHBpZXN0YkpjYTREcW0ySnNGbmstei1zdVh6d21kTl9qTVN4SDlJTFVqbHZ0WFltSHFtdVNMX09xTjdXaDNBSVdqTXJtWWxwY2JZZU05dFRXb2xNWFVfYzh4QnhweDhwblY3WXljVmh6cW9wTm1CMmNHcmpId0dTNUNpUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "parker_hannifin-2026-11-23-014",
+    "date": "2026-11-23",
+    "companies": [
+      "parker_hannifin"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Parker Hannifin has raised its annual dividend for 70 consecutive fiscal years. It presents at UBS on Dec. 1. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0d4QXg1VkpLZExpanlkaVh0SVlzdTh6Q1RoTlN0NDVGaGc4ODhGTmJLblNObTFqRW03c0dXa3ljd3JuczE5VGZocTRUSnA5M1puSHFPRm1nUjl0aWVoeUFGMVFMcnBYZmp2UVhTZW",
+    "sources": [
+      {
+        "name": "parker_hannifin",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX0d4QXg1VkpLZExpanlkaVh0SVlzdTh6Q1RoTlN0NDVGaGc4ODhGTmJLblNObTFqRW03c0dXa3ljd3JuczE5VGZocTRUSnA5M1puSHFPRm1nUjl0aWVoeUFGMVFMcnBYZmp2UVhTZWpVNU5uSm5KLVo3QmpDUFdTN3B3Wm1nWXNSNmRlM09NM3lLVGdtbHQ4ZV9CVlFyUlA5ZXFmZmdMZzJzOFZOQmoxYi05Sk4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-23-015",
+    "date": "2026-11-23",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "automation_capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caterpillar (CAT) Falls In Broad Pullback As Undervalued Narrative Stays In Focus - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOc0lhQzY0QmRoTHNwaTlmbFNveHBqbERDbm9JeUtyM21VbEdxTE1XNkd6aUFySzdxMkVPaFFzNEUyOVBfX2UyeUJrbzJpc2xWdk1YQXpwckZhQWJia1RWRkRvcXNCSUYtSF9ETUhTMG",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc0lhQzY0QmRoTHNwaTlmbFNveHBqbERDbm9JeUtyM21VbEdxTE1XNkd6aUFySzdxMkVPaFFzNEUyOVBfX2UyeUJrbzJpc2xWdk1YQXpwckZhQWJia1RWRkRvcXNCSUYtSF9ETUhTMGRVaWRYMDdyQ3JsY3V2dlp2N1RoTGo4c2k5Wk1zS3U5eGRFWFd5bDM0OC05YjRMS1JWQzUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-23-016",
+    "date": "2026-11-23",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Myth busted: The science behind the woolly bear caterpillar lore - Griffon News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcTZWZV9ncFdJT19HcmJCN2tVVlRpQ19NRlprQUpSWURzeDJLaEJ5dmRHNUo0NHBJTVd1VThyVUxnNmpnWjhGQ3NmVUkxTVFFVVdGR2RiNmxORmE3MFBtQlU4M0E5c2ZEUkVlTG5sQ3",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcTZWZV9ncFdJT19HcmJCN2tVVlRpQ19NRlprQUpSWURzeDJLaEJ5dmRHNUo0NHBJTVd1VThyVUxnNmpnWjhGQ3NmVUkxTVFFVVdGR2RiNmxORmE3MFBtQlU4M0E5c2ZEUkVlTG5sQ3IxMkt0U043MTZSeWhGd3dic0NWNHJHRTE1bDVRSUkyTnNIbFNmWElhMnY2WEM3V1RNMGhLYm1DRXJTR2xTOWZETUYyOUFLNVRqQWY0eVNHVmU3SlFWZ0dHYVQ5UGJnbktHTVVXRHhYZng3MUpDNHdHeEVYT1dDWVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-23-017",
+    "date": "2026-11-23",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why is Caterpillar stock soaring today - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0ZHVl95X2psM0xiV0RYYjl2OVFITDd4cml2MWNRLVliUDhCenVYbXJ3TzJxdFRoQlk1cXVmSnE4ZkY0OWxaUzY2XzAzVTl6cnhOWDdOdDBUVkJmY1A5X1pBWlp2OThseTlpcXg4TU",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0ZHVl95X2psM0xiV0RYYjl2OVFITDd4cml2MWNRLVliUDhCenVYbXJ3TzJxdFRoQlk1cXVmSnE4ZkY0OWxaUzY2XzAzVTl6cnhOWDdOdDBUVkJmY1A5X1pBWlp2OThseTlpcXg4TU1xMVdocUNlQWFGenRxd212dTFPYnFpYjAyZ2lLX2x4VnRHeUpxa3haNHgzMkd6TFhGU3lfN0h6VG5YQl9BLUtGSVFhVktmZzY0ZTk2ZERKRQ?oc=5",
         "type": "rss"
       }
     ]
@@ -483,6 +1054,26 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYkR3cGhWWGk1RGRMYkRISVRGbW0wcGFkbmZtRnF2VERHcUt0YW5VZmtmTTlON0RORE9ISmwxQ2tMZUJCRUhTZE40T0lDTGpOM01ySTloR2NvcWk4UU1xWHc5a3A5Q3ZIQy12bFgyUTZGUi1XbHNZeklZdndkc3hISy1yblUwemswaXRwX2V0LTJEcjFYLUJyWURQZnByYW5GTHc0OGN1R3VNZU15RkJMcHVFandXMVdONjAyYVVPWlVLTnJzQXRZcXUtSW9ScDBmaGgxZXdCVGg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-11-21-010",
+    "date": "2026-11-21",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Inc. (ILT.F) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE94WDE4eVdqYlBBRWRVcFl4NVFhRDZpY2tZbC16ZUJCeE16X2NKMVFTYUFUd1ZoWG1jQWZfcER4cVM5M3pSUWtpTlMzWW9EaXVtbWxFQmJZeXhMNFo3eGhPN3dnSQ?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94WDE4eVdqYlBBRWRVcFl4NVFhRDZpY2tZbC16ZUJCeE16X2NKMVFTYUFUd1ZoWG1jQWZfcER4cVM5M3pSUWtpTlMzWW9EaXVtbWxFQmJZeXhMNFo3eGhPN3dnSQ?oc=5",
         "type": "rss"
       }
     ]
@@ -866,6 +1457,89 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0N3TUdQd1IwZUlUZW9pWVdSVkhFRklmc2FTUUhQc3dvQmlpeGpFWHVMMHlFNTdCZm1md2tRTEsxLXNNVU5jR2RrYnRtVG5jdEU4TDJ4MGEwclI5U3hKenRWYzRLSHFJREwwcGozakRUVEcwemZSeVEwOWdlNEdyLXJpMUg3TnpvV0FrXzItOE5FeFRaUFZrRUNrMVgtNjFrQU1HQy1zeHE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-11-20-020",
+    "date": "2026-11-20",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Stock Price Forecast. Should You Buy ITW? - StockInvest.us",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFB6dE5uZVdQNVJtLXgxa0ZEcUpIOEdDV0JJaUJRSmJTU1Yzd3ZpN25Md1YwbFhDc253YjA5MVJnNUVQNEJOSGJv?oc=5\" target=\"_blank\">Illinois Tool Works Stock Price",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB6dE5uZVdQNVJtLXgxa0ZEcUpIOEdDV0JJaUJRSmJTU1Yzd3ZpN25Md1YwbFhDc253YjA5MVJnNUVQNEJOSGJv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-11-20-021",
+    "date": "2026-11-20",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Inc. (ITW) Stock Forecasts - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQanZHOGtreWdiNGpTaXJZcHFHaEZPdTJPbHh6WkV5clVrRlF0dmRoT05kNVYxRU1MT0tVYTNwT3VmVF9IMG1jYWZoNWJBN0NaeUlaV2dtYW4tclRxNlJKTllUbEdOejJjU1JvMi1GUz",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQanZHOGtreWdiNGpTaXJZcHFHaEZPdTJPbHh6WkV5clVrRlF0dmRoT05kNVYxRU1MT0tVYTNwT3VmVF9IMG1jYWZoNWJBN0NaeUlaV2dtYW4tclRxNlJKTllUbEdOejJjU1JvMi1GUzl0SXFfQjhoMXgtelVkR041NFJLSE5YYVhHcUdreQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "itw-2026-11-20-022",
+    "date": "2026-11-20",
+    "companies": [
+      "itw"
+    ],
+    "topics": [
+      "automation_capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illinois Tool Works Inc. (ILT.F) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yOThXTGdiTnd0SU1GbER2U3ZuTTdCWEVBQWhQV1dlSjRPbHdndFZtRmJlZmlxb1NjWkNKTmt5LW55QTdseVBCY0VtRkg4cmZjZnUtVGZtRnRuS2xFamdXV3pDQQ?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "itw",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yOThXTGdiTnd0SU1GbER2U3ZuTTdCWEVBQWhQV1dlSjRPbHdndFZtRmJlZmlxb1NjWkNKTmt5LW55QTdseVBCY0VtRkg4cmZjZnUtVGZtRnRuS2xFamdXV3pDQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-2026-11-20-023",
+    "date": "2026-11-20",
+    "companies": [
+      "caterpillar"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Flutter of Butterflies from the Caterpillar House - teamLab",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1Mc2tkb3RMTDY1bUhvSWd4VXdUSGxZbm12YTI4d3NYazhKWG9MeUZlNHA5UF8tdFlIRE1wY1lKb1h2WjBzemxjQjItaEY1ZXZDemE4elViLU1sV2JtZHhGZG5fQ1kyc1JyTm9jVjdQOD",
+    "sources": [
+      {
+        "name": "caterpillar",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Mc2tkb3RMTDY1bUhvSWd4VXdUSGxZbm12YTI4d3NYazhKWG9MeUZlNHA5UF8tdFlIRE1wY1lKb1h2WjBzemxjQjItaEY1ZXZDemE4elViLU1sV2JtZHhGZG5fQ1kyc1JyTm9jVjdQODJLcXVMaFZ6c2huZw?oc=5",
         "type": "rss"
       }
     ]
@@ -1456,6 +2130,26 @@
       {
         "name": "caterpillar",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXlXRmlXSjVRMm5fa0U5OXlrLUo4ZHB4aFdEb2NsWXR6NC1ZbWhwUmlYbVVBSGt2bl9tSGRNb200ZnN1eGdGekk5d3R0VUVSQWtQYjFZQ0N3N1hhY1NhVEd5Z1pfaTVyaklIaE1RLXdZSGUxOF9ZNlpFdU42cG5OUFRlY1RVR05OMHFSYVJEVzRqazBBOFhMS1k3R0Z0VFg1U1NwRw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-030",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "automation_capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mouser Expands Industrial Automation Inventory for Smart Factory and Robotics Markets - EE Times Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVRmN2RKdnJxTXFwamxPMWpMYkhwbkdPV2NFQ0xpNmJHN2RiNi1VNUN2c0NHV0VBZjh2X2ZqS1BLSFVVR0I2ektKWjlVRWZmeVAxbnAyQUdEX3RhdEdMWFdjd0VGVGlhem9tZW4zRz",
+    "sources": [
+      {
+        "name": "google_news_industrial_automation",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVRmN2RKdnJxTXFwamxPMWpMYkhwbkdPV2NFQ0xpNmJHN2RiNi1VNUN2c0NHV0VBZjh2X2ZqS1BLSFVVR0I2ektKWjlVRWZmeVAxbnAyQUdEX3RhdEdMWFdjd0VGVGlhem9tZW4zRzNiSVFrNlpxXzZWaEVTRzQ4QVBwMXF0QkFjb1hoVVFick5nZmxJSVQ0cTJPV0E3eHp0VWQxVmVnV2NXWXVuN0dN?oc=5",
         "type": "rss"
       }
     ]

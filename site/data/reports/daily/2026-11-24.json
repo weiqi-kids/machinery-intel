@@ -1,0 +1,252 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T19:14:39.438562Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "delta-2026-11-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics, Inc. (2308.TW) stock price, news, quote and history - Yahoo Finance Singapore",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aY0Z1VEc2UVMzWXR1YlNMOENRVkktTnVsN0Qxa281Wlc5VHA0dDJVLVJGcUh4NDd3WExHX19TR1pIQ3JCcDNmeUZpOTl4Q3VuNDhrOUJR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "delta-2026-11-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Delta Electronics opens new Madrid office - Evertiq",
+      "companies": [
+        "delta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOG5tUWY5MDlOX3ctb2Z3VzA0VlJKMmlzZUtHSFlBN0tDYlpVeGtxRXJReUJsWXVOSVRKX3F5MDhhTXhReDFpdTZIZkllNkx2UEVhSkpVdzBtZ0lqT1Y4c0VBejNJYWpKV1NCbm5NYVFsTzFFTUQ4TXQ0X0hLNVhNajFmOA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "abb-2026-11-24-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABB launches ‘world’s first’ industrial motor with built-in AI - Robotics & Automation News",
+      "companies": [
+        "abb"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMVlVZDZBa2VnbXdJUWN3eEQ2MkRZWFpiTzQyTHRDUzFIRG0zd19WQzVnbklLOWthRFI1S0M3RTExOEVzaXpSNTRPRm1qSVB3dGlHNXRwQTlDSkhkXzVRcFNfT3JSUkNsOVE0Q2hKb0Joa2gyUEJ4Z2dheXUyMTdFd0hpTE1nbnloOW1kWUxkM1JJRWlTOGxuM09vakVqZlBBakEyeUpycGVKN1BScGE5NnRhNHhLRjA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-24-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mitsubishi’s long-awaited second EV in Australia touches down - CarExpert",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFVPS2Z3OWRTdFkzM2Q4dHZ0YXBibTUyN2NjSTlzUjFWMXV0MjEtZzEwTDJjTFM3eUVMMkpkN214ZVJIcFV4WHBHYVgwOHVncXc1U0NfZkVRTFlPY2VHMXZiYk9uNXhQcDdERlhTSU1Wdzk5VXYzeTBsMG16ZWo1NTFDdjRFWmk1c3lrSEpwT0Q0Mkgtb2t5eFB3cHZ3UFk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "itw-2026-11-24-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Illinois Tool Works Stock: Is Wall Street Bullish or Bearish? - Barchart.com",
+      "companies": [
+        "itw"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX21RNEJYM3ZLOW42eEdZV2dkNzhiSjZRMGNYaEs4dVdMRWxReFBLajRDWDh3N3QybmQ0ZUx2ZElZcGJnWVcwRFIyc2xDR2lnQVpYeVFJQVVFMlJsdkNDQkxxWEdyYWZLYUllcTRrcWFoaFlSOEN0ZWNxQmxRSGpyMDdELTFuQXRISnh1dVh4aE9WRHdHZU9td2pUTHJIQ3dOWHVncTJR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "automation_capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "cnc_technology": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 22,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "parker_hannifin",
+        "count": 13
+      },
+      {
+        "id": "delta",
+        "count": 2
+      },
+      {
+        "id": "caterpillar",
+        "count": 2
+      },
+      {
+        "id": "abb",
+        "count": 1
+      },
+      {
+        "id": "itw",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "automation_capex",
+        "count": 2
+      },
+      {
+        "id": "cnc_technology",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 375,
+    "dup_title": 180,
+    "too_old": 154,
+    "gate1_blocked": 2,
+    "gate2_blocked": 4,
+    "passed": 35,
+    "pass_rate": "17.9%",
+    "gate2_block_rate": "2.1%",
+    "gate2_samples": [
+      "Deploying enterprise AI: How Schneider Electric and AMD are helping turn AI ambition into operationa",
+      "KKR completes $2.55bn sale of Circor Aerospace to Parker Hannifin - PEI Private Equity",
+      "Kirkland & Ellis advises KKR on $2.55 billion sale of CIRCOR Aerospace - ETLegalWorld",
+      "Caterpillar’s AI Boom Went Bust. Why Smaller Equipment Could Spark a Comeback. - Barron's"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為Parker、Delta Electronics、CAT相關動態：「Delta Electronics, Inc. (2308.TW) stock price, news, quot...」。主要關注主題為財報、產業通用、自動化資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Delta Electronics, Inc. (2308.TW) stock price, news, quote and history - Yaho...（財報、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Delta Electronics opens new Madrid office - Evertiq（財報、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
