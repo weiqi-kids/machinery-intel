@@ -1,0 +1,16 @@
+{
+  "total_raw": 366,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 2,
+  "gate2_fail": 7,
+  "passed": 29,
+  "gate2_samples": [
+    "Delta Electronics at SPS 2026 - Engineer Live",
+    "[Podcast] AI Native: rewiring how we decide",
+    "The Next Generation of Experts: Building on 190 Years of Innovation",
+    "Deploying enterprise AI: How Schneider Electric and AMD are helping turn AI ambition into operationa",
+    "Mitsubishi Electric Corp (MIE1.DU) Seasonal returns chart - Yahoo Finance UK"
+  ]
+}
