@@ -1,0 +1,15 @@
+{
+  "total_raw": 375,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 3,
+  "gate2_fail": 4,
+  "passed": 13,
+  "gate2_samples": [
+    "Delta Electronics at SPS 2026 - Engineer Live",
+    "[Podcast] AI Native: rewiring how we decide",
+    "The Next Generation of Experts: Building on 190 Years of Innovation",
+    "KKR completes $2.55bn sale of Circor Aerospace to Parker Hannifin - PEI Private Equity"
+  ]
+}
