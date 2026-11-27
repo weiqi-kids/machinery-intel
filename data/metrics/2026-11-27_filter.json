@@ -1,0 +1,16 @@
+{
+  "total_raw": 363,
+  "dup_title": 192,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 3,
+  "gate2_fail": 6,
+  "passed": 27,
+  "gate2_samples": [
+    "Delta Electronics at SPS 2026 - Engineer Live",
+    "[Podcast] AI Native: rewiring how we decide",
+    "The Next Generation of Experts: Building on 190 Years of Innovation",
+    "Mitsubishi Electric Corp (MIE1.DU) Seasonal returns chart - Yahoo Finance UK",
+    "Mitsubishi Electric Corp (MIE1.DU) Seasonal returns chart - Yahoo Finance Australia"
+  ]
+}
